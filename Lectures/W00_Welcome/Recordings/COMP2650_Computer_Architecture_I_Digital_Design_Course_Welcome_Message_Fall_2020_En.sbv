@@ -1,0 +1,162 @@
+0:00:02.680,0:00:04.360
+[writing on chalkboard]
+
+0:00:05.220,0:00:05.860
+Welcome!
+
+0:00:12.960,0:00:14.880
+Digital Design with Hossein
+
+0:00:32.960,0:00:34.080
+Hello everyone!
+
+0:00:34.840,0:00:39.240
+Welcome dear students in the course digital design
+
+0:00:39.860,0:00:45.240
+In this course we are going to know or learn how a computer system  is workin
+
+0:00:45.560,0:00:46.840
+[showing the inside of a computer workstation]
+
+0:00:46.920,0:00:49.940
+As you can see here a typical computer system
+
+0:00:49.940,0:00:53.300
+Any computer system has three (3) main components
+
+0:00:54.560,0:00:55.600
+I/O devices.
+
+0:00:55.780,0:01:00.560
+(1) Here I have a hard disk drive which we store all our files and images
+
+0:01:01.920,0:01:03.920
+(2) We have a memory module.
+
+0:01:04.420,0:01:11.340
+All the information must be loaded to memory in order to be processed by other components of a computer system
+
+0:01:11.340,0:01:17.340
+And (3) the main component which is a CPU, central processing unit
+
+0:01:17.340,0:01:21.660
+Which does the actual operation and execute the statements
+
+0:01:23.820,0:01:27.200
+There are two other important parts as well.
+
+0:01:27.200,0:01:30.120
+Power which gives the electrical power to the whole system
+
+0:01:30.120,0:01:33.500
+And also a motherboard or mainboard
+
+0:01:33.500,0:01:37.700
+Which interconnects all these components to each other
+
+0:01:37.700,0:01:43.000
+I already opened the mainboard (motherboard) from the casing
+
+0:01:43.240,0:01:48.140
+And you can see here closely all the main components (not the I/O and the power units)
+
+0:01:48.140,0:01:51.120
+The main component as I said is the CPU.
+
+0:01:51.120,0:01:56.840
+Behind this cooling fan, which cools down the CPU when executing the operations,
+
+0:01:56.860,0:02:01.100
+The CPU is installed (presented).
+
+0:02:01.100,0:02:28.740
+[opening the cooling fan to show the CPU behind it]
+
+0:02:28.740,0:02:36.420
+I opened this cooling fan, behind it there is a chip which is called cpu
+
+0:02:36.420,0:02:42.000
+[detaching CPU from the motherboard (mainboard)]
+
+0:02:42.000,0:02:44.000
+This is the CPU
+
+0:02:44.000,0:02:50.560
+So basically we are going to zoom inside this structure and see how it is designed
+
+0:02:50.560,0:02:55.140
+And how it is executing the commands or (program) statements
+
+0:02:55.140,0:03:04.820
+You might ask why we should know the inside of this digital board or the inside of the CPU
+
+0:03:04.820,0:03:10.800
+Today we can write the programs and upload them to the cloud (machines)
+
+0:03:11.220,0:03:14.520
+The cloud is running our programs (nowadays)
+
+0:03:14.660,0:03:19.280
+You might say that there is no need to know how a computer system is working
+
+0:03:19.280,0:03:26.800
+The reason is if you know how a computer system is working, you can write programs efficiently
+
+0:03:26.800,0:03:30.360
+You can write programs that run faster
+
+0:03:30.360,0:03:33.540
+Or take less space (memory)
+
+0:03:33.540,0:03:39.300
+So that's (one of) the main reasons that we have know how a computer system is working
+
+0:03:39.300,0:03:44.860
+Also, at the end of the day, all programs are running on a computer system.
+
+0:03:44.860,0:03:53.300
+Who knows, one day you might want to work for those cloud companies and want to build the computer system for the cloud system
+
+0:03:53.300,0:04:00.600
+In this course, however, we are not going to discuss how a computer system is actually built from the physical (layer) perspective
+
+0:04:00.600,0:04:02.880
+If you want to know that (to build your own computer system)
+
+0:04:02.880,0:04:07.260
+You have to take advanced courses such as Computer Architecture II, or
+
+0:04:07.260,0:04:13.440
+(taking courses from) Computer or Electrical programs
+
+0:04:13.440,0:04:19.700
+In those courses, they teach you how to manufacture hardware
+
+0:04:19.700,0:04:24.760
+However, in this course, we just want to know what is inside,
+
+0:04:24.760,0:04:28.740
+How the connections (circuits) are made
+
+0:04:28.740,0:04:32.940
+And the CPU is executing the commands
+
+0:04:35.160,0:04:38.180
+Thank you everyone for your attention
+
+0:04:38.740,0:04:42.840
+And looking forward to seeing you all next week on Monday (September 14, 2020 )
+
+0:04:42.840,0:04:49.360
+Meanwhile, if you have any questions, or concerns about this course, you can simply send me emails
+
+0:04:49.360,0:04:52.180
+I will try my best to answer right away
+
+0:04:52.180,0:04:55.900
+And have a great day
+
+0:04:55.900,0:04:57.900
+Bye
+

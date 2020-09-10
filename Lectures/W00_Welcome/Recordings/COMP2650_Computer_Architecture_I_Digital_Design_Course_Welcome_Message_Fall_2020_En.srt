@@ -1,0 +1,216 @@
+1
+00:00:02,680 --> 00:00:04,360
+[writing on chalkboard]
+
+2
+00:00:05,220 --> 00:00:05,860
+Welcome!
+
+3
+00:00:12,960 --> 00:00:14,880
+Digital Design with Hossein
+
+4
+00:00:32,960 --> 00:00:34,080
+Hello everyone!
+
+5
+00:00:34,840 --> 00:00:39,240
+Welcome dear students in the course digital design
+
+6
+00:00:39,860 --> 00:00:45,240
+In this course we are going to know or learn how a computer system  is workin
+
+7
+00:00:45,560 --> 00:00:46,840
+[showing the inside of a computer workstation]
+
+8
+00:00:46,920 --> 00:00:49,940
+As you can see here a typical computer system
+
+9
+00:00:49,940 --> 00:00:53,300
+Any computer system has three (3) main components
+
+10
+00:00:54,560 --> 00:00:55,600
+I/O devices.
+
+11
+00:00:55,780 --> 00:01:00,560
+(1) Here I have a hard disk drive which we store all our files and images
+
+12
+00:01:01,920 --> 00:01:03,920
+(2) We have a memory module.
+
+13
+00:01:04,420 --> 00:01:11,340
+All the information must be loaded to memory in order to be processed by other components of a computer system
+
+14
+00:01:11,340 --> 00:01:17,340
+And (3) the main component which is a CPU, central processing unit
+
+15
+00:01:17,340 --> 00:01:21,660
+Which does the actual operation and execute the statements
+
+16
+00:01:23,820 --> 00:01:27,200
+There are two other important parts as well.
+
+17
+00:01:27,200 --> 00:01:30,120
+Power which gives the electrical power to the whole system
+
+18
+00:01:30,120 --> 00:01:33,500
+And also a motherboard or mainboard
+
+19
+00:01:33,500 --> 00:01:37,700
+Which interconnects all these components to each other
+
+20
+00:01:37,700 --> 00:01:43,000
+I already opened the mainboard (motherboard) from the casing
+
+21
+00:01:43,240 --> 00:01:48,140
+And you can see here closely all the main components (not the I/O and the power units)
+
+22
+00:01:48,140 --> 00:01:51,120
+The main component as I said is the CPU.
+
+23
+00:01:51,120 --> 00:01:56,840
+Behind this cooling fan, which cools down the CPU when executing the operations,
+
+24
+00:01:56,860 --> 00:02:01,100
+The CPU is installed (presented).
+
+25
+00:02:01,100 --> 00:02:28,740
+[opening the cooling fan to show the CPU behind it]
+
+26
+00:02:28,740 --> 00:02:36,420
+I opened this cooling fan, behind it there is a chip which is called cpu
+
+27
+00:02:36,420 --> 00:02:42,000
+[detaching CPU from the motherboard (mainboard)]
+
+28
+00:02:42,000 --> 00:02:44,000
+This is the CPU
+
+29
+00:02:44,000 --> 00:02:50,560
+So basically we are going to zoom inside this structure and see how it is designed
+
+30
+00:02:50,560 --> 00:02:55,140
+And how it is executing the commands or (program) statements
+
+31
+00:02:55,140 --> 00:03:04,820
+You might ask why we should know the inside of this digital board or the inside of the CPU
+
+32
+00:03:04,820 --> 00:03:10,800
+Today we can write the programs and upload them to the cloud (machines)
+
+33
+00:03:11,220 --> 00:03:14,520
+The cloud is running our programs (nowadays)
+
+34
+00:03:14,660 --> 00:03:19,280
+You might say that there is no need to know how a computer system is working
+
+35
+00:03:19,280 --> 00:03:26,800
+The reason is if you know how a computer system is working, you can write programs efficiently
+
+36
+00:03:26,800 --> 00:03:30,360
+You can write programs that run faster
+
+37
+00:03:30,360 --> 00:03:33,540
+Or take less space (memory)
+
+38
+00:03:33,540 --> 00:03:39,300
+So that's (one of) the main reasons that we have know how a computer system is working
+
+39
+00:03:39,300 --> 00:03:44,860
+Also, at the end of the day, all programs are running on a computer system.
+
+40
+00:03:44,860 --> 00:03:53,300
+Who knows, one day you might want to work for those cloud companies and want to build the computer system for the cloud system
+
+41
+00:03:53,300 --> 00:04:00,600
+In this course, however, we are not going to discuss how a computer system is actually built from the physical (layer) perspective
+
+42
+00:04:00,600 --> 00:04:02,880
+If you want to know that (to build your own computer system)
+
+43
+00:04:02,880 --> 00:04:07,260
+You have to take advanced courses such as Computer Architecture II, or
+
+44
+00:04:07,260 --> 00:04:13,440
+(taking courses from) Computer or Electrical programs
+
+45
+00:04:13,440 --> 00:04:19,700
+In those courses, they teach you how to manufacture hardware
+
+46
+00:04:19,700 --> 00:04:24,760
+However, in this course, we just want to know what is inside,
+
+47
+00:04:24,760 --> 00:04:28,740
+How the connections (circuits) are made
+
+48
+00:04:28,740 --> 00:04:32,940
+And the CPU is executing the commands
+
+49
+00:04:35,160 --> 00:04:38,180
+Thank you everyone for your attention
+
+50
+00:04:38,740 --> 00:04:42,840
+And looking forward to seeing you all next week on Monday (September 14, 2020 )
+
+51
+00:04:42,840 --> 00:04:49,360
+Meanwhile, if you have any questions, or concerns about this course, you can simply send me emails
+
+52
+00:04:49,360 --> 00:04:52,180
+I will try my best to answer right away
+
+53
+00:04:52,180 --> 00:04:55,900
+And have a great day
+
+54
+00:04:55,900 --> 00:04:57,900
+Bye
+
