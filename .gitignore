@@ -1,8 +1,5 @@
 __pycache__/
 *.py[cod]
-*.pptx
-*.docx
-*.xlsx
 .idea/
 desktop.ini
 Icon\r
@@ -12,5 +9,4 @@ Misc/
 
 Labs/L01/Assignment.txt
 Exams/Tasks4Exams.txt
-Lectures/Start_End_Lecture_To_Do_List.txt
 Lectures/W01_Meet_Greet_Number_Systems_I/Assignments/W01.txt
