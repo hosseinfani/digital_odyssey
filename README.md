@@ -15,3 +15,6 @@ It is essential to understand how a modern computer works underneath, from the b
 -	How CPU oscillates the program statements and commands.
 
 And at the end of the day, everything runs on hardware<em>!</em>
+
+## License
+©2020. This work is licensed under a [CC BY-NC-SA 4.0](LICENSE.txt) license. 
