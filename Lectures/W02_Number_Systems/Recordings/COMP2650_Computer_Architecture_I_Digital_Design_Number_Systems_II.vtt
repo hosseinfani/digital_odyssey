@@ -1,0 +1,8125 @@
+WEBVTT
+
+NOTE duration:"01:34:56.2160000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.9209526
+
+8c1df85c-8b14-4f6d-8186-e46040d79401
+00:00:02.880 --> 00:00:03.540
+OK.
+
+NOTE Confidence: 0.59491915
+
+8de6ffb7-22dc-4408-8200-83c904f08ea3
+00:00:04.580 --> 00:00:08.156
+Sean, are we ready to start?
+
+NOTE Confidence: 0.93645567
+
+18417981-5fb6-45b3-874f-5a83774f5f4e
+00:00:11.100 --> 00:00:12.270
+I believe so.
+
+NOTE Confidence: 0.91355485
+
+df922047-5568-484a-aeb7-be37c8b76ceb
+00:00:14.740 --> 00:00:16.660
+So good morning everyone.
+
+NOTE Confidence: 0.8860867
+
+3c47e4fa-481c-4430-a76f-f4a1711d4410
+00:00:19.440 --> 00:00:25.602
+So I hope all of you are ready
+for today's lecture. I will just
+
+NOTE Confidence: 0.8860867
+
+47161bb2-42f9-439a-95f0-d44e92467e29
+00:00:25.602 --> 00:00:30.816
+start with a recap of what we
+covered last session very
+
+NOTE Confidence: 0.8860867
+
+8e559a40-8832-4fc1-a251-1dd5403e613b
+00:00:30.816 --> 00:00:35.082
+quickly, and then
+we'll start on new topics.
+
+NOTE Confidence: 0.8577526
+
+3716ead3-1cbb-4635-be83-a431ba9adc4c
+00:00:35.820 --> 00:00:42.620
+After this quick
+review will wait for some time
+
+NOTE Confidence: 0.8577526
+
+d6bf6e80-3d23-4759-9c56-5749f348b575
+00:00:42.620 --> 00:00:48.380
+for Q&A and continue with the new
+topics. So let's start with the.
+
+NOTE Confidence: 0.90659076
+
+5bd1fd77-65cf-4496-bd99-d1c41132462e
+00:00:49.240 --> 00:00:54.412
+Uh. Like before, I mean just to
+make sure that everyone has their
+
+NOTE Confidence: 0.90659076
+
+9e380471-5e17-409f-a5a4-29da4d0ab10b
+00:00:54.412 --> 00:00:55.696
+focus to the slides.
+
+NOTE Confidence: 0.878611
+
+b6f591a9-9d9b-4ad4-a64a-93ea049c76a0
+00:00:56.340 --> 00:01:02.073
+Please send me some feedback. I
+mean emoji icons or I mean this
+
+NOTE Confidence: 0.878611
+
+59552e45-2dce-4cb0-b8ee-cd1d79bbfcec
+00:01:02.073 --> 00:01:03.837
+app gives you some options.
+
+NOTE Confidence: 0.87761694
+
+d497e474-6144-4c4f-af34-06779356bcf0
+00:01:06.120 --> 00:01:10.025
+You can you can send some
+feedback by this app too,
+
+NOTE Confidence: 0.87761694
+
+f9e3bcfa-654c-499f-910e-9aa507676d35
+00:01:10.025 --> 00:01:13.220
+so just send me some.
+Yes, I'm receiving some.
+
+NOTE Confidence: 0.907161
+
+c580f0d0-9534-4739-83f6-8af08092f4c0
+00:01:15.580 --> 00:01:16.370
+Cool.
+
+NOTE Confidence: 0.88165456
+
+476d7a8c-e6d4-47e0-809b-8b5ac7acc985
+00:01:17.610 --> 00:01:23.660
+So we have around 62 students
+right now, but yes, I'm
+
+NOTE Confidence: 0.88165456
+
+7e400fd6-a653-4f2f-8398-6042ce7af4a5
+00:01:23.660 --> 00:01:25.860
+receiving some feedback. Cool.
+
+NOTE Confidence: 0.9448911
+
+fcce024f-e1c6-4044-829a-38ce444cdea8
+00:01:26.590 --> 00:01:27.220
+Awesome.
+
+NOTE Confidence: 0.8622057
+
+e140b9f5-a23f-4697-bbf9-d210d3d088a2
+00:01:30.970 --> 00:01:36.313
+Ah, OK, let's start. I mean, we
+started with the stars and we
+
+NOTE Confidence: 0.8622057
+
+8fc25548-7046-4268-a5a9-34577762f0cb
+00:01:36.313 --> 00:01:41.656
+said the people in
+the old days wanted to travel
+
+NOTE Confidence: 0.8622057
+
+34e1f1a3-094a-4f5f-a843-a835f57cb8d7
+00:01:41.656 --> 00:01:46.177
+between Earth and those stars to
+explore the universe so they
+
+NOTE Confidence: 0.8622057
+
+7b8c7c87-260c-4dc6-ac75-6e70cf678d4c
+00:01:46.177 --> 00:01:50.698
+start some to propose some
+problems and one of the most
+
+NOTE Confidence: 0.8622057
+
+4ca317a9-b0c2-4543-8b81-704620ed7593
+00:01:50.698 --> 00:01:55.219
+basic problem is what's the
+distance between us and the stars?
+
+NOTE Confidence: 0.8622057
+
+ca0c2486-6078-4dc7-9610-af7f8640adfa
+00:01:55.219 --> 00:01:58.096
+And they said that they started to
+
+NOTE Confidence: 0.83804244
+
+d75c0ca5-6c30-4acc-ab7e-0d0ef8f67662
+00:01:58.890 --> 00:02:03.479
+Measure the distance of Earth to
+the Sun. Last session, we said
+
+NOTE Confidence: 0.83804244
+
+3f03baba-35f2-4425-8e25-29d51e9ad891
+00:02:03.479 --> 00:02:07.009
+that let's pick the distance of the
+Moon to the Sun.
+
+NOTE Confidence: 0.8682356
+
+491b50e8-c2ed-4514-a0d0-40080d29c911
+00:02:07.660 --> 00:02:13.105
+And, what we did was that. I
+mean what all the people in the old
+
+NOTE Confidence: 0.8682356
+
+d6747609-ad4e-4684-82f5-ba3e372ed652
+00:02:13.105 --> 00:02:16.372
+days did was that they
+brokedown the continuous
+
+NOTE Confidence: 0.8682356
+
+3411db71-3310-4fa1-a4ce-373522faf06f
+00:02:16.372 --> 00:02:20.002
+quantity which is the distance
+into discrete units of Earth.
+
+NOTE Confidence: 0.8682356
+
+03602376-f1f4-435a-ad00-da0f83ba1211
+00:02:20.002 --> 00:02:24.721
+And then they start to count and
+measure by the number of Earth.
+
+NOTE Confidence: 0.8682356
+
+d71e2a3b-120c-4df7-90ac-8cc965541a14
+00:02:24.721 --> 00:02:28.714
+So by just this illustrative
+image, you could say that the
+
+NOTE Confidence: 0.8682356
+
+931e1b20-b4ab-4dd8-9421-db12ceb800cf
+00:02:28.714 --> 00:02:33.433
+the distance of the Moon to
+the Sun is about, I mean five
+
+NOTE Confidence: 0.8682356
+
+dee58386-7c38-4ce3-b817-78ce130ff774
+00:02:33.433 --> 00:02:37.426
+Earth. I mean by just some error
+or roughly 5 Earth.
+
+NOTE Confidence: 0.89647365
+
+551a875d-1760-4715-b811-82990f856228
+00:02:38.300 --> 00:02:43.682
+And so that was simple. But the
+thing is, that's the most
+
+NOTE Confidence: 0.89647365
+
+5624c358-c061-40fa-afb7-49cf0b9d6c5d
+00:02:43.682 --> 00:02:47.822
+important step in analyzing any
+type of information. I mean
+
+NOTE Confidence: 0.89647365
+
+cc239cda-1c14-41e0-89cb-b710b35ca587
+00:02:47.822 --> 00:02:51.134
+breaking down the continuous
+quantity into discrete units.
+
+NOTE Confidence: 0.8706644
+
+f3849ded-0872-45fb-8e36-885c7934a311
+00:02:52.180 --> 00:02:55.100
+So that was the birth of the
+discrete systems. Computer
+
+NOTE Confidence: 0.8706644
+
+392045b5-904d-42c0-b745-992cb68b6417
+00:02:55.100 --> 00:02:58.604
+system is just a single member
+of this huge I mean category.
+
+NOTE Confidence: 0.8637941
+
+fb8587eb-9bb5-444b-8231-6ffae876768c
+00:03:00.400 --> 00:03:04.540
+And then we discuss what are
+the other types of. I mean,
+
+NOTE Confidence: 0.8637941
+
+f820a195-f7f9-44a6-90ba-11dcb07f131d
+00:03:04.540 --> 00:03:07.645
+what are the other quantities
+that are continuous or
+
+NOTE Confidence: 0.8637941
+
+adb98dc6-bb9e-4602-ad00-9a5a18e1707d
+00:03:07.645 --> 00:03:10.750
+discrete? We said that for
+instance, electron is a
+
+NOTE Confidence: 0.8637941
+
+bb450e5f-be2b-4c00-b69f-c9aab8f85a30
+00:03:10.750 --> 00:03:13.855
+discrete quantity. Time is a
+continuous quantity. So in
+
+NOTE Confidence: 0.8637941
+
+a0c59fdf-71e0-43ec-a8b2-1aa156b81a06
+00:03:13.855 --> 00:03:17.650
+order to analyze time in the
+computer system, we have to
+
+NOTE Confidence: 0.8637941
+
+da1417d8-fbf5-447d-8246-e2c870f36429
+00:03:17.650 --> 00:03:21.100
+break it down into discrete
+units of, for instance, days,
+
+NOTE Confidence: 0.8637941
+
+19312c38-da76-434b-86e5-22096be69df5
+00:03:21.100 --> 00:03:22.135
+hours or minutes.
+
+NOTE Confidence: 0.88850224
+
+eaa0e090-40a2-4c81-9b90-bfccdd84549c
+00:03:23.260 --> 00:03:27.160
+And in particular for the image
+we said that image is a
+
+NOTE Confidence: 0.88850224
+
+d335ad4b-916f-4927-8245-4497799373b6
+00:03:27.160 --> 00:03:30.410
+continuous quantity in the real
+world, because it's a reflection
+
+NOTE Confidence: 0.88850224
+
+2a82dec0-f160-4ef0-ac3c-ec2b84a53d8d
+00:03:30.410 --> 00:03:31.710
+of light and material.
+
+NOTE Confidence: 0.87300694
+
+76659c34-6ca7-4a38-bbd2-8e64fd1f032f
+00:03:32.470 --> 00:03:37.230
+Uh, so you must say that this
+is the first image from
+
+NOTE Confidence: 0.87300694
+
+30b93b75-a983-4cae-881c-e7acbc031c0d
+00:03:37.230 --> 00:03:41.650
+I mean years ago and you
+could say that how can we
+
+NOTE Confidence: 0.87300694
+
+c67356ed-6407-4b58-beb7-47c1e1aaf39e
+00:03:41.650 --> 00:03:44.710
+process image? Or is there a
+course called image processing?
+
+NOTE Confidence: 0.87300694
+
+6d081ee0-200e-480c-986a-1917e1588e96
+00:03:44.710 --> 00:03:48.790
+How can we process image in the
+computer system? This thing is same
+
+NOTE Confidence: 0.87300694
+
+b8cc4ede-1298-49e5-bf85-9c8ce106f9fe
+00:03:48.790 --> 00:03:53.210
+as we did for the distance, we
+have to break it into discrete
+
+NOTE Confidence: 0.87300694
+
+025863f7-a50e-40c9-b352-67dc653b6750
+00:03:53.210 --> 00:03:56.950
+units and the discrete units in
+images are called pixels, and then
+
+NOTE Confidence: 0.87300694
+
+a91c5f1f-c365-4c1f-a635-0574605b32dc
+00:03:56.950 --> 00:03:57.630
+process that.
+
+NOTE Confidence: 0.8804659
+
+cad595c7-1e8a-473c-aa01-7635af0559e4
+00:03:58.700 --> 00:04:01.988
+And after that, after breaking
+down this continuous quantity
+
+NOTE Confidence: 0.8804659
+
+ecf534ff-c72d-459a-bb7b-092ae6377b97
+00:04:01.988 --> 00:04:06.509
+into discrete units, we said
+that the next step is to
+
+NOTE Confidence: 0.8804659
+
+af865c98-473a-4500-9c30-4720641b3804
+00:04:06.509 --> 00:04:11.852
+represent that measurement, you have
+to write it down. So in Roman
+
+NOTE Confidence: 0.8804659
+
+a4b08514-12e3-4fa4-b613-8cd4ba55e29c
+00:04:11.852 --> 00:04:16.373
+Empire, I mean about 8 centuries
+before Christ they start to
+
+NOTE Confidence: 0.8804659
+
+1b67407d-d790-4194-ace0-2f19d7905b2a
+00:04:16.373 --> 00:04:20.072
+introduce a symbol for nothing,
+they just represent nothing.
+
+NOTE Confidence: 0.82275254
+
+dd06e389-7b4b-44ee-92c2-86b359905417
+00:04:21.100 --> 00:04:25.468
+For one unit, they invent one
+symbol called I, and then for
+
+NOTE Confidence: 0.82275254
+
+6e3724fe-e63e-43bf-a45d-bfcb3248fa67
+00:04:25.468 --> 00:04:30.200
+the next unit. I mean more units.
+They just repeat that symbol. So
+
+NOTE Confidence: 0.82275254
+
+0e418a3e-0264-4b44-a213-11652e1a35da
+00:04:30.200 --> 00:04:34.568
+for the two they put two I for
+three, they put three I.
+
+NOTE Confidence: 0.9004209
+
+3975ce89-adcb-4c05-982c-9026aa96e6f7
+00:04:35.330 --> 00:04:39.416
+And then there was another
+important step in analyzing
+
+NOTE Confidence: 0.9004209
+
+c2ea6e56-bc12-4313-9a20-3377eeccc3c8
+00:04:39.416 --> 00:04:43.048
+information, so you first
+breakdown a continuous entity
+
+NOTE Confidence: 0.9004209
+
+cbc1dd68-557d-4e10-8989-6650756e4df9
+00:04:43.048 --> 00:04:48.042
+to discrete units and then you
+want to represent those units
+
+NOTE Confidence: 0.9004209
+
+761f52eb-6dff-4c6b-8bef-68a00b3a9ebf
+00:04:48.042 --> 00:04:53.036
+by some symbols or numbers or
+digits. The whole process is
+
+NOTE Confidence: 0.9004209
+
+f4c36cea-a5a3-44fa-89c9-d6a978851fbb
+00:04:53.036 --> 00:04:53.944
+called quantization.
+
+NOTE Confidence: 0.7811584
+
+24abfe18-d68b-461b-a485-caa208753708
+00:04:55.440 --> 00:05:00.492
+Then we said that this is
+called the Unary system where we
+
+NOTE Confidence: 0.7811584
+
+a8e003c0-a8d7-46ef-960a-c40e9cd96fc9
+00:05:00.492 --> 00:05:03.018
+have only one symbol or base
+
+NOTE Confidence: 0.8824905
+
+f31c2b9e-9625-4ab9-9b44-9c314bcf26ff
+00:05:03.018 --> 00:05:09.056
+one. And based on this system,
+we said that if you want to
+
+NOTE Confidence: 0.8824905
+
+2ff1d2c0-3467-4490-80c4-2148caa58afd
+00:05:09.056 --> 00:05:12.986
+represent the most distance to
+the Sun, the distance is about
+
+NOTE Confidence: 0.8824905
+
+1a8f68c1-7f72-4273-b787-9529aab7956b
+00:05:12.986 --> 00:05:18.095
+12,000 Earth. So we need 12,000
+positions or we need to repeat I
+
+NOTE Confidence: 0.8824905
+
+2490aa1c-58e9-4535-91b0-c485846c999f
+00:05:18.095 --> 00:05:22.418
+12,000 times. So it becomes
+about four pages. And that's a
+
+NOTE Confidence: 0.8824905
+
+6a420b1c-a1c5-4a80-850f-19bbcc061aff
+00:05:22.418 --> 00:05:25.955
+huge number of space just to
+represent 1 number, 12,000.
+
+NOTE Confidence: 0.86876
+
+48866ff7-28d6-478e-927b-0a4f3750eb25
+00:05:26.900 --> 00:05:31.400
+Then we said that, is it
+possible to improve the Unary
+
+NOTE Confidence: 0.86876
+
+722153a3-44b6-4c4b-aeed-8fcf8481b6bd
+00:05:31.400 --> 00:05:36.275
+system? And the answer was yes.
+So that was the evolution of the
+
+NOTE Confidence: 0.86876
+
+389bf98c-6efb-42e6-9d55-7c28d5f8e87d
+00:05:36.275 --> 00:05:40.025
+numbering system within
+history. Up until now, we
+
+NOTE Confidence: 0.86876
+
+104781c6-26b2-4097-ae6e-37fa8aeec5b8
+00:05:40.025 --> 00:05:44.900
+have 10 symbols and instead of
+just one symbol, and as you can
+
+NOTE Confidence: 0.86876
+
+ea80fe49-b77e-40ec-b21a-b23313b73f06
+00:05:44.900 --> 00:05:49.400
+see the at first, there were no
+symbols for zero, so gradually
+
+NOTE Confidence: 0.86876
+
+d28615e0-5167-4c62-ad61-d2b9662703b3
+00:05:49.400 --> 00:05:52.775
+more symbols were added to represent
+zero and more units.
+
+NOTE Confidence: 0.8703977
+
+0907532c-915b-4f27-9905-76fda9fd802a
+00:05:53.370 --> 00:05:57.750
+And after 24 centuries we have
+the decimal system we are using
+
+NOTE Confidence: 0.8703977
+
+a92e6101-2218-43cf-b0f1-6394787a0747
+00:05:57.750 --> 00:06:02.495
+right now in high school or in
+the school from 0 to 9.
+
+NOTE Confidence: 0.8637801
+
+0a527b03-5e9e-4e32-bd0a-6cc816e981a3
+00:06:03.980 --> 00:06:09.044
+So then I introduce my
+own numbering system to improve
+
+NOTE Confidence: 0.8637801
+
+f5e73832-8e58-4d2d-b862-8156e6d1e145
+00:06:09.044 --> 00:06:13.686
+the Unary system, and we saw
+that based on the Hossein's system
+
+NOTE Confidence: 0.8637801
+
+7bc53b45-1d95-4e36-b316-25ed01a4012e
+00:06:13.686 --> 00:06:19.172
+we have four symbols 0123. But we
+didn't have any symbol for 4,
+
+NOTE Confidence: 0.8637801
+
+d81d81e2-643b-408b-9264-9563c6fb7d1b
+00:06:19.172 --> 00:06:25.080
+so we have to come up with the
+work around to represent 4 by
+
+NOTE Confidence: 0.8637801
+
+fbd2011b-96e7-4a07-9e26-2158fc93549c
+00:06:25.080 --> 00:06:26.768
+the existing symbols 0123.
+
+NOTE Confidence: 0.8723263
+
+ec58d281-c2a8-4137-9fa7-ad64ab7cd8db
+00:06:27.630 --> 00:06:33.064
+And we said that we can do this
+by introducing a new position to
+
+NOTE Confidence: 0.8723263
+
+3378397e-5edb-432d-bf49-b9beafb815cf
+00:06:33.064 --> 00:06:38.498
+the left or right. So then we
+discuss how can we count base
+
+NOTE Confidence: 0.8723263
+
+f28f6be6-c8b8-44a2-9be1-0408f300be9e
+00:06:38.498 --> 00:06:42.260
+on the Hossein system by
+introducing position to the
+
+NOTE Confidence: 0.8811483
+
+f1c119f1-15c9-4f04-a0c8-b5391bf6e664
+00:06:42.260 --> 00:06:47.170
+left. And basically what we did
+was that, we keep track
+
+NOTE Confidence: 0.8811483
+
+b0e4ee85-754b-4b5d-8070-6f5b42ac749f
+00:06:47.170 --> 00:06:51.200
+of what we done so far in the last
+position and then introduce and
+
+NOTE Confidence: 0.8811483
+
+bc5346dc-0365-443b-b572-6ee6d3a83e95
+00:06:51.200 --> 00:06:53.060
+start counting on the first
+
+NOTE Confidence: 0.91890585
+
+1bef8fbd-d9e7-49ef-8113-89cf803bf680
+00:06:53.060 --> 00:06:55.798
+position. For instance,
+
+NOTE Confidence: 0.8936136
+
+a2b696a0-f7d8-4f9e-88f1-8ba358576667
+00:06:56.670 --> 00:07:02.466
+for the number 16, we said that
+we do one time from zero to
+
+NOTE Confidence: 0.8936136
+
+8edd5795-4271-42eb-850e-eac86000aa69
+00:07:02.466 --> 00:07:06.606
+three and then another time
+zero to three, zero to three, zero to three and then zero.
+
+NOTE Confidence: 0.8936136
+
+30494edb-80d2-419a-a77a-48cdb525df21
+00:07:06.606 --> 00:07:12.402
+So basically 16 is equal to the
+sum of all these 3 + 0 and plus
+
+NOTE Confidence: 0.8936136
+
+f50d38bc-91c6-46fd-a1d3-a8647c3518c0
+00:07:12.402 --> 00:07:16.956
+number of positions minus one
+because whenever we add a new
+
+NOTE Confidence: 0.8936136
+
+6a8f0a8e-2176-4435-a928-6eda1d550b9c
+00:07:16.956 --> 00:07:19.026
+position we take one step.
+
+NOTE Confidence: 0.8875142
+
+c51fd65c-157c-43d9-8370-bbe455e394f3
+00:07:19.950 --> 00:07:24.500
+So this is my own system by just
+counting whenever we are done
+
+NOTE Confidence: 0.8875142
+
+e58d2f7b-78a4-43dc-8ae5-140cdda8a051
+00:07:24.500 --> 00:07:28.350
+with the symbols, we introduce
+new positions and this is the
+
+NOTE Confidence: 0.8875142
+
+2746775a-16e3-4f36-91f8-d4081489ed8e
+00:07:28.350 --> 00:07:30.800
+math formula we came up with.
+
+NOTE Confidence: 0.87971675
+
+07c2b03f-24f9-4e58-b856-d9610eb74bbd
+00:07:32.120 --> 00:07:36.164
+And then we said that if you're
+giving some numbers in in
+
+NOTE Confidence: 0.87971675
+
+b0fae1b3-0a50-42d6-ad2a-3c2b1661394b
+00:07:36.164 --> 00:07:39.197
+numbering system,
+what's the equal
+
+NOTE Confidence: 0.87971675
+
+82de831f-0c75-41d6-b3d5-51c90618ca23
+00:07:39.197 --> 00:07:43.578
+value in the decimal system and
+based on what I said, first, we
+
+NOTE Confidence: 0.87971675
+
+da3824d1-92cd-431e-a1af-c3fa5fb1b3b3
+00:07:43.578 --> 00:07:47.285
+have to check whether that
+number is a valid number and
+
+NOTE Confidence: 0.87971675
+
+deafebed-4fb1-4b63-af0e-3d7a1a8f6299
+00:07:47.285 --> 00:07:48.970
+then start converting to the
+
+NOTE Confidence: 0.866758
+
+ba9cb09f-86c6-4773-8668-f5ac46b6de0e
+00:07:48.970 --> 00:07:52.942
+decimal system. For instance,
+this number was not a valid
+
+NOTE Confidence: 0.866758
+
+147d9b62-b008-460f-9650-a4518ee2b59a
+00:07:52.942 --> 00:07:55.903
+number because in Hossein's
+system, whenever you introduce a
+
+NOTE Confidence: 0.866758
+
+adb43e10-48c4-44d3-ba5b-ba303bda9863
+00:07:55.903 --> 00:07:59.851
+new position, you have to end
+with the largest digit which is
+
+NOTE Confidence: 0.866758
+
+60cc51b2-f8e0-4da3-84b4-5f500eb61b08
+00:07:59.851 --> 00:08:02.154
+3. So you cannot have such a
+
+NOTE Confidence: 0.8617281
+
+55cf5eb5-2304-47b6-b946-111ff65c447f
+00:08:02.154 --> 00:08:08.620
+number 303. Uh, but this was a
+valid number 33331, and in order
+
+NOTE Confidence: 0.8617281
+
+d0793ebe-84b0-459e-8c90-8aea83ce7118
+00:08:08.620 --> 00:08:14.470
+to see what's the equal value in
+decimal system we have to just
+
+NOTE Confidence: 0.8617281
+
+3ae4a184-1787-4534-8368-a5019e02da76
+00:08:14.470 --> 00:08:19.870
+sum all the digits plus number
+of positions minus one, so this
+
+NOTE Confidence: 0.8617281
+
+3b1faee9-846b-484b-ba27-53b7e789657a
+00:08:19.870 --> 00:08:23.020
+is equal to 17, and more symbols.
+
+NOTE Confidence: 0.88205165
+
+a9ee76c3-2f7b-4c65-9aa4-033bc9a87f66
+00:08:24.560 --> 00:08:28.333
+And then for any numbering
+system, we said that we can
+
+NOTE Confidence: 0.88205165
+
+440509e1-e482-4429-8e58-c44d931848c3
+00:08:28.333 --> 00:08:31.420
+calculate the minimum value,
+which is just repeating the
+
+NOTE Confidence: 0.88205165
+
+6389f10d-3ac2-477d-9b7b-3e394ba5e118
+00:08:31.420 --> 00:08:34.507
+zero, the lowest digit, in
+all positions and the
+
+NOTE Confidence: 0.88205165
+
+d80f44de-140e-4d86-a25f-89c832384007
+00:08:34.507 --> 00:08:37.594
+maximum is just repeating
+the largest digit in all
+
+NOTE Confidence: 0.88205165
+
+4df46777-5915-49aa-801f-3caeedc3d08c
+00:08:37.594 --> 00:08:41.024
+positions. So in Hossein's
+system, if you're given N
+
+NOTE Confidence: 0.88205165
+
+0df3dfad-0d17-4189-ba27-64f3f6aeacd2
+00:08:41.024 --> 00:08:44.797
+positions, the maximum
+number would be 4 * N - 1
+
+NOTE Confidence: 0.88205165
+
+84a42b33-38fb-40a7-bf48-6f3ca23a4585
+00:08:44.797 --> 00:08:48.570
+because we have to add
+all the threes plus the number of
+
+NOTE Confidence: 0.88205165
+
+a31648ae-3f19-43ea-96ed-2673879447fa
+00:08:48.570 --> 00:08:49.599
+position minus one.
+
+NOTE Confidence: 0.8594805
+
+7029890e-d106-4ddb-99ef-907fb990680b
+00:08:50.780 --> 00:08:55.239
+So we did that and then we
+saw that if you're giving 10
+
+NOTE Confidence: 0.8594805
+
+94352c40-0cfa-4d23-9b03-957f186f5b78
+00:08:55.239 --> 00:08:58.326
+positions, the maximum number
+in Hossein System is going
+
+NOTE Confidence: 0.8594805
+
+86cbfa93-8bec-4118-b1ae-7c68fae3d927
+00:08:58.326 --> 00:09:02.099
+to be 39, which is a very
+small number, so Hossein's
+
+NOTE Confidence: 0.8594805
+
+b97c8731-4898-4a78-a412-68a2afd0cd9d
+00:09:02.099 --> 00:09:05.529
+system is able to represent a
+very small range of numbers.
+
+NOTE Confidence: 0.87413055
+
+482839f4-4e24-4c01-950e-8797ad1dedbb
+00:09:07.340 --> 00:09:10.618
+And we said that if you're
+given a number in decimal
+
+NOTE Confidence: 0.87413055
+
+b554864e-21c0-415e-9357-277318a279a0
+00:09:10.618 --> 00:09:14.790
+system and we want to represent
+it in a new number
+
+NOTE Confidence: 0.87413055
+
+f121379d-5edc-4ac6-9429-1a8a2bc73026
+00:09:14.790 --> 00:09:18.068
+system such as for Hossein's number
+system. How many positions do
+
+NOTE Confidence: 0.87413055
+
+f8fc92c0-47c1-41a5-81b2-52bf455b8d12
+00:09:18.068 --> 00:09:21.942
+we need? And the solution is that
+we just take that number, the
+
+NOTE Confidence: 0.87413055
+
+957431f5-2d54-4b1a-9873-06309a53c978
+00:09:21.942 --> 00:09:23.432
+given number, as the maximum
+
+NOTE Confidence: 0.8476928
+
+0a12b70c-c34f-4cb0-92b5-12504b05d1fe
+00:09:23.432 --> 00:09:27.780
+number. And you already knew
+that the maximum number is equal
+
+NOTE Confidence: 0.8476928
+
+2f754826-0853-4626-9781-cd54d5b8f557
+00:09:27.780 --> 00:09:33.332
+to 4 * N - 1, so with just little
+math, we keep the number of
+
+NOTE Confidence: 0.8476928
+
+0b91efb5-7206-4a4c-a24e-4f5c34a24fcb
+00:09:33.332 --> 00:09:37.149
+positions to the right and
+everything to the left. So the
+
+NOTE Confidence: 0.8476928
+
+ebf1929b-687c-4171-bcd5-dfd69f7a87cb
+00:09:37.149 --> 00:09:40.966
+number of positions in Hossein
+system in order to represent the
+
+NOTE Confidence: 0.8476928
+
+e791de27-8d2e-4378-ba25-8a6d6ea3cc83
+00:09:40.966 --> 00:09:44.783
+number N, capital N, is equal to N
++ 1 / 4.
+
+NOTE Confidence: 0.8287481
+
+bb1e4f59-d6be-414d-baba-8ef53beabf80
+00:09:46.550 --> 00:09:50.498
+And then based on this, we
+wanted to represent
+
+NOTE Confidence: 0.8287481
+
+f25a70f0-04c8-40f0-9e5b-96ebeb2767ea
+00:09:50.498 --> 00:09:54.117
+the most distance
+to the Sun, but this time with
+
+NOTE Confidence: 0.8287481
+
+14c17d92-1b04-4c35-967e-9c519575f73a
+00:09:54.117 --> 00:09:58.394
+Hossein's system and we saw that
+it is a little bit better
+
+NOTE Confidence: 0.8287481
+
+136aa419-e5a6-4296-8aac-04ac2623bc22
+00:09:58.394 --> 00:10:00.039
+than the Unary system because
+
+NOTE Confidence: 0.86374104
+
+f877ab87-e2bc-43a9-9c2a-46fc7597b655
+00:10:00.110 --> 00:10:04.790
+in order to represent 1000,
+we only need 3000 positions and
+
+NOTE Confidence: 0.86374104
+
+ed16c3d8-bc57-4645-9e5e-498123c5632c
+00:10:04.790 --> 00:10:09.860
+3000 position is just one page of paper, so
+we can reduce 4 pages to one
+
+NOTE Confidence: 0.86374104
+
+0661ce04-ce58-46b8-a4b7-68def60fe6ff
+00:10:09.860 --> 00:10:14.930
+page, and we said that is it
+possible to improve Hossein's
+
+NOTE Confidence: 0.86374104
+
+2fafb933-2b89-4a98-a9d7-f5d1d9d4813b
+00:10:14.930 --> 00:10:19.610
+system? I mean more, and we said
+that the answer is yes.
+
+NOTE Confidence: 0.86040765
+
+37cee104-4d4d-4e0b-93f9-c91a88c67e3b
+00:10:20.670 --> 00:10:24.773
+Instead of just keeping track of
+what we passed through the
+
+NOTE Confidence: 0.86040765
+
+dc7a8616-ab3f-498e-88d8-2848e97552bd
+00:10:24.773 --> 00:10:29.249
+symbols, we can keep track of
+the rounds over the symbols. So
+
+NOTE Confidence: 0.86040765
+
+685b91e7-a121-4386-abde-a3fdc2a60250
+00:10:29.249 --> 00:10:33.352
+when, for instance we go
+0123, we done one round over
+
+NOTE Confidence: 0.86040765
+
+9bddd9f7-0ae0-4b29-8cce-76fe81e8408a
+00:10:33.352 --> 00:10:37.828
+all the digits. So instead of
+just keeping the last digit, we
+
+NOTE Confidence: 0.86040765
+
+9514410d-01b7-418c-97eb-93e596d9953b
+00:10:37.828 --> 00:10:42.677
+keep track of the number of
+rounds. So we said that we can
+
+NOTE Confidence: 0.86040765
+
+c715e9ab-342e-4113-94f9-b40b987f660b
+00:10:42.677 --> 00:10:47.899
+have this, so when we step from
+three to four, we say that this is one
+
+NOTE Confidence: 0.86040765
+
+f913ba75-132a-4728-a59f-5c11c308ea62
+00:10:47.899 --> 00:10:52.002
+round over all the digits and
+then zero, so 1 0 becomes
+
+NOTE Confidence: 0.8899741
+
+c01639fb-ddae-4f60-9d7c-0c2f4bdb8691
+00:10:52.330 --> 00:10:54.210
+4 in this new system.
+
+NOTE Confidence: 0.88946
+
+3f753bd8-44ff-4394-9dbd-05644367b16a
+00:10:54.990 --> 00:10:59.598
+And the difference is that in
+this new system, if we introduce a
+
+NOTE Confidence: 0.88946
+
+155cb6c0-e21c-4a21-9e3e-3fb205864746
+00:10:59.598 --> 00:11:02.670
+new position, that position
+has a higher significance. As
+
+NOTE Confidence: 0.88946
+
+fa596c91-04be-40ee-ac8a-3b42e5dfd2b8
+00:11:02.670 --> 00:11:07.662
+you can see here, this one means
+that one round over all the
+
+NOTE Confidence: 0.88946
+
+9f8225ed-9885-4bec-8052-40c949661e7f
+00:11:07.662 --> 00:11:12.270
+digits, which is four digits.
+But this one is in the first
+
+NOTE Confidence: 0.88946
+
+61aafc4d-e98b-4ffd-9c71-641aa874d84c
+00:11:12.270 --> 00:11:17.262
+position, meaning that just
+one is just one step. So this 1 in
+
+NOTE Confidence: 0.88946
+
+3682a38d-5ee4-4f55-ab2b-62d9f0bcaad8
+00:11:17.262 --> 00:11:21.486
+the higher significant position
+has a significance of four or 4
+
+NOTE Confidence: 0.88946
+
+f155c818-767a-4d5d-9599-24c8a51437e6
+00:11:21.486 --> 00:11:23.406
+to the power of 1.
+
+NOTE Confidence: 0.86282784
+
+2561a56d-fb9c-46fa-bb1d-c4e2e46c5669
+00:11:24.600 --> 00:11:31.656
+So we did continue this way in
+order to count up until 16 and
+
+NOTE Confidence: 0.86282784
+
+b4830c57-3b3e-4d3a-b85f-780937d7b622
+00:11:31.656 --> 00:11:36.696
+then we call this system the
+quaternary system which has only
+
+NOTE Confidence: 0.86282784
+
+5f89c5cd-15bd-42aa-a673-b54ceee1164f
+00:11:36.696 --> 00:11:38.208
+four symbols 0123.
+
+NOTE Confidence: 0.8514904
+
+19162fea-0d6b-472f-99c8-e82f627606e7
+00:11:38.820 --> 00:11:42.230
+And because it has four
+symbols, we call it base-4 or
+
+NOTE Confidence: 0.8514904
+
+81289df9-f18e-4e7e-be98-8637b355f1b0
+00:11:42.230 --> 00:11:44.958
+radix four symbols, and the
+difference, the main
+
+NOTE Confidence: 0.8514904
+
+8285f96b-3127-4f81-b4ba-458a4c35973b
+00:11:44.958 --> 00:11:48.027
+difference is that when we
+introduce new position, the
+
+NOTE Confidence: 0.8514904
+
+875efc8a-652f-4c16-942f-f0137865caa7
+00:11:48.027 --> 00:11:48.709
+positions have
+
+NOTE Confidence: 0.8877224
+
+8dce8e5a-dd58-4aa9-9b04-6aebbe49602c
+00:11:50.540 --> 00:11:53.067
+significance, and because we have
+
+NOTE Confidence: 0.8877224
+
+58235fc7-85ab-47ac-beda-b32e94a7c251
+00:11:53.067 --> 00:11:57.038
+four symbols, we do around
+over 4 symbols. So the
+
+NOTE Confidence: 0.8877224
+
+1d34bf8b-0780-47ae-a27b-e273375255db
+00:11:57.038 --> 00:11:59.926
+significance are based on the
+powers of four.
+
+NOTE Confidence: 0.85461617
+
+57994232-7242-4e3f-a37b-b0ec9f68220c
+00:12:00.520 --> 00:12:04.804
+So the first position has the
+significance for the power of 0,
+
+NOTE Confidence: 0.85461617
+
+b2033b98-0cfd-41e8-af9f-f869621a52e7
+00:12:04.804 --> 00:12:09.802
+which is 1. So it's just normal,
+0 is equal to 0 to decimal
+
+NOTE Confidence: 0.85461617
+
+28a6baaf-8dd8-465c-a3bd-6ac8db3d6565
+00:12:09.802 --> 00:12:14.443
+system. One same. Two same. Three
+same. But when we are going to
+
+NOTE Confidence: 0.85461617
+
+fd527564-2987-4e71-a29f-e2f08d9dba19
+00:12:14.443 --> 00:12:18.727
+four for the next step, you have to
+introduce new position
+
+NOTE Confidence: 0.85461617
+
+87af2a67-6b86-4305-95aa-ee6b91d8567c
+00:12:18.727 --> 00:12:22.654
+with the significance of
+four to the power of 1.
+
+NOTE Confidence: 0.8812907
+
+8af71350-e207-41ab-8dfd-468f46e192d2
+00:12:23.520 --> 00:12:26.904
+And then in order to come up with,
+for instance, what's the equal
+
+NOTE Confidence: 0.8812907
+
+77a1daaf-74ce-4d5d-b90b-ca74191048c6
+00:12:26.904 --> 00:12:30.288
+value in decimal system for 1
+0? It means that one multiplied
+
+NOTE Confidence: 0.8812907
+
+629a968c-9ccb-43af-a6e7-eea257af2bb4
+00:12:30.288 --> 00:12:31.698
+by the significance of the
+
+NOTE Confidence: 0.88352144
+
+5c1066cb-a1d4-44b5-8834-e3971074a998
+00:12:31.698 --> 00:12:35.840
+position. Plus 0 multiplied by
+the significance of the
+
+NOTE Confidence: 0.88352144
+
+e3187a82-eda6-4052-b73c-78b991791047
+00:12:35.840 --> 00:12:38.120
+position for the zero, so it
+
+NOTE Confidence: 0.85548437
+
+42646c14-7aa4-4423-8021-a108d08a9022
+00:12:38.120 --> 00:12:43.130
+becomes 4. For 2 0 in base-4
+system, 2 multiplied by 4 to
+
+NOTE Confidence: 0.85548437
+
+3a7d12f7-b386-4962-ac6a-ee7691ab813a
+00:12:43.130 --> 00:12:47.162
+the power of 1 because two is
+in the position with the
+
+NOTE Confidence: 0.85548437
+
+f44d0d6b-b509-4947-804c-d3237cd234ab
+00:12:47.162 --> 00:12:51.866
+significance of four to the
+power 1, plus 0 * 4 to the power of 0.
+
+NOTE Confidence: 0.85548437
+
+ade88c32-05de-4887-b188-58b339880be6
+00:12:51.866 --> 00:12:53.882
+So in total it becomes 8.
+
+NOTE Confidence: 0.905085
+
+7ee72ed8-0f25-47d1-bb29-2af11cc4ce58
+00:12:55.210 --> 00:13:00.220
+And then new positions, 4 to the
+power of 2, four to the power of
+
+NOTE Confidence: 0.905085
+
+594f7193-17f9-4f08-9b08-1bfe300f4ef3
+00:13:00.220 --> 00:13:02.892
+three and, etc. So this is a more
+
+NOTE Confidence: 0.7901739
+
+c762f5dc-61b2-44ab-9b3e-565a34fc1851
+00:13:02.892 --> 00:13:07.989
+efficient system. I will call
+this base-4 or radix four
+
+NOTE Confidence: 0.75894105
+
+173467f7-dcd9-4670-a8a9-e7160305104b
+00:13:07.989 --> 00:13:13.300
+numbering system. And we
+said that if you are giving
+
+NOTE Confidence: 0.75894105
+
+9d28584d-c0a8-4dcf-abc5-b6fda848f514
+00:13:13.300 --> 00:13:15.040
+the same numbers,
+
+NOTE Confidence: 0.87426203
+
+1845efbb-0891-4fb5-8e24-e71c343ad4cb
+00:13:16.590 --> 00:13:20.850
+we saw that these
+numbers. How can we convert
+
+NOTE Confidence: 0.87426203
+
+0edb2d6a-b61b-418f-96e2-35eb438a9926
+00:13:20.850 --> 00:13:24.755
+these numbers in the Hossein
+system? But if you are given
+
+NOTE Confidence: 0.87426203
+
+984a6072-cbda-4df6-ba63-3bce361fe63b
+00:13:24.755 --> 00:13:29.370
+the same numbers, but this time
+in the base-4 system. what's the equal
+
+NOTE Confidence: 0.87426203
+
+46259a48-767f-4e3c-ac10-2796d6aa533a
+00:13:29.370 --> 00:13:32.565
+value in decimal. So for
+instance, given this number,
+
+NOTE Confidence: 0.87426203
+
+abba52f8-d179-411a-93bb-8104e16c3782
+00:13:32.565 --> 00:13:36.825
+first of all this is a valid
+number because all the digits
+
+NOTE Confidence: 0.87426203
+
+e2a70265-e41d-495f-ad80-5db20c4a3143
+00:13:36.825 --> 00:13:37.890
+are between 0123.
+
+NOTE Confidence: 0.90266633
+
+194b8213-7168-4512-b7d6-4b5a111e0f0c
+00:13:38.660 --> 00:13:43.314
+And in order to convert it to
+the decimal system, we just have
+
+NOTE Confidence: 0.90266633
+
+dc3d7aab-a1c6-46df-a0f3-7c54746b5447
+00:13:43.314 --> 00:13:46.894
+to figure out the significance
+of each position and then
+
+NOTE Confidence: 0.90266633
+
+b310b68d-8cd0-4c72-95d5-189c559efc2a
+00:13:46.894 --> 00:13:50.116
+multiply each digit to the
+significance of the position,
+
+NOTE Confidence: 0.90266633
+
+492bdc93-b186-425d-8e6a-924ea1a45d9d
+00:13:50.116 --> 00:13:51.548
+and then sum altogether.
+
+NOTE Confidence: 0.89443684
+
+e7c68126-86a2-405f-a407-211f08653587
+00:13:52.340 --> 00:13:56.305
+And then when we do this for
+all the other numbers, we saw
+
+NOTE Confidence: 0.89443684
+
+a64ef7b1-650d-4515-b1df-99ef1284da3b
+00:13:56.305 --> 00:13:59.050
+that these are the
+equal decimal numbers.
+
+NOTE Confidence: 0.8749602
+
+9fb0bae1-4cc2-4872-a1a4-ffd3ec608dac
+00:14:00.570 --> 00:14:02.712
+For these numbers in
+
+NOTE Confidence: 0.8339249
+
+992bafe7-09ab-4148-b0aa-e3c8a6177341
+00:14:02.712 --> 00:14:08.318
+base-4. And we compared this new
+system, base-4 system, on the old
+
+NOTE Confidence: 0.8339249
+
+6ba442f2-f9f1-4f4e-bee3-20af7ddedc41
+00:14:08.318 --> 00:14:12.326
+Hossein system we saw that
+base-4 system is much
+
+NOTE Confidence: 0.8866566
+
+c12f07c0-c75e-408d-bc5c-44b2c603cfe6
+00:14:12.326 --> 00:14:16.951
+better because for some numbers
+that are not valid in Hossein
+
+NOTE Confidence: 0.8866566
+
+892201cc-c671-4e19-a631-21b0237f12cd
+00:14:16.951 --> 00:14:21.748
+system, we have a equal decimal
+system in base-4, so this is
+
+NOTE Confidence: 0.8866566
+
+d6e86c4d-5599-42dd-a70e-59735d313364
+00:14:21.748 --> 00:14:26.176
+a valid number and we can
+exploit or we can use this
+
+NOTE Confidence: 0.8866566
+
+65ac35c8-c299-41f7-b03a-efaa63523df4
+00:14:26.176 --> 00:14:30.235
+availability for base-4, and
+also another instance is that if
+
+NOTE Confidence: 0.8866566
+
+50843fef-e289-43b4-9d98-b58fbe1a210e
+00:14:30.235 --> 00:14:34.663
+you are given 10 positions
+since here in the last number,
+
+NOTE Confidence: 0.8866566
+
+5478496a-c7c5-4650-bb74-023e119c9514
+00:14:34.663 --> 00:14:37.246
+so we have 10 digits of three.
+
+NOTE Confidence: 0.8701767
+
+ba9292c4-85d6-4fa2-b10a-98cf1d88aa57
+00:14:37.990 --> 00:14:42.555
+This number is the maximum
+number for Hossein system 39, with ten
+
+NOTE Confidence: 0.8701767
+
+742813fb-4fee-46bf-ba15-39d5cfcabaf2
+00:14:42.555 --> 00:14:46.705
+position, but the maximum number
+with 10 positions for the
+
+NOTE Confidence: 0.8701767
+
+716be83f-07bd-4f1c-b41e-a37bcb77c5af
+00:14:46.705 --> 00:14:50.855
+base-4 is about 1,000,000
+something. So you can see that
+
+NOTE Confidence: 0.8701767
+
+c1ebe835-1fba-42f3-9964-72ef5510480b
+00:14:50.855 --> 00:14:52.930
+the base-4 system is a
+
+NOTE Confidence: 0.85002077
+
+361ae444-8894-4e7c-8f6a-0912c4f9194d
+00:14:53.580 --> 00:14:57.260
+much better 
+numbering system, because it
+
+NOTE Confidence: 0.85002077
+
+3f9c531f-c0d7-4bad-8051-c9aa90c9666e
+00:14:57.260 --> 00:14:59.836
+can represent a wider range
+of numbers.
+
+NOTE Confidence: 0.84606314
+
+9ef53e45-0cdb-46bc-8e04-2b6a888ed5d7
+00:15:01.330 --> 00:15:07.333
+So let's just do another poll
+to see whether you
+
+NOTE Confidence: 0.9223587
+
+2f24a48a-329a-4bde-a9c8-aff852888e17
+00:15:08.720 --> 00:15:10.376
+remember all this stuff.
+
+NOTE Confidence: 0.8778269
+
+88de2baa-fce2-4791-a7a9-6a7873317e14
+00:15:11.920 --> 00:15:18.030
+Please go to this URL. I put
+some questions in the poll. I
+
+NOTE Confidence: 0.8778269
+
+7f507219-30ae-4006-9371-7e4f6e4e889e
+00:15:18.030 --> 00:15:21.320
+put it the same link in the
+
+NOTE Confidence: 0.34736753
+
+544b2606-a11e-47ba-b101-92aedb8738ef
+00:15:21.320 --> 00:15:23.650
+chat. Uh.
+
+NOTE Confidence: 0.924304
+
+c8bc4085-77b0-472b-9ca0-55ba59dfb8e2
+00:15:26.430 --> 00:15:29.580
+So please click on this link.
+
+NOTE Confidence: 0.9008958
+
+0438b0b0-c694-4ebc-86c8-c16f0fa41e81
+00:15:37.480 --> 00:15:42.460
+And when you're ready, just send
+me some feedback to let me know that you
+
+NOTE Confidence: 0.9008958
+
+3ef7d7d1-25de-43da-8ca7-3bfebe389c68
+00:15:42.460 --> 00:15:44.950
+can see the
+
+NOTE Confidence: 0.7832949
+
+081031c1-a9ff-46ec-9406-5e116362afd0
+00:15:46.890 --> 00:15:47.940
+question.
+
+NOTE Confidence: 0.90757
+
+78392dec-fb0a-4c69-93fe-1595da10821c
+00:15:52.450 --> 00:15:57.370
+So this is the question, we
+already knew that this number 10
+
+NOTE Confidence: 0.90757
+
+dd72939f-7109-44ee-b928-51f4cb095d98
+00:15:57.370 --> 00:15:59.830
+digits of three is equal to
+
+NOTE Confidence: 0.85820585
+
+8f80d177-f890-495f-9b1e-7aa82413ddad
+00:15:59.830 --> 00:16:04.084
+1,000,000 something in
+decimal system. So basically
+
+NOTE Confidence: 0.85820585
+
+3a749723-1d6a-4784-92b6-09dbfbec05cb
+00:16:04.084 --> 00:16:10.969
+digit 3 10 times, so we just
+want to know how we
+
+NOTE Confidence: 0.85820585
+
+6648c4a2-c11f-4cc3-b79c-4596f5bb3b63
+00:16:10.969 --> 00:16:14.641
+ended up with the 1,000,000
+something, that number.
+
+NOTE Confidence: 0.8461373
+
+3549ba21-167f-4a79-8829-ba71e8b9d0c8
+00:16:30.450 --> 00:16:33.786
+So let's wait for others to
+participate.
+
+NOTE Confidence: 0.89667284
+
+45b87c4e-f29a-4761-98b4-5fec231fb5e4
+00:16:34.820 --> 00:16:38.060
+Again, we have 75 students right
+now in the class.
+
+NOTE Confidence: 0.9005597
+
+9e6c301e-f56e-4aaa-bfe7-c5bfbda9ee15
+00:16:39.140 --> 00:16:44.528
+But we are just receiving 32, 34
+so let's wait for others to answer
+
+NOTE Confidence: 0.85828584
+
+35eb2ebe-75b1-49c9-b59a-fb47efb896b9
+00:16:44.528 --> 00:16:50.210
+this question. So the answer is
+basically you have to just
+
+NOTE Confidence: 0.85828584
+
+36d71d52-3500-4f22-a6f8-6e37127a6bd8
+00:16:50.210 --> 00:16:54.654
+multiply 3 by the significance
+of each position based on the
+
+NOTE Confidence: 0.85828584
+
+7d1a1f8c-af18-44b2-bc17-998dca61bf1e
+00:16:54.654 --> 00:16:59.502
+powers of four and then sum
+altogether. But the thing is, we
+
+NOTE Confidence: 0.85828584
+
+b8df416c-da6f-4dbb-8591-21862d7a9d5f
+00:16:59.502 --> 00:17:04.754
+can do this based on the formula
+we've learned in high
+
+NOTE Confidence: 0.81334054
+
+f8c75c2f-3a3b-4d9a-97b6-9acfd676ebc0
+00:17:04.754 --> 00:17:08.160
+school. Based on the
+geometric series.
+
+NOTE Confidence: 0.9437477
+
+84333df4-ec6b-4328-be66-24bcaba5290c
+00:17:09.200 --> 00:17:11.080
+So let me share my
+
+NOTE Confidence: 0.84519565
+
+3037d0df-81d1-4757-8ed5-3b4178024f19
+00:17:12.710 --> 00:17:17.187
+camera and I can solve this
+problem in the board.
+
+NOTE Confidence: 0.32739168
+
+949158e4-0aa5-418c-beda-c7ade10caf69
+00:17:19.490 --> 00:17:20.040
+Alright,
+
+NOTE Confidence: 0.8926503
+
+a0aabf52-1542-4c2d-b55e-09b90e1f3ee7
+00:17:29.550 --> 00:17:32.390
+so let's solve this problem.
+
+NOTE Confidence: 0.8800519
+
+dbc4b5f8-a26c-4954-8e2e-490cd3f4d97a
+00:17:34.730 --> 00:17:37.508
+So basically we have 10 threes.
+
+NOTE Confidence: 0.8727027
+
+03f6b5a1-5f05-49f3-8498-f9929d83ab73
+00:17:42.170 --> 00:17:46.250
+6789
+Ten
+
+NOTE Confidence: 0.6808925
+
+29eaecce-472c-4cbb-ab87-fdbb66b78be4
+00:17:48.340 --> 00:17:51.126
+...
+
+NOTE Confidence: 0.8725159
+
+de66e909-58b0-42f8-bcc1-646d5dc5d590
+00:17:51.126 --> 00:17:56.650
+So this is the number. So as we said, we have
+to calculate the significant
+
+NOTE Confidence: 0.8725159
+
+d9c11ee2-73c6-4843-b1a8-19f51214b22b
+00:17:56.650 --> 00:18:02.502
+position from 4 to the power
+of 0, 4 to the power of 1, 4 to the power of two,
+
+NOTE Confidence: 0.8570446
+
+35f50620-8f73-4809-bc40-49129fd44b81
+00:18:02.502 --> 00:18:09.688
+4 to the power of 3. Up until 4 to the power
+of 9, from zero to 9 becomes 10
+
+NOTE Confidence: 0.8570446
+
+f6f2337d-9f90-4e84-bda2-4f5bc43523bd
+00:18:09.688 --> 00:18:14.495
+positions and then we have to
+multiply each digit with the
+
+NOTE Confidence: 0.8570446
+
+76988c59-cc00-4821-bbde-994774c80348
+00:18:14.495 --> 00:18:18.865
+significance of that position,
+and then sum together. So
+
+NOTE Confidence: 0.8570446
+
+b7b3149b-7698-4663-a731-a387110dbd7a
+00:18:18.865 --> 00:18:20.613
+if we do that.
+
+NOTE Confidence: 0.7988514
+
+0f23f479-019d-479c-9785-470be51f36ad
+00:18:22.670 --> 00:18:29.942
+So we have 3 * 4 to the power
+of 0 + 3 * 4 to the power of
+
+NOTE Confidence: 0.7988514
+
+61becb76-9166-4bc5-a488-e60f01d5e131
+00:18:29.942 --> 00:18:31.558
+1 plus up until
+
+NOTE Confidence: 0.75153345
+
+85cac03d-070b-4a4f-9298-21ccade61456
+00:18:32.950 --> 00:18:35.870
+3 * 4 to the power of nine.
+
+NOTE Confidence: 0.8256226
+
+fb52210c-4c2e-464b-a9b3-108189eb93af
+00:18:36.660 --> 00:18:38.079
+So by math.
+
+NOTE Confidence: 0.84982795
+
+0f47b003-29c0-4e14-acec-3fdc2b96710b
+00:18:39.550 --> 00:18:41.860
+Say that we can extract three.
+
+NOTE Confidence: 0.8638343
+
+e5f8babe-3a17-49e8-a14f-10dc19be5512
+00:18:44.350 --> 00:18:51.250
+And then I would say that 4
+the power of 0, 4 to the power of 1 plus up until 4
+
+NOTE Confidence: 0.8638343
+
+583c7545-3928-4904-91ec-084399d47620
+00:18:51.250 --> 00:18:53.550
+to the power of 9.
+
+NOTE Confidence: 0.9089852
+
+a8926447-cd9f-44d5-ad31-6c87cd767f37
+00:18:55.230 --> 00:18:59.178
+So this is a geometric series.
+
+NOTE Confidence: 0.8565306
+
+19255e27-b1b7-4f05-bd7b-dcedce5723fd
+00:19:00.500 --> 00:19:03.684
+With the ratio 4, so just to
+
+NOTE Confidence: 0.77530336
+
+39ad4340-4ae1-491c-b427-5142cb793bfb
+00:19:03.684 --> 00:19:08.018
+recall. This is a
+recall from math.
+
+NOTE Confidence: 0.8541009
+
+6af41c2e-f235-4d91-a972-7d8b4b072ed3
+00:19:10.160 --> 00:19:15.447
+So if you have is series Q to
+the power of 0 plus Q to the power
+
+NOTE Confidence: 0.8541009
+
+e7eefde2-515d-448c-9079-f4eef5b4be02
+00:19:15.447 --> 00:19:20.734
+of 1 plus Q to the power of two up
+until Q to the power of N.
+
+NOTE Confidence: 0.8745983
+
+000e76bf-eaa5-4f12-81de-9e81c7344c45
+00:19:22.220 --> 00:19:26.600
+This series is called
+Geometric series with the ratio
+
+NOTE Confidence: 0.8745983
+
+5fa4a9f2-483d-4464-8671-0ee898e5a6b5
+00:19:26.600 --> 00:19:34.046
+Q and the result is equal to Q
+to the power of N + 1 - 1
+
+NOTE Confidence: 0.8745983
+
+addb8a7f-4a34-496c-ac84-e363e730347a
+00:19:34.046 --> 00:19:35.798
+/ Q - 1.
+
+NOTE Confidence: 0.92760503
+
+de5e11fe-23ec-4c8a-b153-bdfdc312285a
+00:19:37.290 --> 00:19:38.978
+So based on this.
+
+NOTE Confidence: 0.89550644
+
+bea1e948-1cbd-488f-b104-7f998b264284
+00:19:43.480 --> 00:19:45.790
+We can say that the.
+
+NOTE Confidence: 0.8525123
+
+8d8c2f2e-6384-4694-8e13-a67b9db440c5
+00:19:46.970 --> 00:19:52.664
+You can keep the three and so the
+inside of the parentheses is
+
+NOTE Confidence: 0.8525123
+
+aa41e222-567c-49bb-8a46-9ead279d6573
+00:19:52.664 --> 00:20:00.110
+equal to 4 to the power of 9 +
+1 which becomes  4^(10) - 1 / 4 - 1.
+
+NOTE Confidence: 0.87785804
+
+e436a4ae-f81f-4c18-b6e3-bf870bc9f056
+00:20:00.340 --> 00:20:07.166
+So we can simply say
+this is three.
+
+NOTE Confidence: 0.87785804
+
+fa48e970-8aec-4078-891f-b15efc5dd906
+00:20:07.166 --> 00:20:12.262
+We can just remove these and
+then the result is 4 to the
+
+NOTE Confidence: 0.87785804
+
+187956d9-6d06-4f0d-9e02-ad8da53c287b
+00:20:12.262 --> 00:20:14.222
+power of 10 - 1.
+
+NOTE Confidence: 0.91009223
+
+3cfba85e-7557-4cb6-89ce-f77471e3785e
+00:20:15.590 --> 00:20:19.217
+Which is, let's see how
+many of you actually
+
+NOTE Confidence: 0.91009223
+
+5f600829-e358-4019-9203-b60673ddae8f
+00:20:19.217 --> 00:20:20.829
+have the correct answer.
+
+NOTE Confidence: 0.8690399
+
+a8867e11-e88b-4f74-a5c5-61eda32632b1
+00:20:25.630 --> 00:20:29.865
+Yes, uh, most of you actually
+have the correct answer.
+
+NOTE Confidence: 0.8690399
+
+d26128fa-f7f4-4764-bb13-237ec7a0111c
+00:20:29.865 --> 00:20:31.790
+So let's go back to the.
+
+NOTE Confidence: 0.9043572
+
+874936ae-286d-494d-90d8-4b7fd4c326f6
+00:20:33.940 --> 00:20:37.840
+Yeah, sure, let me give you a
+
+NOTE Confidence: 0.9043572
+
+5cae5157-f517-4389-a559-dccc96c3231c
+00:20:37.840 --> 00:20:39.465
+chance to see the board.
+
+NOTE Confidence: 0.94302934
+
+8c074c42-0dd6-4a27-a0ec-065ce0f7cbcb
+00:20:42.090 --> 00:20:42.750
+Yes.
+
+NOTE Confidence: 0.9072408
+
+a481f9d1-24df-462d-a772-9220c97ac838
+00:20:44.050 --> 00:20:48.034
+So we can simply just put in the
+number and then calculate the
+
+NOTE Confidence: 0.9072408
+
+c6b420a8-403e-4b19-b1e1-2a7f2aa331c7
+00:20:48.034 --> 00:20:50.358
+significance of each position
+and then multiply
+
+NOTE Confidence: 0.7958803
+
+d566e8cd-dd5e-4155-9a13-730a2ec15be2
+00:20:51.880 --> 00:20:54.760
+Each digit to the significance
+of that position.
+
+NOTE Confidence: 0.81227225
+
+7468f634-5abf-4e82-98de-0a4dd32eb8fd
+00:20:55.390 --> 00:20:59.170
+And then we extract 3. This
+is the geometric series with the
+
+NOTE Confidence: 0.81227225
+
+4c78fbef-95e5-4ea3-927c-fccec69682ad
+00:20:59.170 --> 00:21:03.895
+ratio 4. So from four to the power of 0
+to the four to the power of
+
+NOTE Confidence: 0.81227225
+
+49e7b2b0-eb13-4341-a96b-0541dce0d3f1
+00:21:03.895 --> 00:21:07.675
+nine becomes
+4^(10) - 1 / 4 - 1.
+
+NOTE Confidence: 0.922426
+
+77da1959-93d7-4812-b6ac-72f026b98e14
+00:21:12.110 --> 00:21:14.900
+OK, let's continue.
+
+NOTE Confidence: 0.8612913
+
+191feae4-50b8-427f-b393-70d952e53e26
+00:21:17.960 --> 00:21:20.120
+Let's back to the slides.
+
+NOTE Confidence: 0.8448239
+
+cb83dce9-32af-4ea8-ad46-58a6d23d672c
+00:21:26.530 --> 00:21:28.078
+Share my screen.
+
+NOTE Confidence: 0.8683679
+
+172b30da-0ec6-4716-9e2d-9c8b6e0460bb
+00:21:35.610 --> 00:21:40.566
+So that's why I did this. If you
+calculate the number 4 to the
+
+NOTE Confidence: 0.8683679
+
+e12ecc77-fef7-4928-bb83-b822f6be56af
+00:21:40.566 --> 00:21:42.336
+power of N - 1.
+
+NOTE Confidence: 0.8918619
+
+fa2198fe-a147-4961-a17a-91e31d2b1939
+00:21:43.010 --> 00:21:46.718
+It becomes more 1,000,000
+something, so let's do that.
+
+NOTE Confidence: 0.8821145
+
+055ff64b-49ef-4626-b416-f85bc2a09b57
+00:21:50.490 --> 00:21:56.249
+So if you say that 4 to the
+power of 10 - 1.
+
+NOTE Confidence: 0.8313173
+
+cccdf8f1-2563-47df-a5a6-f99153442c12
+00:21:58.550 --> 00:22:05.138
+It's the same number as you can
+see here.
+
+NOTE Confidence: 0.8313173
+
+910b4a0c-3de9-4167-9dad-73dedf5cc2c2
+00:22:05.138 --> 00:22:06.785
+1,048,575.
+
+NOTE Confidence: 0.93210524
+
+c32a26fd-c5f5-49f6-9f7a-e71c22d7a262
+00:22:10.350 --> 00:22:10.970
+So.
+
+NOTE Confidence: 0.8701094
+
+f1423bbd-bc21-4bc2-a43f-21110d1b730a
+00:22:12.290 --> 00:22:16.338
+Now, if you are given N
+positions, what would be the
+
+NOTE Confidence: 0.8701094
+
+1384d330-ea6e-46e6-9ed2-014c042af1ce
+00:22:16.338 --> 00:22:20.018
+maximum number? The same
+procedure, you can do the same
+
+NOTE Confidence: 0.8701094
+
+14d9e6cc-f1fb-49d4-afd3-2e4616f8f7d9
+00:22:20.018 --> 00:22:24.066
+procedure, but this time it's
+not just ten positions, you have
+
+NOTE Confidence: 0.8701094
+
+12d69d56-b5e9-4e41-99cd-4403fdce36b7
+00:22:24.066 --> 00:22:28.850
+N position and this is the math
+behind that. So three times the
+
+NOTE Confidence: 0.8701094
+
+d51a7f50-0944-4d8d-b21f-4d091a7832be
+00:22:28.850 --> 00:22:32.530
+significance of old position
+from position 0 to the position
+
+NOTE Confidence: 0.8701094
+
+3abfb98b-6832-4cca-aa7b-2007b919f2d6
+00:22:32.530 --> 00:22:33.634
+N - 1.
+
+NOTE Confidence: 0.8763654
+
+bf9d3288-108c-4774-8636-02ebe3889dc0
+00:22:34.340 --> 00:22:40.025
+So from 0 ... N - 1 becomes N
+position, and then 3 * 4 to the N
+
+NOTE Confidence: 0.8763654
+
+e9a8260d-60a6-49c0-ae7f-3e12ff7c497f
+00:22:40.025 --> 00:22:45.710
+minus 1 / 4 - 1. So this is the
+maximum number when you are
+
+NOTE Confidence: 0.8763654
+
+e25ad139-c871-4756-a18f-2b0bfb32dc14
+00:22:45.710 --> 00:22:50.637
+given N position for the base
+four. As you can see, it's to
+
+NOTE Confidence: 0.8763654
+
+56f4f117-7493-40e0-b54f-4f2781058a99
+00:22:50.637 --> 00:22:55.943
+the power of four, but in Hossein
+system, it's times 4, so you can
+
+NOTE Confidence: 0.8763654
+
+8376eaa6-aa5d-495c-99e4-e218730f5614
+00:22:55.943 --> 00:22:57.080
+see the improvement.
+
+NOTE Confidence: 0.8420435
+
+ea81dbeb-8a3c-435c-859d-1d1e6c348969
+00:22:59.300 --> 00:23:02.875
+And the same if you are given
+the N as 10, so we end
+
+NOTE Confidence: 0.8420435
+
+ab00ebd9-0c0a-4ac6-b4d1-b205327c4a8b
+00:23:02.875 --> 00:23:04.250
+up with the same number.
+
+NOTE Confidence: 0.8999016
+
+99ff87ae-dd4c-4a86-9a3d-5ca8f4f56fcc
+00:23:05.520 --> 00:23:10.096
+How about the other way around?
+If you are given a number in
+
+NOTE Confidence: 0.8999016
+
+6035804b-cd57-41ed-9479-1d0a167ce289
+00:23:10.096 --> 00:23:14.320
+decimal system and we are asked
+how many position we need in
+
+NOTE Confidence: 0.8999016
+
+ac6b8c46-e602-4d70-806b-168c21c2d2f9
+00:23:14.320 --> 00:23:17.488
+order to represent that number
+in base-4 system?
+
+NOTE Confidence: 0.8926548
+
+f43e1a34-de38-4c1b-883f-10450f5066b1
+00:23:19.020 --> 00:23:22.512
+Again, we assume that number is
+the maximum number, so N the
+
+NOTE Confidence: 0.8926548
+
+9cddbb26-8dbe-4574-889e-ea542c47e09a
+00:23:22.512 --> 00:23:26.877
+maximum number is equal to 4 to
+the power of N - 1. So just
+
+NOTE Confidence: 0.8716697
+
+247d336b-d25e-44d0-964d-cd7be5fdd6a7
+00:23:26.877 --> 00:23:30.790
+simple math. Bring one to
+the right side, becomes plus
+
+NOTE Confidence: 0.8716697
+
+f8193cc8-45d6-408f-a8ce-e52519e5b499
+00:23:30.790 --> 00:23:35.550
+one and then we apply log on
+both sides so at the end we
+
+NOTE Confidence: 0.8716697
+
+7ac21dda-d06a-49b9-abf0-892a444d34c8
+00:23:35.550 --> 00:23:39.290
+have and the number of
+position is equal to log N
+
+NOTE Confidence: 0.8716697
+
+76076893-31ac-4055-b800-4a5babaf9639
+00:23:39.290 --> 00:23:41.670
++ 1 to the base of four.
+
+NOTE Confidence: 0.8990324
+
+46ca9673-f7a2-4499-9786-4441db159ec1
+00:23:43.850 --> 00:23:47.800
+So now let's back to the
+original question, which was
+
+NOTE Confidence: 0.8990324
+
+fbbe98d4-fd3c-4eee-9ab7-2402a899c2b4
+00:23:47.800 --> 00:23:52.540
+the what's the most distance
+to the Sun. But this time in
+
+NOTE Confidence: 0.8990324
+
+6d7421fa-c911-4f73-9312-81b7c92573e3
+00:23:52.540 --> 00:23:54.120
+the base-4 system.
+
+NOTE Confidence: 0.8876685
+
+fdd1c785-035f-47d4-91e4-0092ac6b6ec7
+00:23:56.000 --> 00:23:59.896
+So let's go back to
+the poll and see.
+
+NOTE Confidence: 0.89267
+
+65fb7922-14ad-492e-958c-eec04652cb0e
+00:24:01.860 --> 00:24:04.676
+I will go to
+the next question.
+
+NOTE Confidence: 0.880297
+
+be6a67a2-2d00-49e6-bb26-e113234b5751
+00:24:13.330 --> 00:24:18.790
+So let's now see what's the
+distance of Moon to the Oracle
+
+NOTE Confidence: 0.8229773
+
+56e3e41b-f251-4191-842c-662001097a10
+00:24:19.680 --> 00:24:23.552
+Today, the Sun. If you are given
+the distance, the actual
+
+NOTE Confidence: 0.8229773
+
+652e87da-e440-4bb9-a663-59c4b770fd66
+00:24:23.552 --> 00:24:24.960
+distance by an Oracle.
+
+NOTE Confidence: 0.9061091
+
+3a53cafd-1d8c-405f-8c41-7524b74ad32d
+00:24:26.020 --> 00:24:29.650
+So how many pages we need?
+Less than one page, one
+
+NOTE Confidence: 0.9061091
+
+9a4e6955-7ced-4b04-a6c9-c0e1b4ee005d
+00:24:29.650 --> 00:24:31.300
+page, two or three pages?
+
+NOTE Confidence: 0.8749365
+
+93066689-285a-40dc-a157-0ccc9af15aaa
+00:24:50.360 --> 00:24:53.920
+So basically. Let's
+see the answer.
+
+NOTE Confidence: 0.88740087
+
+ec67ec83-0332-47b2-9d85-4a9d207b677d
+00:24:56.000 --> 00:24:59.660
+Oh, we are still waiting for
+others. So let's wait for others
+
+NOTE Confidence: 0.65404457
+
+9be63517-7df9-4b82-b7b0-6a1bc4a33cbd
+00:24:59.660 --> 00:25:03.800
+and see. Uh, what is the answer?
+
+NOTE Confidence: 0.9041364
+
+7cce9593-fb76-4d61-a6cb-0dc6803e2431
+00:25:04.810 --> 00:25:08.026
+So again, we have 77 is
+still in the class, so I
+
+NOTE Confidence: 0.9041364
+
+a446a2da-099b-4822-8a13-ae3f64751655
+00:25:08.026 --> 00:25:09.366
+need more votes, you know?
+
+NOTE Confidence: 0.8750939
+
+ac7f33fd-d75b-404c-a031-f5f704e1943f
+00:25:16.770 --> 00:25:21.606
+I choose the answer is just
+the distance, we already knew
+
+NOTE Confidence: 0.8750939
+
+1a000ae4-044b-4499-a847-33073730e7b2
+00:25:21.606 --> 00:25:26.845
+that it's about 12,000 units of
+Earth, so we just need to know
+
+NOTE Confidence: 0.8750939
+
+dc2bec38-c219-4ae7-8400-3d8283b0aa2b
+00:25:26.845 --> 00:25:32.084
+how can we represent 12,000 in a
+base-4 system, how many position
+
+NOTE Confidence: 0.8750939
+
+074b1280-5e6b-4462-9456-f64f5044d1e2
+00:25:32.084 --> 00:25:37.323
+we need. So we assume 12,000 as
+the maximum number and based on
+
+NOTE Confidence: 0.8750939
+
+3f802f73-d781-49dc-82e1-3e08028b9a44
+00:25:37.323 --> 00:25:40.144
+our formula it is log 12,000 +
+
+NOTE Confidence: 0.8685741
+
+d4d028e6-8c8f-41b6-9542-8bcbadeb2e15
+00:25:40.144 --> 00:25:45.061
+1. Based on the base of
+four, so we have to apply
+
+NOTE Confidence: 0.8685741
+
+5e608ceb-dad0-4991-b1e3-b054531650a0
+00:25:45.061 --> 00:25:47.287
+log 4 on 12,000 + 1.
+
+NOTE Confidence: 0.8865029
+
+1fa44871-c1df-4eb4-8f66-437addb84e95
+00:25:50.990 --> 00:25:55.598
+But the only issue here is that
+usually the calculators have log
+
+NOTE Confidence: 0.8865029
+
+877f6044-147d-48e7-be7c-ca3d5fa90eaf
+00:25:55.598 --> 00:25:56.750
+base on 10.
+
+NOTE Confidence: 0.85584587
+
+6cc9ffd1-457f-4c56-93a7-69a6e745c4c2
+00:25:57.350 --> 00:26:02.182
+So how can
+we apply a log on a base of
+
+NOTE Confidence: 0.92450607
+
+eef6f1e4-9a15-48b6-8868-f203d51dfeff
+00:26:02.182 --> 00:26:05.215
+four? If you are given a
+normal calculator?
+
+NOTE Confidence: 0.93816006
+
+c5b45511-b5d1-4879-9404-f807d3f18606
+00:26:06.810 --> 00:26:07.878
+So that's the issue.
+
+NOTE Confidence: 0.9039552
+
+7816882c-3156-4fc8-8337-b5e8305dec67
+00:26:09.090 --> 00:26:12.468
+So let's see the answer so.
+
+NOTE Confidence: 0.82121444
+
+81fd082e-eab6-42fa-94ee-d38fc058baae
+00:26:16.930 --> 00:26:20.854
+Ah, yes, actually. Travis
+actually gave a very good
+
+NOTE Confidence: 0.82121444
+
+40c8b5cc-04a6-4863-a6de-a197fc19c182
+00:26:20.854 --> 00:26:26.958
+answer to that, so I'll show you
+how we can apply log 4 when
+
+NOTE Confidence: 0.82121444
+
+97fa1d63-e07c-4bcb-b38f-0b94d7a006b7
+00:26:26.958 --> 00:26:29.138
+the calculator has log N.
+
+NOTE Confidence: 0.93537
+
+ec34eb1c-5960-4dc7-928f-32f8eb8f2725
+00:26:29.920 --> 00:26:32.448
+So let's let's move
+on to the answer.
+
+NOTE Confidence: 0.9165812
+
+3e206c76-db10-4019-8099-a22b519781be
+00:26:35.930 --> 00:26:40.050
+OK, 50% so let's see
+what's the answer.
+
+NOTE Confidence: 0.876802
+
+5854a3b6-258b-4adc-98b4-bab4f047f330
+00:26:43.090 --> 00:26:47.398
+The answer is based on our
+formula. We already knew that. I
+
+NOTE Confidence: 0.876802
+
+aba69c7c-88da-4939-994c-abba952a5260
+00:26:47.398 --> 00:26:51.706
+mean the distance of Moon to the
+Earth is about 150 million
+
+NOTE Confidence: 0.876802
+
+81bf2514-f382-4f87-ab65-f3410659916a
+00:26:51.706 --> 00:26:56.014
+kilometers and the diameter of
+the Earth is about 13,000. So we
+
+NOTE Confidence: 0.876802
+
+cf878e8e-e51e-442b-a893-d955590dfa7c
+00:26:56.014 --> 00:26:59.963
+need to have 1000. So you just
+need to represent 12,000.
+
+NOTE Confidence: 0.9007094
+
+6834176c-b41a-4c57-a5f7-dc9bb18e2eb5
+00:27:00.580 --> 00:27:04.696
+So we assume that the maximum
+number is 12,000 and based on
+
+NOTE Confidence: 0.9007094
+
+24a08b27-6cf6-4f3f-8e14-37777fefe372
+00:27:04.696 --> 00:27:08.469
+the base-4, the number of
+position is equal to log
+
+NOTE Confidence: 0.84163076
+
+8caaac03-95a2-456f-9028-b73aa9e2d51b
+00:27:09.170 --> 00:27:12.010
+N + 1. N is 12,000 + 1.
+
+NOTE Confidence: 0.8359816
+
+a4deeb42-f5a2-45fd-b324-22555f9f56e5
+00:27:12.640 --> 00:27:17.884
+But based on the base of four,
+so the calculators has log
+
+NOTE Confidence: 0.8359816
+
+75fad3aa-06f9-4637-ba93-ee8958aeca2f
+00:27:17.884 --> 00:27:24.002
+based on the 10. So based on
+math we know that log a.
+
+NOTE Confidence: 0.8727073
+
+61488edf-d399-4ab3-b3ed-a90969bf77f3
+00:27:24.600 --> 00:27:30.468
+On a base of b is equal to log a
+on a base of 10 divided by log
+
+NOTE Confidence: 0.8727073
+
+d2b5378a-1332-440f-a229-570fbbe0ba17
+00:27:30.468 --> 00:27:32.424
+b on the base of 10.
+
+NOTE Confidence: 0.8831017
+
+342fec34-abcf-415f-a9c2-5f1ea62b4321
+00:27:33.060 --> 00:27:38.325
+So here we assume that a is
+equal to 12,000 + 1 and b is
+
+NOTE Confidence: 0.8831017
+
+8654e023-5020-439f-a8c5-d33a87997904
+00:27:38.325 --> 00:27:42.888
+equal to four. So we can simply
+calculate the log 12001 on the
+
+NOTE Confidence: 0.8831017
+
+29196277-b643-4ccf-be2a-4c37d8bff559
+00:27:42.888 --> 00:27:47.100
+base of 10 divided by log 4 on a
+base of 10.
+
+NOTE Confidence: 0.89665836
+
+3c3099fe-151d-40fe-a101-e6c02fef33d0
+00:27:47.660 --> 00:27:54.520
+And this is equal to
+4 / 0.6 and it's
+
+NOTE Confidence: 0.8979083
+
+1bb23df1-57b8-4a2b-a7b0-cd8ee0d119d9
+00:27:54.520 --> 00:28:00.540
+about 6.79. Which is equal to
+around seven position. So
+
+NOTE Confidence: 0.8979083
+
+1cbf7025-7c0a-48e4-a956-1cd897163c2b
+00:28:00.540 --> 00:28:02.790
+when we are representing the
+
+NOTE Confidence: 0.8806022
+
+323ef826-8cdb-4946-bcef-4a949cbf87ab
+00:28:03.380 --> 00:28:07.560
+distance 12,000 we need about
+seven positions, so less
+
+NOTE Confidence: 0.8806022
+
+c4093f0a-2c7d-425d-a1ac-5afd8cf81923
+00:28:07.560 --> 00:28:11.740
+than a page is the correct
+answer. Just seven position we
+
+NOTE Confidence: 0.90043366
+
+0f69598d-452b-4d42-87c1-849959266ac8
+00:28:11.740 --> 00:28:18.276
+need. And and what's the
+actual number? So we know that
+
+NOTE Confidence: 0.90043366
+
+cfdef57a-6d79-4b8c-85e3-6f5b56a0314c
+00:28:18.276 --> 00:28:23.050
+we need seven position, and when
+we wanted to convert 12,000
+
+NOTE Confidence: 0.90043366
+
+ce3bca6f-f252-4c15-95db-c7f0dd662d1a
+00:28:23.050 --> 00:28:27.824
+decimal system to the base-4,
+it becomes equal to 2323200.
+
+NOTE Confidence: 0.8466066
+
+5cf80f18-d67c-4509-a4a8-e77a725f8e53
+00:28:29.120 --> 00:28:34.412
+But up to now we only know how
+many positions we can have, but
+
+NOTE Confidence: 0.8466066
+
+2128045b-7e5a-433c-8b35-dd254b67933c
+00:28:34.412 --> 00:28:39.326
+we don't know how we can convert the
+decimal number to this system to
+
+NOTE Confidence: 0.8466066
+
+6e203aa4-932c-480e-b3e1-a4fa10ac78f0
+00:28:39.326 --> 00:28:44.240
+other systems such as base-4
+today. Today, our task is how can
+
+NOTE Confidence: 0.8466066
+
+e5a0ecc3-d03c-4f14-ac92-0593fcd7b9ee
+00:28:44.240 --> 00:28:48.020
+we convert from decimal system
+to the other number systems?
+
+NOTE Confidence: 0.85313493
+
+fca60382-c8d2-4f60-94e2-cf5854ba91cc
+00:28:50.410 --> 00:28:54.466
+Uh, so I can wait for some
+questions. If you have any.
+
+NOTE Confidence: 0.8120773
+
+03dfa7ad-4280-41d8-a61f-b270240bede2
+00:28:56.260 --> 00:28:59.944
+You can put your question on the
+chat or raise your hand.
+
+NOTE Confidence: 0.8120773
+
+449936a8-0712-419c-98a9-bb5269658a56
+00:28:59.944 --> 00:29:03.321
+And Sean will let me know and I
+can answer your questions.
+
+NOTE Confidence: 0.9309329
+
+5dbca723-2e29-49e3-ba86-a1ff26619516
+00:29:13.360 --> 00:29:15.060
+So there's no questions.
+
+NOTE Confidence: 0.6951389
+
+0251a762-20d9-41c1-aa3a-a2979106a761
+00:29:16.460 --> 00:29:18.920
+So let's continue with
+
+NOTE Confidence: 0.9067899
+
+69eecf30-02e0-4379-a99f-cc24a93d83d2
+00:29:21.640 --> 00:29:23.208
+The topics for today.
+
+NOTE Confidence: 0.86848474
+
+2d34bcfb-f148-41ce-a3b1-643cc58f6c0e
+00:29:36.580 --> 00:29:41.442
+So we start today's topic by the
+common numbering system. So we
+
+NOTE Confidence: 0.86848474
+
+9d12a0d2-ae07-4c1a-8bb4-f07197cb078f
+00:29:41.442 --> 00:29:43.210
+studied base-4 system.
+
+NOTE Confidence: 0.92199063
+
+bc61f6b0-b390-4344-b656-75b9c9459244
+00:29:44.590 --> 00:29:47.117
+So let me just make sure that.
+
+NOTE Confidence: 0.9305152
+
+8f4726ac-7699-4dc4-88d1-bd3f84e9c9dc
+00:29:50.770 --> 00:29:52.020
+Yes, you can see that.
+
+NOTE Confidence: 0.8266323
+
+1d203d39-4d5c-4867-b6e1-c6a795380429
+00:29:53.370 --> 00:29:59.726
+Ah, you cannot. You can say that
+ we can change the number of
+
+NOTE Confidence: 0.8168479
+
+9e1f5542-4ca6-4ac4-92da-6239c36628a8
+00:29:59.726 --> 00:30:04.309
+symbols to less
+number of symbols or
+
+NOTE Confidence: 0.8168479
+
+894a23fb-b456-4789-9a2f-1c334c3c5550
+00:30:04.309 --> 00:30:08.368
+larger number of symbols.
+For instance, instead of just
+
+NOTE Confidence: 0.8168479
+
+4302e236-1d3f-4f2b-b130-c0e15dafb3ea
+00:30:08.368 --> 00:30:11.689
+having four symbol, we could
+have two or three symbols.
+
+NOTE Confidence: 0.8538742
+
+4515838f-137a-4c5f-890a-58211feacc61
+00:30:12.270 --> 00:30:17.702
+Or in other systems we had only
+one symbol, or we can have I
+
+NOTE Confidence: 0.8538742
+
+6d6d7e34-e5d4-4275-86e4-5cf35a5b1039
+00:30:17.702 --> 00:30:22.746
+mean 6, 7, 8 or more than that. For 
+number of symbols. So in
+
+NOTE Confidence: 0.8538742
+
+619ede9c-d5d2-48c2-b541-3e20a5b4c5ad
+00:30:22.746 --> 00:30:24.686
+decimal system, we have 10
+
+NOTE Confidence: 0.8413146
+
+53639dda-a1e3-402d-8ff9-c8a85cedda07
+00:30:24.686 --> 00:30:29.790
+symbols. Uh, you can do that,
+and the same algorithm
+
+NOTE Confidence: 0.8413146
+
+41395da4-a120-4de1-b846-5bfb58490a12
+00:30:29.790 --> 00:30:33.381
+applies for any base, but
+there's some numbering system
+
+NOTE Confidence: 0.8413146
+
+8a9c18d9-7824-4169-b5cd-4ae91ad2b283
+00:30:33.381 --> 00:30:38.169
+that are very common and used in
+the computer systems, and we're
+
+NOTE Confidence: 0.8413146
+
+0c7b49ee-c9ad-445a-a439-0b43a751e7f4
+00:30:38.169 --> 00:30:40.164
+gonna just give an overview of them.
+
+NOTE Confidence: 0.7097001
+
+cef10aaf-e7c5-4fe1-bff1-75640ca08e0f
+00:30:41.650 --> 00:30:45.421
+Uh, we call them common
+numbering system, the base,
+
+NOTE Confidence: 0.7097001
+
+c0df0454-89d2-4dcc-a043-c4db86962434
+00:30:45.421 --> 00:30:46.259
+...
+
+NOTE Confidence: 0.86821306
+
+c087ffe6-d853-43bd-85a0-152963840f7c
+00:30:47.640 --> 00:30:53.250
+The first one is the base-2 or
+radix 2, because it has only two
+
+NOTE Confidence: 0.86821306
+
+32988026-fa1c-413c-b6de-7b8fdbbf1f2d
+00:30:53.250 --> 00:30:54.746
+symbols, zero and one.
+
+NOTE Confidence: 0.8994984
+
+7a6fde89-b06f-4c82-924b-75ee1fc9a0c9
+00:30:55.440 --> 00:30:59.092
+And this is called binary
+system. That's a name for that.
+
+NOTE Confidence: 0.8678772
+
+b3de894e-8e26-4971-a2df-1e2c94d0f344
+00:30:59.740 --> 00:31:03.783
+So in Binary system or base-2
+system we have only two symbols,
+
+NOTE Confidence: 0.92166233
+
+84edea15-924f-4c14-995f-4c68103f933d
+00:31:03.783 --> 00:31:06.240
+zero and one. And.
+
+NOTE Confidence: 0.8024829
+
+18b1f4bc-76db-4e4a-9b64-b7b63ae274d1
+00:31:07.010 --> 00:31:10.304
+If you are given
+a series of digits.
+
+NOTE Confidence: 0.88069266
+
+d9e354a4-aa16-41ef-8356-573cf4c16ca8
+00:31:11.820 --> 00:31:15.488
+And we are, we assume that this
+is in a binary system. First we
+
+NOTE Confidence: 0.88069266
+
+1ff33496-726b-41e3-99b3-13caca174032
+00:31:15.488 --> 00:31:18.894
+have to check that the digits
+are valid. So we see that all
+
+NOTE Confidence: 0.88069266
+
+ad62ee64-5509-4ab7-a3bf-648db6c0d869
+00:31:18.894 --> 00:31:22.300
+the digits are zero or one, so
+we don't have any other digits
+
+NOTE Confidence: 0.88069266
+
+0bb633fb-9bed-40e4-80a0-2218b01d5db4
+00:31:22.300 --> 00:31:25.444
+such as two or three or
+something, because we are in a
+
+NOTE Confidence: 0.87985104
+
+346aacc4-616f-44ce-baa4-ecd63841edef
+00:31:25.444 --> 00:31:31.720
+binary system. And then we have
+to measure the
+
+NOTE Confidence: 0.87985104
+
+7d246514-e689-4318-99c4-be22cdd60828
+00:31:31.720 --> 00:31:33.560
+significance of each position.
+
+NOTE Confidence: 0.8187752
+
+52a2f685-b620-4db5-9cb5-865072c25ee9
+00:31:34.240 --> 00:31:38.740
+So from the first position to
+the last position, we just
+
+NOTE Confidence: 0.8187752
+
+7e6542aa-f479-48f9-ae2c-b9b743f95371
+00:31:38.740 --> 00:31:42.490
+calculate the significance of
+the position. Because we are in
+
+NOTE Confidence: 0.8187752
+
+134fb853-3244-4663-be81-71ea521fb22e
+00:31:42.490 --> 00:31:47.740
+the base-2 system, we have only
+two digits. We do rounds over 2
+
+NOTE Confidence: 0.8187752
+
+0d8677f1-c5d5-4284-902c-d3e3669faef0
+00:31:47.740 --> 00:31:51.865
+digits, so the significance or
+based on the powers of two.
+
+NOTE Confidence: 0.87052476
+
+c6380fa9-824e-4b6d-9ce3-c53589e3a10b
+00:31:52.710 --> 00:31:58.198
+So we start from 2 to the
+power of 0 to the power of 1
+
+NOTE Confidence: 0.87052476
+
+332e5962-f099-4500-8c51-ef0e6d5f7343
+00:31:58.198 --> 00:32:02.657
+up until to the power of
+7, so eight positions, and then
+
+NOTE Confidence: 0.87052476
+
+00a9357a-cdbd-4dad-8e76-e98f7f0e87f0
+00:32:02.657 --> 00:32:06.087
+we multiply each digit to the
+significance of each position
+
+NOTE Confidence: 0.87052476
+
+39c4f44d-e935-4c83-a0cb-0b055d6e9e95
+00:32:06.087 --> 00:32:09.174
+and then we just sum together,
+so this number,
+
+NOTE Confidence: 0.9285495
+
+2e6994d8-1d0d-47b7-9ea3-a13828f5189b
+00:32:09.810 --> 00:32:16.010
+10101101, is equal to 173
+in decimal system.
+
+NOTE Confidence: 0.8836591
+
+aff3889b-5b5a-4864-948b-560d75727c3e
+00:32:18.670 --> 00:32:23.233
+The next sample is this. We have
+this number and you want to
+
+NOTE Confidence: 0.8836591
+
+68148da1-259d-4874-be3c-24b2f98240bd
+00:32:23.233 --> 00:32:26.743
+calculate what's the actual
+value in the decimal system. So
+
+NOTE Confidence: 0.8836591
+
+a5196258-8110-4615-a13a-0eed74c43b9d
+00:32:26.743 --> 00:32:30.253
+again, we put the significance
+of each positionn and
+
+NOTE Confidence: 0.8836591
+
+d091ffa4-50ed-46cd-8652-53569d0231fa
+00:32:30.253 --> 00:32:34.465
+then we do the multiplication.
+But the thing is before that we have
+
+NOTE Confidence: 0.8836591
+
+85b235f9-593b-4f69-9b29-984c1971409e
+00:32:34.465 --> 00:32:36.571
+to check the digits are valid.
+
+NOTE Confidence: 0.8853594
+
+6932bbca-fa56-45c4-9327-2facd8f8684b
+00:32:37.160 --> 00:32:41.472
+As you can see here we have a
+digit such as two and three
+
+NOTE Confidence: 0.8853594
+
+b57875b2-d435-44fb-aee7-428f1332315c
+00:32:41.472 --> 00:32:44.860
+which are not valid digits in
+Binary system, so we cannot
+
+NOTE Confidence: 0.8853594
+
+12d8097d-461a-43a0-8dc4-0f6460193f35
+00:32:44.860 --> 00:32:47.940
+convert it to the decimal
+system account. We can say
+
+NOTE Confidence: 0.8853594
+
+038a164d-cba5-4326-ab62-f281638559ad
+00:32:47.940 --> 00:32:51.020
+that this is not a valid
+number in binary
+
+NOTE Confidence: 0.8853594
+
+746ea0fc-0393-4797-b8b3-11336d5f6a21
+00:32:51.020 --> 00:32:51.328
+system.
+
+NOTE Confidence: 0.86964595
+
+e5d2e2b8-48d4-486d-a92a-aaea093c96e3
+00:32:53.140 --> 00:32:57.520
+So now because Binary system is
+very important in computer
+
+NOTE Confidence: 0.86964595
+
+1be15f19-3c1e-4c8e-9077-5638706ad972
+00:32:57.520 --> 00:33:02.338
+system, we will see it later. Let's
+count in a binary system
+
+NOTE Confidence: 0.77761316
+
+a96fa412-c094-4eba-85d9-b07815610834
+00:33:02.940 --> 00:33:06.146
+if you are given only four
+
+NOTE Confidence: 0.9335081
+
+4c315d42-021b-40b0-9494-cb4f7dbe493d
+00:33:06.146 --> 00:33:09.388
+positions, so, I just
+wanted to share my
+
+NOTE Confidence: 0.73300886
+
+ab61792c-a909-48d7-85b9-c96a801fb338
+00:33:10.520 --> 00:33:12.380
+camera again.
+
+NOTE Confidence: 0.88205725
+
+c59db4e8-4e39-447b-8937-807353031ccc
+00:33:15.400 --> 00:33:17.830
+And let's count
+on binary system.
+
+NOTE Confidence: 0.8704973
+
+8d43cda0-4165-4634-af24-2c3056dc9cdb
+00:33:19.720 --> 00:33:24.907
+When I was a student I tried to
+repeat this process again and
+
+NOTE Confidence: 0.8704973
+
+b61af779-a24e-4e4e-a48a-558e0ce5cc34
+00:33:24.907 --> 00:33:30.493
+again in order to just memorize
+it so whenever I see a series of
+
+NOTE Confidence: 0.8704973
+
+22b55b9c-20c1-4da3-b7c4-839519192da6
+00:33:30.493 --> 00:33:35.281
+binary digits. I can simply say
+what's the equal value in
+
+NOTE Confidence: 0.8704973
+
+77703a2c-9bfc-41cf-a728-292d6b9bdc8f
+00:33:35.281 --> 00:33:40.468
+the decimal system so I suggest
+you to do this, or repeat. This
+
+NOTE Confidence: 0.8704973
+
+541ba38e-fbd0-4068-9e20-0c8a05fe9b7c
+00:33:40.468 --> 00:33:45.655
+again and again in order to just
+master the digits up until at
+
+NOTE Confidence: 0.8704973
+
+a4433bc3-215e-475d-ae42-bddd09d1850d
+00:33:45.655 --> 00:33:50.044
+least the last digit when we
+are given four positions.
+
+NOTE Confidence: 0.92576075
+
+4b7b7559-0d01-4bc2-8910-c2dff8d153b4
+00:33:50.620 --> 00:33:51.370
+So.
+
+NOTE Confidence: 0.9174891
+
+d378b315-80a0-43cc-81ff-3069f588038a
+00:33:52.930 --> 00:33:55.780
+As you can see here we are
+given four positions.
+
+NOTE Confidence: 0.82255703
+
+4bcefca2-ce4c-4242-8d0e-78a1f19d2a04
+00:34:05.350 --> 00:34:08.430
+So the significance of the
+positions are based on powers
+
+NOTE Confidence: 0.82255703
+
+0c12531c-af7d-469a-9868-f82a548ef2bf
+00:34:08.430 --> 00:34:13.358
+of two, so 2 to the power of
+0, two to the power of 1, two
+
+NOTE Confidence: 0.82255703
+
+3c511f41-840f-4f96-b363-a61373c6fdda
+00:34:13.358 --> 00:34:17.054
+to the power of two and two
+to the power of 3.
+
+NOTE Confidence: 0.67209727
+
+3972b562-d4ee-44fa-b2c4-e564288153b8
+00:34:18.320 --> 00:34:21.848
+And then you start counting.
+
+NOTE Confidence: 0.8916031
+
+97843372-5ff9-4392-a2ef-7403cb49c3f4
+00:34:22.610 --> 00:34:28.044
+So the first number is 0 and if
+we include zero in other
+
+NOTE Confidence: 0.8916031
+
+1e499265-0072-4b41-b31a-0c54bd12042d
+00:34:28.044 --> 00:34:32.224
+positions, it doesn't have any
+impact because 0 multiplied by
+
+NOTE Confidence: 0.8916031
+
+4f9ca0df-7d26-4296-8d86-014e5abe7359
+00:34:32.224 --> 00:34:38.076
+any number is equal to 0. So
+this number is equal to 0.
+
+NOTE Confidence: 0.8651797
+
+b77d4a98-92e2-4028-b79b-a73647ce787a
+00:34:39.110 --> 00:34:43.254
+So we just put here
+the decimal value.
+
+NOTE Confidence: 0.92601013
+
+2af08643-792f-4afe-9400-0fb730deb9ca
+00:34:46.330 --> 00:34:47.800
+So it's equal to 0.
+
+NOTE Confidence: 0.8975619
+
+7f75613e-1912-4ad7-8e35-c999e7141701
+00:34:48.490 --> 00:34:54.118
+The next step is 0 + 1
+becomes one, so in all other
+
+NOTE Confidence: 0.83825207
+
+a5461cc3-4a29-4594-9433-24e9a19c902a
+00:34:54.118 --> 00:34:55.780
+positions, 0.
+
+NOTE Confidence: 0.84610903
+
+6ca1bea8-0508-4aee-b41c-7a53283172f1
+00:34:56.850 --> 00:35:03.142
+Next is this number plus one. So
+one unit further. So this plus
+
+NOTE Confidence: 0.84610903
+
+80b5c3cb-1fc2-496a-b9ef-2dc53a91c460
+00:35:03.142 --> 00:35:04.594
+one becomes one.
+
+NOTE Confidence: 0.88516265
+
+a18e96b9-381d-478c-9bf9-3e5e5657968b
+00:35:05.370 --> 00:35:09.055
+So if I plus this with another
+one, it becomes 2.
+
+NOTE Confidence: 0.87849224
+
+5ef8cdc6-15c9-437e-9a26-166d8d3173fe
+00:35:11.120 --> 00:35:16.250
+But two is not a valid number in
+a binary system, so in order to
+
+NOTE Confidence: 0.87849224
+
+95ee9b18-f5e0-400c-a82b-b6ec2bc039de
+00:35:16.250 --> 00:35:20.012
+make it valid we have to
+break it down into
+
+NOTE Confidence: 0.7833325
+
+a8e4db83-f8ab-4e05-b694-c0b3a514d569
+00:35:21.450 --> 00:35:25.980
+Base two, 0s and 1s.
+So we just divide 2
+
+NOTE Confidence: 0.8707034
+
+8083953f-c40a-42da-93c0-309b7f999210
+00:35:27.260 --> 00:35:32.320
+By two, it becomes one and
+the remainder is equal to
+
+NOTE Confidence: 0.8707034
+
+c0ac96cc-3fdd-453a-bbae-2be9b90d9a8b
+00:35:32.320 --> 00:35:37.840
+0. So we put this remainder
+on a result and then we
+
+NOTE Confidence: 0.8707034
+
+d1b8ea6b-cbef-4d47-95b0-f54098d209ec
+00:35:37.840 --> 00:35:40.140
+consider this as the carry.
+
+NOTE Confidence: 0.852273
+
+9790a760-62e5-4551-9a42-f58f640ffae8
+00:35:41.220 --> 00:35:46.610
+As we did for the decimal system
+in high school, so then this carry
+
+NOTE Confidence: 0.852273
+
+879a3beb-1bb0-4e39-9586-0d4d7cf4f3c1
+00:35:46.610 --> 00:35:51.230
+goes to the next symbol so that
+1 + 0 becomes one.
+
+NOTE Confidence: 0.8863538
+
+e304e83a-e99c-46a6-bf3d-bbe077148eed
+00:35:52.630 --> 00:35:54.018
+And so the other
+
+NOTE Confidence: 0.849115
+
+6c49b80a-18a4-4ddd-beb5-98d12481e717
+00:35:56.280 --> 00:35:57.810
+positions are zero.
+
+NOTE Confidence: 0.8912899
+
+b8199417-99dc-4125-8c22-df513c758e36
+00:35:59.200 --> 00:36:06.085
+So now we have two. The next is
+three, so 2 + 1. So we have to
+
+NOTE Confidence: 0.8097817
+
+e463d785-372b-474e-b205-03ef616cdd55
+00:36:09.150 --> 00:36:12.060
+sum this with just one.
+
+NOTE Confidence: 0.90233195
+
+4694998b-08a7-4204-80ca-433a14c5bddd
+00:36:13.220 --> 00:36:20.870
+So if you do this sum,
+0 + 1 = 1, 1 + 0 = 1, 0 + 0 = 0 plus zero is 0,
+
+NOTE Confidence: 0.90233195
+
+05cc64c7-118d-4872-9eac-ca34aa136f02
+00:36:20.870 --> 00:36:23.930
+so this is three.
+
+NOTE Confidence: 0.9262806
+
+84eedd6b-2080-4f76-bac6-785d03926150
+00:36:24.490 --> 00:36:25.150
+So.
+
+NOTE Confidence: 0.79351604
+
+4e457dcf-d326-4866-82b1-ab42a84b66f9
+00:36:30.220 --> 00:36:36.963
+The next step is a four.
+So, 4 is 3 + 1.
+
+NOTE Confidence: 0.85655093
+
+ad3784bb-ad25-4d6a-ba2d-4412acf42649
+00:36:39.580 --> 00:36:44.920
+1 + 1 becomes 2, Two is
+zero with a carry.
+
+NOTE Confidence: 0.8878539
+
+1812a49c-720c-4b40-b810-ab03e37fd30d
+00:36:46.800 --> 00:36:50.454
+1 + 1 becomes 2 plus 0 becomes two
+
+NOTE Confidence: 0.85280454
+
+4720274b-9acb-4c24-bca6-495647af6dff
+00:36:50.454 --> 00:36:53.788
+Two is zero with a carry.
+
+NOTE Confidence: 0.87122446
+
+c7b6bb81-0e6a-4cd3-8198-bab70f405ba2
+00:36:55.280 --> 00:36:58.648
+And now 1 + 0 becomes
+
+NOTE Confidence: 0.8620167
+
+ceb3c51b-d826-493c-9c04-1c15df05763a
+00:36:58.648 --> 00:37:02.180
+1, 0 + 0 = 0. So this is 4.
+
+NOTE Confidence: 0.79906
+
+435bf7cc-f8a3-4c93-bb89-074bce532e49
+00:37:07.180 --> 00:37:10.915
+So if you do this
+summation, I mean just
+
+NOTE Confidence: 0.79906
+
+b28e44c1-856a-4b86-91bb-e07c2e062238
+00:37:10.915 --> 00:37:14.650
+each number by one
+incremented by one, you
+
+NOTE Confidence: 0.79906
+
+c7a2ecc3-dae6-44a8-9f65-473476873b2c
+00:37:14.650 --> 00:37:17.970
+end with this series, so
+the next is
+
+NOTE Confidence: 0.8536164
+
+98b442dc-1bc5-481d-b1c6-622ebd44c3d9
+00:37:24.300 --> 00:37:29.884
+0101 (1101 is a mistake), the
+next is
+
+NOTE Confidence: 0.91131437
+
+5b5137b6-fa33-4d9d-b362-f35f855a4cb6
+00:37:29.884 --> 00:37:37.740
+0110 (1110 is a mistake), so
+0 1 2 3 4
+
+NOTE Confidence: 0.8306659
+
+fedda862-753a-409f-bb3b-01ec3c5c60c5
+00:37:40.070 --> 00:37:43.403
+Am I right? Oh sorry,
+this should be all
+
+NOTE Confidence: 0.8405374
+
+73d3f863-485e-4826-993d-6f65c0166a56
+00:37:44.100 --> 00:37:45.060
+0.
+
+NOTE Confidence: 0.7084329
+
+c188b22c-315e-43b2-8579-0c6f11020e59
+00:37:46.570 --> 00:37:47.100
+Sorry. 5,
+
+NOTE Confidence: 0.88087994
+
+54e1a095-297e-4f5c-a1ec-4dddc6123651
+00:37:49.550 --> 00:37:53.116
+6 plus
+
+NOTE Confidence: 0.9252184
+
+9470336c-fe55-452c-80bb-95c34dcb6d72
+00:37:53.116 --> 00:37:56.710
+one. So
+
+NOTE Confidence: 0.85624725
+
+a68961ce-a51e-44e9-aa19-ca56ced208e2
+00:37:56.710 --> 00:38:00.480
+0111, so this is seven.
+
+NOTE Confidence: 0.8794416
+
+cb826def-e28e-4960-bf91-c091b27df3f2
+00:38:02.240 --> 00:38:03.560
+Now we can see that.
+
+NOTE Confidence: 0.9171267
+
+4f0b3477-185d-4ff9-a19e-869aca97cc1a
+00:38:04.160 --> 00:38:08.129
+And then it is 7 + 1, so let's.
+
+NOTE Confidence: 0.86960185
+
+27be77f2-7e61-481d-b891-78573064ee74
+00:38:09.540 --> 00:38:12.309
+7 + 1. So
+
+NOTE Confidence: 0.8387153
+
+eaaa85f4-263a-4e11-8354-a6a0f1ae8fe2
+00:38:13.680 --> 00:38:17.224
+1 + 1 becomes 2. Two is one with a
+
+NOTE Confidence: 0.81474316
+
+154d206e-d460-49d0-bf95-ff186bd1c269
+00:38:17.224 --> 00:38:24.480
+carry. 1 + 1 = 2 plus 0 is 2, so 0
+with a carry of 1. 1 + 1 = 2 + 0
+
+NOTE Confidence: 0.81474316
+
+4ce625a5-a1af-42d3-af57-9e1c6c69ef1b
+00:38:24.480 --> 00:38:26.848
+becomes 2, Two is
+
+NOTE Confidence: 0.8211333
+
+f7f94029-bf4f-4511-a9c4-f6f9448eb2ef
+00:38:27.490 --> 00:38:32.810
+zero with a carry. 1 + 0 + 0 becomes one,
+so this is 8.
+
+NOTE Confidence: 0.8574733
+
+9fd7f059-1e99-4fa1-9401-16d2e6bebeed
+00:38:35.630 --> 00:38:38.630
+1000 becomes 8.
+
+NOTE Confidence: 0.9056542
+
+b881e5ce-2a30-4736-a52b-e69221afb77b
+00:38:39.300 --> 00:38:41.925
+This way you can count up until
+
+NOTE Confidence: 0.84335566
+
+8f613adf-7fde-42a9-baaf-2bbeea5eb6f7
+00:38:41.925 --> 00:38:46.810
+15. So the last number, if
+you do counting again, the
+
+NOTE Confidence: 0.84335566
+
+cb0c3820-1ee3-4343-89a8-713ab496a466
+00:38:46.810 --> 00:38:48.318
+last number would be.
+
+NOTE Confidence: 0.93086535
+
+0bac0844-88d6-4a49-8964-726bd6a182e3
+00:38:50.110 --> 00:38:52.830
+1111
+
+NOTE Confidence: 0.8593036
+
+c65d5cb9-089d-468c-8ab0-67e7f8478c06
+00:38:54.160 --> 00:38:59.165
+So as we saw before the last,
+the maximum number we are giving
+
+NOTE Confidence: 0.8593036
+
+1ba4fc77-999a-4715-a67c-a6b2a10eee3e
+00:38:59.165 --> 00:39:03.785
+a four position is the largest
+digit in all positions, so we
+
+NOTE Confidence: 0.8593036
+
+f71a6376-e6af-4af7-a2e4-b520e5ddeed8
+00:39:03.785 --> 00:39:08.405
+have four positions. The largest
+digit in Binary system is 1, so
+
+NOTE Confidence: 0.8593036
+
+1aa24590-96f3-4363-aeaa-2a34ed8e9db2
+00:39:08.405 --> 00:39:12.255
+you repeat one in all the
+positions. This is 15.
+
+NOTE Confidence: 0.8553134
+
+1be5b9a6-1672-4193-989f-4028e1b596ff
+00:39:13.810 --> 00:39:18.214
+So if we apply the same
+formulation given, we are in the
+
+NOTE Confidence: 0.8553134
+
+cf4b9d11-f573-4db2-b9c7-4c3c84b3b017
+00:39:18.214 --> 00:39:23.352
+base TWO (four is a mistake), so the number of
+position is 4, so 2 to the Power
+
+NOTE Confidence: 0.8553134
+
+91e53420-bdd8-4a5f-9649-a5ce74ad5f7f
+00:39:23.352 --> 00:39:24.453
+4 - 1.
+
+NOTE Confidence: 0.86179036
+
+bff41ea1-2cb0-4d70-b5b2-0e7f47d133df
+00:39:25.050 --> 00:39:30.762
+Equal to 215 so the same
+I mean formulation can be
+
+NOTE Confidence: 0.86179036
+
+002888e0-d1c1-45a5-9c96-e00895d9f205
+00:39:30.762 --> 00:39:35.370
+applied here too in order to
+find the maximum number in a
+
+NOTE Confidence: 0.86179036
+
+f8440c55-2c46-40da-8fee-1ac8126d9c55
+00:39:35.370 --> 00:39:39.210
+binary system when
+we have four positions.
+
+NOTE Confidence: 0.89041555
+
+4538ef53-2ef5-4654-b4b8-d2bcfab4cbe0
+00:39:41.200 --> 00:39:43.468
+So let me go back to the slides.
+
+NOTE Confidence: 0.36737227
+
+4c15b95c-90ff-4d68-b144-c3fa1126e852
+00:39:51.680 --> 00:39:52.450
+OK.
+
+NOTE Confidence: 0.9316554
+
+02b8347a-c4f2-4f42-8a0c-a97b07970b8f
+00:39:54.360 --> 00:39:54.840
+OK.
+
+NOTE Confidence: 0.88936025
+
+f85277d6-1cf5-48b3-b2a7-5ba3adbcb519
+00:39:56.760 --> 00:39:59.469
+So let's move on to the next
+
+NOTE Confidence: 0.87584573
+
+5d4e509a-57c8-4720-8ec3-e47398fe802d
+00:39:59.469 --> 00:40:04.086
+numbering system. So we already
+covered the base-4, so we
+
+NOTE Confidence: 0.87584573
+
+2c69b01e-ca1a-436b-86ed-065c4e9fb993
+00:40:04.086 --> 00:40:09.462
+have base-2, base-4 and now
+we have base-8 where we have
+
+NOTE Confidence: 0.87584573
+
+8792bbe5-2b5a-4a54-bc16-61b95edeea0b
+00:40:09.462 --> 00:40:14.454
+only 8 digits from zero up
+until seven. Again. As you can
+
+NOTE Confidence: 0.87584573
+
+7a6d296a-46e3-49fb-a693-b89c45d3b995
+00:40:14.454 --> 00:40:19.446
+see here, the largest digit is
+number of the base minus one. So
+
+NOTE Confidence: 0.87584573
+
+cbc4ffaa-ca76-492a-b40f-752f4fc7ba70
+00:40:19.446 --> 00:40:24.822
+8 - 1 becomes 7, so that's the
+largest digit. So in order to
+
+NOTE Confidence: 0.87584573
+
+8cd39fd3-d618-491c-8ea8-dc6fec58837b
+00:40:24.822 --> 00:40:28.278
+have maximum number we have to
+repeat this data.
+
+NOTE Confidence: 0.88877636
+
+f374fbb4-cb40-4d55-8f50-4d1fcd541adc
+00:40:29.290 --> 00:40:33.090
+So the same rule
+applies. So imagine you are
+
+NOTE Confidence: 0.88877636
+
+a72990f2-be8a-4d45-9dd4-249aeee4aa06
+00:40:33.090 --> 00:40:37.650
+given this number this time
+in base-8. First of all, this
+
+NOTE Confidence: 0.88877636
+
+cc3e7ea9-62a1-46de-9d38-be58043c9f9e
+00:40:37.650 --> 00:40:41.450
+is a valid octary number
+because all the digits are
+
+NOTE Confidence: 0.88877636
+
+628ce0a7-ec58-4254-924e-f6141ddd5feb
+00:40:41.450 --> 00:40:42.970
+between zero and seven.
+
+NOTE Confidence: 0.8852636
+
+ab7e1071-2380-4a17-8dc8-de84f173a80f
+00:40:44.550 --> 00:40:49.002
+And in order to see what's the
+actual value in decimal system,
+
+NOTE Confidence: 0.8852636
+
+7bd683f2-f697-4d79-9d41-42f865336533
+00:40:49.002 --> 00:40:52.712
+we just have to calculate the
+significance of the positions.
+
+NOTE Confidence: 0.8852636
+
+eb1a83f0-4a6c-4c6f-a819-2caa4ef3f885
+00:40:52.712 --> 00:40:57.164
+Because we are in the base
+8, we do rounds over 8
+
+NOTE Confidence: 0.8852636
+
+2cdd1ad4-d4bf-41de-8ed8-524a875dd2eb
+00:40:57.164 --> 00:41:01.245
+digits. So the significance are
+based on the powers of eight.
+
+NOTE Confidence: 0.8939892
+
+ed50fa43-2e67-4c34-8a73-9c181b01659a
+00:41:01.950 --> 00:41:06.000
+So from 8 to the power of 0, 8 to
+the power of 1 up until 8 to the
+
+NOTE Confidence: 0.8988656
+
+b7885e5e-abd4-4cb0-bded-f01a158c8ae5
+00:41:06.000 --> 00:41:09.865
+power of 7. And then we do
+multiplication with each digit
+
+NOTE Confidence: 0.8988656
+
+baf40700-5073-46fe-86eb-3785ea890da1
+00:41:09.865 --> 00:41:12.880
+to the significance of the
+position and then sum.
+
+NOTE Confidence: 0.92046136
+
+960344e5-7a32-4344-a438-3ff60f187a22
+00:41:14.000 --> 00:41:20.816
+So this is the actual value,
+57 million something for the
+
+NOTE Confidence: 0.92046136
+
+6871eea6-5d12-4ad7-809c-9d8951a316da
+00:41:20.816 --> 00:41:23.656
+number 30302131 in base-8.
+
+NOTE Confidence: 0.88974583
+
+74d021a5-f50b-434f-8a03-da6d51052212
+00:41:26.380 --> 00:41:30.748
+As another example, if you are
+given this number in base-8,
+
+NOTE Confidence: 0.88974583
+
+5e007bfb-f78b-4fa0-a95f-2f4d508a9d26
+00:41:30.748 --> 00:41:35.480
+again you have to 1st figure out
+if the numbers is a valid number. As
+
+NOTE Confidence: 0.88974583
+
+d4288eab-cb3a-4c35-b83b-6078ed8be508
+00:41:35.480 --> 00:41:36.936
+you can see here,
+
+NOTE Confidence: 0.8618038
+
+17d7abe7-2b21-4955-9c67-b0526d854f50
+00:41:38.320 --> 00:41:43.930
+I have a digit A and a digit 8 
+which are not valid
+
+NOTE Confidence: 0.8618038
+
+4507f096-0c06-4308-b45e-44a3b5450294
+00:41:43.930 --> 00:41:45.426
+digits in base-8.
+
+NOTE Confidence: 0.8789957
+
+4d8aeb14-042f-4e6e-b061-b94d4ca600ac
+00:41:46.010 --> 00:41:49.678
+Again, for this I put im
+a kind of red color here
+
+NOTE Confidence: 0.86731154
+
+647fceac-d87d-43da-a6d5-03d5152c621b
+00:41:49.678 --> 00:41:54.600
+because although we are in
+base-8, the valid
+
+NOTE Confidence: 0.86731154
+
+0e0ea957-a70f-417e-843f-1cb438ed7d87
+00:41:54.600 --> 00:41:59.172
+digits are 0, 1 up until 7,
+so be careful about this when
+
+NOTE Confidence: 0.86731154
+
+f9462f39-36da-41ed-a633-5b90362bb73d
+00:41:59.172 --> 00:42:00.696
+you are doing calculation.
+
+NOTE Confidence: 0.8692453
+
+b63b7deb-5c97-43a0-8313-2decb2e12d70
+00:42:01.990 --> 00:42:05.998
+I encountered a lot of
+mistakes by students in the
+
+NOTE Confidence: 0.8692453
+
+b79420b2-2fe9-4ef8-b67a-8ee396469d09
+00:42:05.998 --> 00:42:10.006
+final exam. So when you are
+given for instance in base-2,
+
+NOTE Confidence: 0.8692453
+
+4d79c98c-e334-472c-b377-a82bfb82ee8d
+00:42:10.006 --> 00:42:14.682
+the last digit is one. In base-4, the
+last digit is 3 and in base
+
+NOTE Confidence: 0.8692453
+
+b27458b7-1583-47c5-ad68-9bebdc5e94f1
+00:42:14.682 --> 00:42:18.356
+eight the last digit is 7. So be
+careful about that.
+
+NOTE Confidence: 0.87079096
+
+6cb83990-b001-4000-894f-ed6967e817b1
+00:42:19.930 --> 00:42:24.154
+And the same binary digits we
+did calculation when we are in
+
+NOTE Confidence: 0.87079096
+
+0d121d12-06e4-40de-b753-520a46f2cf00
+00:42:24.154 --> 00:42:29.434
+the base-2, we wanna see if
+we are given the same number in
+
+NOTE Confidence: 0.87079096
+
+3ad3ec8a-4fc5-4133-a8a5-3d2e58215e84
+00:42:29.434 --> 00:42:33.658
+the base-8. What would be
+the number? So this is the
+
+NOTE Confidence: 0.87079096
+
+971e901e-d14f-407f-a7ff-e1a7c014fc15
+00:42:33.658 --> 00:42:37.178
+number. I mean. Again, multiply
+each digit to the significance
+
+NOTE Confidence: 0.87079096
+
+f7e69a9f-afaf-4835-b01e-db5c0f808528
+00:42:37.178 --> 00:42:38.938
+of the position and sum
+
+NOTE Confidence: 0.8932954
+
+8083971a-7c98-4057-84cd-a7b2cdde24a0
+00:42:38.938 --> 00:42:44.191
+together. You can see that the
+same number in base-8 is
+
+NOTE Confidence: 0.8932954
+
+624916a6-62a6-4f01-aba5-a63fe659cfc0
+00:42:44.191 --> 00:42:48.492
+equal to about 2 million
+something, but in base
+
+NOTE Confidence: 0.8932954
+
+7be1af62-cf45-4e19-9c00-fa39edcd2a17
+00:42:48.492 --> 00:42:50.056
+two, it was 173.
+
+NOTE Confidence: 0.914998
+
+cd16816c-2cae-47bd-909e-a22d18e0abab
+00:42:51.120 --> 00:42:55.501
+And now you can see the powers
+of this eight with the same
+
+NOTE Confidence: 0.914998
+
+85fc4a6e-868d-47e5-9abe-1aa2ff5d9905
+00:42:55.501 --> 00:42:58.534
+number in the same positions. I
+mean eight positions.
+
+NOTE Confidence: 0.7874957
+
+c55c6394-a415-4e7a-b867-6319859173c8
+00:42:59.140 --> 00:43:04.223
+You can represent a large range of numbers. 
+A wider, very
+
+NOTE Confidence: 0.7874957
+
+7e583b7b-8e28-482a-85d6-b93de4bc46f4
+00:43:04.223 --> 00:43:09.306
+wider, range of numbers in
+base-8, and this is clear
+
+NOTE Confidence: 0.7874957
+
+9e053212-c6b8-4026-8a3c-b8229450eb2f
+00:43:09.306 --> 00:43:13.216
+because the significance are
+based on the powers of eight
+
+NOTE Confidence: 0.7874957
+
+ce197f6e-a03b-4fd8-8bc1-639e6da9b4de
+00:43:13.216 --> 00:43:15.171
+instead of powers of two.
+
+NOTE Confidence: 0.9183127
+
+06681665-dc76-4ec1-8de1-7454aa396d9a
+00:43:17.330 --> 00:43:17.930
+And.
+
+NOTE Confidence: 0.8680212
+
+50ea9a4b-1e26-4e07-ac99-c546f657d92a
+00:43:19.000 --> 00:43:24.880
+You at home you can
+count in octal, so you
+
+NOTE Confidence: 0.8680212
+
+9a1199ae-4509-446c-8b51-c47d69012b7b
+00:43:24.880 --> 00:43:30.760
+count 0, 1, 2, 3, 5, 6, 7 and then when
+you go to the 8th you have to plus
+
+NOTE Confidence: 0.8680212
+
+daa29ac2-5640-4d20-8d36-6b7ed76ac286
+00:43:30.760 --> 00:43:37.480
+7 by 8. So let's, I can do that
+for you just as a sample, let's
+
+NOTE Confidence: 0.8680212
+
+83d0c11b-1155-4cc1-9c96-ce9b78f53141
+00:43:37.480 --> 00:43:39.160
+share my screen again.
+
+NOTE Confidence: 0.8777765
+
+58dcfd2c-118a-4ebf-aaf3-c95f780f46fb
+00:43:48.700 --> 00:43:53.644
+So this time is significance of
+the positions are based on the
+
+NOTE Confidence: 0.8777765
+
+89a04510-8867-470b-bc1c-6589b2acc0c9
+00:43:53.644 --> 00:43:54.880
+powers of eight.
+
+NOTE Confidence: 0.9255345
+
+d605ecf0-f70d-4a98-ab02-86a0e2c08927
+00:43:59.990 --> 00:44:00.810
+So.
+
+NOTE Confidence: 0.7975591
+
+37050335-e76a-4347-92bd-15a3d66ccb0e
+00:44:05.050 --> 00:44:09.376
+The base-2 becomes base-8,
+so 8 to the power of 0, 8 to
+
+NOTE Confidence: 0.7975591
+
+674c4624-08ed-4bf1-a729-304b63ecf7f4
+00:44:09.376 --> 00:44:12.775
+the power of 1, eight to the power of 2
+and eight to the power of 3.
+
+NOTE Confidence: 0.8826166
+
+7e92a472-7ee4-46c1-bea8-baaee4bd9768
+00:44:14.180 --> 00:44:17.276
+First number is 0, 1 up until
+
+NOTE Confidence: 0.8975213
+
+20f96c8c-786e-45c7-8749-2068d5f90ea4
+00:44:18.030 --> 00:44:21.072
+7 are the same as
+
+NOTE Confidence: 0.8352682
+
+309ada5d-122d-49a9-beb2-d1dce7c6e526
+00:44:21.072 --> 00:44:27.793
+decimal. 6, 7, but here
+all these can be filled up
+
+NOTE Confidence: 0.8352682
+
+94377540-be63-49fa-8db6-cde6a78e04dd
+00:44:27.793 --> 00:44:31.657
+with zero. So all these
+areas are zero.
+
+NOTE Confidence: 0.91822475
+
+a1397562-ce99-4607-90b4-83b94a68496a
+00:44:35.150 --> 00:44:37.436
+But here when you are moving
+
+NOTE Confidence: 0.91356975
+
+39453b7d-1d6a-4f9a-a3c3-886be38dd2ac
+00:44:37.436 --> 00:44:39.550
+from 7 to 8,
+
+NOTE Confidence: 0.8937316
+
+bfbdb7f3-994c-4bba-a53c-37680892d9c6
+00:44:40.130 --> 00:44:43.433
+you simply have to
+plus this with one.
+
+NOTE Confidence: 0.8388325
+
+4b0179fc-1d9f-488c-b22f-c6338c4bd028
+00:44:45.320 --> 00:44:50.240
+When you plus seven with one, it
+becomes 8. 8 you cannot represent
+
+NOTE Confidence: 0.8388325
+
+d0db37d5-faa8-40e3-9277-02d3df906959
+00:44:50.240 --> 00:44:53.520
+it in base-8, so you have to
+
+NOTE Confidence: 0.89032954
+
+91bf4f64-84d6-4fe2-bbb5-007240a2d8dd
+00:44:53.520 --> 00:44:59.934
+divide 8 by 8, so it's equal
+to 1 and the remainder is
+
+NOTE Confidence: 0.87259686
+
+f80cb246-63df-4fc1-ae98-31e266986cbb
+00:45:01.350 --> 00:45:04.152
+zero, so you put the remainder
+
+NOTE Confidence: 0.82755977
+
+2a83603a-d287-43bb-9445-0fc1641aefa2
+00:45:04.152 --> 00:45:10.677
+here. And then put the quotient
+as they carry to the next
+
+NOTE Confidence: 0.82755977
+
+6076cd9b-fd98-4943-b973-7875a4d8d8a1
+00:45:10.677 --> 00:45:17.138
+system. So it goes here as the
+carry, and then 1 0 becomes one,
+
+NOTE Confidence: 0.82755977
+
+28e60483-6f99-4aea-bbcb-552980efc387
+00:45:17.138 --> 00:45:22.605
+no carrying, so 0. So eight
+becomes 10 in base-8, the
+
+NOTE Confidence: 0.82755977
+
+08d9c4ae-4c30-47f2-a569-75a83b4bd44f
+00:45:22.605 --> 00:45:30.557
+next number is going to be 9. 9 is 8
++ 1. So if you plus this number
+
+NOTE Confidence: 0.82755977
+
+febdae84-b8b8-4e68-8e8c-b1b99056dfea
+00:45:30.557 --> 00:45:32.545
+with 1 + 0 = 1, so it becomes one.
+
+NOTE Confidence: 0.8424134
+
+59f5938e-0e12-4cf1-a0bb-79fd121b5bc6
+00:45:34.990 --> 00:45:40.786
+No carry so 1100,
+this is 9
+
+NOTE Confidence: 0.7794414
+
+01fd9899-c151-4e69-befa-b80b92f28693
+00:45:42.000 --> 00:45:43.449
+in base-8.
+
+NOTE Confidence: 0.84605163
+
+0a41c227-468b-49a6-9255-c6d36e510d20
+00:45:44.900 --> 00:45:49.340
+So simply you have to increment
+each number by one, but remember
+
+NOTE Confidence: 0.84605163
+
+95244855-8ad2-44e0-8793-3a609011c9c2
+00:45:49.340 --> 00:45:54.520
+if it is more than 7, you have to
+
+NOTE Confidence: 0.84605163
+
+7d69c6ca-4364-4e98-9a2b-287f02d0bbc4
+00:45:54.520 --> 00:45:58.590
+divide it by 8, keep the
+remainder and then put the
+
+NOTE Confidence: 0.84605163
+
+30d17fae-d92c-4e08-8721-6c7e4f401899
+00:45:58.590 --> 00:46:00.070
+quotient to the carry.
+
+NOTE Confidence: 0.873185
+
+cf0a4f03-5c71-4d40-8941-ba0f7fa6e086
+00:46:01.500 --> 00:46:04.588
+The same calculation we
+do in decimal systems.
+
+NOTE Confidence: 0.90555173
+
+b60aa618-678e-48ae-ab6f-8cbc857727a4
+00:46:06.770 --> 00:46:08.846
+So let's go back to the slides.
+
+NOTE Confidence: 0.8931433
+
+c3cc81fd-e1e6-415f-9518-a51a191c1c49
+00:46:11.760 --> 00:46:12.440
+So.
+
+NOTE Confidence: 0.8629411
+
+ddbd440c-d0b4-4166-bb66-86cf8cdc4b22
+00:46:14.170 --> 00:46:19.812
+This is base-8 and the next
+is base-10 and we already are
+
+NOTE Confidence: 0.8629411
+
+1097831c-e308-47a6-b641-89b3efe126f8
+00:46:19.812 --> 00:46:23.842
+familiar with the decimal
+system. We have 10 digits from
+
+NOTE Confidence: 0.8629411
+
+f86f103d-c0ae-4a1b-af1f-8b626ffda245
+00:46:23.842 --> 00:46:29.081
+zero, again, 10 - 1 becomes 9,
+so the largest digit is 9.
+
+NOTE Confidence: 0.80050075
+
+c4910495-d467-4df5-b696-af6434edd116
+00:46:29.670 --> 00:46:35.090
+And this is the system
+that evolved within the
+
+NOTE Confidence: 0.80050075
+
+be08b6ee-6ab4-4607-b3fd-bfe31ada4444
+00:46:35.090 --> 00:46:40.510
+history. In any other
+cultures we have just, I mean
+
+NOTE Confidence: 0.80050075
+
+260f1b28-13db-4c47-8fbd-90cfc913ded3
+00:46:40.510 --> 00:46:45.388
+the common numbering system
+is decimal, so from the
+
+NOTE Confidence: 0.80050075
+
+42f48f52-9ced-43c5-ae33-8cc984977950
+00:46:45.388 --> 00:46:49.182
+Western digits, Eastern
+digits, Roman empires, which
+
+NOTE Confidence: 0.80050075
+
+eb7a7bc4-d6a9-4de8-8f57-83e1e7778bd8
+00:46:49.182 --> 00:46:54.060
+is using Greek, Bengali,
+Malaysia. These numerals are
+
+NOTE Confidence: 0.80050075
+
+f739d5a5-9cce-49b4-a3af-549ca897529b
+00:46:54.060 --> 00:46:58.938
+the same. I mean actual value
+but different symbols.
+
+NOTE Confidence: 0.88847274
+
+7e83394b-8c77-4759-9546-b549a2270935
+00:47:01.010 --> 00:47:04.340
+Again, if you're given this
+number in decimal system, we
+
+NOTE Confidence: 0.88847274
+
+ab2af11b-cd1d-4cba-b21f-dc9c7f2ce812
+00:47:04.340 --> 00:47:07.004
+have to multiply first
+significance of the position
+
+NOTE Confidence: 0.88847274
+
+ed6af95f-b074-412c-87ca-cc0148b073a4
+00:47:07.004 --> 00:47:11.999
+we are in the base-10, so it's
+based on the powers of 10 and
+
+NOTE Confidence: 0.88847274
+
+96953d55-5f5e-45c1-8e6b-161d1092b4aa
+00:47:11.999 --> 00:47:15.329
+then we multiply each digit by
+the significance of the
+
+NOTE Confidence: 0.88847274
+
+22f7fe52-ba36-49d9-b245-240b438d8ff0
+00:47:15.329 --> 00:47:17.993
+position and then sum
+altogether. And be careful
+
+NOTE Confidence: 0.88847274
+
+07f155e1-318e-4eb6-b98c-6ef5023cfff9
+00:47:17.993 --> 00:47:22.655
+because we are in the base-10
+so the powers of 10 is the
+
+NOTE Confidence: 0.88847274
+
+808a1c6a-9bd6-402e-800d-58c2f43f22f7
+00:47:22.655 --> 00:47:24.320
+significance and then sum
+altogether.
+
+NOTE Confidence: 0.8934562
+
+9b751d83-63e9-4332-a088-f495a8fbceef
+00:47:25.680 --> 00:47:30.010
+The interesting
+thing is that when you do this,
+
+NOTE Confidence: 0.8934562
+
+52d1a057-1c0a-417d-8b5b-48c4b73cde6a
+00:47:30.010 --> 00:47:34.340
+you end up with the same
+30,000,000 something you know,
+
+NOTE Confidence: 0.8934562
+
+b4107809-592f-4e53-ba96-b3772eecbbf2
+00:47:34.340 --> 00:47:38.670
+30,302,131 is equal to 30,000,000
+something in decimal. So when
+
+NOTE Confidence: 0.8934562
+
+af122f32-28ce-4bb5-b255-2fdc030ec1c2
+00:47:38.670 --> 00:47:43.866
+you do this calculation, you end
+up with the same series of
+
+NOTE Confidence: 0.8934562
+
+9f0d1890-8247-4675-9529-f9a52368eb97
+00:47:43.866 --> 00:47:46.031
+numbers. So in decimal system,
+
+NOTE Confidence: 0.8618542
+
+f718edd9-ec45-4153-a454-6df141742323
+00:47:47.440 --> 00:47:50.820
+we did before all of the
+converting the numbers in
+
+NOTE Confidence: 0.8618542
+
+86a74ee3-885b-4a17-a82c-21c1a1dccb53
+00:47:50.820 --> 00:47:53.524                                          
+other systems to decimal
+system. So when you
+
+NOTE Confidence: 0.8618542
+
+689ce418-b779-4415-a5d2-c19439cfc3e6
+00:47:53.524 --> 00:47:56.904
+converting the decimal to
+decimal you end up with the
+
+NOTE Confidence: 0.8618542
+
+5ae4f995-421e-466a-85b3-82be8c97964a
+00:47:56.904 --> 00:47:57.580
+same number.
+
+NOTE Confidence: 0.85512245
+
+68d6986d-fae0-4a22-9ebd-a862591215c2
+00:47:59.600 --> 00:48:04.124
+The same digits of Binary. I
+mean they just 0 1, but we did
+
+NOTE Confidence: 0.85512245
+
+7dd23dfa-39f6-4821-8058-938a361f222a
+00:48:04.124 --> 00:48:08.996
+for the base-2 base-8 in
+the base-10. You don't need any
+
+NOTE Confidence: 0.85512245
+
+c6e269d0-5253-4bc4-8dae-3c09e588f314
+00:48:08.996 --> 00:48:13.172
+calculation because you will end
+up with the same series of digit
+
+NOTE Confidence: 0.8933192
+
+c2f682b2-ec47-4f12-8a2c-bc6923d065d9
+00:48:13.172 --> 00:48:17.395
+10,000,000 something. So it's
+not just doing the calculation,
+
+NOTE Confidence: 0.8933192
+
+9caecc5d-1cda-4f7f-af16-525529332e3d
+00:48:17.395 --> 00:48:21.850
+you can just say that this is
+equal to decimal number 10,000,000
+
+NOTE Confidence: 0.8933192
+
+8184e91a-014d-40f1-854f-301df97d63fe
+00:48:21.850 --> 00:48:23.470
+something in decimal system.
+
+NOTE Confidence: 0.889581
+
+f465c83e-7967-4ce0-9930-d14cdabc95bb
+00:48:24.340 --> 00:48:28.480
+But again, when you compare
+the same number 10101101 in
+
+NOTE Confidence: 0.889581
+
+47c69e0e-c86d-4d54-b3a5-0cec3db8f3be
+00:48:28.480 --> 00:48:32.620
+base-2 base-8 and base-10,
+you can see that.
+
+NOTE Confidence: 0.7764981
+
+e41e7fa0-6688-454c-85f2-5fa36bb87da8
+00:48:33.960 --> 00:48:39.952
+in base-8. You can, uh, have a
+higher value for the same digit.
+
+NOTE Confidence: 0.8747006
+
+08705c10-4c93-47b0-ad2d-45c66cb8f6fc
+00:48:41.950 --> 00:48:46.752
+This is equal to 173. In
+base-2 it's about 2 million in
+
+NOTE Confidence: 0.8747006
+
+2f39225d-cbd6-4b66-8b75-568493ec65c4
+00:48:46.752 --> 00:48:50.525
+base-8, but the same number
+is is equal to 10,000,000.
+
+NOTE Confidence: 0.8747006
+
+50ebf5fc-40e2-4ded-afe2-d02e962d5437
+00:48:50.525 --> 00:48:51.897
+Something in base-10.
+
+NOTE Confidence: 0.8805749
+
+9b11e255-ff9b-4b6d-a0bd-5f6ec8e59013
+00:48:54.720 --> 00:48:58.764
+And let's do another sample if
+you are given this number again,
+
+NOTE Confidence: 0.8805749
+
+53f74652-74eb-4a06-8c53-cd6ad2facd6a
+00:48:58.764 --> 00:49:02.808
+you have to check first if the
+validity of the digits here,
+
+NOTE Confidence: 0.8805749
+
+185aa10a-52fd-440f-9c9f-b3d7e83c3809
+00:49:02.808 --> 00:49:07.863
+because we have a A is not a
+symbol in base-10, so this is
+
+NOTE Confidence: 0.8805749
+
+2bb4a15c-297a-4067-8e5e-7c8e5406a1f9
+00:49:07.863 --> 00:49:09.211
+not a valid number.
+
+NOTE Confidence: 0.89916664
+
+3fcb605c-7ba6-495e-a1e5-b195dd4f4e57
+00:49:11.030 --> 00:49:16.516
+And I believe that you can count
+on decimal system from one to 15.
+
+NOTE Confidence: 0.89916664
+
+cd60dfa8-0807-45b2-9f4d-b4db6d87ab1a
+00:49:16.516 --> 00:49:21.158
+So I don't explain this anymore.
+You already knew this from
+
+NOTE Confidence: 0.89916664
+
+092d5945-7377-4ef8-82fe-2352b9c051c9
+00:49:21.158 --> 00:49:22.846
+primary school I guess.
+
+NOTE Confidence: 0.87999225
+
+d0480d95-1372-427c-aa7f-2e49b935effc
+00:49:24.880 --> 00:49:30.040
+And the next is a base 16
+or hexadecimal ,hexadecimal
+
+NOTE Confidence: 0.87999225
+
+8bf6fee2-e9be-4be9-a4fa-c3ba9d7387e5
+00:49:30.040 --> 00:49:36.748
+number system is as it at the
+name actually says it has 16
+
+NOTE Confidence: 0.8507183
+
+9602c717-f788-4250-9a99-4fb8ce7524d9
+00:49:36.748 --> 00:49:44.048
+digits. From zero one two up until
+9 and then the next digit is
+
+NOTE Confidence: 0.8507183
+
+41380987-fcac-4f24-9de4-71f062b2b4ce
+00:49:44.048 --> 00:49:46.618
+a next digit is BCDEF.
+
+NOTE Confidence: 0.93758404
+
+d72529db-63fe-4af3-887b-67d4f53c1ce0
+00:49:47.530 --> 00:49:50.018
+So this is the.
+
+NOTE Confidence: 0.72606385
+
+332fa13b-feff-4fd0-906b-803326f7954a
+00:49:50.730 --> 00:49:56.957
+Uh, not make sense. I mean, 16
+digits again in the source from
+
+NOTE Confidence: 0.72606385
+
+a22b5f0d-cdda-4c79-97be-8b6c5ecef2af
+00:49:56.957 --> 00:49:59.831
+zero, but the largest digit here
+
+NOTE Confidence: 0.88735247
+
+b7e16ea7-a4f9-4cd6-86da-3e88daafca06
+00:49:59.831 --> 00:50:06.344
+is. 15  or F and you
+can see the value is 16 - 1,
+
+NOTE Confidence: 0.88735247
+
+de71e6fb-bd55-43b5-b06e-5bd26bff3d56
+00:50:06.344 --> 00:50:10.998
+which is 15. So in this system
+when they represent 15 they put
+
+NOTE Confidence: 0.88735247
+
+c382e233-8bd4-459a-bb2d-2ed7b9204ee3
+00:50:10.998 --> 00:50:12.430
+F as the symbol.
+
+NOTE Confidence: 0.78271526
+
+3fa2b1ae-e2c7-4db9-aaa7-729f0d819208
+00:50:14.120 --> 00:50:21.330
+14 is E ,13 is D and
+12 is C, 11 is B and
+
+NOTE Confidence: 0.78271526
+
+14f9f10e-9e60-49c6-a59e-cf0664703d9e
+00:50:21.330 --> 00:50:22.875
+10 is A.
+
+NOTE Confidence: 0.8823922
+
+e32e01af-5943-4df8-874f-7c5eaeb9db80
+00:50:24.890 --> 00:50:30.494
+So let's practice. If you are
+given this number 3 A 30809131
+
+NOTE Confidence: 0.8823922
+
+739d7b1f-ce8e-4dca-ad5b-434d3223b379
+00:50:30.494 --> 00:50:36.098
+because  We are in the base
+16, so the significance are
+
+NOTE Confidence: 0.8823922
+
+39678464-0efb-4c4e-b6b7-339d02c9da97
+00:50:36.098 --> 00:50:41.702
+based on the powers of 16. So we
+first calculate the significance
+
+NOTE Confidence: 0.8823922
+
+c40aa95b-5a40-4cf3-82b2-ba8859d0549f
+00:50:41.702 --> 00:50:46.839
+and then we multiply each digit
+to the significance of the
+
+NOTE Confidence: 0.8823922
+
+539784c1-8895-403d-a0db-27aed9852b53
+00:50:46.839 --> 00:50:49.641
+position and then we all sum
+
+NOTE Confidence: 0.8977942
+
+a2c64cb5-a82c-4565-a489-6cbf036ae331
+00:50:49.641 --> 00:50:55.678
+together. You might wonder how
+can we multiply a by 16 to the
+
+NOTE Confidence: 0.8977942
+
+e171248a-cc93-4206-8353-d27229dccf59
+00:50:55.678 --> 00:50:58.102
+power of five, as I said.
+
+NOTE Confidence: 0.8894561
+
+40daa04a-409c-45bf-b458-85e8469a03aa
+00:50:59.090 --> 00:51:00.548
+A is 1.
+
+NOTE Confidence: 0.8938765
+
+cd46b68e-bc94-4995-acdf-efc55f39b471
+00:51:01.310 --> 00:51:07.115
+Step after 9 so it becomes 10,
+so the actual value of a is 10.
+
+NOTE Confidence: 0.8938765
+
+fa185078-da85-4476-b449-6bae1b5d1825
+00:51:07.115 --> 00:51:12.533
+So you can convert A to 10 and
+then multiply 10 by 16 to the
+
+NOTE Confidence: 0.8938765
+
+4366320c-ce3d-484b-a229-e2fea60fc8c3
+00:51:12.533 --> 00:51:13.694
+power of 5.
+
+NOTE Confidence: 0.90834993
+
+ba1b1a89-09f1-44e3-8451-a4bdc64ab4d3
+00:51:15.640 --> 00:51:21.350
+And this is the number 8 million
+815 million something.
+
+NOTE Confidence: 0.8580278
+
+c308035f-c276-4252-8c52-3da998612364
+00:51:23.120 --> 00:51:24.329
+In decimal system.
+
+NOTE Confidence: 0.87364393
+
+231aea4d-d818-48ab-a859-0d164e2f1cf5
+00:51:26.300 --> 00:51:31.880
+Again, if you are, if you see B,B
+means next step after a which is
+
+NOTE Confidence: 0.87364393
+
+756899a4-a240-4a74-9498-6e311eefe0d4
+00:51:31.880 --> 00:51:34.484
+2 step after 9 which is 11.
+
+NOTE Confidence: 0.8415235
+
+470aef10-aed3-4938-a50e-514d05fc42a6
+00:51:35.160 --> 00:51:39.816
+C is 12. An up until F which
+is equal to 15.
+
+NOTE Confidence: 0.8749523
+
+e4757c99-7a8d-486c-9dfc-af79a70068a5
+00:51:42.120 --> 00:51:48.144
+So the same binary digit or
+binary number in base 16 is
+
+NOTE Confidence: 0.8749523
+
+f30acf2e-076d-4a19-8f41-4424459062e7
+00:51:48.144 --> 00:51:50.152
+equal to 269 million.
+
+NOTE Confidence: 0.88605976
+
+9b686b40-6298-4eb8-96f3-82d160446b7d
+00:51:50.770 --> 00:51:56.451
+So again, in order to compare
+from the same number in base-2
+
+NOTE Confidence: 0.88605976
+
+1ea457c7-0de4-4081-910a-94c16cb18167
+00:51:56.451 --> 00:52:01.695
+is 173 in base, eight is 2
+million something base-10 is
+
+NOTE Confidence: 0.88605976
+
+e6bfd104-ca3e-4e23-bf1d-709416f28fae
+00:52:01.695 --> 00:52:07.376
+10,000,000. But in base 16 at
+the same number is equal to 269
+
+NOTE Confidence: 0.9108392
+
+6a9f9518-79f8-4c5b-b591-1f83a2afe884
+00:52:07.376 --> 00:52:12.660
+million. So it shows you
+the how we if we increase
+
+NOTE Confidence: 0.9108392
+
+dc0a0fb2-02cd-4f6c-bc03-45c7a761096a
+00:52:12.660 --> 00:52:16.341
+the base or the number
+digits. We can represent
+
+NOTE Confidence: 0.9108392
+
+0b76c67c-bcf3-4da7-9f79-8657228c7272
+00:52:16.341 --> 00:52:18.386
+a wider range of numbers.
+
+NOTE Confidence: 0.78583
+
+cbad7114-b0ac-4ff2-bc66-3ed06771abc8
+00:52:21.390 --> 00:52:27.520
+And in this at home,
+try to count from in
+
+NOTE Confidence: 0.78583
+
+37481ad9-aa9b-40b3-8842-9bfafde65e06
+00:52:27.520 --> 00:52:33.037
+base 16 when you are
+given 4 digits and.
+
+NOTE Confidence: 0.9096587
+
+93191a8d-1973-4e6c-a7fe-685ede2a506b
+00:52:34.580 --> 00:52:38.375
+And just practice this and
+you'll see that you'll see that       
+
+NOTE Confidence: 0.9096587
+
+c298c303-6d3f-473d-b8f8-dbdd57972b9c
+00:52:38.375 --> 00:52:42.860
+when you are given just four
+position, you will end up with a
+
+NOTE Confidence: 0.912751
+
+52969922-2633-4df6-816c-0b8a3b87d1ad
+00:52:42.860 --> 00:52:49.001
+maximum number. 416 to the
+power of 4 - 1, which is a
+
+NOTE Confidence: 0.912751
+
+9fa5bfb6-67e3-4d81-babf-587d5ab2a868
+00:52:49.001 --> 00:52:49.863
+huge number.
+
+NOTE Confidence: 0.84425324
+
+68d7fca3-9c07-4830-8ffe-901137dd2a69
+00:52:53.360 --> 00:52:58.144
+And the next is, uh, is the most
+recent. I mean, numbering system
+
+NOTE Confidence: 0.84425324
+
+09e835dd-873d-4085-8e54-421bb09ef099
+00:52:58.144 --> 00:52:59.248
+is base 64.
+
+NOTE Confidence: 0.8961397
+
+6c2dc1a9-0351-4c00-abf9-f99058e7a2b7
+00:52:59.860 --> 00:53:02.128
+It has 64 symbols.
+
+NOTE Confidence: 0.8702216
+
+1537d8df-beed-4663-9e48-e7b4ea0c20f9
+00:53:02.810 --> 00:53:09.062
+And pay attention. It is start
+with a. So start with capital
+
+NOTE Confidence: 0.8702216
+
+f85d7ac4-a7da-44ba-bc6f-635f69239c92
+00:53:09.062 --> 00:53:11.146
+letters in English ABC.
+
+NOTE Confidence: 0.8676396
+
+d5c4fad4-cd17-4e6a-8774-7c66785d4e09
+00:53:11.760 --> 00:53:17.520
+And then after the capital Z,
+It start with the small cases of
+
+NOTE Confidence: 0.8676396
+
+b9338ca6-d11f-464d-a197-f9f78a5be9cd
+00:53:17.520 --> 00:53:23.760
+ letters in ABC, and then
+zero one up until nine and the last
+
+NOTE Confidence: 0.8676396
+
+fade6d7a-9c99-41e3-a63d-f7dd70ebd7ee
+00:53:23.760 --> 00:53:29.520
+two digits are plus an forward
+slash. So forward slash is the
+
+NOTE Confidence: 0.8676396
+
+6bff6ee2-630b-4018-addb-d5b53803b5e6
+00:53:29.520 --> 00:53:31.920
+largest digit in base 64.
+
+NOTE Confidence: 0.8516451
+
+bbabebe2-959e-4e00-9854-9fa5564b4f0c
+00:53:32.680 --> 00:53:36.882
+And the lowest digit is A, so
+this numbering system doesn't
+
+NOTE Confidence: 0.8516451
+
+ebe5a058-ff21-41ad-af5e-5f4f473f9e7e
+00:53:36.882 --> 00:53:39.174
+start with zero. It is start
+
+NOTE Confidence: 0.89479005
+
+de537212-c792-406d-97d1-7e8bce4887cc
+00:53:39.174 --> 00:53:41.900
+with A. And zero.
+
+NOTE Confidence: 0.8166521
+
+db796679-5d23-4c52-bd6d-ec12e79d3a9a
+00:53:42.510 --> 00:53:46.954
+Has him a higher value in
+decimal system, so be careful
+
+NOTE Confidence: 0.8166521
+
+4c829bec-99f5-44e6-937d-15c7d4b20f5b
+00:53:46.954 --> 00:53:48.570
+about this numbering system.
+
+NOTE Confidence: 0.9365957
+
+8b0ea012-3834-4c60-bd08-3863802a1932
+00:53:49.250 --> 00:53:50.468
+So let's practice.
+
+NOTE Confidence: 0.7276673
+
+503527c1-29db-49d4-811d-b1b74aa3fcf4
+00:53:51.450 --> 00:53:56.663
+Anna, one thing is that this is
+a nammack system used in emails
+
+NOTE Confidence: 0.7276673
+
+6f3b907c-1300-4fdd-8c5c-270689da9879
+00:53:56.663 --> 00:53:58.668
+when they code texture in
+
+NOTE Confidence: 0.80821425
+
+563a334c-d0e4-4dde-b83a-6d0080b25250
+00:53:58.668 --> 00:54:03.250
+formation. Uh, in, I mean,
+if that's the standard for
+
+NOTE Confidence: 0.80821425
+
+401276e3-1a40-47e1-ba80-a7669328a4d3
+00:54:03.250 --> 00:54:06.850
+exchanging email and today's
+I mean Mail servers when
+
+NOTE Confidence: 0.80821425
+
+f03eb506-e075-40b7-9f77-87ac9c50478d
+00:54:06.850 --> 00:54:09.250
+they are decoding the
+textual information.
+
+NOTE Confidence: 0.93403786
+
+b7c93c90-debf-4e59-9316-5a73a6040572
+00:54:11.230 --> 00:54:13.098
+And this is the.
+
+NOTE Confidence: 0.8879448
+
+b0036981-4043-4f3c-8c5f-c8702f79134a
+00:54:13.920 --> 00:54:20.122
+Actual value of each digit in
+base 64. So, as I said, A is
+
+NOTE Confidence: 0.8879448
+
+76dc5ab5-9c5b-45ae-b98a-f76c3d99c8ae
+00:54:20.122 --> 00:54:27.210
+equal to 0, P is 1 up until here
+is small a is equal to #26.
+
+NOTE Confidence: 0.86459833
+
+531df17f-e9ba-4dc2-bbd5-b7399053b99a
+00:54:28.070 --> 00:54:33.725
+Anna get interesting thing is
+here O in base 64 is equal to
+
+NOTE Confidence: 0.86459833
+
+df5bb4cb-9d52-4de9-b530-8087a95c8bb1
+00:54:33.725 --> 00:54:36.335
+52, so be careful about that.
+
+NOTE Confidence: 0.8959867
+
+8e6ec423-45e9-4429-856a-1789cedfc10c
+00:54:37.170 --> 00:54:42.150
+And the largest digit is forward
+slash, which is equal to 63.
+
+NOTE Confidence: 0.9391529
+
+fc46a063-2859-4122-b281-07bb40658fb1
+00:54:42.820 --> 00:54:44.089
+So let's practice.
+
+NOTE Confidence: 0.894411
+
+f442ab05-3297-40c9-8b9c-f697b49e3e6a
+00:54:45.310 --> 00:54:50.314
+I see what's the equal number in
+decimal system for this number
+
+NOTE Confidence: 0.894411
+
+cecc5f32-e6ca-498b-a1b5-25d65a499b6d
+00:54:50.314 --> 00:54:51.565
+in base 64.
+
+NOTE Confidence: 0.8929486
+
+57f3ec13-105a-4a2f-8186-b66d8f4ea467
+00:54:52.240 --> 00:54:57.172
+So the same we first have to
+figure out the significance of
+
+NOTE Confidence: 0.8929486
+
+b91d339a-aa14-46a3-b048-8276f6eb290e
+00:54:57.172 --> 00:55:02.104
+the positions because we are in
+the base 64, the powers are
+
+NOTE Confidence: 0.8929486
+
+1d69e6df-c4a7-4b3f-83e2-8153342d24db
+00:55:02.104 --> 00:55:03.337
+based on 64.
+
+NOTE Confidence: 0.8903809
+
+6f2d354e-4ae2-4114-8a8e-0b748d76369a
+00:55:04.070 --> 00:55:09.236
+And then we multiply each digit
+by the powers of 64. So when we
+
+NOTE Confidence: 0.8903809
+
+9baf7bdd-8ae1-4b38-9e9b-b7a7198ff493
+00:55:09.236 --> 00:55:14.033
+do this, we have to figure out
+what the value of plus what's
+
+NOTE Confidence: 0.8903809
+
+353c1772-0fbf-469c-9cfc-000c3732a991
+00:55:14.033 --> 00:55:19.199
+the value of Capital H. What's
+the value of 1? So in base 64,
+
+NOTE Confidence: 0.8903809
+
+f3fe63da-7a11-4bcf-8845-3e2799505cc2
+00:55:19.199 --> 00:55:23.996
+remember one is not doesn't have
+the value of one. You have to
+
+NOTE Confidence: 0.8903809
+
+849be731-2653-4f3f-b8ab-7425442d7016
+00:55:23.996 --> 00:55:28.793
+figure out what's the actual
+value of 1 in base 64 and etc.             
+
+NOTE Confidence: 0.91718996
+
+c287d2de-42ce-4025-8d65-8215960e828b
+00:55:29.470 --> 00:55:34.862
+So when we look up in the table,
+you see that a is equal to zero
+
+NOTE Confidence: 0.91718996
+
+edc2fc79-0eb0-40c9-bb76-787ecb4e9423
+00:55:34.862 --> 00:55:36.884
+capital, H is equal to 7.
+
+NOTE Confidence: 0.7745416
+
+9646109a-590a-4dbc-8045-f4b1c2f7a5b6
+00:55:37.850 --> 00:55:42.350
+Small a is equal to 26. Small,
+b is equal to 29.
+
+NOTE Confidence: 0.9063441
+
+af6cc62d-cbdc-4801-b52f-bdf37ecc0304
+00:55:43.070 --> 00:55:49.010
+One is equal to 50, three and
+three is equal to 55 And etc. So
+
+NOTE Confidence: 0.9063441
+
+1aff3cd7-166c-400b-a901-a0ec6cd68cae
+00:55:49.010 --> 00:55:53.762
+based on this table, look up.
+You know the actual value of
+
+NOTE Confidence: 0.9063441
+
+6a79ca2c-bb26-47ed-8fca-aeb2cda30aed
+00:55:53.762 --> 00:55:55.742
+each digit in base 64.
+
+NOTE Confidence: 0.8888631
+
+96f826a3-b14a-4674-ae9e-b5ef10dec88a
+00:55:56.540 --> 00:56:01.424
+And then you do the
+multiplication so 62 times by 64
+
+NOTE Confidence: 0.8888631
+
+7aff7166-438a-440a-b82e-f03070b6566e
+00:56:01.424 --> 00:56:03.644
+to power of 0 etc.
+
+NOTE Confidence: 0.8575253
+
+0d24ced2-c5c7-41b1-9594-ef547f73b3bb
+00:56:05.170 --> 00:56:06.950
+And then you sum altogether.
+
+NOTE Confidence: 0.9173381
+
+5be4bfe8-85c5-4e9e-b9c3-0770834a7c47
+00:56:07.850 --> 00:56:13.870
+So this is this number in base
+64 is equal to this huge number
+
+NOTE Confidence: 0.9173381
+
+88c868d6-7638-43b7-b534-87e987d596d5
+00:56:13.870 --> 00:56:15.160
+in decimal system.
+
+NOTE Confidence: 0.9081996
+
+8b5e1361-7831-4f96-8a8f-d26973c0e1c7
+00:56:17.460 --> 00:56:20.760
+Actually, I'm not sure I can
+read this huge number, but
+
+NOTE Confidence: 0.9081996
+
+1374849d-ab7a-422e-b38c-9dcc50eebdeb
+00:56:20.760 --> 00:56:21.960
+that's the big number.
+
+NOTE Confidence: 0.92357695
+
+c3358216-4b3b-4617-b0b5-51760a32acf9
+00:56:25.130 --> 00:56:25.770
+And.
+
+NOTE Confidence: 0.90404797
+
+19c5f4f4-36e3-4532-9242-915280b6ffdd
+00:56:27.000 --> 00:56:33.331
+In to wrap up all these systems
+that when they introduce a new
+
+NOTE Confidence: 0.90404797
+
+a72722be-52fb-47f1-a5e5-8c222266cd1c
+00:56:33.331 --> 00:56:37.227
+position, they introduced new
+position with the significance
+
+NOTE Confidence: 0.90404797
+
+80dc2039-f86d-400e-979b-baf15eb8efcb
+00:56:37.227 --> 00:56:42.097
+and that significance are based
+on the powers of R.
+
+NOTE Confidence: 0.90515625
+
+c77db9d0-3440-446a-811a-de811c2eebe5
+00:56:42.780 --> 00:56:50.125
+It would be 2, four or any
+number 3,5,6, 16, 64 or 20.
+
+NOTE Confidence: 0.8261143
+
+3a19300c-3b13-4a2e-8b70-ac950b305673
+00:56:50.770 --> 00:56:55.786
+It is called Radix -R numbering
+system, so all these numbering
+
+NOTE Confidence: 0.8261143
+
+f1adae82-9a7f-4a61-8fa1-066be6bb20e4
+00:56:55.786 --> 00:57:00.346
+system that we discussed are
+members of this category R
+
+NOTE Confidence: 0.8261143
+
+b2d8967b-0932-416c-b4a7-5a5fdd655ab9
+00:57:00.346 --> 00:57:02.170
+radix -R numbering system.
+
+NOTE Confidence: 0.7917711
+
+d68b0218-76c8-4b93-b3d1-0b06302fa369
+00:57:02.890 --> 00:57:07.282
+And pay attention to that. That
+Hussein's numbering system,
+
+NOTE Confidence: 0.7917711
+
+33af1f86-9a24-4fff-b2e3-bee389100b80
+00:57:07.282 --> 00:57:12.162
+which we introduced last session
+or in the early decision.
+
+NOTE Confidence: 0.7917711
+
+8525b689-0022-4ae2-84cd-02b8aed66e5d
+00:57:12.162 --> 00:57:16.066
+Becaused this new position
+doesn't have any significance.
+
+NOTE Confidence: 0.7917711
+
+c755b771-66cf-4d17-b7e5-64803724b2f5
+00:57:16.066 --> 00:57:20.946
+The Hussein's system is not
+considered as the radix-R
+
+NOTE Confidence: 0.79794294
+
+f6d2dd6d-64ba-4208-9ec4-bc897299962e
+00:57:20.946 --> 00:57:25.783
+number system. So radix-R 
+numbering system makes 
+some are based on this
+
+NOTE Confidence: 0.79794294
+
+cda7c671-beaf-48cc-88d6-a8a6c3e9b7c8
+00:57:25.783 --> 00:57:28.319
+significance position based on
+the powers of R.
+
+NOTE Confidence: 0.8915418
+
+6d30aa4c-c7a7-4dfa-9813-4ee3fb74ec9d
+00:57:30.310 --> 00:57:35.270
+And this is the general
+formulation in order to convert
+
+NOTE Confidence: 0.8915418
+
+ee1f8c47-8a70-45bd-bb64-7851ebea61bd
+00:57:35.270 --> 00:57:36.758
+any number n.
+
+NOTE Confidence: 0.817838
+
+07b50808-7061-4737-a24f-d452ee3b95c8
+00:57:38.070 --> 00:57:39.810
+In a base R.
+
+NOTE Confidence: 0.85060084
+
+cc93f5e8-210c-4697-b6ed-a1294bf93f10
+00:57:40.450 --> 00:57:43.425
+To the equal number in base-10.
+
+NOTE Confidence: 0.8450139
+
+9566fe7e-57a2-4d92-a24d-0db488db4aef
+00:57:44.910 --> 00:57:48.510
+So you simply multiply each
+digit the i to the
+
+NOTE Confidence: 0.8450139
+
+5c191679-900c-40d5-a70c-e7cbcdeb0894
+00:57:48.510 --> 00:57:52.470
+significance of that position
+based on the powers of R. So
+
+NOTE Confidence: 0.8450139
+
+1562538e-95bd-4d0b-917d-3505403b41e0
+00:57:52.470 --> 00:57:57.870
+di I * R to the power of I an
+use some altogether. But one
+
+NOTE Confidence: 0.8450139
+
+7cbee5ed-1e38-4a06-b46f-61479c62530e
+00:57:57.870 --> 00:58:00.390
+thing you have to be careful is
+
+NOTE Confidence: 0.88915837
+
+e91115c0-a04f-4475-8a8d-e159b693edc1
+00:58:00.390 --> 00:58:06.750
+that. If you start from zero to
+N - 1, so in total becomes n
+
+NOTE Confidence: 0.8889563
+
+2abe3590-e3a6-4fba-8fc3-e49ae1272dbe
+00:58:06.750 --> 00:58:12.378
+positions. And. Before doing
+this, you have to be careful
+
+NOTE Confidence: 0.8889563
+
+df692aab-0d65-48f4-b759-757aac25e48b
+00:58:12.378 --> 00:58:17.190
+about this. Each digit must be
+between 0 and R - 1.
+
+NOTE Confidence: 0.8967772
+
+fb9efa6b-6710-4940-bd06-85ddae989578
+00:58:18.160 --> 00:58:22.180
+So again in exam, instead of
+just starting doing the
+
+NOTE Confidence: 0.8967772
+
+1995fd67-0eed-4dd8-ac14-11d4b182a6d4
+00:58:22.180 --> 00:58:25.798
+calculation, first check the
+digits and then do the
+
+NOTE Confidence: 0.8967772
+
+9061ec6f-d930-49c6-ab66-dfcbe94f31f6
+00:58:25.798 --> 00:58:28.210
+calculation in order to save
+time.
+
+NOTE Confidence: 0.84804183
+
+ce65bc40-701c-47ce-80fd-c338985b10d5
+00:58:29.510 --> 00:58:34.790
+And as we did before in any
+system, the any radix-R
+
+NOTE Confidence: 0.84804183
+
+76801a17-4d9d-4840-bd59-d111234cb52f
+00:58:34.790 --> 00:58:39.630
+system, the minimum value is
+zero. You just Simply put zero
+
+NOTE Confidence: 0.84804183
+
+c7abed36-ec56-4f20-882b-225c2c65b7bf
+00:58:39.630 --> 00:58:44.030
+in all positions. The only
+exception was base 64, the
+
+NOTE Confidence: 0.84804183
+
+7c966ba0-2f39-4db7-805f-97b349325e49
+00:58:44.030 --> 00:58:45.350
+lowest digit was a.
+
+NOTE Confidence: 0.85108745
+
+f90d0b16-25c3-4b15-afca-56f844f099dc
+00:58:46.440 --> 00:58:50.508
+The maximum number is as we
+calculated for base, 4 it was
+
+NOTE Confidence: 0.85108745
+
+5daa5347-7ad3-4793-a8a6-76e4972f5d63
+00:58:50.508 --> 00:58:55.254
+based at this time. r is you
+can replace four with RR to the
+
+NOTE Confidence: 0.85108745
+
+47ad0337-748f-4b8d-ae27-b2aff00b656f
+00:58:55.254 --> 00:58:56.949
+power of N - 1.
+
+NOTE Confidence: 0.8900606
+
+c22755df-270a-4a7d-959d-13c273aa7bf3
+00:58:57.860 --> 00:59:02.326
+And the unit of Increment
+is 1. So you increment the
+
+NOTE Confidence: 0.8900606
+
+2b511c5d-e3fd-44b9-ae4f-79fb81bc86d5
+00:59:02.326 --> 00:59:03.950
+numbers 1 by 1.
+
+NOTE Confidence: 0.83249944
+
+2a5dbe33-7a6c-48ec-aae5-f4e690720aca
+00:59:06.170 --> 00:59:10.372
+And, Uh, I I put in some
+question in this regarding
+
+NOTE Confidence: 0.83249944
+
+e22c3f50-ad7b-4d99-b737-ed2cf9b56a90
+00:59:10.372 --> 00:59:13.810
+the poll. So please go back
+to the poll.
+
+NOTE Confidence: 0.92665833
+
+edc272d3-815c-426b-9f71-e8fff4e9a04b
+00:59:20.480 --> 00:59:21.938
+And let's see.
+
+NOTE Confidence: 0.9027314
+
+d36ad472-ad55-4ad3-90b5-df3d60340823
+00:59:26.420 --> 00:59:29.460
+Let me run the question.
+
+NOTE Confidence: 0.83936787
+
+18ed5b3d-1687-4a1d-990a-3f1cb3fd50c3
+00:59:34.160 --> 00:59:35.470
+Is that yes? Yes yes.
+
+NOTE Confidence: 0.90854484
+
+f95bc26f-5988-4dd6-9b1a-fb0ac78f4cc8
+00:59:37.060 --> 00:59:40.750
+Oh cool, so let's do a
+little bit practice.
+
+NOTE Confidence: 0.8583054
+
+d2f9ce14-55db-417f-8757-4f491e8266dc
+00:59:41.970 --> 00:59:48.955
+All what's the next 2 numbers
+of 1111 in Radix 2?
+
+NOTE Confidence: 0.9379335
+
+55161908-43b6-4614-8b7f-d25457ac7ae1
+00:59:49.530 --> 00:59:51.220
+So we have 4 one.
+
+NOTE Confidence: 0.8995056
+
+497421ac-cc90-4e23-8911-0cb4aaf99b2f
+00:59:51.800 --> 00:59:54.599
+We want to know what's
+next number and what's
+
+NOTE Confidence: 0.8995056
+
+b9e96ef0-a1af-4464-90d5-54ffa0f7acd9
+00:59:54.599 --> 00:59:57.087
+the next number after
+that to next numbers.
+
+NOTE Confidence: 0.84925944
+
+419a6194-a69d-414b-9bc1-ec83589be340
+01:00:27.820 --> 01:00:33.490
+So because we are in Radix 2,
+the first I mean option is not
+
+NOTE Confidence: 0.84925944
+
+d995b691-91d6-4d65-b95a-608197f9cba8
+01:00:33.490 --> 01:00:37.945
+correct because we have digits
+more than one so the first
+
+NOTE Confidence: 0.84925944
+
+3fc8f45b-c553-4fcd-9a38-b112d35e554a
+01:00:37.945 --> 01:00:42.805
+digits. The first number is
+1112, but this is not a valid
+
+NOTE Confidence: 0.84925944
+
+06c0d96c-06a7-4f32-940e-aa331e549d61
+01:00:42.805 --> 01:00:44.425
+number in Radix 2.
+
+NOTE Confidence: 0.9204981
+
+9277e07c-0ce9-4dc6-8c7c-e4186647d525
+01:00:45.590 --> 01:00:48.780
+Also this one. So the first
+choice is not correct.
+
+NOTE Confidence: 0.8691389
+
+8ae2e4a0-293b-4709-9f3e-7d2522278b7a
+01:00:49.890 --> 01:00:53.344
+The last choice also is not
+correct because it has the
+
+NOTE Confidence: 0.8691389
+
+cbb73d23-7469-4dcc-a897-a4c781676229
+01:00:53.344 --> 01:00:57.112
+digits two, so these are not
+a valid number radix too, so
+
+NOTE Confidence: 0.8691389
+
+c2bc28a4-5a6c-4b0c-b687-99231657f9be
+01:00:57.112 --> 01:00:59.938
+the only options are the
+second and third option.
+
+NOTE Confidence: 0.94343036
+
+167a294c-7507-46e4-bcb8-2208cbf695d5
+01:01:01.090 --> 01:01:01.900
+So.
+
+NOTE Confidence: 0.7290023
+
+808eb373-317d-4706-b311-e4cc7cdfdc92
+01:01:04.130 --> 01:01:09.597
+When we do this calculation, so
+let's uh, share my camera.
+
+NOTE Confidence: 0.89196765
+
+e15984e9-e8e3-4313-8c62-fa99d415a717
+01:01:10.800 --> 01:01:13.578
+And let's see what's the answer.
+
+NOTE Confidence: 0.7827548
+
+3c18cc34-ba91-49ba-823d-6f5b7112628e
+01:01:25.130 --> 01:01:32.594
+So 1111 you wanna do the
+next number so we have to
+
+NOTE Confidence: 0.7827548
+
+77f758b3-e878-4142-8a96-d43f6005f8e0
+01:01:32.594 --> 01:01:34.460
+plus this why?
+
+NOTE Confidence: 0.7170109
+
+a768065d-201a-4606-bca8-24404227edbd
+01:01:35.090 --> 01:01:35.920
+Digit 1.
+
+NOTE Confidence: 0.9027865
+
+02623413-14bb-434f-8ef1-06192f84c859
+01:01:38.550 --> 01:01:44.070
+So 1 + 1 becomes 2, Two is not a
+valid digit, so we have to
+
+NOTE Confidence: 0.9027865
+
+c0b195ae-af9d-4c2a-8fdc-8e1a1ac4c000
+01:01:44.070 --> 01:01:49.245
+divide it by two because we are
+in the base, two is equal to 1
+
+NOTE Confidence: 0.9027865
+
+c9434d1e-fa2c-493c-bed4-ab7f0ec72166
+01:01:49.245 --> 01:01:50.970
+and the remainder is 0.
+
+NOTE Confidence: 0.86368513
+
+0cc6a15c-3459-4cfa-ad31-47269eb434c0
+01:01:51.770 --> 01:01:56.216
+So we put the remainder here and
+then the quotient goes as they
+
+NOTE Confidence: 0.86368513
+
+f150b945-2dd8-4ad5-aab0-a550c0c2e236
+01:01:56.216 --> 01:01:57.926
+carry to the next position.
+
+NOTE Confidence: 0.8394187
+
+1741490e-a6bd-4ade-8854-de53448e0a0f
+01:01:59.300 --> 01:02:05.292
+And then one plus one 2 + 0
+becomes two again, 2 cannot be
+
+NOTE Confidence: 0.8394187
+
+1a134ffa-a0a2-44b4-b9c1-884316d467b1
+01:02:05.292 --> 01:02:10.428
+represented here. You have to
+break it into based on the base
+
+NOTE Confidence: 0.8394187
+
+9c3b1586-6ddd-4495-baac-f38e0dd0f885
+01:02:10.428 --> 01:02:15.564
+two, so divided by two becomes
+one remainder is 0, so again
+
+NOTE Confidence: 0.8394187
+
+84bada3f-5745-4120-a9b4-c45e995cd504
+01:02:15.564 --> 01:02:17.704
+remainder and Carrie goes here.
+
+NOTE Confidence: 0.88612145
+
+d60af6f9-e231-44c2-ae93-91203e7f1958
+01:02:18.630 --> 01:02:24.298
+Again, 1 + 1 two plus 0= 2,2 is
+equal to zero with a carry.
+
+NOTE Confidence: 0.83997405
+
+1f18dbb1-fd4e-4c57-b368-304c7679c086
+01:02:25.860 --> 01:02:33.150
+1 + 1 two plus
+0=2 So 2 is zero with a carry.
+
+NOTE Confidence: 0.8973157
+
+97f7a769-72ef-4cde-b26c-5a46615d46be
+01:02:35.590 --> 01:02:41.557
+This is the last carry 1 + 0
++ 0 becomes one so.
+
+NOTE Confidence: 0.8962182
+
+b0f16a86-a344-42b2-97e6-7516c280e9a6
+01:02:42.810 --> 01:02:48.084
+It becomes a 5 digit
+number 10000 and then
+
+NOTE Confidence: 0.8962182
+
+9c067dee-154e-430f-93b2-562fbb3c2c59
+01:02:48.084 --> 01:02:50.428
+the next number is.
+
+NOTE Confidence: 0.87925154
+
+246de867-40bb-4031-94c7-9b946e0ff523
+01:02:51.940 --> 01:02:56.994
+Because we are looking for the two
+digits, the next two digits. So we
+
+NOTE Confidence: 0.87925154
+
+02367554-f3cf-42b9-a2c3-170d5d055c64
+01:02:56.994 --> 01:02:58.799
+have to plus this number.
+
+NOTE Confidence: 0.8906501
+
+e759456f-f220-4d31-a77e-db0ccf3b15e7
+01:02:59.520 --> 01:03:06.450
+With one so now, if we
+do this it becomes 01100000101.
+
+NOTE Confidence: 0.8906501
+
+f89f7a3b-03a5-4d4c-b8fa-902f4dce40e2
+01:03:06.450 --> 01:03:13.380
+So these are the last two
+digits. This last two numbers.
+
+NOTE Confidence: 0.94198215
+
+905ffd46-be44-440c-ab40-f1490e9b75fa
+01:03:14.560 --> 01:03:16.760
+So the correct answer is.
+
+NOTE Confidence: 0.74169993
+
+f3478710-4099-40cb-a046-ffce106dbf92
+01:03:18.180 --> 01:03:21.672
+Uh, the second one, so
+let's see the answer.
+
+NOTE Confidence: 0.89740556
+
+d7d38ee7-8074-42ac-99e4-54da0096b76b
+01:03:23.780 --> 01:03:27.263
+Yes, most of you actually
+could answer the right
+
+NOTE Confidence: 0.89740556
+
+7c7928a7-6074-4810-b874-70c166964c3d
+01:03:27.263 --> 01:03:30.746
+question. So next, let's
+go to the next question.
+
+NOTE Confidence: 0.76448923
+
+e6da6c6c-323f-45ed-b0f6-ee7a26fd449d
+01:03:41.400 --> 01:03:45.792
+Be careful we are in the radix
+3, so in Radix 3.
+
+NOTE Confidence: 0.88796127
+
+4b595427-86f9-4985-813e-1da0404ed51b
+01:03:52.420 --> 01:03:54.270
+Two is a valid digit.
+
+NOTE Confidence: 0.9159161
+
+b7c92f56-82b8-43b6-b663-d83568197e85
+01:04:09.870 --> 01:04:12.380
+So this time we have.
+
+NOTE Confidence: 0.87166077
+
+121dc1ce-9fbf-4fd9-9d04-62188552293a
+01:04:14.090 --> 01:04:15.860
+Let's back to the question.
+
+NOTE Confidence: 0.8838581
+
+983bbcb2-d4b3-4b63-b816-fa36550f66a1
+01:04:18.630 --> 01:04:25.439
+We have 1111, but this number
+is in the base 3.
+
+NOTE Confidence: 0.90787
+
+6bc8d326-3a72-4886-a6d5-88add90ab5b0
+01:04:26.230 --> 01:04:29.560
+So the next number is +1.
+
+NOTE Confidence: 0.84596336
+
+eae8956c-9df9-4ce6-b193-ce912ac37814
+01:04:31.090 --> 01:04:36.835
+So 1 1 becomes 2, but we can use
+the digit 2 because we are in
+
+NOTE Confidence: 0.84596336
+
+3b53c5dc-c4cb-4288-9525-6b1c8167bbd5
+01:04:36.835 --> 01:04:39.516
+Radix 3. So we put two here.
+
+NOTE Confidence: 0.92415637
+
+34dc52aa-c77d-47ec-b9e1-0ecda3d030f8
+01:04:40.340 --> 01:04:44.240
+101101101 so this is the
+
+NOTE Confidence: 0.8800734
+
+ff416cfc-346f-4a44-aaef-93f123f4ca87
+01:04:44.240 --> 01:04:49.178
+next number. And then next
+number after this again we
+
+NOTE Confidence: 0.8800734
+
+18cc6414-695d-46d7-b318-700490e082b8
+01:04:49.178 --> 01:04:52.157
+have to increment it by 1 so
+it becomes.
+
+NOTE Confidence: 0.87278974
+
+13dc7dc3-ced9-43ac-a92b-8186e9fb1d1a
+01:04:54.390 --> 01:05:00.518
+2 + 1 becomes 3. Now it's not
+a valid number, so we have to 3
+
+NOTE Confidence: 0.87278974
+
+3d853c26-1413-42bf-b58a-86ed1fc62746
+01:05:00.518 --> 01:05:06.263
+/ 3 because we are in the Radix,
+three is equal to 1 and the
+
+NOTE Confidence: 0.87278974
+
+982fe535-56ef-414f-a279-76f050c55f5a
+01:05:06.263 --> 01:05:11.242
+remainder is 0. So we put the
+remainder here and then we put
+
+NOTE Confidence: 0.87278974
+
+42297b0d-7d57-48aa-adad-b8f1633aeb0c
+01:05:11.242 --> 01:05:12.391
+the Carry here.
+
+NOTE Confidence: 0.9351864
+
+c78793eb-624a-4f36-8094-8044ff887a9f
+01:05:13.060 --> 01:05:15.436
+1 + 1 two plus zero =two.
+
+NOTE Confidence: 0.8863826
+
+2f514823-8110-4c0e-be9a-cdbc022bc3dd
+01:05:16.480 --> 01:05:23.461
+And then 10 no carry to the
+next position one and one so
+
+NOTE Confidence: 0.9262652
+
+03ec6296-84ac-464a-9f1b-6778735a7d21
+01:05:23.461 --> 01:05:29.984
+1120. So it goes through
+21112 and then 1120.
+
+NOTE Confidence: 0.93240917
+
+c06b3081-1d0f-47b6-b7be-9fda7873bacf
+01:05:32.000 --> 01:05:33.800
+So let's see the answer.
+
+NOTE Confidence: 0.87071514
+
+0eac87ec-6a3c-4cad-bb26-7381edea73b9
+01:05:36.520 --> 01:05:40.901
+Yes, so I mean hopefully I mean
+a lot. Fortunately, all of you
+
+NOTE Confidence: 0.62376374
+
+43478e88-9bc2-4ea2-b507-d1664e33b679
+01:05:40.901 --> 01:05:43.959
+actually could. Get this, uh?
+
+NOTE Confidence: 0.9287784
+
+bdd561d4-976d-4787-8b2b-e816894d2049
+01:05:50.820 --> 01:05:54.150
+So let's move on to the.
+
+NOTE Confidence: 0.92887366
+
+a6802de4-e98a-4721-bb72-ee0084920b3d
+01:05:55.450 --> 01:05:58.580
+Uh. This question.
+
+NOTE Confidence: 0.87272805
+
+570f48a6-c79e-44a9-adf9-15523d5e85a1
+01:06:00.360 --> 01:06:05.002
+So what's the next two number
+this time in Radix 64?
+
+NOTE Confidence: 0.90942764
+
+6c7e4302-2aeb-4ca6-9a01-75f592928f48
+01:06:09.520 --> 01:06:12.400
+So let me share first my.
+
+NOTE Confidence: 0.84108293
+
+f31532d9-15b6-4cca-83ce-cccb31737d83
+01:06:15.930 --> 01:06:17.230
+Always the.
+
+NOTE Confidence: 0.9112579
+
+dd08eb22-c6f2-4fe6-81c2-a35fd0b3b426
+01:06:21.780 --> 01:06:24.030
+Let me share my screen first.
+
+NOTE Confidence: 0.86127764
+
+1bcb4992-9777-4d5d-b2dd-3198d9750588
+01:06:29.480 --> 01:06:32.824
+And let's go back to the 64
+table look up table.
+
+NOTE Confidence: 0.78953034
+
+37ba9052-c132-4301-9473-c0e8ab0984b9
+01:06:34.550 --> 01:06:38.663
+This is the table.
+Look up for base 64.
+
+NOTE Confidence: 0.8892199
+
+8690f999-9433-46c3-b48d-d96c867c117e
+01:06:41.540 --> 01:06:44.850
+And the digits is this.
+
+NOTE Confidence: 0.70070046
+
+58433e59-3ebe-42ae-b281-86e355f9ea2d
+01:06:47.470 --> 01:06:51.070
+A Plus Capital Z forward slash.
+
+NOTE Confidence: 0.92018527
+
+89ea3da4-30d6-4eda-a973-bd194ef2fa02
+01:06:52.140 --> 01:06:54.170
+So let me write it down here.
+
+NOTE Confidence: 0.66662526
+
+8e049b06-c7e3-48dd-bb5d-6245d46188a5
+01:06:59.780 --> 01:07:02.488
+They plus Capital Z.
+
+NOTE Confidence: 0.83724964
+
+73dcd798-1e00-4239-af34-ecdb8b642360
+01:07:04.160 --> 01:07:08.900
+Forward slash, so we wanted to
+increment this by 1.
+
+NOTE Confidence: 0.7994929
+
+af9480f4-5c7e-41bd-a45c-d334e4913b1f
+01:07:12.990 --> 01:07:14.950
+You want to increment this by 1.
+
+NOTE Confidence: 0.8883139
+
+4ee9a0fd-4eea-459b-85cc-7ff59b867c8b
+01:07:25.870 --> 01:07:27.640
+And we already knew that.
+
+NOTE Confidence: 0.859056
+
+5a006541-ce4c-4bab-8d13-14783e378662
+01:07:28.940 --> 01:07:31.295
+Forward slash has their value
+
+NOTE Confidence: 0.8355906
+
+89859d23-8c3e-4c2e-a87b-07eb62bff98b
+01:07:31.295 --> 01:07:37.380
+63. Z has the value was
+the value of Capital C 25.
+
+NOTE Confidence: 0.81350815
+
+3cae2d8c-f16e-4e6a-8d58-0b17006a0865
+01:07:40.360 --> 01:07:45.391
+And after c is small,  /
+is has the value of 63.
+
+NOTE Confidence: 0.8332457
+
+9f1134d6-f72f-4b93-9090-2a3db8dd0b80
+01:07:46.880 --> 01:07:50.448
+And,uh.plus is the value 62.
+
+NOTE Confidence: 0.90703857
+
+690971a8-c6fa-4262-a0fb-bb1e49c3a185
+01:07:51.430 --> 01:07:56.029
+And a small is is the
+significance of 26.
+
+NOTE Confidence: 0.9136839
+
+a828bdb8-a165-43e1-ba95-09de7e0d1f2d
+01:08:05.910 --> 01:08:07.630
+So let's see the.
+
+NOTE Confidence: 0.7739086
+
+9964fad3-af4f-41b8-b4d5-38cdff7635fd
+01:08:08.690 --> 01:08:11.228
+What are you doing? Oh cool.
+
+NOTE Confidence: 0.8958978
+
+7aea7bb2-17ac-4acb-8b61-65ff716041c1
+01:08:18.570 --> 01:08:23.575
+So let me share my camera
+and in the board we can see
+
+NOTE Confidence: 0.8958978
+
+89e9ff3c-0637-424f-b03e-228aa18e5032
+01:08:23.575 --> 01:08:24.730
+what's the number.
+
+NOTE Confidence: 0.9256592
+
+9364ab3e-0f69-4111-8a80-3b15a53f3fc9
+01:08:26.710 --> 01:08:27.500
+So.
+
+NOTE Confidence: 0.9328188
+
+1579d8d5-7c88-4bfd-9fdf-18a1fab623af
+01:08:28.810 --> 01:08:30.138
+That was the number.
+
+NOTE Confidence: 0.82602197
+
+997c0f12-db34-4ebc-9ab6-1bab8cd8db0b
+01:08:32.000 --> 01:08:37.684
+a + Z forward slash, so we
+have to increment it by 1, so
+
+NOTE Confidence: 0.82602197
+
+d856fbdc-8be7-4ceb-9396-9400ecb93bc0
+01:08:37.684 --> 01:08:41.744
+forward slash plus one
+forward slash is the largest
+
+NOTE Confidence: 0.82602197
+
+e094cad3-2e31-484f-ad83-83d0a229a207
+01:08:41.744 --> 01:08:47.834
+digit in base 64, plus it has
+a value of 63 + 1 becomes 64.
+
+NOTE Confidence: 0.86423314
+
+7fe36b40-cdea-4f0b-a91f-86dc28bf1e96
+01:08:49.450 --> 01:08:53.326
+Because we cannot represent 64
+in the base 64, you have to
+
+NOTE Confidence: 0.86423314
+
+80e868da-086c-4eca-8da1-5240fc1f241d
+01:08:53.326 --> 01:08:57.202
+divide it by 64, which becomes
+one and the remainder is 0.
+
+NOTE Confidence: 0.8374692
+
+cc05e1fc-0545-44cc-9424-ab8583b7e3e4
+01:08:57.920 --> 01:09:01.940
+So we put it 0 here and Carry
+goes to the next.
+
+NOTE Confidence: 0.87725335
+
+c1286bf1-7947-422b-8001-1cc1d3b57cd7
+01:09:04.390 --> 01:09:07.232
+z has the power has the value
+
+NOTE Confidence: 0.8612577
+
+801158e9-37b9-43cf-a245-64ccfdf92eab
+01:09:07.232 --> 01:09:14.852
+25. Plus one becomes 26 plus
+zero 26 so 26 we have to see
+
+NOTE Confidence: 0.8612577
+
+fe7a14d1-e9c3-450b-b4b4-1c3ce9701ab7
+01:09:14.852 --> 01:09:21.144
+what's the digit in the 26
+digit In 26 is the small a.
+
+NOTE Confidence: 0.8746045
+
+e07d9a25-3867-4f7e-8592-a63e01efe8dd
+01:09:21.960 --> 01:09:25.425
+Because when we are done with
+the capital letters, we start
+
+NOTE Confidence: 0.8746045
+
+e86c1aa9-88fd-4495-9e56-8d64ab95041d
+01:09:25.425 --> 01:09:29.205
+with a small letters, so Z is
+the last capital letter a, the
+
+NOTE Confidence: 0.8746045
+
+9c6cdf49-f2f0-4aca-a256-512854227a74
+01:09:29.205 --> 01:09:33.615
+Next One is this small. So if
+you look at the table you see
+
+NOTE Confidence: 0.8746045
+
+ea2a18da-1a90-4772-bdaa-b7ffe9b94f41
+01:09:33.615 --> 01:09:35.505
+that 26 is equal to A.
+
+NOTE Confidence: 0.85694873
+
+144c650b-5efa-4307-ad14-1000e7387d89
+01:09:36.850 --> 01:09:40.210
+And then there is no carry to
+the next step, so plus.
+
+NOTE Confidence: 0.86161315
+
+4bf77c94-4462-4596-be13-ad550e5bcf69
+01:09:41.510 --> 01:09:48.256
+Plus digits. Plus zero becomes
+plus and then a + 0 becomes a.
+
+NOTE Confidence: 0.86161315
+
+817c2e40-1741-4592-a82b-453091a9d916
+01:09:48.256 --> 01:09:51.112
+So this is the next number.
+
+NOTE Confidence: 0.8282363
+
+51611de3-61b6-41fb-9421-b8c32dfe6556
+01:09:52.350 --> 01:09:53.918
+a + a = zero.
+
+NOTE Confidence: 0.7761251
+
+512d04b4-bb07-4b3d-afb1-9d6a79fcc349
+01:09:56.070 --> 01:09:59.670
+And then if we do another
+summation with.
+
+NOTE Confidence: 0.8354907
+
+8659dd4e-8036-4cbf-acf8-b501d7933620
+01:10:00.910 --> 01:10:08.372
+One step so it becomes 0
++ 1 becomes 1,a plus zero, a
+
+NOTE Confidence: 0.8354907
+
+42df98fe-6d4f-40ae-9f7b-4c63ad9bb7c5
+01:10:08.372 --> 01:10:15.834
++ + 0 + a + 0
+* a. So a + aB.
+
+NOTE Confidence: 0.88241315
+
+1fdc9b40-b98d-4ec8-bc98-2ae5005b51e5
+01:10:16.890 --> 01:10:20.517
+So the first actually option is
+the right one.
+
+NOTE Confidence: 0.89668757
+
+9893f20e-4752-4637-a997-571470eb5738
+01:10:24.250 --> 01:10:27.886
+So I can see there are
+some questions are.
+
+NOTE Confidence: 0.90977573
+
+18f61e9a-9136-4b00-bb0d-0b0c6227affa
+01:10:31.050 --> 01:10:36.090
+Oh yes, yes, actually
+Brandon actually.
+
+NOTE Confidence: 0.8807658
+
+009141c9-c4a7-4ad0-bd88-1039dfff5abb
+01:10:37.490 --> 01:10:41.207
+You're absolutely right.
+Actually, I did a mistake here.
+
+NOTE Confidence: 0.8884817
+
+2b19d519-958c-45fa-9d0d-ea460783fd0b
+01:10:42.750 --> 01:10:50.190
+Uh. As you can see
+in the base in a base 64 zero.
+
+NOTE Confidence: 0.80675817
+
+0930478a-5006-4188-9ca5-71f84837d7d6
+01:10:50.870 --> 01:10:52.850
+The symbol for zero is a.
+
+NOTE Confidence: 0.91804713
+
+ffac58ad-d1ad-4024-a453-76c656e635b7
+01:10:54.140 --> 01:10:57.604
+So we have to replace a 0 here.
+
+NOTE Confidence: 0.7147551
+
+5869e706-8e66-4b09-b8f0-447e44cb9ed6
+01:10:58.460 --> 01:10:59.220
+with A?
+
+NOTE Confidence: 0.8863148
+
+f418b5cf-4465-48ea-b276-43fe71bb6264
+01:11:02.040 --> 01:11:05.792
+So then a plus one
+becomes one. So
+
+NOTE Confidence: 0.8863148
+
+379a3123-5a9e-402b-8713-796e33a1af4e
+01:11:05.792 --> 01:11:09.544
+because in base 64, A
+is the 0.
+
+NOTE Confidence: 0.81722003
+
+8ceb3514-05f4-4028-b77a-824cf56eec7f
+01:11:10.900 --> 01:11:13.639
+And. Also, these are.
+
+NOTE Confidence: 0.86058015
+
+2dda86d4-b75b-444d-af42-877c55231f2c
+01:11:14.680 --> 01:11:20.084
+Is in base because we are in the
+base 64. We have to replace
+
+NOTE Confidence: 0.86058015
+
+13452af5-8184-4978-80a0-7effd4e853a1
+01:11:20.084 --> 01:11:21.242
+zeros with a.
+
+NOTE Confidence: 0.6944621
+
+527bce4c-a235-4baa-8533-8880cc613fe3
+01:11:23.620 --> 01:11:27.560
+So a A A A 1 means 0001.
+
+NOTE Confidence: 0.8066479
+
+45c783ed-3442-4498-a646-9283a0dc1e38
+01:11:29.410 --> 01:11:32.920
+A true thank you, Brandon.
+
+NOTE Confidence: 0.88918823
+
+826cfa36-122b-469b-9f9b-287a4881e79f
+01:11:35.570 --> 01:11:39.101
+So the first option actually
+in the poll was not right.
+
+NOTE Confidence: 0.88918823
+
+721bc848-e518-4712-9e0e-03832336a5b1
+01:11:39.101 --> 01:11:42.953
+Actually there were no correct
+answer, so I have to fix this
+
+NOTE Confidence: 0.88918823
+
+ebb54349-9141-41ff-b069-86fb3e77e962
+01:11:42.953 --> 01:11:45.200
+poll so it is a + aA.
+
+NOTE Confidence: 0.8715334
+
+1417a216-2eea-4be9-9418-886681a16155
+01:11:46.570 --> 01:11:50.714
+Capital A because there is no
+zero in base 64 with a value of
+
+NOTE Confidence: 0.7809329
+
+c7338641-12af-4fb8-b0bc-5f8b5d143cad
+01:11:50.714 --> 01:11:55.161
+0. And then this is the
+next number. Cool, thank
+
+NOTE Confidence: 0.7809329
+
+98f7f979-4633-4e49-a140-81f5f0bd7cb2
+01:11:55.161 --> 01:11:55.919
+you, Brandon.
+
+NOTE Confidence: 0.9203017
+
+dce0d5dd-f94b-48f0-8bae-b9b71f8cdb7b
+01:11:57.390 --> 01:11:58.880
+So let's back to the.
+
+NOTE Confidence: 0.69558775
+
+6356f2eb-dbd1-440c-ae9a-57986d03ecea
+01:11:59.430 --> 01:12:00.410
+Slides.
+
+NOTE Confidence: 0.81759685
+
+5046a02c-9b2b-465d-b8c0-c29b10e1df80
+01:12:11.940 --> 01:12:16.044
+Well, one thing is that, uh, so
+the next topic is this.
+
+NOTE Confidence: 0.8360395
+
+d4401e1c-4a6c-4b6b-b0d2-d2f840956c2c
+01:12:18.850 --> 01:12:24.322
+So we're done with the radix
+systems, but in the radix system
+
+NOTE Confidence: 0.8360395
+
+259e16d4-c3c8-4e84-a672-c3760372f3e4
+01:12:24.322 --> 01:12:26.602
+we didn't have any fraction.
+
+NOTE Confidence: 0.6776204
+
+f5ee1521-3b5f-4986-919e-be7d29a8a336
+01:12:27.470 --> 01:12:31.718
+Let's back that. All. I mean,
+uh, first problem we wanted to
+
+NOTE Confidence: 0.6776204
+
+5a2d5627-a128-49ab-bdd8-78c67a34ea96
+01:12:31.718 --> 01:12:33.842
+measure the most distance to the
+
+NOTE Confidence: 0.8972766
+
+81fe5d31-c66d-4bb7-be31-7281f5eda263
+01:12:33.842 --> 01:12:39.454
+Sun. But we said that the exact
+distance is not five Earth, but
+
+NOTE Confidence: 0.8972766
+
+f4eab95a-4bc8-4488-a9e2-a70df01282ba
+01:12:39.454 --> 01:12:42.093
+it was about four and a half.
+
+NOTE Confidence: 0.81829214
+
+f2ec0146-04d1-480c-906e-e987a2916d73
+01:12:42.940 --> 01:12:48.604
+So we need some fraction, so we
+need to improve our numbering
+
+NOTE Confidence: 0.81829214
+
+53a56f61-a164-42c0-9058-e10805f23185
+01:12:48.604 --> 01:12:51.436
+system to have a  fraction
+
+NOTE Confidence: 0.86909294
+
+1d5a0303-e6bd-426d-92ab-9da8d01874f2
+01:12:51.436 --> 01:12:57.350
+parts. In decimal system we have
+4.5, four and a half. But how
+
+NOTE Confidence: 0.86909294
+
+141bd9e2-44e2-40e0-8da9-65ecefec3c71
+01:12:57.350 --> 01:12:59.690
+can we have fraction in other
+
+NOTE Confidence: 0.86628467
+
+e0146a12-ba3b-4fc7-ac1b-04c6e0979a33
+01:12:59.690 --> 01:13:05.068
+numbering system? So this is the
+new topic fraction. So imagine
+
+NOTE Confidence: 0.86628467
+
+4d9d2a48-3504-4caa-badc-ecd42a23a91c
+01:13:05.068 --> 01:13:10.294
+you're in based four and we want
+to have fractions as the names
+
+NOTE Confidence: 0.86628467
+
+36e65022-9c3b-41ec-8d8b-ba7381f64604
+01:13:10.294 --> 01:13:14.314
+actually says, we want to
+breakdown a unit into subunits.
+
+NOTE Confidence: 0.86628467
+
+d12b6215-2a50-4034-b772-1649fff092ea
+01:13:14.314 --> 01:13:19.540
+So if you are in a base-4 and
+we have one Earth.
+
+NOTE Confidence: 0.86857283
+
+5e2e1ae3-0192-4fe2-93bc-c48b71f5c7c4
+01:13:21.010 --> 01:13:25.234
+We break it into into four
+sections because we are in base
+
+NOTE Confidence: 0.86857283
+
+9b708540-da97-488f-bf16-03ee88a24b8c
+01:13:25.234 --> 01:13:29.458
+4 system. So when you do the
+breakdown into four section, it
+
+NOTE Confidence: 0.86857283
+
+3a0fa34c-596c-49cd-9b77-165a055434d4
+01:13:29.458 --> 01:13:32.626
+becoms. Each section has the
+value 1 / 4.
+
+NOTE Confidence: 0.84480226
+
+259e4839-0ac5-4fa7-becc-540bfeedc74c
+01:13:33.210 --> 01:13:38.610
+So or in math you know that 1 /
+4 is equal to 4 to the power of
+
+NOTE Confidence: 0.90359783
+
+a8f9ae63-12d0-4a1c-9c7a-364e3bcb5f2e
+01:13:38.610 --> 01:13:44.796
+minus one. And then we represent
+4 to the power of minus one. By
+
+NOTE Confidence: 0.90359783
+
+d85208e9-e775-4da2-a835-f22cc98a4eed
+01:13:44.796 --> 01:13:48.626
+this we just put a fraction
+point and then one.
+
+NOTE Confidence: 0.8581854
+
+74d635a5-2619-4b71-a48e-ced29696554e
+01:13:49.290 --> 01:13:53.998
+It means that we did one
+subunit of the value four
+
+NOTE Confidence: 0.8581854
+
+c28109f0-bd2c-4be3-962a-acc3f22efdb6
+01:13:53.998 --> 01:13:56.138
+to the power of minus one.
+
+NOTE Confidence: 0.84113175
+
+665a5d22-594a-4e78-8d2b-45de2d29e270
+01:13:57.380 --> 01:14:01.772
+So we only use one. I mean uh
+section over 4 sections.
+
+NOTE Confidence: 0.86159676
+
+e5cac34e-b407-44e3-93d3-f42cec2b216a
+01:14:03.080 --> 01:14:07.887
+And then two sections, it
+becomes two multiplied by 1 /
+
+NOTE Confidence: 0.86159676
+
+af78e3f4-2dc2-433d-b3b9-e2d1d645f58f
+01:14:07.887 --> 01:14:11.820
+4, SO 2 * 4 to the power of
+
+NOTE Confidence: 0.8682725
+
+ecea71a2-914b-4b5f-bcaf-ff186c489c3f
+01:14:11.820 --> 01:14:14.650
+minus one. And then 3.
+
+NOTE Confidence: 0.8657906
+
+fbf42240-af79-4f56-a3e0-bcc7eb4f92d3
+01:14:15.220 --> 01:14:20.488
+And then up until all sections,
+so four subsection, each one as
+
+NOTE Confidence: 0.8657906
+
+d43ffe45-d512-47cd-879b-34905e120455
+01:14:20.488 --> 01:14:24.439
+the value 1 / 4 is equal to 1.
+
+NOTE Confidence: 0.90308034
+
+9648924e-eb0c-4f42-a4fe-356d19d276bf
+01:14:25.360 --> 01:14:26.808
+So again, let's back.
+
+NOTE Confidence: 0.8336183
+
+dc18195c-f3c5-4044-8399-bb3da344166f
+01:14:27.480 --> 01:14:31.236
+Divided by 4 because we are in
+base-4, each subsection is
+
+NOTE Confidence: 0.8336183
+
+5ecf9870-c4e9-44be-9704-2e4d84f00d33
+01:14:31.236 --> 01:14:33.740
+half the value 4 to the power of
+
+NOTE Confidence: 0.9091309
+
+6507f87e-fcfa-4c0d-ab40-ba7b1f201901
+01:14:33.740 --> 01:14:40.690
+minus one. 2 times 3 times and four
+times. So when we are in the 4 *
+
+NOTE Confidence: 0.9091309
+
+eb917bff-469c-4102-9993-fd80fbcc2621
+01:14:40.690 --> 01:14:43.698
+1 / 4 is equal to 1 unit.
+
+NOTE Confidence: 0.85218674
+
+915c234e-5654-40da-ac16-ea646ef30199
+01:14:45.630 --> 01:14:49.350
+So then we can represent the
+distance of Moon to Sun a little
+
+NOTE Confidence: 0.85218674
+
+7950e633-61c1-4a68-a099-60799fcca71d
+01:14:49.350 --> 01:14:52.760
+bit more precise. So we could
+say that the distance is.
+
+NOTE Confidence: 0.8867905
+
+8aa735fc-3141-47a2-babf-2106a6b8a575
+01:14:53.560 --> 01:15:00.619
+123410 is equal to four in base
+4 system and then two subsection
+
+NOTE Confidence: 0.8867905
+
+f5164073-60b3-4892-b35d-f87f52b6cb67
+01:15:00.619 --> 01:15:07.678
+of each one has the value 1
+/ 4 SO 2 here 2.
+
+NOTE Confidence: 0.9107016
+
+2cf6fed8-d7de-49fe-b071-77854a692a52
+01:15:08.350 --> 01:15:11.716
+1 / 4 or 4 to the
+power of minus one.
+
+NOTE Confidence: 0.9070218
+
+854ed545-7147-41f2-9fce-4a8d601d0154
+01:15:13.850 --> 01:15:15.640
+If we need more precision.
+
+NOTE Confidence: 0.88279593
+
+133efa6b-6f80-4fbd-a621-f0989a487e28
+01:15:16.530 --> 01:15:21.873
+We can split that, I mean a
+subunit into more sub sub units
+
+NOTE Confidence: 0.88279593
+
+13d9f561-b281-4549-a351-96a53b194ccc
+01:15:21.873 --> 01:15:27.216
+or that 1 / 4 divided by another
+four subsections. So we can
+
+NOTE Confidence: 0.88279593
+
+f95bd1c4-dad2-40da-9fd7-8e234227408a
+01:15:27.216 --> 01:15:33.792
+simply do this so this time it
+becomes 1 / 4 / 4 which is equal
+
+NOTE Confidence: 0.88279593
+
+5c2d4b03-6384-481d-80cc-64867d1b89c0
+01:15:33.792 --> 01:15:39.957
+to 1 / 16(1/8 is a mistake) which is equal to 4
+to the power of minus 2.
+
+NOTE Confidence: 0.89334494
+
+2afb5f42-a689-45d9-807a-e13eb8aae801
+01:15:41.640 --> 01:15:45.545
+So if you start with the
+smallest portion, now we have.
+
+NOTE Confidence: 0.9027451
+
+2093cf3f-d663-4bc4-8bd8-81442c6e9228
+01:15:46.170 --> 01:15:51.630
+One section over 8 subsections,
+so it becomes 01 or this is
+
+NOTE Confidence: 0.9027451
+
+91065993-07e3-4369-9c92-fbf97d0ee07c
+01:15:51.630 --> 01:15:57.090
+equal to the significance of
+four to the power of minus 2.
+
+NOTE Confidence: 0.87386966
+
+020300fc-037c-401f-9a7e-59f9742df660
+01:15:58.540 --> 01:16:04.684
+Two sub sub section is equal to
+2 * 4 to the power of minus 2.
+
+NOTE Confidence: 0.8384341
+
+05c2878e-3376-4dd8-bf1a-bd43b96ac6f5
+01:16:05.540 --> 01:16:11.670
+3. 4 four means just one
+subsection out of four sections
+
+NOTE Confidence: 0.8384341
+
+3a793e2e-3134-480e-97f8-46057ddd883c
+01:16:11.670 --> 01:16:14.030
+subsections. So it becomes this.
+
+NOTE Confidence: 0.88593984
+
+04114311-f793-4828-8281-0a41978b271b
+01:16:15.890 --> 01:16:19.760
+So now we can represent the
+distance a little bit more
+
+NOTE Confidence: 0.88593984
+
+b8b50d0f-34f9-4fc2-8007-f592d7180e60
+01:16:19.760 --> 01:16:25.178
+precise. You could say that the
+distance is 4, two, 1 / 5 and
+
+NOTE Confidence: 0.88593984
+
+15c0a40b-6574-42a4-84d9-772cf3341ee0
+01:16:25.178 --> 01:16:28.661
+one 1 / 16(1/8 is a mistake), two one or four and
+
+NOTE Confidence: 0.92030305
+
+89e05ba8-5836-4b17-bc8a-552601fb1112
+01:16:28.661 --> 01:16:31.018
+one 1 / 16(1/8 is a mistake).
+
+NOTE Confidence: 0.8966523
+
+3f05e8d7-99c9-41dc-98ef-45bfc85782db
+01:16:33.740 --> 01:16:37.926
+So if we need more precision, we
+have to break it more, so we
+
+NOTE Confidence: 0.8966523
+
+f8e5d1e4-1197-4b88-baa3-81bca0cdf094
+01:16:37.926 --> 01:16:41.514
+have to introduce more position
+to the right. But as you can
+
+NOTE Confidence: 0.8966523
+
+e6f4699b-bbc0-4725-a7d2-ab24b28d89e5
+01:16:41.514 --> 01:16:44.803
+see, when we introduce position
+to the right of the fraction
+
+NOTE Confidence: 0.8790484
+
+8ff5e47d-6f87-4482-a727-ac6c719c058f
+01:16:44.803 --> 01:16:49.694
+point. The significance actually
+decreases by the powers of
+
+NOTE Confidence: 0.8790484
+
+0c69e5cc-1f22-4117-ba8d-819d305fc251
+01:16:49.694 --> 01:16:51.706
+negative powers of four.
+
+NOTE Confidence: 0.92759764
+
+c7ec3789-e441-4417-9937-8c6fcf7a69ec
+01:16:54.130 --> 01:16:56.446
+So imagine we have this here.
+
+NOTE Confidence: 0.8327907
+
+b222f864-a8de-4d78-a513-6e20ae3c08eb
+01:16:57.410 --> 01:16:59.415
+You have integral part an
+
+NOTE Confidence: 0.8726402
+
+c38fd47f-71b6-4df8-9cb1-b26f410fc068
+01:16:59.415 --> 01:17:04.040
+fraction part. So in the
+integral part we do the same as
+
+NOTE Confidence: 0.8726402
+
+8a3cc713-59bc-440a-a447-8aebc87a9352
+01:17:04.040 --> 01:17:07.808
+we did before. So based on the
+powers of four positive powers
+
+NOTE Confidence: 0.8726402
+
+dc567940-3cc8-427c-8957-2d263c6615d1
+01:17:07.808 --> 01:17:12.204
+of four in the fraction part we
+do based on the powers of 4
+
+NOTE Confidence: 0.8726402
+
+5f193dd7-02af-486f-878a-4930db168680
+01:17:12.204 --> 01:17:13.460
+but negative or decreasing
+
+NOTE Confidence: 0.93931353
+
+4b8eb1e7-fb9d-4c56-a05a-09b15b42c566
+01:17:13.460 --> 01:17:15.140
+powers. So.
+
+NOTE Confidence: 0.8684466
+
+f35806a7-624d-4acf-b2fe-913c8527226b
+01:17:16.930 --> 01:17:22.135
+As you can see here, for the
+power of minus 1 minus 2, up until
+
+NOTE Confidence: 0.8684466
+
+b20267b2-3947-4141-8802-efd03821e02e
+01:17:22.135 --> 01:17:26.646
+minus five and in the integral
+part we have 4 to the positive
+
+NOTE Confidence: 0.8684466
+
+1b299dc8-fb38-4f5e-af7b-ddc13dba6c4d
+01:17:26.646 --> 01:17:28.381
+powers, 101 up until 7.
+
+NOTE Confidence: 0.900364
+
+dd9ce6da-540f-40de-99a6-c96c2b4fe4cc
+01:17:29.190 --> 01:17:33.282
+The same we just multiply each
+digit with the significance of
+
+NOTE Confidence: 0.900364
+
+508cb38b-f1af-4f46-8486-55112dde586a
+01:17:33.282 --> 01:17:35.142
+the position, and then some
+
+NOTE Confidence: 0.9003024
+
+730c95e8-ed0d-4161-a654-73d02dc66567
+01:17:35.142 --> 01:17:39.770
+altogether. So in the right
+position you can see that 2 * 4
+
+NOTE Confidence: 0.9003024
+
+f0fe3431-a4c8-463a-bef3-0c6c1a928b71
+01:17:39.770 --> 01:17:42.170
+to the power of minus one, 2 /
+
+NOTE Confidence: 0.84683007
+
+47ad37b6-5ff4-400c-81e2-d17392f498c1
+01:17:42.170 --> 01:17:48.743
+4. 1 * 4 to the power
+of minus three is equal to 1
+
+NOTE Confidence: 0.84683007
+
+0263223a-16b1-404a-a43a-3dbe541a3356
+01:17:48.743 --> 01:17:53.675
+/, 64 and etc. And then we
+sum each part together each
+
+NOTE Confidence: 0.84683007
+
+b4195ed9-cfff-4804-aa23-cee6502dd7ef
+01:17:53.675 --> 01:17:58.196
+part individually. So in this
+integral part, if we do some,
+
+NOTE Confidence: 0.84683007
+
+768d4c30-7b73-426e-b082-550e3f25ab52
+01:17:58.196 --> 01:18:01.895
+some number is 17,000,
+something an in the fraction
+
+NOTE Confidence: 0.84683007
+
+0ccdb611-aa2c-4277-941b-20af9e03c6f1
+01:18:01.895 --> 01:18:05.183
+part. If you do something
+decompose this number.
+
+NOTE Confidence: 0.8554018
+
+fbe22d22-ca73-4b6c-bf7b-09d9569e27e7
+01:18:06.750 --> 01:18:10.710
+And this is the way we actually
+introduced fraction part in
+
+NOTE Confidence: 0.8554018
+
+54d1c677-14ab-4d2e-849a-c98075a730d2
+01:18:10.710 --> 01:18:15.030
+other numbering system we did
+for the base-4. The same is
+
+NOTE Confidence: 0.8554018
+
+e6777587-79b8-4132-8043-4c59377fd825
+01:18:15.030 --> 01:18:18.270
+for base-2 base-10, base
+eight and etc.
+
+NOTE Confidence: 0.8742093
+
+a3f3c554-4936-474d-b87d-c5f45b34093f
+01:18:19.940 --> 01:18:23.170
+And this is the general
+formulation, so if you're giving
+
+NOTE Confidence: 0.8742093
+
+c03e9bbd-70a7-47dd-984a-3736a308ab69
+01:18:23.170 --> 01:18:28.338
+a number n capital N in base R,
+and we want to convert it to the
+
+NOTE Confidence: 0.83681417
+
+376b6802-62a2-4c83-b72a-d73f30ca1901
+01:18:28.338 --> 01:18:34.166
+base-10. Based on the fraction
+point to the left side of the
+
+NOTE Confidence: 0.83681417
+
+3b5acb28-b844-448b-af1f-56c340499449
+01:18:34.166 --> 01:18:38.412
+fraction part is the same as
+before. I mean, just multiply
+
+NOTE Confidence: 0.83681417
+
+b7eadeff-c3f1-4eae-9247-1213b99254c4
+01:18:38.412 --> 01:18:43.044
+it powers of r positive
+powers from zero 2 N minus one
+
+NOTE Confidence: 0.83681417
+
+a76ce401-823b-4116-8729-21819d53d43b
+01:18:43.044 --> 01:18:47.676
+to the right side. Multiply
+each digit, but the power of R
+
+NOTE Confidence: 0.83681417
+
+70fea4f5-2aef-441c-9a2f-777573dbc6ea
+01:18:47.676 --> 01:18:51.536
+but negative powers of r or
+decreasing powers and this time.
+
+NOTE Confidence: 0.83681417
+
+ab1b5d2a-52e2-45b8-b30e-da628a1ad982
+01:18:51.536 --> 01:18:56.940
+Be careful if it starts from
+minus one to minus N, so we are
+
+NOTE Confidence: 0.83681417
+
+a878ca0c-b659-4a94-89cc-87ba492a784e
+01:18:56.940 --> 01:19:00.028
+giving M fraction positions an
+N integral positions.
+
+NOTE Confidence: 0.80278724
+
+62635398-1452-4d46-a63f-7d9710be1e54
+01:19:01.460 --> 01:19:06.030
+And this is the way we
+convert any fractional number
+
+NOTE Confidence: 0.80278724
+
+9b1221f7-08e1-4d1f-a682-c8bfdd5d2b31
+01:19:06.030 --> 01:19:09.686
+in any other base radix
+numbers. For instance,
+
+NOTE Confidence: 0.80278724
+
+102fb9e3-e5dc-4b1c-a153-59c4dfb7fe60
+01:19:09.686 --> 01:19:11.514
+radix-r 2, decimal numbers.
+
+NOTE Confidence: 0.8966051
+
+cb64e231-b5ea-4f2a-9a2d-abc0a7a63eaa
+01:19:13.280 --> 01:19:18.452
+And one thing is that the
+minimum is still 0 accept base
+
+NOTE Confidence: 0.8966051
+
+b41fce4f-109b-4404-bd38-d8dc80e3e779
+01:19:18.452 --> 01:19:21.469
+64 so the 0.0 is the minimum
+
+NOTE Confidence: 0.86605537
+
+384b69a3-ad8e-4868-b820-ee0bfbb8faab
+01:19:21.469 --> 01:19:25.620
+number. The maximum number is a
+little bit different because not
+
+NOTE Confidence: 0.86605537
+
+795c528c-10fb-48ad-b05e-7b59be8c6275
+01:19:25.620 --> 01:19:29.416
+only you have integral part, but
+also you have to have you have
+
+NOTE Confidence: 0.8366244
+
+975b2572-070e-4828-96bd-c7223fd2d9a7
+01:19:29.416 --> 01:19:32.818
+fraction part. So you already
+know that the integral power
+
+NOTE Confidence: 0.8366244
+
+38badef3-b9e4-4702-8b56-a918ec10e1b4
+01:19:32.818 --> 01:19:36.406
+with n position, the maximum
+number is R to the power of N -
+
+NOTE Confidence: 0.8661574
+
+0545a673-9b22-439b-95e2-5c16fdb13dae
+01:19:36.406 --> 01:19:41.110
+1. But the fraction part
+the fraction. What's the
+
+NOTE Confidence: 0.8661574
+
+49d6842d-f02c-486e-b3a3-453b30956b43
+01:19:41.110 --> 01:19:42.445
+maximum fraction part?
+
+NOTE Confidence: 0.90226334
+
+c6ca6f7b-e6fd-414e-a9db-99b6b222c97c
+01:19:43.920 --> 01:19:48.821
+If you have the largest digit in
+the right part of the fraction
+
+NOTE Confidence: 0.8248417
+
+bd15391d-8ae8-4d01-9888-cbe7814058bc
+01:19:48.821 --> 01:19:53.978
+point. So I give this as a
+lecture assignment. I mean this
+
+NOTE Confidence: 0.8248417
+
+70f28683-d1bb-47fb-bda4-a1de1c2dd6d8
+01:19:53.978 --> 01:19:58.136
+week and you can. I mean,
+calculate this and prove what's
+
+NOTE Confidence: 0.8248417
+
+8cd4066a-534d-4f65-bd33-c5003ec35c18
+01:19:58.136 --> 01:19:59.648
+the maximum fraction part.
+
+NOTE Confidence: 0.87746215
+
+4050712a-8fa6-4dc4-89fd-cedcedc65abe
+01:20:00.370 --> 01:20:04.890
+And. The unit, the unit of the
+Increment. Because we have
+
+NOTE Confidence: 0.87746215
+
+72ac17eb-1d2e-473d-8831-0b13d6a74ebf
+01:20:04.890 --> 01:20:10.467
+fraction is not only one unit,
+it is based on the most precise
+
+NOTE Confidence: 0.87746215
+
+7f73f745-aff7-4728-b4e7-e1c63aab67f7
+01:20:10.467 --> 01:20:15.615
+actually unit which is having
+one in the last position in the
+
+NOTE Confidence: 0.87746215
+
+a948d697-2a99-48fd-9b69-a008ca95990a
+01:20:15.615 --> 01:20:21.192
+fraction part. So it is 0000 up
+until one. So the unit of
+
+NOTE Confidence: 0.87746215
+
+f6c6ff24-d597-4eb2-9515-a6094b0e183b
+01:20:21.192 --> 01:20:26.340
+Increment is 1 * R to the power
+of minus one M.
+
+NOTE Confidence: 0.87065107
+
+56ebdb8e-8072-47df-aa80-881279355311
+01:20:27.530 --> 01:20:29.040
+So because we have fractions.
+
+NOTE Confidence: 0.87682796
+
+bde79961-64de-4040-a818-1b94715f5f05
+01:20:30.200 --> 01:20:33.557
+So if you wanted to
+practice on ratings 2.
+
+NOTE Confidence: 0.83101845
+
+01da95f6-cd55-4387-a557-ec42a2b0d877
+01:20:35.250 --> 01:20:39.690
+This is the lowest number, the
+smallest number in radix 2 
+
+NOTE Confidence: 0.83101845
+
+5da3cbbd-f9a1-4d38-af9f-a88945810d0d
+01:20:39.690 --> 01:20:43.390
+hit three position for fractions
+an four position for integration
+
+NOTE Confidence: 0.87300456
+
+66482371-0858-466a-b2a3-2e515d36f0f0
+01:20:43.390 --> 01:20:49.208
+integral part. So for the zero
+and the next step you have to
+
+NOTE Confidence: 0.87300456
+
+f836ab41-11e9-43fe-8bf5-260067f739bd
+01:20:49.208 --> 01:20:53.088
+increment this by a unit of
+increment infractions, so the
+
+NOTE Confidence: 0.87300456
+
+72a527d1-7911-4974-9c23-86d9cae72beb
+01:20:53.088 --> 01:20:56.968
+next is this which is equal to
+zero point 125.
+
+NOTE Confidence: 0.9056802
+
+a3af3ee2-a1e8-4586-a79d-e2d6a6fa7098
+01:20:57.710 --> 01:21:02.630
+And then the next is this 1 *
+2 to the power of minus two
+
+NOTE Confidence: 0.9056802
+
+58e26e63-284e-4f86-bd2e-361692abda89
+01:21:02.630 --> 01:21:03.942
+plus all the zeros.
+
+NOTE Confidence: 0.8805343
+
+aa8ad3d9-21e0-4c54-a7ad-1faf638f58ae
+01:21:05.030 --> 01:21:10.355
+So you can see that as from zero
+it goes to zero point 125 and
+
+NOTE Confidence: 0.8805343
+
+15546a6d-58b1-4f0d-babf-238b8755c46f
+01:21:10.355 --> 01:21:12.485
+then it goes to 0.25 etc.
+
+NOTE Confidence: 0.89525825
+
+7a77f47a-df1e-4035-a2fb-50f1af40f77e
+01:21:13.060 --> 01:21:16.552
+And when you are done with the
+old available numbers in the
+
+NOTE Confidence: 0.89525825
+
+dab45426-ca96-4721-9b7e-9d3d942cb903
+01:21:16.552 --> 01:21:18.298
+fraction part, you end up with
+
+NOTE Confidence: 0.8663868
+
+de455e5c-9bf2-4c3d-a36a-3eed84482268
+01:21:18.298 --> 01:21:24.354
+one. So from zero to one you
+can have these numbers this
+
+NOTE Confidence: 0.84820414
+
+6729fdb1-c8bd-4401-b302-429abd64cd60
+01:21:24.354 --> 01:21:29.704
+fractional numbers. So these are
+the fractional normal in base-2.
+
+NOTE Confidence: 0.71119946
+
+cf07c97d-7bdd-4923-9c73-cb2c6b66aeb0
+01:21:33.400 --> 01:21:34.680
+And, uh.
+
+NOTE Confidence: 0.9107276
+
+192faead-7572-4208-9db1-aa0e2015bc3f
+01:21:35.920 --> 01:21:40.312
+We can continue next session,
+but one thing I want you to.
+
+NOTE Confidence: 0.89358056
+
+14f28d4d-1722-4988-978f-b4e4fba004a1
+01:21:42.080 --> 01:21:47.000
+The study at home is that I
+put these slides in the
+
+NOTE Confidence: 0.89358056
+
+19b4ae9d-c417-44a7-ad8c-cd2af95fad5d
+01:21:47.000 --> 01:21:50.690
+blackboard and Please Review
+these radix two and the
+
+NOTE Confidence: 0.89358056
+
+bde2ace0-7806-4bc3-83d7-ea22b3171edc
+01:21:50.690 --> 01:21:55.200
+next samples in order to be
+ready for the next lecture.
+
+NOTE Confidence: 0.92620385
+
+5d52b70e-cb72-4869-99c4-49b99b6617e9
+01:21:56.460 --> 01:22:01.596
+And we're done for today and now
+I'm ready for your questions.
+
+NOTE Confidence: 0.7597896
+
+bbd3d468-f1a4-4a6c-87dc-59cb8534a8b9
+01:22:14.960 --> 01:22:18.376
+Sean, is there any
+questions, just ask.
+
+NOTE Confidence: 0.89274806
+
+d013f7b8-5ce5-4e99-9e24-f120f61ee3fd
+01:22:19.640 --> 01:22:21.894
+How do we submit the
+lecture assignment?
+
+NOTE Confidence: 0.8665745
+
+df97008f-c3e5-45a2-844e-e6c67ef23068
+01:22:23.170 --> 01:22:26.910
+Uh, the lectures assignments are
+like lab assignments. I create
+
+NOTE Confidence: 0.8665745
+
+0b331d87-11b1-4334-858a-f6dbd4aa4c00
+01:22:26.910 --> 01:22:30.650
+an assignment in the lectures
+portion of the blackboard and
+
+NOTE Confidence: 0.8665745
+
+23381bed-41f5-48a0-8703-1f2c2a7715f3
+01:22:30.650 --> 01:22:34.764
+there's a due date for that.
+It's very similar to lab
+
+NOTE Confidence: 0.8665745
+
+8499b55d-cbaa-4955-a6be-117818996de8
+01:22:34.764 --> 01:22:39.252
+assignments, so but it is in the
+lecture part of the blackboard,
+
+NOTE Confidence: 0.8665745
+
+c312c059-fcb3-4a22-ab02-babc5a4a1934
+01:22:39.252 --> 01:22:44.862
+so if you click on the lecture
+and then go to the Week 01, then
+
+NOTE Confidence: 0.8665745
+
+270481ff-77c7-4d10-8d03-6c5c30a4641c
+01:22:44.862 --> 01:22:48.602
+you can see the assignment
+there. I haven't posted right
+
+NOTE Confidence: 0.8665745
+
+1d617a81-f593-4bde-bb8a-5cdf9ab67070
+01:22:48.602 --> 01:22:52.716
+now, but I will do it. I mean,
+when I'm done.
+
+NOTE Confidence: 0.89790046
+
+cc04b9ef-ef87-4494-8f94-4c15473c4905
+01:22:54.550 --> 01:22:56.230
+Probably I will post it on
+
+NOTE Confidence: 0.84344494
+
+fc7dd3f3-9506-44c2-81fa-b468fea6374d
+01:22:56.230 --> 01:22:59.728
+Wednesday. When I'm done with
+the numbering system because
+
+NOTE Confidence: 0.84344494
+
+f22446a2-5b84-4ee1-a9de-099bfabfb133
+01:22:59.728 --> 01:23:01.870
+the lecture assignments
+covering all the numbering
+
+NOTE Confidence: 0.84344494
+
+4d84e265-4941-4a6f-848e-9d269020d26a
+01:23:01.870 --> 01:23:02.176
+system.
+
+NOTE Confidence: 0.76364666
+
+0046cff7-ac73-437d-9bf0-8adb76f4d61f
+01:23:07.800 --> 01:23:12.543
+Next, yeah, where can I
+find the lecture slides?
+
+NOTE Confidence: 0.83529454
+
+95592f0c-deae-4466-a18a-8d06545af670
+01:23:13.610 --> 01:23:17.246
+Again, the lecture slides are
+all in the lecture part, so let
+
+NOTE Confidence: 0.83529454
+
+1339f2b9-5318-4094-9edc-8372db969fd1
+01:23:17.246 --> 01:23:21.791
+me let me go to the blackboard.
+Let me share it for you. So if
+
+NOTE Confidence: 0.83529454
+
+3c7058f9-4827-4c2e-b044-f56b8c3ae427
+01:23:21.791 --> 01:23:23.912
+you go to the lecture side here.
+
+NOTE Confidence: 0.89933866
+
+35105937-35f8-48c0-a07a-16c2fb5d8c2e
+01:23:26.680 --> 01:23:30.866
+You can see the welcome and then
+here is the older material about
+
+NOTE Confidence: 0.89933866
+
+8a67218d-8838-4d87-9c18-542fc5287e98
+01:23:30.866 --> 01:23:33.120
+the week number one, so if you
+
+NOTE Confidence: 0.8725282
+
+bf320b35-0299-48a0-a808-9967a3d1135e
+01:23:33.120 --> 01:23:35.410
+can do this. Oh
+
+NOTE Confidence: 0.8349266
+
+87ae03e1-0e06-4575-b651-bc4490362107
+01:23:36.510 --> 01:23:42.495
+you can see, uh, sorry you have
+to go to the second week. OK, I
+
+NOTE Confidence: 0.8349266
+
+13ec8355-bbd3-4f18-ba6b-9a41aefd5828
+01:23:42.495 --> 01:23:47.682
+enable the second week and if
+you go to the second week you'll
+
+NOTE Confidence: 0.8349266
+
+32ebf8ba-2a31-4be2-bf2b-0bf30c37fe1e
+01:23:47.682 --> 01:23:49.278
+see lecture assignment there.
+
+NOTE Confidence: 0.8918474
+
+0ffd85dc-e4a6-4f76-85e9-005928baa20e
+01:23:50.280 --> 01:23:54.360
+So it is not any enabled right
+now it is hidden from you, but I
+
+NOTE Confidence: 0.8918474
+
+007502d1-1eea-4712-9e5f-8f325ff7236f
+01:23:54.360 --> 01:23:58.440
+will enable it. I mean I mean in
+two days. So then if you go
+
+NOTE Confidence: 0.8918474
+
+8e81d7ab-beb1-44c1-a11e-9d54facb0a10
+01:23:58.440 --> 01:24:01.432
+there you can see the assignment
+and the deadline for that.
+
+NOTE Confidence: 0.91128254
+
+7d6d28af-61b5-44ec-8280-30f8f6543788
+01:24:05.020 --> 01:24:07.225
+He was asking him about
+the slides.
+
+NOTE Confidence: 0.8841732
+
+8946b3ce-ccc7-4ec5-a39e-29a909115388
+01:24:09.660 --> 01:24:12.236
+So let's go to the slides, OK?
+
+NOTE Confidence: 0.8669475
+
+5104af3f-df05-4f76-90de-f4c1ec9033aa
+01:24:13.670 --> 01:24:16.893
+I'm like he just I don't
+think it's visible for them
+
+NOTE Confidence: 0.8669475
+
+c24780f4-5a77-46c1-8503-41f53d4c44e0
+01:24:16.893 --> 01:24:17.772
+on a blackboard.
+
+NOTE Confidence: 0.44994894
+
+079c57e5-7b3a-4196-bb41-2795b946b557
+01:24:19.750 --> 01:24:21.280
+Uh, this slide.
+
+NOTE Confidence: 0.9324106
+
+d1d2511d-2172-438f-ac6a-d06b30a9f011
+01:24:22.490 --> 01:24:23.120
+I think.
+
+NOTE Confidence: 0.7128077
+
+60a57492-69c1-496a-a2e1-619e35a1cd8b
+01:24:25.310 --> 01:24:29.978
+Uh, which? What is the thing
+that can see the power point?
+
+NOTE Confidence: 0.7128077
+
+48c5ad4c-d313-483d-aa5d-49caab8e16b4
+01:24:29.978 --> 01:24:34.646
+They can see the videos I think,
+but not just the PowerPoint.
+
+NOTE Confidence: 0.8216499
+
+6c970a21-54a2-4954-86e5-e8af3712ee5e
+01:24:35.320 --> 01:24:39.935
+Oh the PowerPoint. I think. The
+power points are on PDF. Let me
+
+NOTE Confidence: 0.8216499
+
+dbe3fda6-53b5-4516-a371-937469610397
+01:24:39.935 --> 01:24:41.355
+go back to the.
+
+NOTE Confidence: 0.86351395
+
+5d29e443-85be-412b-8717-2d8601fa2df7
+01:24:42.460 --> 01:24:44.539
+To the blackboard.
+
+NOTE Confidence: 0.77966213
+
+174055c3-abc4-4c04-8b6c-898ec7ce021a
+01:24:49.770 --> 01:24:53.323
+Uh, if you go here, for
+instance, this is for previous
+
+NOTE Confidence: 0.77966213
+
+25758aad-175e-4972-bb86-9fd94f89a256
+01:24:53.323 --> 01:24:57.522
+next week, so the power points.
+This is the video. If you look
+
+NOTE Confidence: 0.77966213
+
+4abece2d-aff5-4486-a218-f0442472c19b
+01:24:57.522 --> 01:24:58.814
+at the attached file.
+
+NOTE Confidence: 0.85165596
+
+4c4e614e-1b8b-4f89-801b-0f0b32e38f34
+01:24:59.750 --> 01:25:04.001
+Here is a PDF file, so if you
+click the I said presentation
+
+NOTE Confidence: 0.85165596
+
+e2d94409-d72a-4e97-90a1-f40e022f5605
+01:25:04.001 --> 01:25:07.925
+slides are available in attached
+PDF file. So here is the PDF.
+
+NOTE Confidence: 0.89002144
+
+cfb91412-78a1-44ef-a983-b46e552cd3b7
+01:25:09.770 --> 01:25:11.835
+All these lines are in PDF, let
+
+NOTE Confidence: 0.9047229
+
+c502b1ac-2bd4-48b0-b169-f7a2065145d5
+01:25:11.835 --> 01:25:14.268
+me. It's it's loading.
+
+NOTE Confidence: 0.8769118
+
+2759bdac-af79-41a1-8916-38e02d2706a7
+01:25:15.710 --> 01:25:20.180
+Yes. All the presentation slides
+are in PDF file.
+
+NOTE Confidence: 0.8713886
+
+0f2e1266-4f51-41f4-b331-1164462eff62
+01:25:23.770 --> 01:25:27.631
+For the first session and the
+second session, I also for
+
+NOTE Confidence: 0.8713886
+
+43a846c8-6085-4a9c-9d56-a44361d5a648
+01:25:27.631 --> 01:25:31.843
+today's session I will post it
+as the PDF file, but today's
+
+NOTE Confidence: 0.8713886
+
+e3b7c6f9-f790-423a-8c02-b0340114eec0
+01:25:31.843 --> 01:25:33.949
+session goes to the second week.
+
+NOTE Confidence: 0.8533779
+
+0774db9b-ecff-499e-9c20-b2c4f5505aed
+01:25:35.050 --> 01:25:38.020
+So I enabled this second
+week and then I put all
+
+NOTE Confidence: 0.8533779
+
+53dd5c34-ef15-48e1-847e-69edb7fbe941
+01:25:38.020 --> 01:25:39.100
+this and slides here.
+
+NOTE Confidence: 0.9217412
+
+fed24d3a-23f5-45d0-b26f-101da081a9bf
+01:25:42.240 --> 01:25:43.518
+So next question.
+
+NOTE Confidence: 0.88470167
+
+ee06ecf4-c0ba-4c65-9630-1b6dac196f1e
+01:25:45.210 --> 01:25:48.697
+There was one it said. Can
+you explain the answer of
+
+NOTE Confidence: 0.88470167
+
+23fc81e1-7c45-454b-be92-e5a0757793ff
+01:25:48.697 --> 01:25:49.648
+the last quiz?
+
+NOTE Confidence: 0.7905515
+
+e6e70a62-541a-4c8b-9d15-d6464681d1d3
+01:25:51.440 --> 01:25:52.898
+Uh, the last in the poll.
+
+NOTE Confidence: 0.8839422
+
+e9d947c6-6baa-4dca-a82e-90419815271c
+01:25:53.830 --> 01:25:56.350
+oh for the for the.
+
+NOTE Confidence: 0.7286879
+
+0a4aef32-2d95-4d34-bf92-16d274d6409f
+01:25:57.070 --> 01:25:58.780
+Let me bring the poll.
+
+NOTE Confidence: 0.8980298
+
+7b16b28f-65c3-463e-abcf-7ba74d9f7844
+01:26:01.350 --> 01:26:03.138
+For this one, yes.
+
+NOTE Confidence: 0.92446643
+
+028aa38c-0ec3-40cb-9730-bd49c3dce3fd
+01:26:04.400 --> 01:26:05.636
+I think that's what he meant.
+
+NOTE Confidence: 0.7524619
+
+26410669-b1e4-464f-9095-8411899fec2f
+01:26:06.990 --> 01:26:11.454
+OK, uh, for this one?
+Uh, let me calculation
+
+NOTE Confidence: 0.7524619
+
+e8fc16ba-f9be-4eb2-9dc6-cfef2001cba1
+01:26:11.454 --> 01:26:13.934
+again. Let me share my.
+
+NOTE Confidence: 0.86372715
+
+6d850d85-dc73-4ab2-9bc5-e97c89a6a63f
+01:26:18.800 --> 01:26:20.650
+To share my screen first.
+
+NOTE Confidence: 0.94263977
+
+cdd02b8b-da31-4f98-85c0-7f840e9982d4
+01:26:21.290 --> 01:26:22.260
+My camera.
+
+NOTE Confidence: 0.8936081
+
+050937b8-108c-421e-9f31-a0d405b72869
+01:26:29.920 --> 01:26:36.651
+So. This is the number we wanted
+to see what the next number, and
+
+NOTE Confidence: 0.8936081
+
+41de4d47-45b6-4cd6-ae37-3a5f45af063f
+01:26:36.651 --> 01:26:39.093
+then once the next number so.
+
+NOTE Confidence: 0.8357077
+
+6be952d8-c92f-4b2f-979f-d9c7ce7b873e
+01:26:40.580 --> 01:26:45.520
+If you wanted to increment this
+number, we have two plus by 1.
+
+NOTE Confidence: 0.8469287
+
+f75a4d05-ec45-4c8f-9406-c74aa62419bd
+01:26:46.270 --> 01:26:49.276
+But one in We are in the base-4.
+
+NOTE Confidence: 0.84411186
+
+e0ee6e33-5b07-42c2-b9c0-8f8675e505d0
+01:26:50.110 --> 01:26:53.688
+Base 64 so in base 64.
+
+NOTE Confidence: 0.9092672
+
+c4e98090-c364-466b-8fbd-e5451a6e3778
+01:26:54.700 --> 01:26:55.700
+0.
+
+NOTE Confidence: 0.83138067
+
+74982077-9d17-4081-92d9-f80556d2b5c5
+01:26:56.790 --> 01:27:03.972
+Is the digit for 0 is a in
+64. So in order to represent 1,
+
+NOTE Confidence: 0.83138067
+
+06430d29-d501-41b4-93bb-8c0eea1ffc3e
+01:27:03.972 --> 01:27:05.511
+one is this.
+
+NOTE Confidence: 0.74825627
+
+0dedbd9b-6e3d-4720-83ea-7f9690db0a2a
+01:27:06.200 --> 01:27:10.400
+AAA and O and 1
+
+NOTE Confidence: 0.88002646
+
+727f31e2-2ec3-42e3-9949-5435b4b75866
+01:27:12.980 --> 01:27:16.620
+oh sorry, that's not
+correct because one.
+
+NOTE Confidence: 0.7662745
+
+0bec4d4f-e7ee-4268-973b-ba9cbab8d0e4
+01:27:18.050 --> 01:27:22.040
+In 64 is let's see, it's
+
+NOTE Confidence: 0.89809984
+
+427a6263-b9d0-426c-93b0-2265ad419b33
+01:27:22.040 --> 01:27:26.040
+capital B. So. This is the.
+
+NOTE Confidence: 0.90968424
+
+b5950ee7-5340-44b4-873c-940d47fefb68
+01:27:27.200 --> 01:27:30.828
+Number equal to 0001.
+
+NOTE Confidence: 0.73463154
+
+9b3d01fe-b123-4d95-af46-9eb7c75ee269
+01:27:31.760 --> 01:27:35.568
+OK, so then we have to sum it.
+
+NOTE Confidence: 0.93205404
+
+75fb790e-2233-419e-9dc9-749eb1eac3f0
+01:27:37.390 --> 01:27:38.120
+So.
+
+NOTE Confidence: 0.87043643
+
+fe2e652a-420c-4625-963b-23869d2eb3ff
+01:27:39.550 --> 01:27:44.770
+The Slash Plus B is means that
+63 + 1 becomes 64.
+
+NOTE Confidence: 0.83054143
+
+a378df0f-3f59-416b-9f23-73b9e51ab8fd
+01:27:46.310 --> 01:27:50.378
+But we are not allowed to
+represent 64, so we have
+
+NOTE Confidence: 0.83054143
+
+e55d083b-cb27-469c-80f3-8ec4ce0c5496
+01:27:50.378 --> 01:27:55.124
+to divide it based on the base
+or radix of. I mean this number
+
+NOTE Confidence: 0.83054143
+
+5276b87e-9f74-4491-8060-b836b5b38dc6
+01:27:55.124 --> 01:27:57.158
+system so it's equal to 1.
+
+NOTE Confidence: 0.84773815
+
+f31d5d13-599c-4438-86c4-56634e595a73
+01:27:58.820 --> 01:28:05.048
+Reminder is 0, but one in base
+64 is equal to B.
+
+NOTE Confidence: 0.8872882
+
+a877431f-4b55-40f9-871c-5977d6e098eb
+01:28:06.350 --> 01:28:09.198
+And zero in 64 is equal to A.
+
+NOTE Confidence: 0.9166494
+
+386b4084-7994-4cc6-aedc-c38392d9ea93
+01:28:12.740 --> 01:28:14.580
+So we keep the remainder.
+
+NOTE Confidence: 0.8342322
+
+ef95ecd4-0208-4beb-96cc-6ac19330e9a0
+01:28:15.600 --> 01:28:21.186
+And then they put a carry to the
+next position. So this Carry is
+
+NOTE Confidence: 0.8342322
+
+7b67477b-59a1-4f68-a7b7-089d4cb1a4c6
+01:28:21.186 --> 01:28:25.575
+1 but in the 64 numbering system
+is equal to b.
+
+NOTE Confidence: 0.8134893
+
+7e7989c2-bf02-4b90-b47b-9795d83d0c96
+01:28:27.400 --> 01:28:32.224
+And now B +
+C + a, A is.
+
+NOTE Confidence: 0.8814333
+
+0ced2897-a242-405b-a656-2f08b0819b28
+01:28:33.840 --> 01:28:34.650
+0.
+
+NOTE Confidence: 0.889012
+
+c56201f6-8bf5-4c0b-ac64-a46d9f7d8aef
+01:28:36.250 --> 01:28:38.329
+Z is 25.
+
+NOTE Confidence: 0.8735098
+
+f655c44b-b397-4bde-9ade-38ede4b8db0c
+01:28:39.290 --> 01:28:45.996
+And B is 1, so 1 + 25
+becomes 26 + 0 becomes 26.
+
+NOTE Confidence: 0.8566641
+
+ba538e60-ba08-4ff0-b4b9-4a8ed3120532
+01:28:46.680 --> 01:28:50.760
+So now we have to see what's the
+digit for 6 in base.
+
+NOTE Confidence: 0.9106024
+
+0be96d52-0d23-46e1-aa4a-4ce40bcc2f42
+01:28:51.330 --> 01:28:52.180
+64
+
+NOTE Confidence: 0.87479615
+
+3b69f9f9-4f44-429a-bcc9-65b98f84de18
+01:28:53.600 --> 01:29:00.576
+If you go to the look up table,
+we can see that is 26 is equal
+
+NOTE Confidence: 0.87479615
+
+14882a05-f724-4fb4-a513-bbe7412c3ecb
+01:29:00.576 --> 01:29:01.884
+to small a.
+
+NOTE Confidence: 0.7358305
+
+90bd4e6e-30a8-4d8d-a0b3-72e801b0bdff
+01:29:05.810 --> 01:29:12.479
+Because it strats from, ABC up
+until Z. All capital an after
+
+NOTE Confidence: 0.7358305
+
+60440ecb-181f-4de6-bfec-5e96878dfdb1
+01:29:12.479 --> 01:29:18.635
+the capital z it starts with
+small a so from the Z +
+
+NOTE Confidence: 0.7358305
+
+febedaf9-1565-4bca-9324-728cc4ef9fa6
+01:29:18.635 --> 01:29:25.304
+1 becomes small a 25 plus the
+carry one which is B in the
+
+NOTE Confidence: 0.7358305
+
+42e3f482-8bf0-4003-995f-25106460b770
+01:29:25.304 --> 01:29:30.434
+64 base plus zero which is
+a in 64.
+
+NOTE Confidence: 0.8375392
+
+f54c4f2c-ef58-446a-beb5-0a871564c1d4
+01:29:31.870 --> 01:29:39.142
+64 based becomes 26 ,26 in base.
+Four is A and then plus.
+
+NOTE Confidence: 0.87100506
+
+8e9b40b0-5852-4873-a13e-d748d365c666
+01:29:40.700 --> 01:29:47.660
+Added by a means that plus is
+26 to 2 + 0 is zero. A is equal to
+
+NOTE Confidence: 0.87100506
+
+36b57215-7233-4cdb-998f-5cafc82d2f8f
+01:29:47.660 --> 01:29:52.445
+0 so it becomes 62 + 0 becomes
+62 the same or plus.
+
+NOTE Confidence: 0.9055903
+
+b56c9c6c-f5c7-4604-80f1-36210e7548cb
+01:29:55.170 --> 01:29:57.088
+And then a + 0 is at.
+
+NOTE Confidence: 0.94175506
+
+32e4f7d7-f1c1-4a08-b30d-af1af5c55f64
+01:29:58.480 --> 01:30:00.316
+So this is the next number.
+
+NOTE Confidence: 0.9059535
+
+0d41f282-dca2-48b3-b9de-f0dd847e2381
+01:30:01.120 --> 01:30:02.356
+And then if you want to increment.
+
+NOTE Confidence: 0.86324924
+
+c7181c7c-bb08-4d86-9db9-3029d4264dfa
+01:30:03.840 --> 01:30:06.890
+Another time with one unit.
+
+NOTE Confidence: 0.8591139
+
+c37a76d8-4d3c-424c-b8f6-ca02e455f033
+01:30:10.400 --> 01:30:15.737
+So one is equal to AAAB
+in base 64.
+
+NOTE Confidence: 0.9323983
+
+227051b5-4eba-493e-8780-9e0f486b248d
+01:30:16.710 --> 01:30:17.799
+So this time.
+
+NOTE Confidence: 0.8393369
+
+912cfa1d-e8bb-4648-abde-09a45891545d
+01:30:18.660 --> 01:30:19.809
+Is equal to.
+
+NOTE Confidence: 0.8663901
+
+899ea314-135e-4c94-9a92-410cae0ebe0f
+01:30:21.190 --> 01:30:24.529
+0 + 1 becomes one, so b.
+
+NOTE Confidence: 0.75377816
+
+9687308a-f7a7-4368-ad99-9db01d926373
+01:30:25.780 --> 01:30:28.220
+a + 0 becomes a.
+
+NOTE Confidence: 0.7816534
+
+c0ffd10e-21d1-4af5-a1ee-879a18793e2b
+01:30:30.520 --> 01:30:37.774
+Plus added by zero becomes plus
+a + 0 becomes, so these are
+
+NOTE Confidence: 0.7816534
+
+b83c4fc4-ab43-4798-89a5-6aca0a1c9fbe
+01:30:37.774 --> 01:30:41.122
+the two next numbers in 64.
+
+NOTE Confidence: 0.9416973
+
+714a17cf-3b45-4a35-bacf-8034a7ec3042
+01:30:46.050 --> 01:30:46.930
+So.
+
+NOTE Confidence: 0.9189711
+
+d3a8fb78-b7c4-48a9-a406-377e8f4df66e
+01:30:49.150 --> 01:30:50.020
+Next question.
+
+NOTE Confidence: 0.8412766
+
+7813e792-db52-4972-af35-103c705a78e9
+01:30:51.450 --> 01:30:55.060
+There's one about is the lab
+assignment different from the
+
+NOTE Confidence: 0.8412766
+
+b9dc815a-9d68-41c4-9321-5f511e3d56fc
+01:30:55.060 --> 01:30:57.948
+lecture assignment? Yes, yes,
+actually. Lab assignments are
+
+NOTE Confidence: 0.8412766
+
+ec5a9165-f84d-4b6c-a32b-800d5ed86b86
+01:30:57.948 --> 01:31:02.280
+based on the I mean your
+activity for in the labs, and
+
+NOTE Confidence: 0.8412766
+
+f1266bec-f2d0-4ddd-8b9c-f38b5991f4a9
+01:31:02.280 --> 01:31:06.612
+there is a manual for lab
+assignments, so you have to go.
+
+NOTE Confidence: 0.8412766
+
+7e4d9d95-a9c0-4f4c-8188-c5703fca235f
+01:31:06.612 --> 01:31:08.417
+Let me show you again.
+
+NOTE Confidence: 0.80049324
+
+5262d045-3f3d-475b-a41f-63c8780b6a0c
+01:31:09.230 --> 01:31:13.858
+My here for the lab assignments.
+You have to go to the labs.
+
+NOTE Confidence: 0.9170984
+
+590e5f8d-5583-497c-a665-f203ad0bfd57
+01:31:14.720 --> 01:31:17.296
+Let me let me share my
+screen first.
+
+NOTE Confidence: 0.8075288
+
+46139fae-1289-43a7-8269-42be3d3617a2
+01:31:20.710 --> 01:31:23.739
+So you have put lab, something
+you have to go to the labs.
+
+NOTE Confidence: 0.87255055
+
+38cd8b2e-73fc-450b-a6c7-19cbe13c0b19
+01:31:24.600 --> 01:31:27.845
+And here you see the lab
+manuals. This is the lab
+
+NOTE Confidence: 0.87255055
+
+12ecbd28-2039-4581-8067-fba77576c95e
+01:31:27.845 --> 01:31:31.385
+assignment for the first week,
+which is to this week. This is
+
+NOTE Confidence: 0.87255055
+
+06ded0be-3d99-48f5-a4b0-8b9753270ebd
+01:31:31.385 --> 01:31:34.925
+the manual for that. I mean it
+did. It describes what should
+
+NOTE Confidence: 0.87255055
+
+ee9e85b5-4bd4-4065-a90e-ae0119d0ce48
+01:31:34.925 --> 01:31:38.170
+you do an etc. And then this
+is a sample submission.
+
+NOTE Confidence: 0.8329482
+
+bcfa08d7-c7c3-4f60-aeb8-8d1848bc864b
+01:31:39.840 --> 01:31:43.008
+And next week you have lab
+assignment 200 setup for the
+
+NOTE Confidence: 0.8329482
+
+2fa2e7c2-474c-4d9b-922c-bf50509ca859
+01:31:43.008 --> 01:31:45.600
+lecture assignment. You have to
+go to the lectures.
+
+NOTE Confidence: 0.8592899
+
+b19ca3e2-4c05-47a8-bf8b-aa84715f8a81
+01:31:46.810 --> 01:31:50.770
+And then go to that week. For
+instance, if we we have
+
+NOTE Confidence: 0.8592899
+
+21c879f3-4ab4-4075-b03a-528aab01b46d
+01:31:50.770 --> 01:31:54.730
+lecture assignment for the second
+week, so you have to go to
+
+NOTE Confidence: 0.8592899
+
+2ed1d66f-3053-45fe-ad29-fb93148c107a
+01:31:54.730 --> 01:31:58.360
+this. I will enable it and then
+you'll find the assignment
+
+NOTE Confidence: 0.8592899
+
+af8cde9a-ac06-4577-94a6-beebd161b00a
+01:31:58.360 --> 01:32:01.000
+there and then you said
+basically the lecture
+
+NOTE Confidence: 0.8592899
+
+d3021d62-8895-4524-9845-aaffba974251
+01:32:01.000 --> 01:32:03.970
+assignments are math proof or
+some written. I mean
+
+NOTE Confidence: 0.8592899
+
+35cf9564-0832-42ea-b61c-644ffb15235b
+01:32:03.970 --> 01:32:05.950
+assignments. The lab
+assignments are programming
+
+NOTE Confidence: 0.8592899
+
+feb5f016-8197-4270-b1b4-f587ee35e2a5
+01:32:05.950 --> 01:32:06.280
+assignments.
+
+NOTE Confidence: 0.8693844
+
+38b8526e-679f-48eb-96ad-9d242b7d7c3e
+01:32:13.010 --> 01:32:17.950
+Next there was there was like a
+group of questions like so the
+
+NOTE Confidence: 0.8693844
+
+fa16f43b-45ab-4a66-9318-f268f3c3c1ff
+01:32:17.950 --> 01:32:22.510
+lab start today and what what do
+we do during the lab?
+
+NOTE Confidence: 0.8517686
+
+d3dc1ec5-5727-4002-8a88-a8fbc8f464be
+01:32:23.550 --> 01:32:27.433
+Oh, during the lab actually you
+have to do some programming.
+
+NOTE Confidence: 0.8517686
+
+5fc0b893-4286-4eca-87dc-a940cde215ee
+01:32:27.433 --> 01:32:31.669
+Then if you attend the labs or
+lab instructors there, they help
+
+NOTE Confidence: 0.8517686
+
+c37852c2-a69a-495a-93b2-49de4d820680
+01:32:31.669 --> 01:32:35.199
+you how to solve the lab
+assignments. For instance, the
+
+NOTE Confidence: 0.8517686
+
+ad044b56-1059-49d1-b524-80baa29a64f2
+01:32:35.199 --> 01:32:39.082
+first lab is installing eclipse,
+an programming C or C++ in
+
+NOTE Confidence: 0.8517686
+
+689cdd30-d20c-4d59-a1f5-761cc9807fe5
+01:32:39.082 --> 01:32:43.318
+eclipse. So they guide you how
+to install eclipse. If you have
+
+NOTE Confidence: 0.8517686
+
+afc90e21-6dad-4c20-82b8-05cc2655911c
+01:32:43.318 --> 01:32:47.907
+some problems you can ask them
+and then they help you how to
+
+NOTE Confidence: 0.8517686
+
+ddfc5cf7-5136-4f95-ab22-b3f01d634cf6
+01:32:47.907 --> 01:32:51.437
+write the lab assignments for
+the lab assignment week number
+
+NOTE Confidence: 0.8517686
+
+0830b439-1234-40cc-b016-f5407bc30e7c
+01:32:51.437 --> 01:32:54.967
+one you have to write a program
+to do and.
+
+NOTE Confidence: 0.88675934
+
+aa1d4023-44d6-4b45-ad43-0ec84abb1bf3
+01:32:55.060 --> 01:33:00.175
+Or not, on a given input. So if
+you can write the program so you
+
+NOTE Confidence: 0.88675934
+
+0f9f6a02-6f71-4be5-b150-d019b02d33e0
+01:33:00.175 --> 01:33:03.926
+cannot attend the lab if you
+cannot and you have some
+
+NOTE Confidence: 0.88675934
+
+f7a814bf-c590-4439-ab74-6dcae83e01b0
+01:33:03.926 --> 01:33:07.336
+question, you can attend the
+labs and the lab instructor
+
+NOTE Confidence: 0.88675934
+
+2b2fc60f-75a6-4c30-b985-2adfe8f0b1b2
+01:33:07.336 --> 01:33:11.428
+helps you how to install
+eclipse, how to program in C or
+
+NOTE Confidence: 0.88675934
+
+9d5f4e99-4958-4434-a3f2-56d6006460e6
+01:33:11.428 --> 01:33:13.815
+C++, and how to write the code
+
+NOTE Confidence: 0.9410028
+
+e0d85fe4-e718-47b8-a359-1b158711a785
+01:33:13.815 --> 01:33:16.030
+for assignments. So.
+
+NOTE Confidence: 0.9396297
+
+eb13f6fe-c86b-4f35-afaa-5d324a95fb80
+01:33:17.980 --> 01:33:20.017
+If you go to the
+discussion board.
+
+NOTE Confidence: 0.88057935
+
+615937a4-84d7-4ca4-89e6-6bd35332542a
+01:33:21.100 --> 01:33:26.066
+And then go to the laboratory.
+You can see that lots of the
+
+NOTE Confidence: 0.88057935
+
+0075fcc6-38e8-4e19-8a0a-ea5602616845
+01:33:26.066 --> 01:33:29.886
+student posted some questions.
+For instance, I cannot access no
+
+NOTE Confidence: 0.88057935
+
+1a49daa5-95dc-455e-908c-c8e48cb73864
+01:33:29.886 --> 01:33:34.852
+machine or there are some issues
+at output in the in the eclipse.
+
+NOTE Confidence: 0.88057935
+
+c8cde996-544a-420c-b5e6-7a027fe0dfd7
+01:33:34.852 --> 01:33:39.436
+So all these issues can be
+answered in lab lecture or lab
+
+NOTE Confidence: 0.88057935
+
+45ad9fb9-8161-4a32-a3fb-ba3be7cb9095
+01:33:39.436 --> 01:33:43.256
+sections and the lab instructor
+can answer all these questions.
+
+NOTE Confidence: 0.88057935
+
+f7d1eed8-5db8-487e-82f2-40ff63910f7e
+01:33:43.256 --> 01:33:48.222
+Also I will answer your issues
+here so the lab sections are for
+
+NOTE Confidence: 0.88057935
+
+e3b62c66-4d5e-46ac-baa7-28690b4cff78
+01:33:48.222 --> 01:33:50.514
+helping you to do the lab
+
+NOTE Confidence: 0.9042336
+
+9d87ee25-f2a1-4186-a39e-e8cee679e955
+01:33:50.514 --> 01:33:53.442
+assignments. Which is
+basically programming
+
+NOTE Confidence: 0.9042336
+
+9b86026b-b1c5-4903-8e37-1b195743f727
+01:33:53.442 --> 01:33:54.000
+assignments.
+
+NOTE Confidence: 0.87304723
+
+c2a78543-3531-4d17-8c3f-47ef906e7e76
+01:33:58.640 --> 01:34:03.668
+Any other questions? I think
+this might be the last one. It
+
+NOTE Confidence: 0.87304723
+
+689e247d-72a7-4fbf-b9ab-00b80ab8b5fc
+01:34:03.668 --> 01:34:07.439
+said there wasn't a lecture
+assignment last week, right?
+
+NOTE Confidence: 0.87304723
+
+f0193106-ce2a-4353-ac51-30a970cd9ab0
+01:34:07.439 --> 01:34:12.467
+Yes, yes there are no assignment
+last week because I wanted to
+
+NOTE Confidence: 0.87304723
+
+cd1ff490-417f-4ecc-814c-8e837b8c485a
+01:34:12.467 --> 01:34:17.076
+synchronize the lab and lecture
+assignments. So I will start the
+
+NOTE Confidence: 0.87304723
+
+3288bb39-75e6-4d7c-805b-0e8cd537aa62
+01:34:17.076 --> 01:34:18.333
+lecture assignment .
+
+NOTE Confidence: 0.8022422
+
+20e48cb3-9759-4d47-8ce4-116377e73577
+01:34:19.910 --> 01:34:22.968
+The same way as the lab
+assignments start, so there were
+
+NOTE Confidence: 0.8022422
+
+c768e0c1-613a-4399-82bd-54f925798c11
+01:34:22.968 --> 01:34:24.080
+no assignments last week.
+
+NOTE Confidence: 0.848834
+
+ef357670-c5b1-40b7-bbeb-17bfdb729d4b
+01:34:27.360 --> 01:34:30.195
+Any other questions?
+I think that's it.
+
+NOTE Confidence: 0.87729096
+
+9dd3650a-e1c0-41d1-88e4-269df2694e8d
+01:34:31.890 --> 01:34:36.890
+Cool. Thank you so much and
+I will be on my office. So
+
+NOTE Confidence: 0.87729096
+
+d3370bb0-e4da-4687-a0fe-4e90a71d18b8
+01:34:36.890 --> 01:34:40.355
+if you have any other issue
+or questions I'm happy to
+
+NOTE Confidence: 0.87729096
+
+167f4f4c-aead-4796-90bc-18e71416b8e3
+01:34:40.355 --> 01:34:43.505
+answer there. All of them
+in the office hour. Thank
+
+NOTE Confidence: 0.87729096
+
+49e065c0-7808-430c-a4bc-3312bc47ebc4
+01:34:43.505 --> 01:34:45.395
+you all. Have a good day.
+
