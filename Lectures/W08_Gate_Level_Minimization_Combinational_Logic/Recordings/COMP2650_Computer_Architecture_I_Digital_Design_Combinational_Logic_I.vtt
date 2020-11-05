@@ -1,0 +1,7286 @@
+WEBVTT
+
+NOTE duration:"01:23:06.2850000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.847976
+
+095cecec-3d40-423c-af61-07c6abd88bf1
+00:01:34.060 --> 00:01:40.297
+So let's start up again. Very
+few students in the class.
+
+NOTE Confidence: 0.895137
+
+21f74f9a-8fb5-47d5-a8be-ee034b622ffe
+00:01:42.040 --> 00:01:43.520
+Wondering why?
+
+NOTE Confidence: 0.8958013
+
+78b064d3-11f6-4af8-b7e0-5c737407dd0b
+00:01:44.860 --> 00:01:52.226
+So. Today we're going
+to start the next chapter,
+
+NOTE Confidence: 0.7350324
+
+e47a82f7-0e73-4c3b-bb32-180ab2e6ccad
+00:01:52.226 --> 00:01:59.716
+the chapter. 4 which is
+basically about a topic. I mean
+
+NOTE Confidence: 0.7350324
+
+3275f05d-1ad8-4f43-940c-160e07195eac
+00:01:59.716 --> 00:02:01.528
+combinational logic.
+
+NOTE Confidence: 0.87339985
+
+0a0e00ee-7af1-4bde-93c3-66de19b6fa53
+00:02:03.930 --> 00:02:08.598
+But before I start, I mean,
+let's make sure everyone has the
+
+NOTE Confidence: 0.87339985
+
+dc0f5afa-90fd-4da1-998b-89d59e871d5d
+00:02:08.598 --> 00:02:13.266
+focus to the slides. So please
+send me. I mean like previous
+
+NOTE Confidence: 0.87339985
+
+acef96d1-b7af-4c79-b2f8-6fcfcca1152e
+00:02:13.266 --> 00:02:17.934
+works, send me some feedback
+that I can make sure that you
+
+NOTE Confidence: 0.87339985
+
+be472b11-75e5-4b95-b9f5-d3685cd7d95e
+00:02:17.934 --> 00:02:19.879
+are listening to the lecture.
+
+NOTE Confidence: 0.8118134
+
+d29b4f44-fc64-4da2-97a9-ca0880c2823f
+00:02:20.830 --> 00:02:21.829
+Thank you, Nelson.
+
+NOTE Confidence: 0.618557
+
+1ef7332d-8e6a-4b48-8168-3bb21cbd5ccc
+00:02:25.110 --> 00:02:26.178
+Thank you Deanna.
+
+NOTE Confidence: 0.69895124
+
+d405e460-2471-4436-8982-2375510b87ca
+00:02:27.890 --> 00:02:29.520
+Thank you, thank you AJ.
+
+NOTE Confidence: 0.51174825
+
+769705d2-933e-4992-893b-e5f9d4f35ff9
+00:02:30.890 --> 00:02:33.170
+Justin J Dennis.
+
+NOTE Confidence: 0.7229433
+
+0832e77a-86b9-4134-b840-4e0ad7ec1f82
+00:02:35.100 --> 00:02:38.170
+Riley, OK, let's start. Thank
+
+NOTE Confidence: 0.8548579
+
+7250964b-25c1-48ba-b6fc-5d65dd226ac9
+00:02:38.170 --> 00:02:40.700
+you, Ethan. .
+
+NOTE Confidence: 0.78470695
+
+3ac45489-fcb8-4a80-bc84-1cc6c569cf07
+00:02:41.380 --> 00:02:47.893
+Ah, uh, so far we know how
+to design A logic circuit based
+
+NOTE Confidence: 0.78470695
+
+6b72b3d0-4281-4415-a786-c4a6b0d3eaed
+00:02:47.893 --> 00:02:53.404
+on the combination of some logic
+gates for any given problem.
+
+NOTE Confidence: 0.81533915
+
+824090a7-7b6e-41c3-b661-9cb8c8d627ca
+00:02:54.930 --> 00:03:00.166
+But today we're going to focus
+on some, um, common or
+
+NOTE Confidence: 0.81533915
+
+e3333bc1-b44a-41d9-8210-10a91a84d98a
+00:03:00.166 --> 00:03:04.926
+essential logic circuits that
+are, I mean, important for any
+
+NOTE Confidence: 0.81533915
+
+349082ed-c31d-4830-a87a-4e56abd95382
+00:03:04.926 --> 00:03:06.830
+computing system such as
+
+NOTE Confidence: 0.8447546
+
+e7f8e9ef-ff09-42e1-9e53-691d2f002cff
+00:03:06.830 --> 00:03:11.747
+computers. So although you can
+design logic circuit for any 
+
+NOTE Confidence: 0.8447546
+
+3aca2207-46eb-42f3-a85e-0b8e0b9989af
+00:03:11.747 --> 00:03:16.583
+purpose, but from now on we're
+going to build the computer. So
+
+NOTE Confidence: 0.8447546
+
+6583962c-1b0a-4d2f-9cc6-5bd6cdbad78c
+00:03:16.583 --> 00:03:21.822
+we are going to build some logic
+units or logic circuits that are
+
+NOTE Confidence: 0.8447546
+
+7407dda2-5f98-49f4-8361-e7eb78d89a3d
+00:03:21.822 --> 00:03:25.449
+essential for any computing
+system. Logic circuits can be
+
+NOTE Confidence: 0.8447546
+
+2748979c-7ed0-4761-bb2f-170d6f82e308
+00:03:25.449 --> 00:03:29.076
+divided into 2 main categories,
+combinational circuits or
+
+NOTE Confidence: 0.87924397
+
+d350d7b7-becc-4f4c-9226-d8e9ce375f75
+00:03:29.076 --> 00:03:33.552
+combination logic. Or sequential
+one. So this chapter is about
+
+NOTE Confidence: 0.87924397
+
+5891bade-c4a7-4a12-81e6-1ae042c987bf
+00:03:33.552 --> 00:03:37.446
+combination. But let's see what
+we mean by the combination of
+
+NOTE Confidence: 0.8071859
+
+ecd02f7e-6943-4cfd-839b-b0b19f7b2b84
+00:03:37.446 --> 00:03:42.560
+logic. And the combination of
+logic. Basically what we've done
+
+NOTE Confidence: 0.8071859
+
+dc727172-59c3-4164-b0c6-ede5da1eae7d
+00:03:42.560 --> 00:03:47.620
+so far with us all in this
+category of combinational logic
+
+NOTE Confidence: 0.8071859
+
+0abdbe3a-2804-441a-a488-5de87f85c412
+00:03:47.620 --> 00:03:53.600
+we have n binary variables in
+the input. As you can see here
+
+NOTE Confidence: 0.8071859
+
+00213b72-352c-4c69-b2cc-0f010476e42d
+00:03:53.600 --> 00:03:58.660
+and based on some logic gates
+inside the circuit, we output
+
+NOTE Confidence: 0.8071859
+
+7611fee6-5e89-4c71-a624-90271cd21635
+00:03:58.660 --> 00:04:03.260
+some binary variables such as
+which is really represented as
+
+NOTE Confidence: 0.8071859
+
+d57fe728-edd4-440e-91b9-f1d84c8cf893
+00:04:03.260 --> 00:04:07.860
+Boolean functions for some M
+output or m output functions.
+
+NOTE Confidence: 0.78335017
+
+10348446-b604-498d-816f-c0ee02942163
+00:04:09.060 --> 00:04:14.232
+So inside this circuit, if we
+write the Boolean function as a
+
+NOTE Confidence: 0.78335017
+
+d54ca9e3-e314-479a-8a1f-69f9a74585fa
+00:04:14.232 --> 00:04:19.404
+sum of minterms, you have two
+levels of gates, one level of
+
+NOTE Confidence: 0.78335017
+
+e3a731e4-efbe-47eb-902f-59a44f8ae907
+00:04:19.404 --> 00:04:24.576
+and the second level is the OR.
+If we write the Boolean
+
+NOTE Confidence: 0.78335017
+
+8e8da8c4-b2ce-4246-93d7-775e8757903c
+00:04:24.576 --> 00:04:29.748
+functions for the outputs on the
+product of maxterms, we have two
+
+NOTE Confidence: 0.78335017
+
+6c9fa897-9792-4fd2-ac09-ba6b16febd6d
+00:04:29.748 --> 00:04:35.351
+levels of gates, one level of
+OR, one level of, and we said
+
+NOTE Confidence: 0.78335017
+
+1413c288-ca81-4d51-a6c5-671a46f2ce11
+00:04:35.351 --> 00:04:40.092
+that we can transform the sop
+to Nand circuit. Also, we
+
+NOTE Confidence: 0.78335017
+
+baf42335-713c-45d5-a6be-6e9ede5e2f83
+00:04:40.092 --> 00:04:42.678
+can transform the POS to  nor.
+
+NOTE Confidence: 0.8082892
+
+19659b60-981b-4463-aad5-ebd869f7ae70
+00:04:42.960 --> 00:04:47.883
+Only Gates circuit, so all
+of these designs are
+
+NOTE Confidence: 0.8082892
+
+2492574a-5d36-430e-912b-4f3f6ce3910c
+00:04:47.883 --> 00:04:48.977
+considered combination.
+
+NOTE Confidence: 0.8704968
+
+698d66c1-8194-45f6-b817-c38c7b01d973
+00:04:51.470 --> 00:04:56.112
+However, the sequential logic is
+a combination of logic plus in
+
+NOTE Confidence: 0.8704968
+
+6a5dd02d-2252-4adf-b260-2fb75630579d
+00:04:56.112 --> 00:05:00.332
+new concept called feedback.
+Feedback means that one or more
+
+NOTE Confidence: 0.8704968
+
+1dced15b-1eaf-4b76-8e6c-5c31557d7a14
+00:05:00.332 --> 00:05:04.552
+of the inputs actually is
+feeding from the output Boolean
+
+NOTE Confidence: 0.8704968
+
+1fea86b6-23a0-4d6b-908b-88f5d0a8f4dc
+00:05:04.552 --> 00:05:10.038
+function. So it's kind of effect
+from output to the input, so we
+
+NOTE Confidence: 0.8704968
+
+499a4839-aeff-40c7-96e4-8b4283ad12a8
+00:05:10.038 --> 00:05:15.102
+haven't done such a mean logic
+circuit so far. In the next
+
+NOTE Confidence: 0.8704968
+
+6a595c84-fdf7-4574-a079-ef4f75cf3bad
+00:05:15.102 --> 00:05:20.166
+chapter, we're going to learn
+how we can do such a thing.
+
+NOTE Confidence: 0.8091896
+
+b3b01455-81f0-4874-beab-1e4eb55a32f4
+00:05:20.410 --> 00:05:24.630
+And the analysis of such a
+mean sequential logic is
+
+NOTE Confidence: 0.8091896
+
+912c0ca3-1bc6-40f2-9b64-cd236d2ab42b
+00:05:24.630 --> 00:05:28.428
+hyphen from combination logic,
+but will cover the next
+
+NOTE Confidence: 0.8091896
+
+4f042a56-2ca6-40a3-928c-3afc943af98c
+00:05:28.428 --> 00:05:33.492
+chapter. And I mean in the
+future we're in the weeks in
+
+NOTE Confidence: 0.8091896
+
+5a53e43d-d08f-4ad7-8ecc-3ea1c0826caa
+00:05:33.492 --> 00:05:37.290
+the future. But this is the
+main difference. So
+
+NOTE Confidence: 0.8091896
+
+250a9769-1a10-4079-adb9-839f6eb6ba70
+00:05:37.290 --> 00:05:38.978
+combinational logic sequential
+logic.
+
+NOTE Confidence: 0.8947958
+
+fb3c5ef2-89bc-47d6-9825-4c39f4cc00ab
+00:05:40.690 --> 00:05:44.672
+For combination of logic, the
+main properties that as long as
+
+NOTE Confidence: 0.8947958
+
+d0978876-9fcd-4471-89a6-12dfb37c7b9c
+00:05:44.672 --> 00:05:47.206
+we have the value for the input
+
+NOTE Confidence: 0.8349235
+
+4dc7704d-d523-4f6f-becf-0662a5df0fdf
+00:05:47.206 --> 00:05:52.550
+variables. With some propagation
+delay, or I mean kind of tie
+
+NOTE Confidence: 0.8349235
+
+6d9066f7-279e-42ae-8b7a-1a9d9f92bcd8
+00:05:52.550 --> 00:05:57.770
+means spending a little bit
+time. We can have the values for
+
+NOTE Confidence: 0.8349235
+
+fe3494de-c214-4faf-bc61-2b4cae231481
+00:05:57.770 --> 00:06:02.990
+the output Boolean functions. So
+at anytime if the value of input
+
+NOTE Confidence: 0.8349235
+
+57fcf640-b46c-48ca-9db1-1366203d1547
+00:06:02.990 --> 00:06:08.645
+is present by some deley, we can
+have the value of the outputs.
+
+NOTE Confidence: 0.80443656
+
+d898b5bc-3c7f-4968-8400-a969d163fc9c
+00:06:10.890 --> 00:06:15.596
+So I put it here an example a.
+For instance. The most simplest
+
+NOTE Confidence: 0.80443656
+
+a8a2f825-ff21-48bc-8e37-a4135e3673e7
+00:06:15.596 --> 00:06:19.216
+logic circuit is just a circuit
+with one logic and.
+
+NOTE Confidence: 0.8546438
+
+77d042dc-7129-4f8b-b5ca-1aba2587bec9
+00:06:19.840 --> 00:06:25.706
+So if we have the value of X&Y
+within the time, so we just
+
+NOTE Confidence: 0.8546438
+
+7afb050b-ff2b-40f0-81f6-d9a9493cb0a0
+00:06:25.706 --> 00:06:30.315
+little bit delay, which we call
+it propagation dilay or gate
+
+NOTE Confidence: 0.8546438
+
+bb03df33-2ac6-4dd0-a230-c0b927c8e22b
+00:06:30.315 --> 00:06:35.762
+delay. You can read about delay
+in the logic gates in this link
+
+NOTE Confidence: 0.8546438
+
+c2e738c4-de2c-430c-847f-02c1e89317d8
+00:06:35.762 --> 00:06:39.952
+in the Wikipedia for the
+electronics, so takes a little
+
+NOTE Confidence: 0.8546438
+
+1d768c36-8837-4705-bcf3-ae89ec7ff5a1
+00:06:39.952 --> 00:06:45.818
+bit time to change the value of
+output based on the value of the
+
+NOTE Confidence: 0.8546438
+
+3d164cbe-7508-4194-8f6e-a39cc07e73a1
+00:06:45.818 --> 00:06:50.427
+input. So for instance, if X&Y
+are both one so 1 1.
+
+NOTE Confidence: 0.86326087
+
+49a609ad-4b07-41cf-9a8d-5ef4e8dad840
+00:06:50.490 --> 00:06:56.020
+And become one so it takes a
+little bit time to make it from
+
+NOTE Confidence: 0.86326087
+
+f0a319ec-936f-4f21-8f48-27fb5448f2bc
+00:06:56.020 --> 00:06:59.970
+the default value in the
+positive logic. Default value is
+
+NOTE Confidence: 0.86326087
+
+c2723c97-692d-48e0-9151-0d04c5965e6f
+00:06:59.970 --> 00:07:04.710
+0, meaning that there is no
+power low voltage. It takes a
+
+NOTE Confidence: 0.86326087
+
+2c42d838-ca20-4bbb-abb4-747876edddfa
+00:07:04.710 --> 00:07:09.845
+little bit time to raise the
+voltage to one to show the end
+
+NOTE Confidence: 0.8378486
+
+79c96152-e637-40a0-9768-75be86489955
+00:07:09.845 --> 00:07:15.390
+of X&Y. And at this time you see
+that Y becomes 0.
+
+NOTE Confidence: 0.8560173
+
+1d3c8256-c721-4d77-bfef-7863a1f1ef3c
+00:07:16.550 --> 00:07:20.726
+So at this time the half the
+output function must be because
+
+NOTE Confidence: 0.8560173
+
+0b5c8f8c-e97c-487c-b7fe-b22e67ef1b65
+00:07:20.726 --> 00:07:26.642
+zero and one is 0. So we have to
+change from 1 to the zero, so we
+
+NOTE Confidence: 0.8560173
+
+8f179809-3d2b-43d2-843b-fce74c4b2042
+00:07:26.642 --> 00:07:29.774
+have to reduce the high voltage
+to low voltage.
+
+NOTE Confidence: 0.7989319
+
+31c5b2ee-141e-4c90-bb25-95cbe3ad5a9e
+00:07:30.610 --> 00:07:32.578
+So again, there is a delay here.
+
+NOTE Confidence: 0.8629409
+
+b139f0c8-97fc-4089-aa70-cc9005cc8737
+00:07:33.350 --> 00:07:39.470
+And etc. So here the both X and
+Y are 0, so there is no need to
+
+NOTE Confidence: 0.8629409
+
+7f12bfd5-4262-4b81-8fb4-599b25f064b3
+00:07:39.470 --> 00:07:45.182
+change it output function F, so
+it remains zero up until here at
+
+NOTE Confidence: 0.8629409
+
+dc4baacd-99c5-4445-91eb-5bb3ff4211fa
+00:07:45.182 --> 00:07:49.670
+this time, y becomes 1 X
+becomes one? So the output going
+
+NOTE Confidence: 0.8629409
+
+e30d69b3-b368-4ab9-b38a-779b8aac8701
+00:07:49.670 --> 00:07:55.790
+to be one on one which is 1. So
+we have to change the low
+
+NOTE Confidence: 0.8629409
+
+511402f4-ee9f-4738-8a45-5d149f13e808
+00:07:55.790 --> 00:08:01.094
+voltage too high voltage for and
+so it takes a little bit time
+
+NOTE Confidence: 0.8629409
+
+de0d41c1-246b-4e94-9595-2176495c9d4f
+00:08:01.094 --> 00:08:03.542
+and then we have one here.
+
+NOTE Confidence: 0.81832755
+
+bca60028-4f90-44b3-a427-0674e86c3df7
+00:08:04.050 --> 00:08:09.133
+And so forth and so on. So
+you see that I mean at
+
+NOTE Confidence: 0.81832755
+
+c1fa52ca-4aca-4fb5-a894-dc0b3016df64
+00:08:09.133 --> 00:08:13.434
+anytime if we, the value of
+the input is present by
+
+NOTE Confidence: 0.81832755
+
+e90970b9-3216-407f-8eb6-37a92e23a179
+00:08:13.434 --> 00:08:17.735
+some delay we have the
+value of output. So you can
+
+NOTE Confidence: 0.81832755
+
+31dff026-7dc4-4714-baf5-dd67395f8c1f
+00:08:17.735 --> 00:08:21.254
+make this logic and more
+complex, including two three
+
+NOTE Confidence: 0.81832755
+
+96773371-b74d-434e-80d1-3d136748e073
+00:08:21.254 --> 00:08:25.164
+levels, etc. gates and then
+calculate the delay for the
+
+NOTE Confidence: 0.81832755
+
+5d52f5ee-3c19-41d2-8a9b-0160bc81cb6e
+00:08:25.164 --> 00:08:26.337
+output function.
+
+NOTE Confidence: 0.9247946
+
+0d0a776c-6bfb-4a22-a11b-bb58d57f3be0
+00:08:28.430 --> 00:08:30.158
+However, in this course.
+
+NOTE Confidence: 0.76364416
+
+de040235-a2db-4325-99ee-c6ed88221179
+00:08:31.470 --> 00:08:36.810
+We assume the propagation 
+delay is 0, meaning that we have
+
+NOTE Confidence: 0.76364416
+
+ec67adf4-a786-4239-86fd-b0a6a11931f2
+00:08:36.810 --> 00:08:41.705
+ideal gates. There is no delay.
+So unless the problem states
+
+NOTE Confidence: 0.76364416
+
+10b2af2c-9e23-4e7b-8d58-4b8f5d3c9b0d
+00:08:41.705 --> 00:08:47.045
+that the gates you buy in the
+market or it's available for
+
+NOTE Confidence: 0.76364416
+
+3917365c-08fb-45c0-a0f5-9f63e31d3990
+00:08:47.045 --> 00:08:51.940
+your design or have having
+delays and this is the delay
+
+NOTE Confidence: 0.76364416
+
+4a0a3c62-c004-4ffe-9f0a-a6cc4bd61164
+00:08:51.940 --> 00:08:56.835
+Lt. But otherwise, if there's no
+statement about the delay, we
+
+NOTE Confidence: 0.76364416
+
+e1032440-ea52-46a2-8b20-e29be63fc61a
+00:08:56.835 --> 00:09:02.175
+assume that the delay is 0. So
+without the delay right away.
+
+NOTE Confidence: 0.8487196
+
+af698c55-efe6-4883-855d-f62079415f8f
+00:09:02.230 --> 00:09:08.306
+After the value of the input, we
+have the value of the output, so
+
+NOTE Confidence: 0.8487196
+
+d68b7e0c-f9e0-4277-a227-edda1b7dd3ef
+00:09:08.306 --> 00:09:14.382
+X&Y, the one to the and of them,
+or one suddenly y becomes 0
+
+NOTE Confidence: 0.8487196
+
+8a928cdd-7f3b-4f6b-bb8f-60f728355a50
+00:09:14.382 --> 00:09:16.986
+right away zero, and one becomes
+
+NOTE Confidence: 0.7509846
+
+ac3d52e0-24d5-4acb-add9-19868611b4b1
+00:09:16.986 --> 00:09:22.210
+a. Zero source right away, the F
+becomes 0 and etc.
+
+NOTE Confidence: 0.80262333
+
+adf759d1-e84a-40c8-9c80-d6aa409307e7
+00:09:22.840 --> 00:09:27.515
+here for instance, you see that, uh,
+suddenly the x becomes one.
+
+NOTE Confidence: 0.80262333
+
+313e11ff-bb94-4651-a302-34ebd893264a
+00:09:27.515 --> 00:09:32.615
+y was already one? So one and
+one becomes one. So right away
+
+NOTE Confidence: 0.80262333
+
+e1fb7759-eeec-4c3a-bd51-70eeaa72369a
+00:09:32.615 --> 00:09:35.590
+we have the one in the output.
+
+NOTE Confidence: 0.9031489
+
+399bc0e4-5aa7-4ba8-a68c-2ff8bf791bbb
+00:09:37.520 --> 00:09:40.340
+So this is the way the
+combinational logic works.
+
+NOTE Confidence: 0.8043496
+
+5621ec0f-4b1d-4097-8960-b19f6f81aa86
+00:09:40.940 --> 00:09:43.732
+Uh, there's a difference
+for the sequential logic.
+
+NOTE Confidence: 0.8043496
+
+eb38e1d0-b704-46a0-a37c-f6f167ba9780
+00:09:43.732 --> 00:09:47.571
+We'll discuss it. I mean,
+as I said in the future.
+
+NOTE Confidence: 0.84773606
+
+de9bf2b0-2c71-4f7c-b69c-79fa425c29ee
+00:09:49.290 --> 00:09:55.278
+So as I said, what we've done so
+far, all this category,
+
+NOTE Confidence: 0.84773606
+
+b949b31d-6d90-48ab-aec9-1240dde76401
+00:09:55.278 --> 00:09:59.769
+combination logic or combination
+circuit. So we for designing.
+
+NOTE Confidence: 0.8193185
+
+4ba4e694-ff32-413b-bfb8-e998866d09bd
+00:10:00.150 --> 00:10:04.350
+logic circuit actually, uh, with a
+design the truth table for that
+
+NOTE Confidence: 0.8193185
+
+a14d91fc-da55-492c-b6e9-d1aa54c871ce
+00:10:04.350 --> 00:10:08.550
+problem, but the truth table we
+have to determine the number of
+
+NOTE Confidence: 0.8193185
+
+a084f8a8-a2ea-4a56-9d22-0b6deee1db1f
+00:10:08.550 --> 00:10:12.400
+input variables, the number of
+output variables and can name 4
+
+NOTE Confidence: 0.8193185
+
+7682711a-596f-4905-aafc-4c03db4671b5
+00:10:12.400 --> 00:10:15.900
+input variables, and output
+variables and after that we have
+
+NOTE Confidence: 0.8193185
+
+fb9b739b-61b4-4505-9128-3961db9f62b1
+00:10:15.900 --> 00:10:20.800
+to see the output variables. If
+you are going to write it as a
+
+NOTE Confidence: 0.8193185
+
+b275db81-4d5f-4fd0-96cf-fa988655c3c5
+00:10:20.800 --> 00:10:25.000
+product of max term, we have to
+look at those entries. That makes
+
+NOTE Confidence: 0.8193185
+
+29dbe0ad-ad1c-49c5-8e0c-56ffc3b31a5a
+00:10:25.000 --> 00:10:29.550
+the output Zero for the sum of
+product or SOP we will have to
+
+NOTE Confidence: 0.8193185
+
+4326df8c-b1ec-456e-a23c-407fe9cdb1f9
+00:10:29.550 --> 00:10:30.600
+see those entries.
+
+NOTE Confidence: 0.82846457
+
+7e863021-76b9-4763-8ab1-59478f2b5108
+00:10:30.800 --> 00:10:36.572
+makes output one and after writing
+the Boolean function for each of
+
+NOTE Confidence: 0.82846457
+
+355e1ea4-aacd-4bef-aff3-6979d337dd17
+00:10:36.572 --> 00:10:40.420
+the binary outputs, binary
+variables in the output.
+
+NOTE Confidence: 0.8502405
+
+044886fb-c70d-4da1-a031-f0bd8a8ba8aa
+00:10:41.070 --> 00:10:45.425
+Hey, you try to minimize it to
+use less number of gates and
+
+NOTE Confidence: 0.8502405
+
+8e899ca6-1f1e-4f64-b92d-0fceda09e39c
+00:10:45.425 --> 00:10:47.435
+those gates with less number of
+
+NOTE Confidence: 0.8013381
+
+95da05ed-e50b-42b1-9860-5d8aaffad6b2
+00:10:47.435 --> 00:10:52.587
+inputs. Immediate solution was
+Boolean algebra for one or two
+
+NOTE Confidence: 0.8013381
+
+8104ee4b-8ff8-4661-bb57-e08959e32e15
+00:10:52.587 --> 00:10:57.240
+input variables, an low number I
+mean a smaller number of
+
+NOTE Confidence: 0.8013381
+
+bc8bf553-e9a0-4dc8-b6de-90ac9ad68891
+00:10:57.240 --> 00:11:02.316
+minterms or maximum it is OK,
+but if the number of input
+
+NOTE Confidence: 0.8013381
+
+226a9b1c-a9d9-47aa-9378-403f11e5b500
+00:11:02.316 --> 00:11:04.008
+variables increases to four.
+
+NOTE Confidence: 0.81204385
+
+26acd9b2-fd46-4b82-92b8-7bde7101241c
+00:11:04.630 --> 00:11:10.496
+Us three or four, we can use
+the karnaugh to on a map to
+
+NOTE Confidence: 0.81204385
+
+51683aeb-a1e7-43d5-ba13-0ece140a38cf
+00:11:10.496 --> 00:11:14.686
+minimize it, and if it
+increases to five, six or
+
+NOTE Confidence: 0.81204385
+
+264e9968-f5fa-4fd8-a4df-d2a0e2218229
+00:11:14.686 --> 00:11:18.457
+more, we can use the Queen
+McCluskey algorithm to
+
+NOTE Confidence: 0.81204385
+
+43ddd7c2-766c-4f6e-9020-ef6e768de6a7
+00:11:18.457 --> 00:11:23.066
+minimize the Boolean function
+you have to do this for each
+
+NOTE Confidence: 0.81204385
+
+2634d364-6115-4de4-960c-393dca19deba
+00:11:23.066 --> 00:11:27.256
+of the function and then
+finally rewrite the sketch or
+
+NOTE Confidence: 0.81204385
+
+647945ca-fb5e-4f9f-b7a0-e78c029a791a
+00:11:27.256 --> 00:11:28.932
+draw the logical logic diagram.
+
+NOTE Confidence: 0.85784847
+
+59e659cf-cbba-4932-afcb-bd40d85ee6e9
+00:11:30.970 --> 00:11:34.853
+These are the four many steps in
+designing any combination logic.
+
+NOTE Confidence: 0.88503957
+
+39a2de6e-e7eb-4382-9ff4-47166853e3d8
+00:11:35.950 --> 00:11:41.254
+But as I said today, you are
+going to focus on some essential
+
+NOTE Confidence: 0.88503957
+
+73c2e2fc-22b8-4939-9409-80c5ca72e8cf
+00:11:41.254 --> 00:11:45.334
+or common logic circuits for
+building a computer system. So
+
+NOTE Confidence: 0.88503957
+
+528932c9-ea69-4d1c-b0cc-04856e1d59fd
+00:11:45.334 --> 00:11:50.230
+from now on the focus is what
+units are essential for doing
+
+NOTE Confidence: 0.88503957
+
+bb72098b-5a75-4a07-81b6-1a4e68e7cdc6
+00:11:50.230 --> 00:11:51.862
+for any computer system.
+
+NOTE Confidence: 0.81723845
+
+835f91ce-474f-4c2f-ac9f-f7187fa968d9
+00:11:52.850 --> 00:11:57.053
+So the combination of logic
+can be categorized. All
+
+NOTE Confidence: 0.81723845
+
+d1aa8374-2701-4190-912d-c8150e76ff58
+00:11:57.053 --> 00:12:00.789
+those designs can be
+categorized into three main
+
+NOTE Confidence: 0.81723845
+
+5b652c6b-83bb-4fbb-b023-41a747168cbe
+00:12:00.789 --> 00:12:04.525
+uh groups. Those designs
+that basically solve the
+
+NOTE Confidence: 0.81723845
+
+9b92d361-5875-4766-a313-732dd0da2458
+00:12:04.525 --> 00:12:07.794
+arithmetic problems or
+logical problems. I mean,
+
+NOTE Confidence: 0.81723845
+
+10939e5d-8ba5-48e1-b661-76b4a29deed2
+00:12:07.794 --> 00:12:12.464
+doing and or not, etc. Or
+doing, adding to fraction
+
+NOTE Confidence: 0.81723845
+
+025e5073-100e-4005-832b-1465518a6508
+00:12:12.464 --> 00:12:13.865
+multiplication or division?
+
+NOTE Confidence: 0.84644425
+
+7dc3751a-0ccd-414b-a891-77da937e3ad4
+00:12:15.040 --> 00:12:19.132
+those logic units that needs
+for data transmission? You know
+
+NOTE Confidence: 0.84644425
+
+402db6c7-cd8a-4841-8dbe-6113b9fe5aad
+00:12:19.132 --> 00:12:23.224
+that? I mean the computer
+system. All the data goes to
+
+NOTE Confidence: 0.84644425
+
+aa69b509-496d-47b0-8235-22e01d79b074
+00:12:23.224 --> 00:12:27.688
+memory and then for processing
+from the memory it goes the CPU
+
+NOTE Confidence: 0.84644425
+
+bb43d13e-4f9d-48f0-8076-d81027ff4360
+00:12:27.688 --> 00:12:32.896
+and etc. So we need some logic.
+We need to build some logic unit
+
+NOTE Confidence: 0.84644425
+
+ff5ecef3-87b8-4dd7-af71-d0c250f3a4d8
+00:12:32.896 --> 00:12:36.988
+to do the data transmission.
+Also there are some logic in
+
+NOTE Confidence: 0.84644425
+
+41a870ac-4c9a-4a74-b5a4-b5272612c96a
+00:12:36.988 --> 00:12:40.336
+it's essential for computing
+system for doing coding so.
+
+NOTE Confidence: 0.8362114
+
+5a76ee5d-65c1-431e-b8d8-c5f700d723bc
+00:12:42.290 --> 00:12:46.591
+In this course, we're going
+to cover in each of these
+
+NOTE Confidence: 0.8362114
+
+0b22bdb0-44ef-4f92-b10d-4269a6eed8f2
+00:12:46.591 --> 00:12:50.110
+categories were going to
+cover these units, but the
+
+NOTE Confidence: 0.8362114
+
+36635d9c-ddec-429c-8f41-15590329bc27
+00:12:50.110 --> 00:12:54.020
+arithmetic and logic we are
+going to cover. The binary
+
+NOTE Confidence: 0.8362114
+
+f3db324d-f24a-4387-b22c-9723b8ffbfe0
+00:12:54.020 --> 00:12:56.366
+adder, subtracter
+multiplier, and the Division
+
+NOTE Confidence: 0.8362114
+
+278fc8a2-1f68-486a-9337-c9b6eeb1406e
+00:12:56.366 --> 00:13:01.058
+division we going to cover
+it. I mean, later, or we can
+
+NOTE Confidence: 0.8362114
+
+40761cb1-c432-42e4-81d8-cb39bd6ca2c1
+00:13:01.058 --> 00:13:04.968
+leave it for you as an
+assignment, because if you
+
+NOTE Confidence: 0.8362114
+
+57591af6-6105-49b5-a182-49a635bdb11c
+00:13:04.968 --> 00:13:08.096
+know this subtraction, we
+can design the division.
+
+NOTE Confidence: 0.8210704
+
+058046ac-8f14-40b4-a7f5-ba27975bc41d
+00:13:09.610 --> 00:13:14.806
+The same is multiply. If you
+know the addict, you can do
+
+NOTE Confidence: 0.8210704
+
+97cbfb2c-74ab-40c8-aef8-e23f0d1632ce
+00:13:14.806 --> 00:13:17.404
+the multiplication. Also,
+binary comparator magnitude
+
+NOTE Confidence: 0.8210704
+
+51fcde02-4426-4b5e-80a0-a75a1a53c9c9
+00:13:17.404 --> 00:13:21.301
+comparator for the second
+category we got, we're going
+
+NOTE Confidence: 0.8210704
+
+8a1a0cc5-e81a-4222-aa88-087a608286a7
+00:13:21.301 --> 00:13:24.332
+to introduce decoder and
+encoder multiplexer or
+
+NOTE Confidence: 0.8210704
+
+34f69058-13ad-43a3-93f4-32bfce4c9e77
+00:13:24.332 --> 00:13:26.930
+demultiplexer. And the
+for coding part.
+
+NOTE Confidence: 0.8756821
+
+d7fae729-5ebe-4c5d-9353-b3b60956ceed
+00:13:28.530 --> 00:13:32.897
+from the chapter one. There were
+some binary codes we didn't
+
+NOTE Confidence: 0.8756821
+
+7e8c2a5e-1fd5-443b-9440-163a0273ead7
+00:13:32.897 --> 00:13:37.264
+cover that we said that I
+promised that will cover it
+
+NOTE Confidence: 0.8756821
+
+5e7ef021-b123-4d1b-adbe-05cb1b7b351e
+00:13:37.264 --> 00:13:42.028
+later in. This part will cover
+the binary codes and the logic
+
+NOTE Confidence: 0.8756821
+
+dd211750-59e0-4b01-a8e8-dead66a346ba
+00:13:42.028 --> 00:13:44.013
+circuits to do the coding.
+
+NOTE Confidence: 0.75444716
+
+3087c4aa-aa6e-4c8b-ae92-29534e8818d3
+00:13:44.690 --> 00:13:49.020
+Binary coded decimal excess-3 
+Gray,and other binary codes.
+
+NOTE Confidence: 0.81441677
+
+739f5ae8-767b-48af-a073-8ec8a6df0ed3
+00:13:50.060 --> 00:13:55.461
+So let's start with the first
+category. So today we're going
+
+NOTE Confidence: 0.81441677
+
+33050148-8106-4306-9203-877c733f9699
+00:13:55.461 --> 00:14:00.371
+to introduce 2 famous or
+essential logic units for doing
+
+NOTE Confidence: 0.65256155
+
+9299fbf0-6b4b-4fe1-aaee-3b959e37959b
+00:14:00.371 --> 00:14:04.280
+arithmetic. I binary adders
+and binary subtractors.
+
+NOTE Confidence: 0.7736033
+
+413017c5-b168-41bf-ab2b-ab60104f9903
+00:14:06.950 --> 00:14:11.970
+So any questions so far before
+starting the first essential
+
+NOTE Confidence: 0.7736033
+
+e5fd1938-bb90-444a-84db-822cdcaec2d4
+00:14:11.970 --> 00:14:13.978
+unit for computing system?
+
+NOTE Confidence: 0.93478876
+
+32f51912-e498-4f63-aa11-fae90aadf18b
+00:14:20.020 --> 00:14:20.870
+No questions.
+
+NOTE Confidence: 0.9374046
+
+2c95951d-1a10-446c-b9d9-e903fe1ad25b
+00:14:22.880 --> 00:14:24.188
+So let's continue.
+
+NOTE Confidence: 0.7846438
+
+82d7ed5c-4f3c-47c1-863f-330d256977f9
+00:14:25.060 --> 00:14:30.568
+Binary adder. The adder thing
+that we are going to design A
+
+NOTE Confidence: 0.7846438
+
+6b836a73-8956-48dc-bbc0-3b69670131f1
+00:14:30.568 --> 00:14:35.158
+logic circuit does the addition,
+but on the binary numbers.
+
+NOTE Confidence: 0.7511284
+
+7f7c68ef-fb0d-4b8b-b280-b699b22361c2
+00:14:36.700 --> 00:14:40.948
+So here's the design problem. A
+here's the problem, and we want
+
+NOTE Confidence: 0.7511284
+
+232b98ff-15b7-4602-aba6-766cfc191d09
+00:14:40.948 --> 00:14:43.072
+to design A logic circuit for
+
+NOTE Confidence: 0.7680998
+
+b5abd885-ba4f-40ce-bfff-fcda7f1b037a
+00:14:43.072 --> 00:14:48.330
+that. The question is designed.
+The logic circuit that adds two
+
+NOTE Confidence: 0.7680998
+
+25c38f4f-eac7-42bf-8481-fb8e95a950f1
+00:14:48.330 --> 00:14:51.698
+binary digits not binary
+numbers, binary digit binary
+
+NOTE Confidence: 0.7680998
+
+101a123c-73de-49cd-8261-354c58399dce
+00:14:51.698 --> 00:14:56.750
+digit means that just two bits.
+So just we already found the
+
+NOTE Confidence: 0.7680998
+
+47052415-d597-4f2a-9a12-0d428bf349c4
+00:14:56.750 --> 00:15:01.381
+lab assignment. We know that
+binary digit is called also
+
+NOTE Confidence: 0.7680998
+
+80fde882-21b5-4127-92a8-94030a2809fe
+00:15:01.381 --> 00:15:06.433
+called bits. So we just wanted
+to design A logic circuit. Does
+
+NOTE Confidence: 0.7680998
+
+f30f4249-045c-4228-b97f-057c22e45b32
+00:15:06.433 --> 00:15:08.117
+addition for two gates.
+
+NOTE Confidence: 0.865346
+
+d31824e7-9666-41a3-9201-1dfbd54003f9
+00:15:10.020 --> 00:15:14.046
+So like any other design
+problem, we have to 1st examine
+
+NOTE Confidence: 0.865346
+
+be4f40f3-cb6f-402c-afeb-d55b4fe7ef5c
+00:15:14.046 --> 00:15:18.804
+the range of the input based on
+the question, we know that we're
+
+NOTE Confidence: 0.865346
+
+7684a0ea-d79a-4041-8f8d-abb7ba1641f5
+00:15:18.804 --> 00:15:23.562
+going to add to bit, so the
+range of the inputs are 2.
+
+NOTE Confidence: 0.84715754
+
+730d2172-42d1-4496-b411-69900669add3
+00:15:24.700 --> 00:15:30.100
+So we need 2 binary variables.
+We can name these two binary
+
+NOTE Confidence: 0.84715754
+
+66491aca-7967-4e94-9983-8a0b510c6642
+00:15:30.100 --> 00:15:35.050
+variables X&Y A B or whatever you
+like. For instance X one X2 Y1 Y2
+
+NOTE Confidence: 0.84715754
+
+33920d9b-e12d-4cbd-ae8d-e8dd713bdc19
+00:15:35.050 --> 00:15:36.400
+whatever you like.
+
+NOTE Confidence: 0.8946488
+
+215bbbe9-a324-403d-93cd-63c7e77d19af
+00:15:37.280 --> 00:15:40.738
+But as long as you pick the
+name, you have to be consistent
+
+NOTE Confidence: 0.8946488
+
+91d84796-e9a7-4279-a1b0-185ab5c42153
+00:15:40.738 --> 00:15:42.600
+through up until the end of the
+
+NOTE Confidence: 0.3192249
+
+3acd2aae-4635-4e67-aecb-d95372b326a5
+00:15:42.600 --> 00:15:44.060
+design. so.
+
+NOTE Confidence: 0.74235916
+
+9fb1c659-3c4f-4c75-9993-b58329fc1fc6
+00:15:45.120 --> 00:15:49.069
+For the input variables are
+chose this variables X&Y for the
+
+NOTE Confidence: 0.74235916
+
+77f788c0-e7ef-48bc-a671-17913ee0bbb8
+00:15:49.069 --> 00:15:50.505
+first and second bit.
+
+NOTE Confidence: 0.82236785
+
+19840431-d98d-4d3c-b8ca-3b1ce0363079
+00:15:52.150 --> 00:15:56.924
+And then the next is, uh, we
+we've done with the range of the
+
+NOTE Confidence: 0.82236785
+
+3360dce9-ea48-4394-9fda-5d80e86d3562
+00:15:56.924 --> 00:16:01.357
+input. We have to see what is
+the range of the outputs and
+
+NOTE Confidence: 0.82236785
+
+95802ef7-7155-46bd-b282-750e6fea5ff3
+00:16:01.357 --> 00:16:04.085
+then choose binary variables for
+the output function.
+
+NOTE Confidence: 0.8348893
+
+1748c34b-e8e1-4d0a-a141-0fa1f847c6c6
+00:16:05.080 --> 00:16:12.010
+So based on 2 bits in the input,
+if we do the adding so 0 0
+
+NOTE Confidence: 0.8348893
+
+264c8916-7b00-46f3-8663-664cb952f38d
+00:16:12.010 --> 00:16:17.554
+becomes 0011101 one and one
+makes it 2. So we have to
+
+NOTE Confidence: 0.8348893
+
+41187946-7bf2-4d6c-a82f-0d609e13e64b
+00:16:17.554 --> 00:16:23.560
+represent 2 in binary system.
+So we have to divide it by two.
+
+NOTE Confidence: 0.8348893
+
+7cd48c57-0ae9-4382-903f-75afe6ea43f5
+00:16:23.560 --> 00:16:29.104
+The remainder and the quotient
+goes as a carry to the next
+
+NOTE Confidence: 0.8348893
+
+403a915a-c7e6-4a80-8615-b139b95b27c1
+00:16:29.104 --> 00:16:35.110
+step. So here sorry, we put the
+remainder in the sum and, uh.
+
+NOTE Confidence: 0.6658033
+
+38909966-b67d-43cb-9b8a-55790f1a0930
+00:16:35.170 --> 00:16:36.818
+Quotient goes to the.
+
+NOTE Confidence: 0.80326366
+
+a8167bd7-1a7f-464e-87c7-24992b80437c
+00:16:37.860 --> 00:16:42.816
+Carry, so the third, the only
+case that creates a new carry
+
+NOTE Confidence: 0.80326366
+
+c310f61d-3239-4824-b792-05a528bed14f
+00:16:42.816 --> 00:16:49.011
+with value one, is the last one.
+But both the bits are one, so we
+
+NOTE Confidence: 0.80326366
+
+076f349e-4fff-40ee-ba14-6bb5b32caf7b
+00:16:49.011 --> 00:16:53.554
+can assume that the carry exists
+for other bits. But with the
+
+NOTE Confidence: 0.80326366
+
+8185e68f-b2c2-483d-8b8c-cc31e16dc2e0
+00:16:53.554 --> 00:16:54.793
+value of 0.
+
+NOTE Confidence: 0.87173223
+
+4677ceac-a275-4d4a-9877-3a45844dec74
+00:16:55.800 --> 00:16:59.652
+So as you can see here for
+the output of adding two
+
+NOTE Confidence: 0.87173223
+
+1abde8b7-8ef0-4beb-8b73-ae8d492664a2
+00:16:59.652 --> 00:17:03.825
+bits, we can have two bits in
+the output, one is the sum
+
+NOTE Confidence: 0.87173223
+
+8ea1493b-c1f8-499a-8fa5-5a9c2a830ee3
+00:17:03.825 --> 00:17:05.751
+and one is for the carry.
+
+NOTE Confidence: 0.8609829
+
+985a72df-ed5c-4bbb-a69c-e5058e6c85a9
+00:17:06.800 --> 00:17:08.620
+So any 2 bit.
+
+NOTE Confidence: 0.67400986
+
+34016831-6147-4a47-af18-663a7d94dd5e
+00:17:09.750 --> 00:17:12.090
+Good sum and carry.
+
+NOTE Confidence: 0.7826695
+
+c62467e1-0153-4c35-adb0-73e2e3db2f06
+00:17:13.010 --> 00:17:16.846
+And, uh, one of them is 0 or
+both or zero. The carries zero
+
+NOTE Confidence: 0.7826695
+
+d6a9dfb8-f5f1-4a75-9be7-459d1e9f231c
+00:17:16.846 --> 00:17:19.860
+and both of them are one. The
+Carry gonna be 1.
+
+NOTE Confidence: 0.77907664
+
+2f3a45c3-d944-4e05-861f-12e53044e2c3
+00:17:21.230 --> 00:17:25.273
+So this is the range of the
+output. Only two bits. One is
+
+NOTE Confidence: 0.77907664
+
+629137d3-53f2-4276-9657-c2ed6f8f440a
+00:17:25.273 --> 00:17:27.139
+for the carry ones for this
+
+NOTE Confidence: 0.8420118
+
+b1eb3c7c-3cbc-41f8-ad0e-da53db4667fe
+00:17:27.139 --> 00:17:29.509
+sum. c and S.
+
+NOTE Confidence: 0.82888633
+
+b361df13-b64a-4410-8c6a-3b5936b4beef
+00:17:31.010 --> 00:17:36.392
+And when we know the range of
+the input range of the output
+
+NOTE Confidence: 0.82888633
+
+732a4ce4-5731-42db-af90-2d9fa8effead
+00:17:36.392 --> 00:17:40.946
+with the name variable name for
+the input variables with the
+
+NOTE Confidence: 0.82888633
+
+cba54560-5453-4aea-9d37-384de1ebc3f6
+00:17:40.946 --> 00:17:45.914
+variable names for the output.
+So we have to create the truth
+
+NOTE Confidence: 0.72165436
+
+15d6bf98-216d-460a-8abe-5be43cef1386
+00:17:45.914 --> 00:17:51.444
+table. And then see in what
+entry output functions makes
+
+NOTE Confidence: 0.72165436
+
+1e31ac6a-f707-4576-b332-94fdae5f91ab
+00:17:51.444 --> 00:17:54.420
+becomes one. So for the carry.
+
+NOTE Confidence: 0.8443102
+
+8ff109b8-0868-4240-9872-5a3eff05272d
+00:17:55.230 --> 00:18:00.600
+0 0 there is no carry. 01 There is no
+carry 10 if you add is no
+
+NOTE Confidence: 0.8443102
+
+ac0a47ae-f8b2-4391-ba4a-862f5f64660f
+00:18:00.600 --> 00:18:05.612
+carry but the only cases both
+X&Y is 1, so they are gonna be
+
+NOTE Confidence: 0.9016735
+
+5083d1eb-0854-409a-93d9-a8cd85f61449
+00:18:05.612 --> 00:18:12.980
+1. For the sum of 2 bits,
+0 + 0 zero 0 + 1, one 1
+
+NOTE Confidence: 0.9016735
+
+108b2165-84af-4299-9c51-1f54ca011bc9
+00:18:12.980 --> 00:18:16.688
++ 0 one and 1 + 1 becomes 2.
+
+NOTE Confidence: 0.6937236
+
+b2b57bd7-cb20-4224-b18f-c67c998ada1a
+00:18:17.380 --> 00:18:22.550
+Make a reminder a 2 / 2
+remainder goes here and
+
+NOTE Confidence: 0.6937236
+
+abd7c6d8-726c-4f0c-961e-078f89750323
+00:18:22.550 --> 00:18:27.250
+Carry goes to on. The
+question goes to carry here.
+
+NOTE Confidence: 0.84557766
+
+52db9bed-04da-41b4-b112-494b78ec3252
+00:18:28.780 --> 00:18:33.554
+So this is the truth table. So
+when we know the truth table, we
+
+NOTE Confidence: 0.84557766
+
+5511dcb2-b49c-431e-aefd-4786a9729ac7
+00:18:33.554 --> 00:18:37.305
+have to just simply write the
+Boolean function for the output
+
+NOTE Confidence: 0.84557766
+
+57fc51df-c119-499b-826c-3a60636c98e5
+00:18:37.305 --> 00:18:40.715
+variables as a sum of minterms or
+product of maxterms.
+
+NOTE Confidence: 0.8179041
+
+27a146e5-48cf-4e05-a310-4278624b2cf0
+00:18:41.440 --> 00:18:45.346
+For the carry the min term, the
+only min term is minterm 3, which
+
+NOTE Confidence: 0.6814051
+
+0f39f3ad-45cb-4417-ae2d-ea223d7ad9cb
+00:18:45.346 --> 00:18:49.110
+is X&Y. For the sum, we have two
+
+NOTE Confidence: 0.83830494
+
+81f84574-887b-451b-ae17-f9f983f71be6
+00:18:49.110 --> 00:18:54.696
+minterms. minterm one and minterm 2
+so this is the minterm one and
+
+NOTE Confidence: 0.83830494
+
+60b6792f-c595-4dd6-8850-935286b2f331
+00:18:54.696 --> 00:18:59.112
+meeting and after that we know
+the Boolean functions are in the
+
+NOTE Confidence: 0.83830494
+
+64f38a74-79d1-4bd2-ae40-fe74a21e5498
+00:18:59.112 --> 00:19:03.896
+sum of midterms, so we have to
+simplify if it is possible. So
+
+NOTE Confidence: 0.83830494
+
+3d0c1ddd-92b9-4491-bdc5-b9b91750e65f
+00:19:03.896 --> 00:19:07.944
+this is the most simplest form
+for the Carriy. We cannot
+
+NOTE Confidence: 0.83830494
+
+2a4747f9-5109-45e9-8391-5f6433a63cec
+00:19:07.944 --> 00:19:12.360
+simplify it more, but this one
+again we cannot simplify it more
+
+NOTE Confidence: 0.83830494
+
+7c42ad70-e4d6-478b-9986-5c2224200cb8
+00:19:12.360 --> 00:19:16.040
+using the Boolean algebra or
+karnaugh map with two variables.
+
+NOTE Confidence: 0.83830494
+
+0070d4ae-0c07-4b36-a7bf-404ee5d9cffc
+00:19:16.040 --> 00:19:17.880
+We cannot simplify it more.
+
+NOTE Confidence: 0.80720687
+
+42a15f78-22eb-442f-ba28-2cdecc88ecb9
+00:19:18.520 --> 00:19:23.980
+So, but you know that this is
+the famous gate,  Y'X or
+
+NOTE Confidence: 0.80720687
+
+ccdb4819-b55a-4f77-ba94-6f9a15110989
+00:19:23.980 --> 00:19:28.600
+y x'? We already knew
+what is the gate for this
+
+NOTE Confidence: 0.80720687
+
+5712aa6e-98d4-467a-ac58-7012f55eaa2b
+00:19:28.600 --> 00:19:29.860
+exclusive or gate?
+
+NOTE Confidence: 0.83888495
+
+8c183d4e-d1fd-47df-a919-9d3d9ac7ee5a
+00:19:31.020 --> 00:19:35.376
+So, and here is the
+logic circuit for our
+
+NOTE Confidence: 0.83888495
+
+9820b293-0e80-4977-914f-2095d1c4d9a0
+00:19:35.376 --> 00:19:37.312
+design. Carry is X&Y.
+
+NOTE Confidence: 0.6490946
+
+89fb7cc2-1e57-429f-8e63-af2fc9ace4e2
+00:19:39.670 --> 00:19:41.690
+And the sum is x.
+
+NOTE Confidence: 0.8504849
+
+13a0657c-3c0d-4908-9690-e3e3ae87720e
+00:19:42.780 --> 00:19:49.124
+And y Bar or y and x'?
+Which is the exclusive OR of X&Y?
+
+NOTE Confidence: 0.7957177
+
+2520d922-cf9c-4a72-a9ec-6860b89785c5
+00:19:49.680 --> 00:19:55.933
+So here is the exclusive or and
+s this is the most simplest.
+
+NOTE Confidence: 0.8287478
+
+e4a19d2e-a2ac-4ce2-99a0-befcbd69606a
+00:19:57.320 --> 00:19:59.408
+Logic units for adding to only
+
+NOTE Confidence: 0.8302313
+
+cc76480f-3824-478c-b4f9-740740fba05d
+00:19:59.408 --> 00:20:04.670
+two bits. Usually we show this.
+We call this half, adder the
+
+NOTE Confidence: 0.8302313
+
+33d230e0-1218-4460-906e-820f794cf6b1
+00:20:04.670 --> 00:20:10.522
+name for this because we just
+add  2 bits and do these two
+
+NOTE Confidence: 0.8302313
+
+136e54b0-3460-4860-aea3-9de070993207
+00:20:10.522 --> 00:20:15.956
+bits are X&Y just to each of
+them has only one position or
+
+NOTE Confidence: 0.8302313
+
+e67dd626-3304-426c-903e-c2ef6a6febb3
+00:20:15.956 --> 00:20:18.046
+one available space for that?
+
+NOTE Confidence: 0.78798586
+
+8580239a-755c-44a1-b067-c6349e52a673
+00:20:19.660 --> 00:20:23.490
+Visually show this like this.
+Two inputs, like sum of 
+
+NOTE Confidence: 0.78798586
+
+5ef9d460-4be5-4088-b159-3fc7f7c91fe9
+00:20:23.490 --> 00:20:28.086
+2 bits and then the output.
+sum and carry and as a black
+
+NOTE Confidence: 0.78798586
+
+e31d4334-3efa-44a6-93ea-5986410acd8e
+00:20:28.086 --> 00:20:33.065
+box we show it as they have
+adder. So inside this these two
+
+NOTE Confidence: 0.78798586
+
+49d6ef89-d213-4cfd-bce3-93596a26bfa9
+00:20:33.065 --> 00:20:38.044
+gates but as black box. This is
+the half adder in the market.
+
+NOTE Confidence: 0.78798586
+
+e0ac39fa-ecd1-40c9-be00-8f1f89e6220a
+00:20:38.044 --> 00:20:43.789
+When you go to the market and
+buy a half adder and it looks like I
+
+NOTE Confidence: 0.78798586
+
+5da72370-880c-476a-be14-75df3f1e26a4
+00:20:43.789 --> 00:20:45.321
+see looks like this.
+
+NOTE Confidence: 0.7629595
+
+e81055cb-4369-4dfa-8456-25f61c991228
+00:20:48.310 --> 00:20:53.161
+So that was very limited
+though, because it can
+
+NOTE Confidence: 0.7629595
+
+2965e9ac-5a28-4274-bdc7-139a5b60d24d
+00:20:53.161 --> 00:20:59.090
+that logic only. It is
+only able to add 2 bits.
+
+NOTE Confidence: 0.8201134
+
+44516946-edbb-4127-9394-7cce535857dc
+00:21:00.410 --> 00:21:04.700
+Our goal is to add 2 binary
+numbers, not just only two bits.
+
+NOTE Confidence: 0.88337475
+
+33034afe-b765-419d-a24f-d55fe0f29491
+00:21:05.600 --> 00:21:07.328
+So let's design this.
+
+NOTE Confidence: 0.9054447
+
+87b151ef-c019-4d80-849d-9081f2c44229
+00:21:08.460 --> 00:21:09.510
+So for the.
+
+NOTE Confidence: 0.83890957
+
+ef661695-0606-4040-8a41-48bbf1f0d5b7
+00:21:10.130 --> 00:21:12.554
+The binary numbers. We have two
+
+NOTE Confidence: 0.8859761
+
+1838511d-410b-40f2-b614-f548769d4868
+00:21:12.554 --> 00:21:17.842
+again. The same design steps you
+have to figure out we have to
+
+NOTE Confidence: 0.8859761
+
+12c91deb-8555-4dd7-abbf-a43862c2d1e3
+00:21:17.842 --> 00:21:21.994
+create the truth table for the
+truth table. We have to figure
+
+NOTE Confidence: 0.8859761
+
+f7dabcc4-cb39-4be3-b575-8f97559b59d4
+00:21:21.994 --> 00:21:23.032
+out whether the.
+
+NOTE Confidence: 0.8136484
+
+da813fda-856f-4450-bd46-dfe48674cb1c
+00:21:24.340 --> 00:21:28.025
+What is the what? What are the
+number of binary binary
+
+NOTE Confidence: 0.8136484
+
+a518a7a5-106c-4f83-ae2b-bf0b3364182c
+00:21:28.025 --> 00:21:29.365
+variables in the input?
+
+NOTE Confidence: 0.86563146
+
+f00f4bd3-8b25-4d3f-b603-bf28e4731dea
+00:21:29.990 --> 00:21:34.710
+And what are the number of
+binary variables in the output?
+
+NOTE Confidence: 0.8715292
+
+5a554449-105c-4f5c-88c0-932dd34c60cd
+00:21:35.450 --> 00:21:39.718
+But the input imagine you're
+going to add 2 binary numbers
+
+NOTE Confidence: 0.8715292
+
+b2268b2f-583f-4a24-b3e8-7db6f2fe9c61
+00:21:39.718 --> 00:21:42.046
+within the range 0 to 3 in decimal.
+
+NOTE Confidence: 0.8935402
+
+c2693bac-e16a-4393-aebf-dde1984654c6
+00:21:42.750 --> 00:21:49.242
+When it convert to the binary
+system, it becomes 000110 and 1
+
+NOTE Confidence: 0.8935402
+
+532021ce-5d34-48fb-b360-496163443a61
+00:21:49.242 --> 00:21:53.029
+one. So for each number we need
+
+NOTE Confidence: 0.8886882
+
+4b3c4ad2-d6c4-4b26-8f89-e8b783add696
+00:21:53.029 --> 00:21:59.325
+2 bit. So imagine we are given
+two binary numbers X&Y X going to
+
+NOTE Confidence: 0.8886882
+
+d1b9856a-c6cb-4548-8b05-dc7297c390cf
+00:21:59.325 --> 00:22:00.570
+have two bits.
+
+NOTE Confidence: 0.85443145
+
+a1c7bef5-f1bc-4aac-9d94-fa0dc893f8c2
+00:22:01.250 --> 00:22:07.202
+y gonna have two bit? So in
+total we gonna have 4 bit or 4
+
+NOTE Confidence: 0.85443145
+
+8fb80652-7fe3-43df-ab1e-998681a93601
+00:22:07.202 --> 00:22:08.318
+input binary variables.
+
+NOTE Confidence: 0.8389018
+
+a16dce3e-55fe-4c47-bdfd-a47751833a69
+00:22:10.050 --> 00:22:14.964
+So for the X I picked this name X
+One X2 for the two binary
+
+NOTE Confidence: 0.8389018
+
+677019e7-ba3b-40ad-af1d-4ad4918fee8c
+00:22:14.964 --> 00:22:16.719
+variables for regarding the x.
+
+NOTE Confidence: 0.8053242
+
+3910af4e-c8e5-4dde-beec-71d5257c89a2
+00:22:17.280 --> 00:22:23.445
+For the y I pick Y1 and Y2 for
+the two bits, binary number
+
+NOTE Confidence: 0.8053242
+
+d6b8fc3a-b52b-4a5b-b38f-85187c66a3f4
+00:22:23.445 --> 00:22:28.377
+Y. So in total we're gonna have
+four binary variables in the
+
+NOTE Confidence: 0.8053242
+
+9d826182-deba-4ee9-b2fd-0f303f2c6505
+00:22:28.377 --> 00:22:30.432
+input X, one X2 Y1 Y2.
+
+NOTE Confidence: 0.82779866
+
+86fa90a9-f739-477e-86b9-f1a7dca2cca5
+00:22:33.180 --> 00:22:36.852
+But next, after, after
+determining the number of binary
+
+NOTE Confidence: 0.82779866
+
+b2edf77f-3a84-45c8-91f8-83e57e3d629b
+00:22:36.852 --> 00:22:41.340
+variables in input, the next
+step is the number of binary
+
+NOTE Confidence: 0.82779866
+
+d414f9f2-de59-4abf-8e23-44b0885d3fc2
+00:22:41.340 --> 00:22:42.972
+variables in the output.
+
+NOTE Confidence: 0.8588147
+
+d0b9038f-6b66-4bc8-a806-696e4873b94b
+00:22:43.980 --> 00:22:49.117
+So here's an all the combinations
+of binary numbers within the
+
+NOTE Confidence: 0.8588147
+
+11b3ad23-5762-419c-935d-46247aafbd5b
+00:22:49.117 --> 00:22:54.254
+range of zero to three. Adding
+them together for the first
+
+NOTE Confidence: 0.8588147
+
+479d7381-b407-41dd-a41a-f78c88b2ba49
+00:22:54.254 --> 00:22:58.924
+number, we're going to have four
+combination, 00011011 for the
+
+NOTE Confidence: 0.8588147
+
+a349bf65-457d-451c-b484-4d9417dc7f1b
+00:22:58.924 --> 00:23:04.528
+second number, same. So, in
+total we're gonna have 4 by 4 16
+
+NOTE Confidence: 0.8588147
+
+81c3a6fd-d32f-49f0-9056-d0d7699132a9
+00:23:04.528 --> 00:23:09.198
+different combinations, so we
+can start from the first one.
+
+NOTE Confidence: 0.8588147
+
+a34c6cc8-c7e8-488c-b3a5-dae66b2d1413
+00:23:09.198 --> 00:23:12.467
+SO 0 0 plus 00 becomes 00 and the
+
+NOTE Confidence: 0.79807127
+
+616354ef-1a17-45ec-a322-031e5c4d9ee6
+00:23:12.467 --> 00:23:19.680
+carry. no carry these 2
+#0 + 1 makes it one is no carriers.
+
+NOTE Confidence: 0.9270191
+
+536ab7ce-7b91-4f03-b56c-018fc47ceec0
+00:23:20.330 --> 00:23:21.899
+0 + 2.
+
+NOTE Confidence: 0.8373173
+
+75263efd-4068-49af-913a-c6cb1664bdbc
+00:23:22.590 --> 00:23:26.803
+Next 2 there's no Carry and up
+until the last combination,
+
+NOTE Confidence: 0.8373173
+
+c5fa4a3a-2bc5-48d4-ae5a-80cbfdb50f37
+00:23:26.803 --> 00:23:31.782
+which is the the binary number.
+X2 bits is 1, one binary number
+
+NOTE Confidence: 0.8373173
+
+63312766-0bca-4c74-a580-d8327ad8cacb
+00:23:31.782 --> 00:23:36.761
+Y with two bits becomes 11. So
+when we do the addition it
+
+NOTE Confidence: 0.8373173
+
+ca8ff3c1-22c8-449a-969f-2344ae94738c
+00:23:36.761 --> 00:23:38.293
+becomes 1 + 1.
+
+NOTE Confidence: 0.81836736
+
+a1f08498-52e3-4eb8-ad76-a46e13e71421
+00:23:39.180 --> 00:23:40.470
+becomes zero.
+
+NOTE Confidence: 0.8608915
+
+6d668bbb-ce61-4cce-bdd1-3204ffcea923
+00:23:41.560 --> 00:23:46.660
+And then a carry because because
+it becomes too so zero. and
+
+NOTE Confidence: 0.8608915
+
+590becb7-9491-4e10-bbde-e7614fee3e88
+00:23:46.660 --> 00:23:52.185
+carry goes here and then this
+carry 1 + 1 + 1 becomes three,
+
+NOTE Confidence: 0.8608915
+
+159c8b01-c9da-4164-94be-0742a6a24460
+00:23:52.185 --> 00:23:58.985
+so three is 1 and carry it one.
+So the result of 3 + 3 becomes
+
+NOTE Confidence: 0.8613257
+
+69ea4ad5-f392-4c08-b7b9-a9f556629271
+00:23:58.985 --> 00:24:03.928
+6. six means that the sum is 1
+zero and the carry is 1.
+
+NOTE Confidence: 0.90285796
+
+45fb6e96-80c7-483f-affb-6776baaad192
+00:24:05.310 --> 00:24:08.924
+So you can see that in all these
+cases, with the binary numbers
+
+NOTE Confidence: 0.90285796
+
+919de29f-4f3b-4657-bc6e-7efd1d8ea613
+00:24:08.924 --> 00:24:10.592
+in the input with two bits.
+
+NOTE Confidence: 0.7034539
+
+931d4fc2-e732-402b-8396-3393ad0edb69
+00:24:11.230 --> 00:24:13.435
+Uh, the output gonna be
+three bits.
+
+NOTE Confidence: 0.7564305
+
+1bea90e5-db72-4dd5-8515-7c56c94bd86b
+00:24:14.750 --> 00:24:21.194
+So X one X2 plus Y1Y2 becomes
+S1 S2 in the sum and a carry.
+
+NOTE Confidence: 0.76376
+
+e4aa757c-eaaf-4987-9ca8-2b23c224c4ac
+00:24:21.880 --> 00:24:27.094
+So we gonna have 3 binary
+variables in the output carry
+
+NOTE Confidence: 0.76376
+
+c1152889-6ae1-466f-81d8-f3e2ef92c20f
+00:24:27.094 --> 00:24:31.834
+over C S1 and S2 as is sum of
+the addition.
+
+NOTE Confidence: 0.8486042
+
+a456474a-9b37-47e0-be19-73dd363f58e2
+00:24:33.200 --> 00:24:37.724
+So the next step is created
+truth table for that X one
+
+NOTE Confidence: 0.8486042
+
+802e7397-4a7f-4823-8982-8e57c6f9c5a0
+00:24:37.724 --> 00:24:42.248
+X2Y1Y2 the input variables and
+in the right side of the truth
+
+NOTE Confidence: 0.8486042
+
+c3128cbe-c656-442e-bb7b-731dfc8c8085
+00:24:42.248 --> 00:24:46.018
+table we have the output
+variables carry as a function
+
+NOTE Confidence: 0.78544885
+
+a3d90a87-5560-4759-9b04-0cf8314f78b9
+00:24:46.018 --> 00:24:50.356
+one. F2 is S1 F3 is the
+S2.
+
+NOTE Confidence: 0.81615204
+
+ec947b91-ff61-479d-a545-ce778e85ab2e
+00:24:51.830 --> 00:24:56.870
+And then so the next step is
+right. The carry as a sum of
+
+NOTE Confidence: 0.81615204
+
+2a7312a2-14ec-4f75-8f42-37b0458a0a77
+00:24:56.870 --> 00:25:00.470
+minterms or product maxterms for
+those entries, zero, same for
+
+NOTE Confidence: 0.81615204
+
+9e4cccf9-e537-4cd7-b6b9-25eb55cbb700
+00:25:00.470 --> 00:25:03.710
+S1S2. And then we can discuss
+the logic circuit.
+
+NOTE Confidence: 0.83931834
+
+7dbdac16-1d61-4fb1-97c3-a7692fcd6eb6
+00:25:05.630 --> 00:25:11.126
+But The thing is, although we
+can design A logic circuit for
+
+NOTE Confidence: 0.83931834
+
+b2150430-41f1-41f6-aade-d130287ebabc
+00:25:11.126 --> 00:25:16.164
+adding two binary numbers with
+two bits, but let's reuse what
+
+NOTE Confidence: 0.83931834
+
+475adcbb-6917-4fda-8354-7967ca450b15
+00:25:16.164 --> 00:25:21.660
+we've designed so far. I mean,
+we said that we usually build
+
+NOTE Confidence: 0.83931834
+
+7f42dcf2-8db9-48d4-9f39-d517bce72593
+00:25:21.660 --> 00:25:26.240
+these smallest logic circuits
+and then we create a larger
+
+NOTE Confidence: 0.83931834
+
+74fe2027-a20f-4852-a1e6-9de9bc519e97
+00:25:26.240 --> 00:25:30.820
+logic units based on this
+smaller logic unit. So you
+
+NOTE Confidence: 0.6949273
+
+f2cdea05-ae69-4c8b-87ee-172b7b7c97bf
+00:25:30.820 --> 00:25:36.380
+we already. Design the half adder
+to adding two bits so the
+
+NOTE Confidence: 0.6949273
+
+bbbd2701-ba6c-4357-a2fc-246dd836b83d
+00:25:36.380 --> 00:25:39.509
+question is that can I reuse a
+
+NOTE Confidence: 0.8633831
+
+004b8769-0ee8-485d-af98-44d35fe3b2a7
+00:25:39.509 --> 00:25:44.510
+half adder? Plus some I mean
+additional gates to create.
+
+NOTE Confidence: 0.75464267
+
+7480a20a-ccae-4953-a3e5-f60e82f44de9
+00:25:45.170 --> 00:25:51.436
+An adder that can show numbers
+with two bits. Or is it possible
+
+NOTE Confidence: 0.75464267
+
+baa14749-1298-40a9-99d0-767b1276f575
+00:25:51.436 --> 00:25:53.846
+to buy two half adder?
+
+NOTE Confidence: 0.8360508
+
+2f81b392-9a99-42e5-8992-e2560addf2c5
+00:25:54.470 --> 00:25:59.891
+Uh, and then connect these two
+half adder in a way that does this
+
+NOTE Confidence: 0.8360508
+
+155aae87-174a-49c7-9445-ce5ae1c9276c
+00:25:59.891 --> 00:26:01.559
+addition for two bits.
+
+NOTE Confidence: 0.77585876
+
+e8a3ddb7-736a-421c-b986-921b2c4c12be
+00:26:03.320 --> 00:26:09.053
+So if you're given 2 numbers
+with two bits, we are going to
+
+NOTE Confidence: 0.77585876
+
+b49769b6-2469-43d4-a44d-f2628d6ce39a
+00:26:09.053 --> 00:26:13.463
+going to design logic circuit,
+but using reusing 1 half adder
+
+NOTE Confidence: 0.77585876
+
+f5a62368-6898-454c-b156-d0075690d07d
+00:26:13.463 --> 00:26:17.432
+additional gates for two half
+adder additional gates. Let's
+
+NOTE Confidence: 0.77585876
+
+7e44a1ba-b661-4558-8bf8-14f89d07e06e
+00:26:17.432 --> 00:26:20.078
+see how can we do that.
+
+NOTE Confidence: 0.83413655
+
+27ed78c1-921c-4cc1-8a82-d364a7df24dc
+00:26:22.270 --> 00:26:26.791
+So here is the problem. Adding
+two binary numbers, each of
+
+NOTE Confidence: 0.83413655
+
+978bcc94-e6d3-4b5f-929f-fa37fd1370cb
+00:26:26.791 --> 00:26:29.668
+which has 2 bits. But we can
+
+NOTE Confidence: 0.77263045
+
+604121c4-2bef-406c-9ea3-cacdf611dc8e
+00:26:29.668 --> 00:26:36.496
+assume that. A fair bit X
+one and Y bought one can be
+
+NOTE Confidence: 0.77263045
+
+619f54a7-faba-4de9-83f7-efc9a563b18c
+00:26:36.496 --> 00:26:38.320
+added. by one half adder?
+
+NOTE Confidence: 0.8261977
+
+0d1a74ca-ebdc-4015-9389-fc9b393dee48
+00:26:40.430 --> 00:26:45.556
+And the second a bit
+X2 and Y2 can be added
+
+NOTE Confidence: 0.8261977
+
+956c9ab5-def3-49d1-a99b-3176a97f1315
+00:26:45.556 --> 00:26:47.420
+by another half adder.
+
+NOTE Confidence: 0.8507513
+
+5c551df7-cb57-4f72-9b43-43ac60d52a69
+00:26:48.630 --> 00:26:52.550
+So the result of the first half
+adder gonna be S1. The result of
+
+NOTE Confidence: 0.8507513
+
+2bf591fd-10c9-4276-b0de-30888d824d1e
+00:26:52.550 --> 00:26:54.230
+the second half after going to
+
+NOTE Confidence: 0.7967592
+
+6b252373-9ebf-4008-b446-6e7f59cd3b29
+00:26:54.230 --> 00:26:59.870
+be S2. But the problem is that
+the half adder doesn't accept
+
+NOTE Confidence: 0.7967592
+
+7ab6e2a6-fa37-47e0-bb74-7da2c2a1c5ad
+00:26:59.870 --> 00:27:06.718
+carry for the second bit X 2 + Y
+two. If we use the half adder,
+
+NOTE Confidence: 0.7967592
+
+c5a110b8-9750-4408-b56e-129c5ec73f18
+00:27:06.718 --> 00:27:10.570
+it cannot accept the carry from
+the first bit.
+
+NOTE Confidence: 0.8362497
+
+91a72b08-97df-4b76-a371-d50077fd181d
+00:27:11.510 --> 00:27:18.380
+So if we could extend the half
+adder in a way that it except a
+
+NOTE Confidence: 0.8362497
+
+8da17a4b-022d-46fa-819f-9cd759e79574
+00:27:18.380 --> 00:27:24.334
+carry, then we can use two half
+adder that can do the addition
+
+NOTE Confidence: 0.8362497
+
+aa6d50cc-a82a-4357-9ddc-d6bacaf7fa2a
+00:27:24.334 --> 00:27:26.624
+for numbers with two bits.
+
+NOTE Confidence: 0.8186519
+
+a089e381-f093-4497-9e41-5b1c92aa70a3
+00:27:28.990 --> 00:27:31.454
+So again, if you're
+given two half adder.
+
+NOTE Confidence: 0.7134617
+
+8142ce15-67db-462a-a1fd-c6f7ed8bc93e
+00:27:33.070 --> 00:27:36.612
+So the 1st goes here X1 and
+
+NOTE Confidence: 0.7985933
+
+bf0a4cb5-4939-486a-939a-27f3cca612f4
+00:27:36.612 --> 00:27:40.959
+Y1. Using the half adder and
+5
+NOTE Confidence: 0.8174935
+
+d6b0b43d-c552-4649-9642-1afb757f3784
+00:27:41.650 --> 00:27:46.620
+For the second half, other X2
+and Y2 goes here to do the S2
+
+NOTE Confidence: 0.8174935
+
+fdcc5d65-9aa1-4ce3-a170-c33c7272b766
+00:27:46.620 --> 00:27:51.235
+and a carry. But the problem is
+that the the carry from the adding
+
+NOTE Confidence: 0.8174935
+
+922f8a14-0682-4c81-8303-dc96f29609d9
+00:27:51.235 --> 00:27:55.140
+to the first 2 bits. So how can
+we handle this?
+
+NOTE Confidence: 0.85496217
+
+c65b5aa8-7bef-40de-a159-ed7d2b13d5e2
+00:27:56.770 --> 00:28:00.942
+As I said, I mean, for instance,
+in this case 1 and 1 becomes 2 0 goes
+
+NOTE Confidence: 0.85496217
+
+7fe2bb6b-85f3-4b6f-90a3-8c7ece66980e
+00:28:00.942 --> 00:28:04.220
+here. How can we handle this?
+Adding for a half adder?
+
+NOTE Confidence: 0.8274613
+
+e4b7930f-42d2-47af-bc7a-c2ed585c6563
+00:28:07.050 --> 00:28:12.076
+We need to create a half other
+that accept instead of two bit 3
+
+NOTE Confidence: 0.8274613
+
+03fb1b75-08e6-416b-ae87-7f0bf9597774
+00:28:12.076 --> 00:28:16.384
+bit. So let's design and have
+other that accept not only two
+
+NOTE Confidence: 0.8274613
+
+050b7f83-f441-4ad5-8015-86058c7f2c53
+00:28:16.384 --> 00:28:18.538
+bits but also a carry bit.
+
+NOTE Confidence: 0.7743414
+
+9fa3f93e-2a21-4167-9fdc-566fc16c33f7
+00:28:20.990 --> 00:28:25.830
+And then we can design by
+attaching to half adder. We
+
+NOTE Confidence: 0.7743414
+
+a9ceb480-79a9-4d1b-ac47-dd75c1f460c4
+00:28:25.830 --> 00:28:31.110
+can design an adder is possible
+that is able to add binary
+
+NOTE Confidence: 0.7743414
+
+90ab0f32-7a7a-4306-a271-905f20a7890c
+00:28:31.110 --> 00:28:32.870
+numbers with two bits.
+
+NOTE Confidence: 0.84885675
+
+41de5540-5f62-4f46-8004-a4f3bf8ee95f
+00:28:33.980 --> 00:28:38.179
+And then we can extend it to add
+2 binary numbers with three
+
+NOTE Confidence: 0.84885675
+
+5ae98698-f84a-43de-b82c-c51809874781
+00:28:38.179 --> 00:28:39.794
+bits, 4 bits an, etc.
+
+NOTE Confidence: 0.80392575
+
+7da2298f-bbb5-4e05-ae15-4f6f901b91f9
+00:28:42.080 --> 00:28:47.540
+So here is the problem. You
+wanna design A using the half
+
+NOTE Confidence: 0.80392575
+
+acc074fc-d8d5-45c9-9e9a-afdfc826c10d
+00:28:47.540 --> 00:28:52.545
+adder but changing the half
+adder in order to accept a
+
+NOTE Confidence: 0.80392575
+
+9145c138-e0ea-4f5a-ab54-32dc240eb049
+00:28:52.545 --> 00:28:56.640
+carry from outside, which
+might goes comes from for
+
+NOTE Confidence: 0.80392575
+
+db47420c-1ccf-498a-a9b5-490023705baa
+00:28:56.640 --> 00:28:57.550
+instance previous.
+
+NOTE Confidence: 0.7974784
+
+89eb6f6c-6939-42fe-9559-69dc2230f507
+00:28:58.900 --> 00:29:03.918
+Half Adder then you can call a half
+adder that except they carry it
+
+NOTE Confidence: 0.7974784
+
+a43dcdd7-4370-4672-a02d-f8112584763d
+00:29:03.918 --> 00:29:09.322
+can call it full adder because
+not only it can add 2 bits both
+
+NOTE Confidence: 0.7974784
+
+74958161-69fe-4500-8ef5-b41047d59133
+00:29:09.322 --> 00:29:11.252
+we can support adding with
+
+NOTE Confidence: 0.76921874
+
+d90635ba-d97e-49eb-9e9b-e238aef2f4b6
+00:29:11.252 --> 00:29:16.466
+Carry. So it half after that
+accept it, carry is called full
+
+NOTE Confidence: 0.76921874
+
+5d109c57-14c6-4db0-b6b0-dd059401a36d
+00:29:16.466 --> 00:29:19.850
+adder. So let's design this.
+Design A logic circuit.
+
+NOTE Confidence: 0.778962
+
+d30dedef-6a80-4c51-a213-d69a33ade93a
+00:29:20.420 --> 00:29:25.568
+Add two binary digit bits as
+we did for the half adder and
+
+NOTE Confidence: 0.778962
+
+216435a5-97a7-46e0-b70a-7efe24ff9d08
+00:29:25.568 --> 00:29:27.284
+also a carry bit.
+
+NOTE Confidence: 0.82349366
+
+d4843847-a165-4130-849c-ad3ed55885b4
+00:29:28.990 --> 00:29:33.618
+So the design principle is the
+same as we did for the half
+
+NOTE Confidence: 0.82349366
+
+0706df1e-50c8-47ea-9168-d5168cfe2150
+00:29:33.618 --> 00:29:38.602
+adder. So what is the range of
+the input? We have two bits X & y
+
+NOTE Confidence: 0.82349366
+
+033056e7-cf40-4fc4-8cac-d21b6a69227b
+00:29:38.602 --> 00:29:41.094
+and plus the carry bit, so 3
+
+NOTE Confidence: 0.8824613
+
+4b10c503-a16a-4df7-a5c4-7dd90f2aac1f
+00:29:41.094 --> 00:29:46.535
+input variables. For the output
+variable, what are going to be
+
+NOTE Confidence: 0.77086025
+
+f2ffe567-d824-4149-aef8-06fc5a6738aa
+00:29:46.535 --> 00:29:52.908
+the? carry final carry for the
+full adder and what is this sum
+
+NOTE Confidence: 0.77086025
+
+4771e6fe-a6cd-4ea8-a727-4e8f5aa2a131
+00:29:52.908 --> 00:29:55.028
+so again for the output.
+
+NOTE Confidence: 0.8637058
+
+428c107d-9a71-4b3d-87da-f7f45357f145
+00:29:56.010 --> 00:29:58.170
+The output will need a.
+
+NOTE Confidence: 0.81608325
+
+cc2c0acb-1f7f-4d77-a90d-86eae0b87309
+00:30:00.480 --> 00:30:06.148
+We need just let's come here, so
+adding three bits, what is going
+
+NOTE Confidence: 0.81608325
+
+98b2cccb-0981-44d4-afe7-b3ea56e7bb99
+00:30:06.148 --> 00:30:11.380
+to be the output range output
+range? Gonna be best just one
+
+NOTE Confidence: 0.81608325
+
+d032c409-7705-4b5e-b58b-6ab0dc4d837d
+00:30:11.380 --> 00:30:13.124
+bit plus a carry.
+
+NOTE Confidence: 0.7303362
+
+7152a65f-2113-438b-b9af-05f9767b1379
+00:30:14.380 --> 00:30:16.328
+Here for the S
+
+NOTE Confidence: 0.8547004
+
+695bb169-459d-441d-9001-0760104d8d68
+00:30:17.150 --> 00:30:22.116
+That's completely truth table 0
++ 0 with the carry 0 Carry is
+
+NOTE Confidence: 0.8547004
+
+f593d455-189f-4f71-b897-49e6cbffbb94
+00:30:22.116 --> 00:30:24.790
+zero and the sum gonna be 0.
+
+NOTE Confidence: 0.8924156
+
+9336e440-c2fa-4e2b-a88d-69973a40fdb8
+00:30:26.270 --> 00:30:26.860
+I'm sorry.
+
+NOTE Confidence: 0.10513624
+
+91a1befa-b282-4265-ba43-6069a0b7f674
+00:30:32.330 --> 00:30:33.070
+All.
+
+NOTE Confidence: 0.8478707
+
+65ad191a-49de-4388-b863-e595154f5b5a
+00:30:34.480 --> 00:30:40.128
+If X is 1 and Y is zero and the
+carry from the previous one is
+
+NOTE Confidence: 0.8478707
+
+08793758-3cb7-41ea-974c-c9d2266ecde2
+00:30:40.128 --> 00:30:42.246
+0, is sum gonna be 1?
+
+NOTE Confidence: 0.86556166
+
+c134d5cc-42b0-472e-9e47-32acdf9ca9c2
+00:30:42.830 --> 00:30:46.526
+And the carry do as you can
+see here, whenever they carry
+
+NOTE Confidence: 0.86556166
+
+e25e16fb-b82e-4a9c-9646-7ed1f3969a65
+00:30:46.526 --> 00:30:50.838
+the previous carry is 0 is. This
+is the same as the half adder.
+
+NOTE Confidence: 0.78178346
+
+068b6641-e88e-4cf8-9e39-be4e68e1e38f
+00:30:53.310 --> 00:30:57.804
+x&y is one Carry gonna
+be one and the sum gonna be 0
+
+NOTE Confidence: 0.8222557
+
+075a61fd-5f16-406f-9f4c-449e8f96154a
+00:30:57.804 --> 00:31:00.319
+so? In these rows.
+
+NOTE Confidence: 0.8263189
+
+e550edd9-186a-4be8-bdef-a58b94a03f13
+00:31:01.120 --> 00:31:04.530
+In these rows are this is
+exactly as a half adder.
+
+NOTE Confidence: 0.86341286
+
+01b69dd0-e073-46ab-bb8f-09da48fa02f0
+00:31:05.180 --> 00:31:09.730
+In this next four rows, because
+we haven't, we have a carry from
+
+NOTE Confidence: 0.86341286
+
+b235d79e-e92a-449c-a9f4-26ae38f29b20
+00:31:09.730 --> 00:31:13.580
+the previous step or from the
+previous half adder, so the
+
+NOTE Confidence: 0.86341286
+
+5861530a-358c-4c99-8e12-ec6f0808c371
+00:31:13.580 --> 00:31:19.530
+carry is 1. So if they carry is
+1 and the two bits are zero, 1 +
+
+NOTE Confidence: 0.86341286
+
+7ddfbc33-17bd-4d92-be6e-00d19aa89609
+00:31:19.530 --> 00:31:25.130
+0 + 0 becomes one, so the sum is
+1 and the carry gonna be 0.
+
+NOTE Confidence: 0.8492418
+
+a68442e5-cadc-4256-9a0f-ee581accd9be
+00:31:26.360 --> 00:31:27.770
+Is the Carry is 1?
+
+NOTE Confidence: 0.8141494
+
+8f8edcde-c11d-4293-a620-208a22a6a360
+00:31:28.890 --> 00:31:36.648
+y is zero and X is 1, so 1
++ 0 + 1 becomes 2. Two is a
+
+NOTE Confidence: 0.8141494
+
+d7d4871e-11e6-47fc-adb0-381971133cf8
+00:31:36.648 --> 00:31:40.958
+remainder zero and the quotient
+goes as a carry 1 0.
+
+NOTE Confidence: 0.87352324
+
+612990e8-f0ef-483f-8101-983aa54c3996
+00:31:43.420 --> 00:31:49.738
+And the next, if the carry is 1
+and y is 1 an exit zero 1 + 1
+
+NOTE Confidence: 0.87352324
+
+0ac78dc0-b34e-4c74-a854-4a81fbadfaa0
+00:31:49.738 --> 00:31:51.142
++ 0 becomes 2.
+
+NOTE Confidence: 0.7987255
+
+026c8ab1-0c09-496d-b7c5-dabd51e9ddbe
+00:31:52.970 --> 00:31:55.146
+Zero goes to the
+sum and the carry.
+
+NOTE Confidence: 0.83485925
+
+07301515-2097-466d-b653-c28ea44c90de
+00:31:56.210 --> 00:32:02.500
+And if all the bits are one, so
+X is 1, y is 1 and also we
+
+NOTE Confidence: 0.83485925
+
+b291fe6c-eafd-4b12-a426-a37c27bdd196
+00:32:02.500 --> 00:32:07.680
+have a carry so one plus was one
+becomes three 3 / 2, the
+
+NOTE Confidence: 0.83485925
+
+cc0ade65-8b3f-48fa-a99c-671a32e01699
+00:32:07.680 --> 00:32:09.900
+remainder is 1 and the quotient
+
+NOTE Confidence: 0.79304254
+
+32fc968e-17dc-4e02-9909-4623085ed600
+00:32:09.900 --> 00:32:12.490
+goes here. One so.
+
+NOTE Confidence: 0.87218827
+
+2fa7aaad-dc81-4bd0-8e94-182a0f5b1919
+00:32:13.140 --> 00:32:16.766
+The only case that we have both
+one in the output is all the
+
+NOTE Confidence: 0.87218827
+
+f7ece19e-0dbb-4179-98f3-1a873ecc8b19
+00:32:16.766 --> 00:32:18.579
+bits in the input kind of be 1.
+
+NOTE Confidence: 0.7657592
+
+f9686dd6-3d74-44e8-ad7f-48a385c9bf04
+00:32:19.670 --> 00:32:25.049
+Though you could design. So now
+let's design the logic circuit
+
+NOTE Confidence: 0.7657592
+
+8c17a78b-caea-4344-860a-bcbddf08e22d
+00:32:25.049 --> 00:32:30.428
+for this. So the first Carrie is
+sum of minterm 3.
+
+NOTE Confidence: 0.8697804
+
+c1052613-2a29-49ab-bc80-bfc5603a626e
+00:32:32.330 --> 00:32:38.240
+And five and six and seven
+to minterm and 3 5 6 7.
+
+NOTE Confidence: 0.837262
+
+3da43e2d-7a58-4a20-b9a2-eb2fd772fbc8
+00:32:39.440 --> 00:32:40.370
+But the sum?
+
+NOTE Confidence: 0.7867489
+
+4bb0a7e5-7b0e-4163-9492-28a73f3a2fbb
+00:32:41.960 --> 00:32:48.993
+Again, in the first 4 row it
+is exclusive or so minterm one
+
+NOTE Confidence: 0.7867489
+
+36888d29-8023-4146-9441-3a3ac3194c0f
+00:32:48.993 --> 00:32:55.485
+and minterm two
+for the 2nd four rows we have.
+
+NOTE Confidence: 0.7887839
+
+226e44ed-edbc-45b4-ad06-4e8520c65b07
+00:32:56.160 --> 00:32:58.230
+This is the minterm 4.
+
+NOTE Confidence: 0.6242509
+
+3873aa8a-aa3d-481a-b2e9-363f939759a3
+00:32:59.310 --> 00:33:00.459
+minterm 7, so
+
+NOTE Confidence: 0.819465
+
+c1161d47-1b26-462a-a14b-5988f0911d86
+00:33:02.420 --> 00:33:07.009
+ the next when we have
+this sum of mid term, we can
+
+NOTE Confidence: 0.819465
+
+4b86b139-a640-4670-8aee-1a0736db4202
+00:33:07.009 --> 00:33:10.892
+right away design the logic
+circuit or before that we have
+
+NOTE Confidence: 0.819465
+
+6e8829f1-cba7-46d0-9614-e5cfb430355c
+00:33:10.892 --> 00:33:11.951
+to minimize it.
+
+NOTE Confidence: 0.80222094
+
+89596561-58d1-479e-92a7-671a011ad4fe
+00:33:12.930 --> 00:33:17.538
+So if you are going to
+minimize it, we can use the
+
+NOTE Confidence: 0.80222094
+
+f6f1048c-a05a-4862-a336-09b999812341
+00:33:17.538 --> 00:33:20.994
+karnaugh map with three
+variables XY and carry. In
+
+NOTE Confidence: 0.80222094
+
+60b17304-7d1f-48b3-8aa9-ff1e94202b6b
+00:33:20.994 --> 00:33:22.914
+the previous I mean step.
+
+NOTE Confidence: 0.80421406
+
+79687e51-cd9c-4d4e-bf5b-7feea55962b6
+00:33:23.990 --> 00:33:31.118
+For the S, the Sigma midterm
+1 2 4 and seven. So this is
+
+NOTE Confidence: 0.80421406
+
+45f3e157-ee52-4303-a17f-17eefcb4b1e5
+00:33:31.118 --> 00:33:35.870
+the alternate three variable,
+karnaugh map 01234567. So those
+
+NOTE Confidence: 0.80421406
+
+6fcee865-d434-4a9f-8a54-dd533cd9a657
+00:33:35.870 --> 00:33:42.998
+minterms in the S gonna be
+one. So minterm one minterm 2,
+
+NOTE Confidence: 0.80421406
+
+ef54c2cf-0c55-4392-a50a-c7eecfb44066
+00:33:42.998 --> 00:33:44.780
+four and seven.
+
+NOTE Confidence: 0.77161306
+
+d6a94bff-51fc-4510-90ea-45bc52670c5a
+00:33:46.100 --> 00:33:51.164
+For the final carry, given the
+carry from the previous step, an
+
+NOTE Confidence: 0.77161306
+
+3bcd03e6-7305-4586-9f19-050936799d92
+00:33:51.164 --> 00:33:53.696
+2 bits in the input X&Y.
+
+NOTE Confidence: 0.24214864
+
+af305243-7420-468c-8888-22dc30d9ebc1
+00:33:55.010 --> 00:33:55.680
+so.
+
+NOTE Confidence: 0.80039245
+
+c036d135-73cf-4e8a-b78d-9d8037413d86
+00:33:56.880 --> 00:34:01.038
+For the sum, you see that there
+is no adjacent cell.
+
+NOTE Confidence: 0.80368996
+
+06647716-15e1-424e-8838-5cd95329ec39
+00:34:01.960 --> 00:34:06.150
+Although it sells or diagonally
+adjacent, so we cannot create
+
+NOTE Confidence: 0.80368996
+
+2cf1602b-a240-4ddb-856c-34a77a978b18
+00:34:06.150 --> 00:34:11.178
+the shared region with adjacent
+cells to simplify it. So as I
+
+NOTE Confidence: 0.80368996
+
+5f22cd67-dc8b-43f4-a0ab-4c293fa7ab62
+00:34:11.178 --> 00:34:15.368
+said in the previous lecture,
+whenever you see diagonal set,
+
+NOTE Confidence: 0.80368996
+
+6cf3a355-beaf-4135-ac3a-121f49592f12
+00:34:15.368 --> 00:34:20.396
+it hints you that there's no way
+to simplify by creating shared
+
+NOTE Confidence: 0.80368996
+
+1af080c6-c8d0-4f39-bfcb-4f35d427567a
+00:34:20.396 --> 00:34:22.072
+region in the Karnaugh map.
+
+NOTE Confidence: 0.86930066
+
+d69d077e-dfda-4946-91f8-454ea1d5b2ef
+00:34:22.930 --> 00:34:28.162
+So this is the full form, but
+using the Boolean algebra you
+
+NOTE Confidence: 0.86930066
+
+01174ac8-70cc-4f2a-a993-d1036077eee5
+00:34:28.162 --> 00:34:30.778
+know that you can extract the.
+
+NOTE Confidence: 0.7841575
+
+f9454960-fe79-46ac-a8ef-517307df4a01
+00:34:31.520 --> 00:34:37.510
+Carry. From the previous steps
+EP Prime from these two terms.
+
+NOTE Confidence: 0.7619538
+
+e2188873-08ac-458b-8b31-025530aaa4d3
+00:34:40.060 --> 00:34:44.700
+so by the distributive
+postulate, you can extract
+
+NOTE Confidence: 0.7619538
+
+b3adfab4-ecaa-450b-b2fb-61e98957f924
+00:34:44.700 --> 00:34:46.440
+this binary variable.
+
+NOTE Confidence: 0.84904045
+
+8852d288-3608-44c4-8c4c-036b4a2274f1
+00:34:48.210 --> 00:34:52.648
+Also, for the CP here, for these
+two terms you see that the CP
+
+NOTE Confidence: 0.84904045
+
+16011220-4e43-4df3-9780-20b60a020de4
+00:34:52.648 --> 00:34:56.452
+the carry from the previous step
+actually is repeated, so you can
+
+NOTE Confidence: 0.84904045
+
+d63905bf-d2f7-4c06-bb72-6d2a5c7b474a
+00:34:56.452 --> 00:34:58.037
+extract it by the distributive.
+
+NOTE Confidence: 0.91181135
+
+7137e8cf-9b0d-44f4-b39a-9ae37deb0ee2
+00:35:00.190 --> 00:35:05.144
+postulate. And if you look
+closely, the inside the
+
+NOTE Confidence: 0.4712121
+
+b960cadb-a2a6-4567-8b83-e601212a1885
+00:35:05.144 --> 00:35:08.418
+parenthesis. For the first, uh.
+
+NOTE Confidence: 0.79708606
+
+b3c07799-0eeb-4e57-8529-cf38664bab1d
+00:35:09.180 --> 00:35:11.350
+term it is a.
+
+NOTE Confidence: 0.7329491
+
+24c4bf6d-06d8-4113-acd7-6f7010546694
+00:35:12.250 --> 00:35:13.960
+The compliment form off the
+
+NOTE Confidence: 0.9263976
+
+5d46dc74-450b-468a-b05b-ef24dcef754c
+00:35:13.960 --> 00:35:16.220
+previous carry. And.
+
+NOTE Confidence: 0.6949864
+
+c6fc02cd-f414-4351-bfb7-9c6ac8e5f530
+00:35:16.900 --> 00:35:22.334
+x' a y bar and X or Y
+x' which is exclusive or.
+
+NOTE Confidence: 0.84918696
+
+d30ccd32-99f5-4fad-a5d7-c5e95e54fe90
+00:35:23.450 --> 00:35:28.202
+We already knew that, so it
+means that there is exclusive or
+
+NOTE Confidence: 0.84918696
+
+f3ffe92e-7fba-45c3-ba97-1ccba592512e
+00:35:28.202 --> 00:35:32.558
+of X&Y then and by the not off
+the previous carry.
+
+NOTE Confidence: 0.7475109
+
+57c8738e-761a-42d7-9440-5e19547c1f32
+00:35:33.810 --> 00:35:40.614
+But this second term, you see
+that this is x' and y' or
+
+NOTE Confidence: 0.8353578
+
+03688438-8bb0-4f14-a0e0-f9831d6848e0
+00:35:40.614 --> 00:35:45.900
+X&Y so. Whenever both gates are
+the same, the output gonna be
+
+NOTE Confidence: 0.8353578
+
+5548be94-2a9b-474a-8a74-08c7c13493e3
+00:35:45.900 --> 00:35:48.996
+one. Either they are both zero
+or they are both one.
+
+NOTE Confidence: 0.8136265
+
+85241897-1af4-4566-bd58-550248931188
+00:35:49.700 --> 00:35:53.993
+You already knew that
+this is the gate XNOR
+
+NOTE Confidence: 0.8136265
+
+f1fb6a44-3514-415a-b588-c71c976cf453
+00:35:53.993 --> 00:35:55.901
+ or not exclusive or.
+
+NOTE Confidence: 0.7947428
+
+b1ac568f-5baf-412d-bb32-ef5ecbecc8cc
+00:35:58.310 --> 00:36:02.678
+So we already know that and
+whenever there is a truth table
+
+NOTE Confidence: 0.7947428
+
+898a5f02-1a69-48d3-a8a1-ef7502b289ad
+00:36:02.678 --> 00:36:06.682
+that if the both input
+variables are send out, gonna be
+
+NOTE Confidence: 0.7947428
+
+e119662b-1558-43c6-a215-43f5a56f1484
+00:36:06.682 --> 00:36:08.866
+one. This is the exclusive nor.
+
+NOTE Confidence: 0.9116708
+
+9fbef327-8e93-4e86-a77d-c77435ae08df
+00:36:10.340 --> 00:36:12.776
+And again, we already knew that.
+
+NOTE Confidence: 0.84449196
+
+e3463780-4cba-40fa-a723-85b5ee9b9eb2
+00:36:13.550 --> 00:36:18.810
+Exclusive nor. Is not
+of the exclusive or is
+
+NOTE Confidence: 0.84449196
+
+85f68c22-b067-4de1-aa5a-73a379fd1207
+00:36:18.810 --> 00:36:22.170
+kind of not exclusive
+or which becomes nor.
+
+NOTE Confidence: 0.9047076
+
+c2d1e1e3-9017-4c3e-86e7-e1694d30e019
+00:36:26.420 --> 00:36:27.860
+Oh, sorry, exclusive.
+
+NOTE Confidence: 0.746616
+
+70fa75bc-e8a0-4904-9670-780f722b1a5f
+00:36:28.480 --> 00:36:34.122
+Uh, it becomes XNOR sorry
+this is. I mean if you apply the
+
+NOTE Confidence: 0.80223763
+
+c10b8068-a3d1-4edc-8b37-b2fe29368758
+00:36:34.122 --> 00:36:40.878
+nots. On top of the exclusive or
+it becomes exclusive nor kind of
+
+NOTE Confidence: 0.80223763
+
+3e719302-89a7-42e6-9e02-2150b416d8ac
+00:36:40.878 --> 00:36:47.988
+not exclusive or which is we put
+just after X nor so this is X
+
+NOTE Confidence: 0.80223763
+
+b08be23c-03fd-4c8f-9b75-79eb387adfe7
+00:36:47.988 --> 00:36:49.884
+nor or exclusive nor.
+
+NOTE Confidence: 0.92646384
+
+42307298-116b-4bb6-9819-b8c46ea4910a
+00:36:51.090 --> 00:36:51.750
+So.
+
+NOTE Confidence: 0.75921625
+
+56741b2e-12d8-4a70-854f-7fa2b63fc3ff
+00:36:53.170 --> 00:36:58.381
+So we can rewrite this
+expression as the C prime
+
+NOTE Confidence: 0.75921625
+
+5f18347f-468c-4523-a778-4175bb70cfea
+00:36:58.381 --> 00:37:05.329
+exclusive or with Y or C
+in the from the previous step.
+
+NOTE Confidence: 0.8516607
+
+19034b88-4d79-4ec0-9840-a81ff6144ebf
+00:37:06.140 --> 00:37:11.398
+X. Exclusive nor with Y, which
+is the not of exclusive or
+
+NOTE Confidence: 0.8516607
+
+d523b78d-ee18-49c1-b8f3-debc6d8fa433
+00:37:11.398 --> 00:37:16.052
+and then if we assume that this
+is the Alpha one term and this
+
+NOTE Confidence: 0.8516607
+
+2d0c387a-2015-4f4c-97a7-8823a556e313
+00:37:16.052 --> 00:37:17.126
+is Alpha prime.
+
+NOTE Confidence: 0.85000306
+
+642927db-7916-44b8-aa66-bbcd8f0854c9
+00:37:20.260 --> 00:37:21.590
+So it's kind of a.
+
+NOTE Confidence: 0.6369578
+
+b73ea737-6ecf-4456-aea2-563d28174bc3
+00:37:22.910 --> 00:37:26.720
+C Bar Alpha or C Alpha bar.
+
+NOTE Confidence: 0.8960356
+
+96daa53d-c636-4da6-9eca-b4ba80068c54
+00:37:27.740 --> 00:37:30.666
+So again, this is another
+exclusive or.
+
+NOTE Confidence: 0.8513998
+
+53bfa8a1-b3ed-400d-8cd6-8a5fde86809e
+00:37:33.300 --> 00:37:38.028
+So we could rewrite this as a
+carry exclusive or with Alpha.
+
+NOTE Confidence: 0.8513998
+
+ffd68c88-6629-44f0-bb2d-8ebf81446d03
+00:37:38.028 --> 00:37:42.362
+And what was the Alpha? The
+Alpha was inside the parenthesis
+
+NOTE Confidence: 0.8513998
+
+5c10f1f9-295e-432b-be9c-d882b22a0a89
+00:37:42.362 --> 00:37:46.302
+so we can just rewrite back to
+its original form.
+
+NOTE Confidence: 0.93976486
+
+ff8b0c7f-c652-4084-a673-2cf5507b7f8a
+00:37:46.890 --> 00:37:48.170
+So you can see that.
+
+NOTE Confidence: 0.8236632
+
+71852938-30e8-4e15-bf89-ae50331a8274
+00:37:48.940 --> 00:37:55.271
+S is what this sum. sum of
+minterm 1 2 4 and seven based on
+
+NOTE Confidence: 0.8236632
+
+ac6f2810-8e1c-4e9c-a0d4-7a9ed0363e92
+00:37:55.271 --> 00:37:59.654
+the exclusive or gate, it
+becomes the exclusive of
+
+NOTE Confidence: 0.7269477
+
+561daa8d-3c8f-44dd-922f-06e72e4069b8
+00:37:59.654 --> 00:38:02.500
+previous carry. X&Y.
+
+NOTE Confidence: 0.86368966
+
+cfbd1d5a-ecb3-41c3-a36f-232f8ab16d5f
+00:38:03.230 --> 00:38:07.620
+So basically just apply the
+exclusive or on three input.
+
+NOTE Confidence: 0.82375836
+
+e5fcaed1-37ac-4e4d-9f4e-6378b4abcd6f
+00:38:10.870 --> 00:38:14.236
+So we already knew that
+exclusive or is associative,
+
+NOTE Confidence: 0.82375836
+
+6e1e90bc-73c6-49a0-8b43-a5ffac65e772
+00:38:14.236 --> 00:38:18.350
+so we can simply drop the
+parenthesis. So it means that
+
+NOTE Confidence: 0.82375836
+
+75c31a41-12a2-41a6-a851-4647eb3aff99
+00:38:18.350 --> 00:38:22.464
+just applying the exclusive or on
+the X Y and C carriers carry from
+
+NOTE Confidence: 0.82375836
+
+b4ab338b-9f3e-4ab2-b0ae-1e1e5984e620
+00:38:22.464 --> 00:38:26.952
+the previous step, which means
+that we can have an exclusive or
+
+NOTE Confidence: 0.82375836
+
+e4da51f1-aced-472b-83d8-91621486ecf3
+00:38:26.952 --> 00:38:28.074
+with three inputs.
+
+NOTE Confidence: 0.87008655
+
+670755fc-9ea6-400f-ad43-aa361ea9fa8e
+00:38:29.430 --> 00:38:36.045
+But for the sake of I mean this,
+you will see one, but let's keep
+
+NOTE Confidence: 0.87008655
+
+7aa70303-0da5-42bc-bd38-cdf9a6ac6069
+00:38:36.045 --> 00:38:41.337
+the parenthesis and not drop the
+parenthesis. An use do not use
+
+NOTE Confidence: 0.87008655
+
+25f79ac4-021a-4660-9319-4f19b5d597db
+00:38:41.337 --> 00:38:44.424
+the associativity property of
+the exclusive or.
+
+NOTE Confidence: 0.9163339
+
+45902e3f-90a3-4a7b-8510-33385bfbaf44
+00:38:45.740 --> 00:38:48.660
+Do you know what's the
+reason? I'm not going to
+
+NOTE Confidence: 0.9163339
+
+2bbb9a8f-0922-4f80-aacb-d46101141f7b
+00:38:48.660 --> 00:38:49.536
+drop the parenthesis.
+
+NOTE Confidence: 0.8851682
+
+06dd3f1b-6087-4b9f-828a-a90f5405d406
+00:38:51.660 --> 00:38:54.780
+Any of you can answer in the
+chat box or raise your hand?
+
+NOTE Confidence: 0.86767066
+
+bdafb673-20bf-4477-ae3a-2da35ba18667
+00:38:57.510 --> 00:39:00.822
+As I said, although we know that
+the exclusive or is associative
+
+NOTE Confidence: 0.86767066
+
+53350d6a-94cb-436d-b0ba-f26716986074
+00:39:00.822 --> 00:39:02.478
+so we can drop the parenthesis.
+
+NOTE Confidence: 0.92451626
+
+e8934ea9-e552-4226-a0c5-e384b7c6e52e
+00:39:03.490 --> 00:39:07.169
+But I prefer to keep them and do
+you know what's the reason?
+
+NOTE Confidence: 0.8841642
+
+ef025a1e-030a-4e9c-acac-1560ce22eaf6
+00:39:15.180 --> 00:39:19.308
+Any of you? The reason is you know
+because we are trying.
+
+NOTE Confidence: 0.6069375
+
+e220484a-c9a9-4da7-9127-2e3c34426ab8
+00:39:20.800 --> 00:39:23.280
+Associated auto trans issues.
+
+NOTE Confidence: 0.82309747
+
+9143489d-7805-4d31-9d7e-9332582867e0
+00:39:24.730 --> 00:39:29.210
+It is associative exclusive
+or. I believe it's a lecture
+
+NOTE Confidence: 0.82309747
+
+84a482f2-caa8-480d-9cf0-b746448e3de5
+00:39:29.210 --> 00:39:35.034
+assignment or at home. You can
+try it. So if you apply the
+
+NOTE Confidence: 0.82309747
+
+97058f3a-3665-48e0-a373-24c71a817739
+00:39:35.034 --> 00:39:41.306
+C prime exclusive or with y 1st
+and then with X is the same as
+
+NOTE Confidence: 0.8864515
+
+70b81261-1ecb-438f-9874-b878b44269a3
+00:39:41.306 --> 00:39:46.436
+this so. If you form the truth
+table and you can apply the
+
+NOTE Confidence: 0.8864515
+
+1efd19e4-a87d-44f8-b867-32c19e49a6a5
+00:39:46.436 --> 00:39:48.016
+exclusive or in any order.
+
+NOTE Confidence: 0.8318154
+
+982d0860-543b-49d4-bd6f-0bf487bfb7da
+00:39:49.360 --> 00:39:54.274
+Also, it is this a commutative,
+so you can change the order of
+
+NOTE Confidence: 0.8318154
+
+e8d79daf-23e5-4e79-ba68-f7bbf5913e92
+00:39:54.274 --> 00:39:59.188
+the exclusive or for instance or
+Y is equal to Y exclusive or
+
+NOTE Confidence: 0.8692859
+
+83c6bc76-6450-4105-96f9-023fcc8a0f0d
+00:39:59.188 --> 00:40:02.814
+with X. So it is also a
+commutative and also
+
+NOTE Confidence: 0.8692859
+
+7c55394c-4cbe-451f-b20f-07be7fc86c2e
+00:40:02.814 --> 00:40:03.122
+associative.
+
+NOTE Confidence: 0.8181183
+
+539da8d9-d773-40fc-96d8-eb8df0688dbd
+00:40:04.260 --> 00:40:09.586
+The thing is. Nelson says for
+priority again because it is
+
+NOTE Confidence: 0.8181183
+
+d2f2e3af-70e9-40b9-be37-a179867dd1f9
+00:40:09.586 --> 00:40:14.890
+associative so there is no need
+to keep the priority. Yes, with
+
+NOTE Confidence: 0.8181183
+
+cd218486-1b57-4841-8202-87a90804025c
+00:40:14.890 --> 00:40:21.078
+this parentheses we say that we
+have to apply X or Y 1st and
+
+NOTE Confidence: 0.8181183
+
+224b12c8-e039-498c-ac17-a0de2063c046
+00:40:21.078 --> 00:40:25.056
+then exclusive with the carry
+from the previous step.
+
+NOTE Confidence: 0.79496104
+
+0cef868e-a932-46da-8821-be840378c39a
+00:40:26.430 --> 00:40:29.240
+Uh, but there's no need for that
+because exclusively or is
+
+NOTE Confidence: 0.79496104
+
+f603ee89-9864-4f17-b4e4-d4237c42f634
+00:40:29.240 --> 00:40:30.926
+associative, so we can drop it.
+
+NOTE Confidence: 0.6202923
+
+2a07d619-ebb4-48d0-942c-e16dd59ac32e
+00:40:32.970 --> 00:40:36.528
+Nelson is kind of right becausw
+
+NOTE Confidence: 0.7185216
+
+53d8fde7-ef37-4839-87bb-5423155752d4
+00:40:37.110 --> 00:40:41.694
+um, yeah, says X Y are
+together in X map.
+
+NOTE Confidence: 0.7352696
+
+431776f1-c414-4c99-94f6-365b87b35383
+00:40:43.860 --> 00:40:49.554
+No, as you can see here, XY,
+although we put it in the
+
+NOTE Confidence: 0.7352696
+
+75ac6e64-640b-43cf-86c6-1ea630e61fb2
+00:40:49.554 --> 00:40:53.934
+column side of the karnaugh
+map, but they are not
+
+NOTE Confidence: 0.7352696
+
+782ef6a2-3d08-4d59-a407-818bbdce514e
+00:40:53.934 --> 00:40:57.438
+creating any adjacent cell
+their diagonal. The reason
+
+NOTE Confidence: 0.7352696
+
+0863e32e-2e4a-45c3-b2ce-3341460436c7
+00:40:57.438 --> 00:40:57.876
+is.
+
+NOTE Confidence: 0.82849836
+
+5b586cc8-7c2e-46c6-b20f-814ad0853f9f
+00:40:59.280 --> 00:41:04.356
+You remember we start this task
+to reuse the half adder. OK,
+
+NOTE Confidence: 0.82849836
+
+4acfa0d5-891d-454e-a14a-acb4000f4c91
+00:41:04.356 --> 00:41:09.009
+so they half adder has only
+exclusive one exclusive or let's
+
+NOTE Confidence: 0.82849836
+
+413b984c-0193-48e4-b08b-8c7848ca0277
+00:41:09.009 --> 00:41:11.124
+back to be half Adder.
+
+NOTE Confidence: 0.6537555
+
+fa2e6f03-d061-43a8-9e10-33e55d3bd61e
+00:41:15.850 --> 00:41:17.752
+Let's come back to the half
+
+NOTE Confidence: 0.8309645
+
+07375019-8f15-4626-8d80-5ea393d4f8eb
+00:41:17.752 --> 00:41:20.010
+adder. This is the half adder.
+
+NOTE Confidence: 0.8925234
+
+3be16b20-1d27-4278-9ddc-0510202c6b4d
+00:41:20.780 --> 00:41:25.320
+So they have other has one
+exclusive or an X&Y.
+
+NOTE Confidence: 0.8680445
+
+1f394cc8-a375-4906-a8a4-c80c0f4ea00f
+00:41:26.150 --> 00:41:30.746
+So I keep the parenthesis in
+order to reuse the half adder
+
+NOTE Confidence: 0.8680445
+
+358e86dc-5073-4816-9d9d-1e9d88a63f21
+00:41:30.746 --> 00:41:34.576
+'cause you already have. The
+half adder that does the
+
+NOTE Confidence: 0.8680445
+
+ffa8703d-2741-4ad6-9cc8-9fd67d28d451
+00:41:34.576 --> 00:41:36.491
+exclusive or on the X&Y.
+
+NOTE Confidence: 0.8130272
+
+691be57c-ebef-4344-a67e-5daa948f8124
+00:41:37.160 --> 00:41:42.032
+So I just wanted to reuse
+that that's why I not drop
+
+NOTE Confidence: 0.8130272
+
+47fe6552-e874-44fa-b0c5-243856a41978
+00:41:42.032 --> 00:41:46.092
+the parentheses and keep the
+order applied, exclusive or
+
+NOTE Confidence: 0.8130272
+
+6a75e252-2f41-424e-ac3e-f4ddafab0061
+00:41:46.092 --> 00:41:50.152
+first on the X&Y and then on
+the previous carry.
+
+NOTE Confidence: 0.8963078
+
+5ffc8fb2-825d-4728-8f3d-df7c0e18d07a
+00:41:51.310 --> 00:41:51.960
+Oh
+
+NOTE Confidence: 0.90965325
+
+ed0891c3-1dc3-4793-9d62-f22d24a9e862
+00:41:53.980 --> 00:41:58.228
+that's why I didn't. I don't
+drop the parentheses.
+
+NOTE Confidence: 0.6658309
+
+db7ae4f8-9f7d-4d24-b87c-bfc9f5617530
+00:41:59.710 --> 00:42:04.470
+Will see in the few on next
+slide that, uh, what we mean by
+
+NOTE Confidence: 0.6658309
+
+bf9440a2-4d06-4c03-b709-dfddbde164b9
+00:42:04.470 --> 00:42:06.850
+I mean you re using half adder?
+
+NOTE Confidence: 0.77515155
+
+f75d37df-6909-428b-8855-ed0ccc1718cb
+00:42:07.920 --> 00:42:13.604
+Or the Carry if you put the
+minterm in on a karnaugh map with three
+
+NOTE Confidence: 0.77515155
+
+0928cfc2-09e6-43fa-a0f6-7e1123d53405
+00:42:13.604 --> 00:42:15.634
+variable, these are the 
+NOTE Confidence: 0.81978214
+
+287b6b5f-fa4c-4d75-b595-fad4ae173921
+00:42:15.634 --> 00:42:22.030
+minterm 3, minterm 5, minterm 6 and
+minterm 7 so you know from the
+
+NOTE Confidence: 0.81978214
+
+33962461-fbb3-462e-82d2-750ed1bf70a3
+00:42:22.030 --> 00:42:25.780
+Karnaugh map you can create a shared
+region with adjacent cells
+
+NOTE Confidence: 0.81978214
+
+7ff50ac6-2829-4ca4-ab80-218e76d02ba9
+00:42:25.780 --> 00:42:29.905
+overlapping, this shared region. So
+the first is this one. So in
+
+NOTE Confidence: 0.81978214
+
+39a502ad-a44a-4bd9-b871-b5b84cbe3eb6
+00:42:29.905 --> 00:42:33.655
+this region the value of the
+previous carry doesn't matter
+
+NOTE Confidence: 0.81978214
+
+ab2a5ae5-14ad-4912-a9a4-6fc766f72259
+00:42:33.655 --> 00:42:35.530
+to X&Y, must be one.
+
+NOTE Confidence: 0.9211362
+
+1a78880b-fcd2-4cf6-88fb-ee5ff6c0ec42
+00:42:37.860 --> 00:42:39.258
+In this region,
+
+NOTE Confidence: 0.83302474
+
+4354f532-79e1-4577-95d7-41de80f1b70d
+00:42:41.210 --> 00:42:43.292
+carry from the previous step is
+
+NOTE Confidence: 0.8654628
+
+b1056455-1413-416d-a36d-0f5d9d268ecb
+00:42:43.292 --> 00:42:48.035
+1. And X must be one. The
+value of Y doesn't matter
+
+NOTE Confidence: 0.8654628
+
+8d2288be-5b82-4bbf-a292-098dcb6759c6
+00:42:48.035 --> 00:42:51.815
+because the value of Y is
+either zero or one in this
+
+NOTE Confidence: 0.8654628
+
+b59728b4-3558-47ef-b29a-e59123897cc5
+00:42:51.815 --> 00:42:52.130
+region.
+
+NOTE Confidence: 0.7680806
+
+5572db92-a3bd-4549-9e3c-67298a0fd9af
+00:42:53.970 --> 00:42:55.830
+So it becomes carry
+
+NOTE Confidence: 0.8637198
+
+da843167-b1f4-42c1-ba17-dc8c3779fb3d
+00:42:56.730 --> 00:43:01.220
+AND X. But this region
+we have carry,
+
+NOTE Confidence: 0.8846308
+
+8d2ed538-d06e-4b6e-9403-16cf3522d133
+00:43:02.300 --> 00:43:07.018
+And Y must be one, but the
+value of X doesn't matter, so it
+
+NOTE Confidence: 0.8846308
+
+3769f0a5-11e7-4747-8cc6-9b48c65b3841
+00:43:07.018 --> 00:43:08.366
+becomes carry and Y.
+
+NOTE Confidence: 0.79407066
+
+8de10537-fe7e-479e-bbc4-e870d35598c9
+00:43:09.750 --> 00:43:14.762
+So this is the minimized form of
+the carry and then we can design
+
+NOTE Confidence: 0.79407066
+
+0b664bb4-3ba5-4e43-a9de-7a0c76403d39
+00:43:14.762 --> 00:43:19.774
+it. So we already know how to
+design the S and how to design
+
+NOTE Confidence: 0.79407066
+
+599ba4fa-4172-4b23-bfd2-759b1e7cef15
+00:43:19.774 --> 00:43:21.922
+the C. So let's sketch the
+
+NOTE Confidence: 0.82184094
+
+3882376e-469f-4a2b-a45c-ea95072a4f0b
+00:43:21.922 --> 00:43:25.411
+logic circuit. So X&Y, exclusive
+
+NOTE Confidence: 0.87841237
+
+659fe374-da84-4129-87c5-c0474be31174
+00:43:25.411 --> 00:43:29.605
+or with another exclusive OR
+with the carry.
+
+NOTE Confidence: 0.84185135
+
+a9ca56f8-f715-4125-b258-34c210d54477
+00:43:31.830 --> 00:43:33.780
+And then X&Y.
+
+NOTE Confidence: 0.76310045
+
+a8389854-8cb8-49fd-8003-f82c087310c0
+00:43:34.980 --> 00:43:40.872
+As you can see here, X AND
+previous carry, Y AND
+
+NOTE Confidence: 0.76310045
+
+58097db4-96c7-4281-b758-cf64ee8dff4c
+00:43:40.872 --> 00:43:43.818
+previous carry, so X
+
+NOTE Confidence: 0.7596685
+
+660b9195-e3bb-46b9-a637-bd6141a3b586
+00:43:44.500 --> 00:43:49.500
+And Y, X and previous carry, Y
+and previous carry.
+
+NOTE Confidence: 0.7597725
+
+c4bb353f-872d-4362-bbaf-86045f57d016
+00:43:50.590 --> 00:43:56.680
+And then all of them OR together.
+So this is the circuit. So
+
+NOTE Confidence: 0.7597725
+
+fe08a158-a233-48a1-b2af-8c00aa692581
+00:43:56.680 --> 00:43:58.855
+this is just
+
+NOTE Confidence: 0.90497994
+
+719cc4a3-bea7-4e70-8036-07bd669bbfa9
+00:44:00.650 --> 00:44:03.416
+represented as this way so.
+
+NOTE Confidence: 0.83388424
+
+b4c96781-16d4-4473-a08d-cf21706c7e4b
+00:44:04.680 --> 00:44:05.709
+X and Y comes here.
+
+NOTE Confidence: 0.8280901
+
+f78dbcc2-bc22-4c0c-a907-88f4af966716
+00:44:06.570 --> 00:44:10.340
+carry comes here and then sum.
+
+NOTE Confidence: 0.8436175
+
+d2335efe-85f4-45f9-a5fb-85748497558d
+00:44:11.090 --> 00:44:15.227
+Two exclusive OR
+and then carry.
+
+NOTE Confidence: 0.82748705
+
+af59b202-821b-4a2b-87c5-add8d03aa22f
+00:44:16.570 --> 00:44:21.932
+So you can simply just make it a
+black box. This is the full
+
+NOTE Confidence: 0.82748705
+
+545835b9-e221-4fdd-aacb-489f0fa65281
+00:44:21.932 --> 00:44:26.528
+adder, so adding three bits: 2
+bits from the binary numbers and
+
+NOTE Confidence: 0.82748705
+
+915a0922-cf41-4a13-aaf6-2d37c43d7fec
+00:44:26.528 --> 00:44:30.741
+one bit from the previous
+carry, and the result gonna be
+
+NOTE Confidence: 0.82748705
+
+bb366fe7-fc19-4bae-9638-7dae92ce97d9
+00:44:30.741 --> 00:44:36.486
+2 bits sum and the next carry.
+But as I said, the reason that I
+
+NOTE Confidence: 0.82748705
+
+df0419a0-0283-44ad-9f0b-0d65e4d5c096
+00:44:36.486 --> 00:44:41.082
+didn't drop the parenthesis is
+that as you can see inside the
+
+NOTE Confidence: 0.85715866
+
+77029de5-56d9-4042-9fc6-61cb26b6fe9a
+00:44:41.082 --> 00:44:47.180
+full adder, one exclusive OR on
+the X&Y and one AND on the X&Y,
+
+NOTE Confidence: 0.85715866
+
+741c29d9-a35b-47ac-a69e-5749d4cc9407
+00:44:47.180 --> 00:44:49.130
+this is the half adder.
+
+NOTE Confidence: 0.85490674
+
+5449bb3b-9c3e-42de-bdaf-9b07238243ee
+00:44:51.320 --> 00:44:54.704
+So you can go to the market and
+buy a half adder.
+
+NOTE Confidence: 0.8568032
+
+b5f685d3-b773-4f4d-a996-565f0cb785e1
+00:44:56.860 --> 00:45:03.292
+And another exclusive OR gate,
+two other AND gates and one or
+
+NOTE Confidence: 0.8568032
+
+763b912b-892f-4721-98d3-965443e6a0fc
+00:45:03.292 --> 00:45:06.508
+gate to recreate the full adder.
+
+NOTE Confidence: 0.9077536
+
+a72795b5-4920-4a52-b7c1-83a4c9cc6d83
+00:45:08.860 --> 00:45:11.219
+So that's why I didn't drop the
+
+NOTE Confidence: 0.87132597
+
+d6dcf41e-09d6-468d-9efc-c5ebd8f44b61
+00:45:11.219 --> 00:45:15.574
+parenthesis. If I drop the
+parentheses then I could apply
+
+NOTE Confidence: 0.87132597
+
+b45b25cd-b09f-422c-bd19-43dcfbd56066
+00:45:15.574 --> 00:45:20.698
+for instance X exclusive OR with
+the C first and then with the X.
+
+NOTE Confidence: 0.87384063
+
+934b8ba6-813e-44cc-8fa0-2bf30e8e24e6
+00:45:21.610 --> 00:45:25.260
+Because the order doesn't
+matter, but the reason that I
+
+NOTE Confidence: 0.87384063
+
+80b6aedd-4ae5-4dc9-a689-ef8a716b1353
+00:45:25.260 --> 00:45:28.910
+didn't drop the parantheses,
+although I could. But the
+
+NOTE Confidence: 0.87384063
+
+8ca1afd1-f15b-4f69-b267-52de874492c8
+00:45:28.910 --> 00:45:31.100
+thing was that I wanted to.
+
+NOTE Confidence: 0.7003582
+
+2290afab-f7d2-42fd-be4e-071029337677
+00:45:31.680 --> 00:45:34.144
+Reuse the half adder to
+build the full adder.
+
+NOTE Confidence: 0.7212448
+
+ad56773f-3b62-4dae-8ad0-e45ecfe1fce0
+00:45:36.290 --> 00:45:38.318
+So this is called full adder.
+
+NOTE Confidence: 0.844409
+
+169d880f-b4c0-48ee-b80a-140719202631
+00:45:40.230 --> 00:45:45.027
+We are using 1 half adder and
+two other ANDS, one OR and one
+
+NOTE Confidence: 0.844409
+
+4e9871e9-595e-4a2c-a842-0db60ffffa60
+00:45:45.027 --> 00:45:49.455
+exclusive OR, I create a full
+adder that can do the adding of
+
+NOTE Confidence: 0.844409
+
+2c492acc-ba6c-43fe-a41d-3428f7e0f471
+00:45:49.455 --> 00:45:53.883
+three bits: 2 bits from the
+input numbers and one bit from
+
+NOTE Confidence: 0.844409
+
+ca41947d-538a-4228-9758-8c0f944885ec
+00:45:53.883 --> 00:45:54.990
+the previous carry.
+
+NOTE Confidence: 0.8419027
+
+b13090a3-f79e-4622-8d11-5090974f8420
+00:45:57.330 --> 00:46:03.450
+So the next question is that the
+1st goal was that
+
+NOTE Confidence: 0.8419027
+
+aead65ca-db8c-4a7b-b572-65eda5f4b125
+00:46:03.450 --> 00:46:08.346
+creating a full adder for adding
+any binary numbers of more than
+
+NOTE Confidence: 0.8419027
+
+90a60610-13ba-4ef1-8208-9d7b19745070
+00:46:08.346 --> 00:46:10.794
+one bit using two half adders.
+
+NOTE Confidence: 0.76890504
+
+b3350473-f5b7-4a1a-a9e3-c3a6586beac3
+00:46:12.170 --> 00:46:13.610
+We create a full adder.
+
+NOTE Confidence: 0.8664077
+
+48ad82ee-c506-4938-a7e1-ed5183730094
+00:46:15.140 --> 00:46:21.380
+As you saw, in the previous exercise.
+So X&Y exclusive OR with
+
+NOTE Confidence: 0.7660965
+
+05f2fea6-7fd8-41ae-aba0-ccc5e10a3e0d
+00:46:21.990 --> 00:46:24.958
+Another carry from the
+previous step.
+
+NOTE Confidence: 0.8914775
+
+bbb78ee6-5fd5-4508-b871-afda804f8c33
+00:46:26.910 --> 00:46:32.020
+This is the sum as we did so
+far, but in the previous design,
+
+NOTE Confidence: 0.8914775
+
+97abd675-f687-456f-b10f-08c5e5b6ca99
+00:46:32.020 --> 00:46:33.845
+we could handle the carry.
+
+NOTE Confidence: 0.79457897
+
+53888bbd-ecd0-4c03-8f3d-08eab865863a
+00:46:34.650 --> 00:46:37.250
+So X&Y, this carry.
+
+NOTE Confidence: 0.77751327
+
+8eabcfe4-ebac-412e-a40c-ac1ae4813b9f
+00:46:38.260 --> 00:46:45.610
+Goe in this one, X and Y AND
+with each other both is or with
+
+NOTE Confidence: 0.77751327
+
+dcf13e18-e65a-4149-957c-d219728f4ddd
+00:46:45.610 --> 00:46:47.080
+two other ands?
+
+NOTE Confidence: 0.83084786
+
+6854cad5-f847-4f60-8050-5844a4b02d07
+00:46:48.340 --> 00:46:53.350
+So if I go to the market and buy
+two half adder instead of just
+
+NOTE Confidence: 0.83084786
+
+cf411018-da80-475f-ace4-9139f283f897
+00:46:53.350 --> 00:46:57.692
+one half adder, is it still
+possible to make the full adder?
+
+NOTE Confidence: 0.8261034
+
+bdc72702-d35a-49fc-a476-71f0871045de
+00:46:59.070 --> 00:47:04.302
+The answer with respect to this
+sum, the sum is correct, because
+
+NOTE Confidence: 0.8261034
+
+1c03c509-b30d-44b3-8816-a669aeaf60d9
+00:47:04.302 --> 00:47:06.918
+you can simply attach this,
+
+NOTE Confidence: 0.74181026
+
+bf740edd-4856-4f53-9544-92427a7db8d9
+00:47:08.550 --> 00:47:14.290
+Uh, the sum output of the half
+adder to the first input of the
+
+NOTE Confidence: 0.74181026
+
+72b0c6c2-1db6-4e27-894b-41c125638635
+00:47:14.290 --> 00:47:15.520
+next half adder.
+
+NOTE Confidence: 0.76933247
+
+4ce2a163-1503-43e7-ac2b-e357aced7aab
+00:47:16.780 --> 00:47:21.040
+And then put the carry. I mean
+from the previous step in
+
+NOTE Confidence: 0.76933247
+
+e9c56d54-9121-499c-9445-a1ed54a89bd3
+00:47:21.040 --> 00:47:24.235
+this second half adder, so it
+becomes exclusive OR.
+
+NOTE Confidence: 0.8428101
+
+012b6826-bfcb-4dec-b829-3fe4eb0e5367
+00:47:26.210 --> 00:47:30.170
+But how about this, carry?
+So this carry plus two other
+
+NOTE Confidence: 0.8428101
+
+bbf71abe-81ef-40e2-918a-942662e0710f
+00:47:30.170 --> 00:47:34.490
+ANDs, but we don't do that.
+We don't have two other ANDs,
+
+NOTE Confidence: 0.8428101
+
+111e8eda-e7f8-4b94-a60a-2cedfe89c9f1
+00:47:34.490 --> 00:47:38.090
+you have just one AND in the
+second half adder.
+
+NOTE Confidence: 0.7817694
+
+ffec7831-3c71-4ce2-9a76-93553b5aabd6
+00:47:39.520 --> 00:47:46.548
+So the question is that how can
+I create a carry, final carry for
+
+NOTE Confidence: 0.7817694
+
+e4fb8b79-9c18-4ce7-88ff-4539bf9624c2
+00:47:46.548 --> 00:47:52.572
+a full adder by reusing the
+carry from 2 half adders. The first
+
+NOTE Confidence: 0.7817694
+
+fa735737-d75c-4c6d-bb55-fc024ece6f5a
+00:47:52.572 --> 00:47:54.580
+half adder is X&Y.
+
+NOTE Confidence: 0.879585
+
+faae989a-3f16-4efd-977f-11e5f7c06d9b
+00:47:55.380 --> 00:47:59.660
+The second half adder is the AND
+of the previous carry.
+
+NOTE Confidence: 0.9180505
+
+d63de597-875f-4f9e-908e-c8987b698b19
+00:48:01.990 --> 00:48:02.660
+AND.
+
+NOTE Confidence: 0.8650536
+
+b5f6b9e0-c4fc-43dd-9afc-5deacd1c0fb9
+00:48:03.690 --> 00:48:07.757
+With this X exclusive
+or with Y.
+
+NOTE Confidence: 0.88829243
+
+a14e8485-0aaa-4236-aa34-f1a7afae5868
+00:48:10.330 --> 00:48:12.196
+Which comes from the previous sum.
+
+NOTE Confidence: 0.78596604
+
+31ff300f-b8a2-4974-9b4d-72c67dd57914
+00:48:14.420 --> 00:48:19.964
+So this carry from the second
+half adder is this: the half
+
+NOTE Confidence: 0.78596604
+
+0db3ac3d-55bb-45fe-8079-f0a175b3d62e
+00:48:19.964 --> 00:48:23.660
+adder AND previous carry with X exclusive
+OR Y.
+
+NOTE Confidence: 0.8690599
+
+9b319817-aefd-4408-8d1c-694eb3139e9b
+00:48:24.470 --> 00:48:29.345
+So is it possible to kind of
+come up with a I mean, a
+
+NOTE Confidence: 0.8757065
+
+ad8d2bc4-3baf-4ad8-b1a5-bb32b39d117e
+00:48:31.200 --> 00:48:36.717
+function on top of C1 and
+C2 to create
+
+NOTE Confidence: 0.93481034
+
+f8c40d56-f2e0-48b6-8983-3b7e233d1271
+00:48:37.590 --> 00:48:38.230
+This one?
+
+NOTE Confidence: 0.8255211
+
+59c5b2d8-4767-4b93-a7ab-9989a1366416
+00:48:40.050 --> 00:48:42.290
+Create X&Y.
+
+NOTE Confidence: 0.90304327
+
+5964d061-aa27-48d2-80a5-8d0341e50197
+00:48:43.830 --> 00:48:46.390
+X. This One. X.
+
+NOTE Confidence: 0.70078355
+
+19e3c174-1d76-4ad0-a678-a8053d639735
+00:48:47.390 --> 00:48:49.490
+AND previous carry.
+
+NOTE Confidence: 0.8061796
+
+728929ea-e486-409d-8bd9-d7503b89e2b6
+00:48:50.100 --> 00:48:55.900
+Y AND previous
+carry and then OR.
+
+NOTE Confidence: 0.7936653
+
+97c61e3e-8b3f-4fca-a7a2-191009020e85
+00:48:57.470 --> 00:49:02.522
+So this is the question, is it
+possible, given two carries from
+
+NOTE Confidence: 0.7936653
+
+9ca821ea-05b7-4328-87d4-67d2fb1ddf5e
+00:49:02.522 --> 00:49:07.153
+two half adder to build the
+carry for the full adder?
+
+NOTE Confidence: 0.86485463
+
+4b1e7b2a-8ddb-4540-9ab7-6df8f34f374e
+00:49:08.960 --> 00:49:14.135
+The answer is yes. It's kind of
+hard to come up with the I mean,
+
+NOTE Confidence: 0.8660476
+
+1aef20e4-b33f-417b-a93b-7168f8442320
+00:49:15.340 --> 00:49:17.788
+Function on top of C1 and C2 to
+
+NOTE Confidence: 0.77694255
+
+b83db897-fc19-473c-9929-6c7dc102ff26
+00:49:17.788 --> 00:49:20.960
+create this. Uh,
+the hint is that.
+
+NOTE Confidence: 0.7931533
+
+07277119-695d-4a83-af29-d6797893a76b
+00:49:22.420 --> 00:49:26.589
+Whenever, when you did the
+design for the carry for the
+
+NOTE Confidence: 0.7931533
+
+e754a1f6-d8c3-4949-b1c0-a1ee520ada8b
+00:49:26.589 --> 00:49:30.379
+full adder with just one
+half adder, you knew that
+
+NOTE Confidence: 0.7931533
+
+4b96e0c7-ccf8-4168-8e56-aca4fcbb04c0
+00:49:30.379 --> 00:49:34.169
+carry is the sum of minterms
+3 5 6 and seven.
+
+NOTE Confidence: 0.8860675
+
+217e5ab9-96b0-4446-b4e5-c49a1ef3f082
+00:49:35.490 --> 00:49:40.450
+And this is that, we just minimize
+this region.
+
+NOTE Confidence: 0.846483
+
+d6103352-56f4-41fb-bee7-04d63a07615c
+00:49:41.360 --> 00:49:45.080
+This region and this region
+carry from the previous digit, it
+
+NOTE Confidence: 0.846483
+
+99d483d4-50a1-47ab-b78a-9c4fb1036e26
+00:49:45.080 --> 00:49:48.428
+doesn't matter, X&Y must be one,
+so this one.
+
+NOTE Confidence: 0.8185731
+
+be190067-c73d-4dcb-9ebf-8fb264a69498
+00:49:49.750 --> 00:49:54.358
+This is the minimized form, but
+for the other two regions, we
+
+NOTE Confidence: 0.8185731
+
+27956f7f-bcf8-4044-acff-26cf81eec973
+00:49:54.358 --> 00:49:58.198
+don't minimize it. Just revert
+back to the normal form.
+
+NOTE Confidence: 0.8791534
+
+e9f09f4a-b779-4469-b018-89b63fd64307
+00:49:59.010 --> 00:50:00.320
+So in the normal form,
+
+NOTE Confidence: 0.7874871
+
+bf9c8ffc-611e-4867-bbe6-26d8045bdb58
+00:50:01.330 --> 00:50:05.369
+Instead of just minimizing,
+the minterm 5,
+
+NOTE Confidence: 0.86239904
+
+71f07084-c09c-40dc-abe5-8f3b3d27fe76
+00:50:06.410 --> 00:50:08.290
+Six and seven becomes this.
+
+NOTE Confidence: 0.896621
+
+99e1cbf7-417b-4747-9af3-fef620c793fa
+00:50:10.550 --> 00:50:12.338
+So we have a.
+
+NOTE Confidence: 0.81177485
+
+9514c2a6-7c63-40e0-8662-56e1a43e8857
+00:50:14.300 --> 00:50:18.280
+We don't need this minterm
+because we already make it
+
+NOTE Confidence: 0.81177485
+
+417f508a-b16e-4b66-b431-02afec881de2
+00:50:18.280 --> 00:50:22.658
+simplified with this region, so
+the only other minterms are minterm
+
+NOTE Confidence: 0.81177485
+
+3990e50a-82a2-4746-afd4-55d28655915f
+00:50:22.658 --> 00:50:24.250
+5 and minterm 6.
+
+NOTE Confidence: 0.7926216
+
+54effa57-3672-4a6f-963e-cf6d7bf181dd
+00:50:24.990 --> 00:50:28.266
+So this is the minterm 6.
+
+NOTE Confidence: 0.7833635
+
+cf2a4efb-4580-4294-bc8a-7f6f90e4313d
+00:50:29.240 --> 00:50:32.036
+Previous carry, Y-bar, and X.
+
+NOTE Confidence: 0.8408334
+
+b3eab4fa-9d23-439b-8cd6-80e8b317e503
+00:50:32.850 --> 00:50:34.776
+And this is the minterm 6.
+
+NOTE Confidence: 0.6714487
+
+f8b9ed76-5455-47a8-ad26-fa827978bc4d
+00:50:35.700 --> 00:50:37.158
+This cell.
+
+NOTE Confidence: 0.79544914
+
+3573d2e6-de3f-4549-838e-700198363125
+00:50:38.060 --> 00:50:43.304
+Previous carry AND with Y and
+and X bar. So if you
+
+NOTE Confidence: 0.79544914
+
+6180796d-824f-4be9-a53d-f58d0f8c5a33
+00:50:43.304 --> 00:50:45.489
+extract this Cp by the
+
+NOTE Confidence: 0.7912636
+
+4d4d6eee-95bc-4e06-a7f6-0eae5792b80c
+00:50:45.489 --> 00:50:51.534
+distributive postulate, We see
+that, uh, this term is gonna be
+
+NOTE Confidence: 0.7912636
+
+73774249-fbfe-4510-82c6-44070b692214
+00:50:51.534 --> 00:50:54.149
+exclusive OR of the X&Y.
+
+NOTE Confidence: 0.89194214
+
+62852253-abff-4957-875e-c87b3b4fb684
+00:50:55.240 --> 00:50:58.822
+So we already knew that
+this is the C2.
+
+NOTE Confidence: 0.8339814
+
+163ed276-2b78-42d6-bcea-727ee59c6e83
+00:51:00.460 --> 00:51:04.330
+X exclusive OR with Y and with
+the previous carry.
+
+NOTE Confidence: 0.70299625
+
+db56055b-2737-4f7d-b513-06250db91b6b
+00:51:05.140 --> 00:51:09.694
+This is C2, the carry from the
+second half adder and this
+
+NOTE Confidence: 0.70299625
+
+747dfb7e-bc1d-4c74-af60-3982454b8ffe
+00:51:09.694 --> 00:51:13.006
+is the carry from the first
+half adder.
+
+NOTE Confidence: 0.8422676
+
+0160ab57-1afd-450f-be7d-6272ea463a40
+00:51:14.580 --> 00:51:19.897
+So we did come up with a
+function that can apply on the
+
+NOTE Confidence: 0.8422676
+
+d907c8c9-ec7f-4995-961f-c0e7a7a3c48d
+00:51:19.897 --> 00:51:25.214
+carry of two Half Adders in order
+to build the carry for the full
+
+NOTE Confidence: 0.81429124
+
+758761b0-d4dc-46c8-9c4f-dd4521d8889b
+00:51:25.214 --> 00:51:29.690
+adder. So basically, if
+you apply the OR on top of
+
+NOTE Confidence: 0.81429124
+
+5c7413ba-fd43-4fd2-b692-859996b205e9
+00:51:29.690 --> 00:51:33.166
+C1 and C2, it creates the
+carry for the full adder.
+
+NOTE Confidence: 0.80077213
+
+dabd5d9a-c64b-45a8-a80a-41147f160a53
+00:51:35.070 --> 00:51:40.868
+And this is a new full
+adder using two half adders. So
+
+NOTE Confidence: 0.80077213
+
+a4f5603e-50d4-4ac0-99f2-09fc645552ad
+00:51:40.868 --> 00:51:42.652
+the first half adder.
+
+NOTE Confidence: 0.7840633
+
+32fbd7b4-8a4f-4459-9371-c370936c4e39
+00:51:44.010 --> 00:51:48.531
+X&Y exclusive OR here with X&Y
+carry for the first half adder
+
+NOTE Confidence: 0.7840633
+
+d48f8ac9-7ddb-4a1b-9158-d51a6a2e11a6
+00:51:48.531 --> 00:51:54.285
+and then we attach the sum of
+the first half adder to the X
+
+NOTE Confidence: 0.7589836
+
+00fe78d2-44d2-4407-a8b9-c0fe262ae630
+00:51:54.930 --> 00:51:57.018
+Input of the second half adder.
+
+NOTE Confidence: 0.8966901
+
+d4845625-3c35-4034-a241-ee87db41cd86
+00:51:58.100 --> 00:52:00.028
+And then for the
+
+NOTE Confidence: 0.8376824
+
+9c9da3a8-fb67-4d65-83cd-0bd18ca2617b
+00:52:01.660 --> 00:52:06.335
+Second input of the second
+half adder, we just put the
+
+NOTE Confidence: 0.8376824
+
+bbdf4349-1098-4c5e-80e9-0f1844fd3ae6
+00:52:06.335 --> 00:52:07.185
+previous carry.
+
+NOTE Confidence: 0.821029
+
+f62be43b-8d04-4747-bf36-521b2e1f5d02
+00:52:08.530 --> 00:52:12.706
+AND of X plus
+Y plus carry plus carry.
+
+NOTE Confidence: 0.7974245
+
+ac74874e-2e29-431e-a798-aeb70d98bb27
+00:52:13.940 --> 00:52:16.271
+And then this comes with the new
+
+NOTE Confidence: 0.87969524
+
+2fd92804-1cb8-4c23-9865-686ec57d11b4
+00:52:16.271 --> 00:52:18.690
+S. As the exclusive OR of
+
+NOTE Confidence: 0.85273296
+
+d3f25998-d6c7-4e9d-bec7-3137f15c20a3
+00:52:19.660 --> 00:52:23.080
+This one, which is X
+exclusive OR Y and
+
+NOTE Confidence: 0.85273296
+
+d29b4858-3245-4921-8c8f-5963d23e8879
+00:52:23.080 --> 00:52:24.600
+then exclusive OR with
+
+NOTE Confidence: 0.6918019
+
+0c82b07c-2ade-4db7-918e-05a8e00ec2ef
+00:52:26.060 --> 00:52:31.637
+the previous carry. S. And for the
+new carry, new carry is
+
+NOTE Confidence: 0.853881
+
+c69bb0f0-e511-4b04-94c9-2b1bb8c14a5c
+00:52:32.330 --> 00:52:34.166
+carry from the first
+half adder.
+
+NOTE Confidence: 0.784169
+
+71ce8683-0d6b-4570-8729-fa6bb17a492d
+00:52:35.680 --> 00:52:38.386
+OR with carry from the second
+
+NOTE Confidence: 0.83475655
+
+64fb4a9d-6608-4558-b3ca-589123e78841
+00:52:38.386 --> 00:52:41.419
+half adder. Based on
+this connection.
+
+NOTE Confidence: 0.73368007
+
+318917fe-f333-4ce6-9d69-ecdff49bbd78
+00:52:43.310 --> 00:52:48.042
+And this is the carry for the
+full adder, so we could design
+
+NOTE Confidence: 0.73368007
+
+63dea39e-9fe0-4030-b991-0167eeaf0dd0
+00:52:48.042 --> 00:52:52.046
+two types of full
+adders. One was this.
+
+NOTE Confidence: 0.7634401
+
+5d4c863f-b8a1-43ae-a266-c65a66db2cb4
+00:52:55.160 --> 00:52:57.960
+Which only uses one half adder,
+
+NOTE Confidence: 0.85167754
+
+9e961a1b-074f-4bed-b922-bb1640db6fee
+00:53:00.000 --> 00:53:01.410
+With additional gates.
+
+NOTE Confidence: 0.7555442
+
+29137610-af2d-4864-84f7-94f759188817
+00:53:03.030 --> 00:53:06.906
+New design for the full adder is
+this, with two half adders.
+
+NOTE Confidence: 0.8515372
+
+8fbbdd5e-9c1f-4c3b-972b-e0b582f6a0d5
+00:53:08.290 --> 00:53:12.420
+This is one half adder. This is the
+second half adder and this is
+
+NOTE Confidence: 0.8515372
+
+216826cd-6bd6-42ac-9d90-b16ca819c33e
+00:53:12.420 --> 00:53:15.370
+the carrier of these two half
+adders. We create the
+
+NOTE Confidence: 0.64311326
+
+0e77ae84-06ca-400e-b922-a11532a6286c
+00:53:16.090 --> 00:53:19.415
+New carry based on the OR of the
+two half adders.
+
+NOTE Confidence: 0.822095
+
+7af84c90-87df-4e1a-a9cf-c699f73c2dbc
+00:53:22.180 --> 00:53:28.516
+So again. When we make it a black
+box, this is exactly the same
+
+NOTE Confidence: 0.822095
+
+bafbcc53-0e24-4359-9e99-f7d20e895cb3
+00:53:28.516 --> 00:53:30.048
+as a previous full adder.
+
+NOTE Confidence: 0.8188952
+
+26fcfc62-d986-45ef-b722-3dc031b52b75
+00:53:31.050 --> 00:53:34.720
+Sometimes inside the full adder
+there are two half adders.
+
+NOTE Confidence: 0.8188952
+
+d2e30427-8360-4a1c-9f06-774bfd74a2be
+00:53:34.720 --> 00:53:36.555
+Sometimes there is only 1 half adder.
+
+NOTE Confidence: 0.8337249
+
+889f929a-6e5a-4130-b4a0-1e4a1fc63758
+00:53:40.180 --> 00:53:46.784
+So now we can create a logic
+circuit that can add 2 bit
+
+NOTE Confidence: 0.8337249
+
+7fabbb70-2d51-4a91-a4d0-f559b8cfa3ab
+00:53:46.784 --> 00:53:48.308
+plus a carry.
+
+NOTE Confidence: 0.8473897
+
+68d90fc4-a6c2-45cb-9674-012cc604c7ab
+00:53:49.560 --> 00:53:54.961
+So let's go back to our original
+problem, which was designing a
+
+NOTE Confidence: 0.8473897
+
+c67987d5-57bc-4e07-9840-e612bfdb13ac
+00:53:54.961 --> 00:53:59.871
+logic circuit that adds two
+binary numbers, not only just
+
+NOTE Confidence: 0.8473897
+
+91a8baaa-a16d-46b1-a5c8-8a58b272f730
+00:53:59.871 --> 00:54:06.254
+two bits. 2 numbers, and
+the numbers might be in the
+
+NOTE Confidence: 0.8473897
+
+f37e50b9-306a-444a-84a6-bfd612c06df4
+00:54:06.254 --> 00:54:12.146
+range 0 to 3 or within the range
+0 to for instance 16 within
+
+NOTE Confidence: 0.8473897
+
+44271f09-a28e-4136-b2e7-61b2c196c434
+00:54:12.146 --> 00:54:15.092
+the range 0 to infinity, 0 to N.
+
+NOTE Confidence: 0.89543855
+
+c89f6505-dcae-473e-875a-f8d441d893d2
+00:54:17.130 --> 00:54:21.728
+So for instance, if you are
+given two binary numbers, each
+
+NOTE Confidence: 0.89543855
+
+f0177412-7909-4e5d-aa3e-9525dc87c84b
+00:54:21.728 --> 00:54:24.236
+of which has four bits, so.
+
+NOTE Confidence: 0.86531407
+
+4c85cfe5-ede7-42d8-b617-4b7a943d6909
+00:54:25.030 --> 00:54:28.306
+This is the problem. We want to
+add 2 binary numbers, each of
+
+NOTE Confidence: 0.86531407
+
+380514fd-5317-4481-a901-8cc94358fb2c
+00:54:28.306 --> 00:54:29.314
+which has four bits.
+
+NOTE Confidence: 0.7490609
+
+a575a972-778d-4298-85ef-260ab50d850d
+00:54:30.830 --> 00:54:33.818
+We can, for the first bit.
+
+NOTE Confidence: 0.82909036
+
+fd1188d1-1e68-45ad-b388-707b86e30b33
+00:54:34.460 --> 00:54:39.413
+We can use the full adder, one
+full adder with the carry from
+
+NOTE Confidence: 0.82909036
+
+5538d9f1-ec4a-415c-adac-200e98431b53
+00:54:39.413 --> 00:54:40.937
+the previous step, 0.
+
+NOTE Confidence: 0.91477865
+
+ca1742aa-6ab8-459a-912c-bff120692f8e
+00:54:42.230 --> 00:54:43.810
+For this second one,
+
+NOTE Confidence: 0.80860376
+
+b10f1bec-e354-4236-9c32-a2b99a0fdbe9
+00:54:44.550 --> 00:54:47.136
+You can use the full adder.
+
+NOTE Confidence: 0.85933954
+
+576eaebf-195a-4d0d-bb3c-e109ab8a2b14
+00:54:47.850 --> 00:54:52.536
+And they carry comes from the
+previous addition, previous full
+
+NOTE Confidence: 0.85933954
+
+68a11d42-24a0-4504-83e4-15635bf463c3
+00:54:52.536 --> 00:54:53.814
+adder and etc.
+
+NOTE Confidence: 0.6933208
+
+76c5ac6e-6dc9-4c14-be12-c9a3bd416928
+00:54:54.440 --> 00:54:57.296
+So kind of stacking full adders.
+
+NOTE Confidence: 0.85608494
+
+c5b3d0eb-ef52-41b9-808a-e80aa69a237a
+00:54:57.940 --> 00:55:02.321
+One for this, the next one, the
+third one and the 4th one.
+
+NOTE Confidence: 0.8699571
+
+fb3b35a1-017c-4f0d-9234-5041136748fd
+00:55:03.540 --> 00:55:07.060
+The only difference is that the
+first one doesn't have any
+
+NOTE Confidence: 0.8699571
+
+d6a6b90f-dd37-4818-b64b-cd6d3d0f4e47
+00:55:07.060 --> 00:55:11.220
+carry, so the carry for the
+first one is going to be 0 because
+
+NOTE Confidence: 0.8699571
+
+b10eca4a-ae04-475a-b336-4ad0757f63c3
+00:55:11.220 --> 00:55:12.820
+there is no previous carry.
+
+NOTE Confidence: 0.8656128
+
+0f4d820f-5ac6-4ab6-bee3-6a2a155c4d37
+00:55:13.710 --> 00:55:18.378
+And finally we have the S1
+up until S4 and the last
+
+NOTE Confidence: 0.8656128
+
+5901b889-6d2e-48bd-bead-64a85cc71080
+00:55:18.378 --> 00:55:21.490
+carry, which comes from the
+last full adder.
+
+NOTE Confidence: 0.8216161
+
+a871c674-1d6a-4720-8c83-616c8bb20112
+00:55:23.300 --> 00:55:28.295
+So here is the full
+adder. Here is the
+
+NOTE Confidence: 0.81476927
+
+d7e0481a-7547-4fce-879e-ffde659eb882
+00:55:29.850 --> 00:55:34.613
+Logic circuit for adding two binary
+numbers, each of which has four
+
+NOTE Confidence: 0.7498443
+
+1a0bde3a-da0e-4711-897b-2019215d51f3
+00:55:34.613 --> 00:55:37.980
+bits. So just stacking the
+full adders.
+
+NOTE Confidence: 0.7776105
+
+b3e60f39-7c60-4679-af9a-3d60ede0e33b
+00:55:39.300 --> 00:55:42.740
+Initially, the carry for
+the first full adder is 0
+
+NOTE Confidence: 0.7776105
+
+deddaec7-966a-4a01-8fa2-8c1e5acf031d
+00:55:42.740 --> 00:55:46.524
+and we just attached carry
+from the 1st digit to the
+
+NOTE Confidence: 0.7776105
+
+3b8d5aec-e2a9-448a-8a10-0b588e156a59
+00:55:46.524 --> 00:55:47.900
+second one and etc.
+
+NOTE Confidence: 0.7992894
+
+ce1585d5-3a3d-454b-a3c9-6a59dac2e3bc
+00:55:50.010 --> 00:55:56.142
+So if you make it a Black box, it
+is called 4 bit add, so this
+
+NOTE Confidence: 0.7992894
+
+33d8e11e-87ce-47c6-8448-680ae9829ff5
+00:55:56.142 --> 00:56:01.398
+logical unit is called a 4 bit
+adder. Inside we have 4 full
+
+NOTE Confidence: 0.7992894
+
+11e61741-d72e-418f-98c5-d07e3b244abb
+00:56:01.398 --> 00:56:06.216
+adder. Inside of each full
+adder we can have one half adder
+
+NOTE Confidence: 0.7992894
+
+d7020b8f-bddf-4fe9-b5d9-baaee0d40791
+00:56:06.216 --> 00:56:11.034
+plus additional gates or we
+can have two half adders by
+
+NOTE Confidence: 0.7992894
+
+5f3cda59-fad8-4cbc-afcf-f36a29d2c6d1
+00:56:11.034 --> 00:56:15.414
+just connecting the outputs
+in a way we showed here.
+
+NOTE Confidence: 0.7992894
+
+b12f97c8-0424-49bc-a0d9-21177ad9c5f5
+00:56:15.414 --> 00:56:17.166
+In a way we showed here.
+
+NOTE Confidence: 0.7706213
+
+9da73d67-7010-4c70-b58e-f8c2c1347ecc
+00:56:18.640 --> 00:56:24.282
+Oh, finally you can go to the
+market and buy the IC for the
+
+NOTE Confidence: 0.7706213
+
+0107908c-cfb9-454c-b504-3cd0fd22c73d
+00:56:24.282 --> 00:56:25.491
+four bit adder.
+
+NOTE Confidence: 0.92057765
+
+39162091-bebe-4288-a114-ead6be81b2ea
+00:56:26.650 --> 00:56:28.870
+So my question is.
+
+NOTE Confidence: 0.85971856
+
+64e83378-e2d3-434d-adfb-d4022b675885
+00:56:29.860 --> 00:56:35.983
+If I'm going to design a logic
+circuit to add 2 binary numbers,
+
+NOTE Confidence: 0.71436197
+
+0d3b1d3e-9eea-4f25-8d9e-d3c97eadde86
+00:56:36.710 --> 00:56:38.966
+Each of which has 8 bits.
+
+NOTE Confidence: 0.8295247
+
+ea05a90a-6864-4708-8cd7-0dc179d20b2c
+00:56:39.850 --> 00:56:41.794
+How can I? How can we do that?
+
+NOTE Confidence: 0.8213216
+
+cff8a7d7-c1ff-4ec3-b7b1-0f005ab7d801
+00:56:42.850 --> 00:56:45.266
+Anybody can answer in that
+box or raise their hand.
+
+NOTE Confidence: 0.90273964
+
+5968c128-7e86-4b22-bc49-ca4a7b1925d8
+00:56:52.610 --> 00:56:53.480
+So.
+
+NOTE Confidence: 0.7948055
+
+8386cfc5-f827-4934-84ce-a19c8750a966
+00:56:55.400 --> 00:57:00.452
+Yes, Gabe, actually Gabe says
+that 2 four bit. So if you
+
+NOTE Confidence: 0.7948055
+
+c70e6a29-8fbe-49e8-ad96-d636a907359f
+00:57:00.452 --> 00:57:05.925
+attach 2 four bit IC with
+each other and then they C4
+
+NOTE Confidence: 0.7948055
+
+950d9f29-f295-4aa9-9256-f6271415b7ae
+00:57:05.925 --> 00:57:10.977
+for the first 4 bit
+adder goes to the C0 of the
+
+NOTE Confidence: 0.7948055
+
+36acfb9f-fe47-40db-aebe-e2dcb2955189
+00:57:10.977 --> 00:57:15.608
+second 4 bit adder. So then
+we can add them with each other.
+
+NOTE Confidence: 0.88499904
+
+81355e93-d9db-4d9e-a18e-c5e0cf1ee798
+00:57:16.680 --> 00:57:18.856
+If you can have a few, if you need I
+
+NOTE Confidence: 0.6639179
+
+91538a68-b35a-44d0-904f-181c5b2d531d
+00:57:18.856 --> 00:57:21.720
+mean for instance a 10 bit adder.
+
+NOTE Confidence: 0.6052269
+
+a21bcbc6-5e2d-4705-9b4c-67b918c8d32e
+00:57:22.620 --> 00:57:26.029
+In a 10 bit adder, how
+many, uh?
+
+NOTE Confidence: 0.7858888
+
+8c119ca3-f951-4901-a57d-00a74e1104a0
+00:57:27.880 --> 00:57:29.220
+4 bit adders do I need.
+
+NOTE Confidence: 0.9220151
+
+2f5bb418-3cef-48e5-9260-88b320b25492
+00:57:34.580 --> 00:57:35.290
+Anybody?
+
+NOTE Confidence: 0.8504246
+
+af968d0a-296c-478d-ab1e-56ec4de07484
+00:57:37.220 --> 00:57:42.260
+So we're going to add 2 binary
+numbers, each of the binary
+
+NOTE Confidence: 0.8504246
+
+b47b6b08-04b8-4ba1-bfa4-0622045f5a9c
+00:57:42.260 --> 00:57:44.360
+numbers has only 10 bits.
+
+NOTE Confidence: 0.78123176
+
+38f78a64-d651-4675-9ee6-11622f1d4af5
+00:57:47.650 --> 00:57:51.136
+Gabe says that we can have a.
+
+NOTE Confidence: 0.74325925
+
+0c312f5b-9707-4b67-8636-1e311e417aa4
+00:57:52.170 --> 00:57:53.140
+Two and a half?
+
+NOTE Confidence: 0.8125565
+
+725438b9-e9cf-49e0-9668-589d4b89abf5
+00:57:54.170 --> 00:57:59.294
+But the thing is, if you
+go to the market, they
+
+NOTE Confidence: 0.8125565
+
+ca73a2f2-ad29-4488-8181-fcc61b2ecd67
+00:57:59.294 --> 00:58:03.991
+already built the IC for the
+four bit adder. Actually, let
+
+NOTE Confidence: 0.8125565
+
+92086b47-d5a9-4165-b2d7-99d49a4e93c1
+00:58:03.991 --> 00:58:05.699
+me show you the
+
+NOTE Confidence: 0.4897977
+
+2e54c27e-439a-4d3a-bac1-9a5f561142f2
+00:58:08.380 --> 00:58:10.408
+4 bits adder IC.
+
+NOTE Confidence: 0.9060929
+
+f036f075-77d6-4a71-bfc0-6bf2d9773662
+00:58:11.470 --> 00:58:14.366
+I just wanted
+to show you
+
+NOTE Confidence: 0.8346262
+
+261870e9-102c-45ed-98f7-4b5fe9c78e6b
+00:58:16.250 --> 00:58:18.402
+More in the market, if you go to
+
+NOTE Confidence: 0.8921325
+
+01496798-2429-478f-8bff-1f78d00fd110
+00:58:18.402 --> 00:58:23.372
+the market. Here is the thing,
+you can buy, this one. If you go
+
+NOTE Confidence: 0.8921325
+
+d849ef6e-4051-4ad8-9673-f868101ad12d
+00:58:23.372 --> 00:58:27.164
+to the market, this is the
+number for the four bit
+
+NOTE Confidence: 0.81937355
+
+51d0ac25-4f67-48e1-b664-5c389e74dc30
+00:58:27.164 --> 00:58:34.068
+adder. 74LS83. So the first
+4 bits comes here. The second
+
+NOTE Confidence: 0.81937355
+
+8702822b-b85d-4cdc-a2a4-a77fc37c36fa
+00:58:34.068 --> 00:58:39.557
+4 bits comes here. So X + Y.
+This is the
+
+NOTE Confidence: 0.83467793
+
+437894e0-d4d1-4a59-826f-21594b9ba14e
+00:58:40.990 --> 00:58:43.980
+carry 0, carry from the
+previous step, and this is
+
+NOTE Confidence: 0.83467793
+
+a379c2e4-9a0f-4da4-9fde-ec6826755ba6
+00:58:43.980 --> 00:58:48.166
+the final carry and this is
+the sum. So if you go to the
+
+NOTE Confidence: 0.83467793
+
+9faa1954-a9d2-40c1-bd15-7f8e55dab025
+00:58:48.166 --> 00:58:51.455
+market, you can buy it, for
+instance from the Amazon or
+
+NOTE Confidence: 0.83467793
+
+7d2f921e-15e7-47dc-ad7a-ab3b0520b804
+00:58:51.455 --> 00:58:53.249
+Gigi-Key. So this is $1.
+
+NOTE Confidence: 0.8963498
+
+141c24c5-e7c2-4450-b591-56ae0e39bbe7
+00:58:54.290 --> 00:58:58.684
+But the thing is, for your
+problem, you need to add 2 binary
+
+NOTE Confidence: 0.8963498
+
+3366d24f-ac5b-4076-b390-5aa3f9fbd687
+00:58:58.684 --> 00:59:00.374
+numbers that has 10 bits.
+
+NOTE Confidence: 0.83367205
+
+24c0ff92-fed2-49e1-b0fa-7af64938a8a6
+00:59:03.360 --> 00:59:07.377
+Yes, I mean Jake said that we
+have to change the 10 full adders.
+
+NOTE Confidence: 0.83367205
+
+9b24dab1-4a2b-4944-a6f5-531bd5a6ae6a
+00:59:07.377 --> 00:59:11.394
+That's correct. So you
+have to go to the market and buy
+
+NOTE Confidence: 0.83367205
+
+384f08b1-0822-4919-a9fb-fd35467d5965
+00:59:11.394 --> 00:59:12.939
+full adders, but let's see if
+
+NOTE Confidence: 0.81190217
+
+a03f0cf6-0879-403b-98ab-dc66e94cae39
+00:59:13.610 --> 00:59:17.579
+We can have a full adders
+in the market.
+
+NOTE Confidence: 0.82295465
+
+dbb9db9b-ba0d-41a5-bc81-aa5ec1782a35
+00:59:21.890 --> 00:59:26.894
+As you can see here in the
+market, you cannot have full
+
+NOTE Confidence: 0.82295465
+
+f70aecf4-a61e-4143-9746-68b9f13c4386
+00:59:26.894 --> 00:59:31.898
+adders, so the only I mean
+available IC is the 4 bits. So
+
+NOTE Confidence: 0.82295465
+
+127f574f-9853-4b42-8524-3f9324fbf277
+00:59:31.898 --> 00:59:36.902
+whenever you need to add 2
+binary numbers less than four
+
+NOTE Confidence: 0.82295465
+
+a7c1a639-40cf-4308-96a0-09d4b5afbab0
+00:59:36.902 --> 00:59:42.323
+or that is more than powers of
+four. For instance, for the 10
+
+NOTE Confidence: 0.82295465
+
+e1702850-50b4-433b-8f50-4161134b2dde
+00:59:42.323 --> 00:59:45.242
+bit adder, you have to buy.
+
+NOTE Confidence: 0.75315124
+
+7efe6f7d-54a0-4500-ba89-155cd7f74b14
+00:59:46.720 --> 00:59:50.870
+Nico and Justin are actually
+correct, it says that you have to
+
+NOTE Confidence: 0.75315124
+
+0ef17262-31ec-4f8d-90bb-939ad1144d3d
+00:59:50.870 --> 00:59:56.265
+buy 3 four bit adders, so the
+three 4 bit adders you gonna
+
+NOTE Confidence: 0.8783551
+
+66c6f877-62ba-45f0-9c5d-0900080fec5f
+00:59:56.265 --> 00:59:59.615
+have 3 * 4 = 12
+
+NOTE Confidence: 0.8914528
+
+b5513f87-78d8-4740-9c6a-fac62bc491e1
+00:59:59.615 --> 01:00:05.830
+bit adder. But you have to
+fill the other extra inputs with
+
+NOTE Confidence: 0.86584747
+
+cdd657de-664d-4b4f-8445-38ba01a84d35
+01:00:05.830 --> 01:00:12.054
+zero. So you have to kind of
+pad the extra inputs with zero.
+
+NOTE Confidence: 0.89880615
+
+67bb8e86-cbfd-457c-ab21-2ab96b67cc32
+01:00:13.550 --> 01:00:15.848
+So let's go back to these slides.
+
+NOTE Confidence: 0.81189317
+
+a1210b35-0c00-473d-9fa7-e427b777927c
+01:00:22.510 --> 01:00:27.550
+So again, I mean if you need for
+instance 6 bit adder, you
+
+NOTE Confidence: 0.81189317
+
+b9aec88e-3d84-4334-ab81-5fb622ffa47f
+01:00:27.550 --> 01:00:32.950
+have to build, you have to STACK
+6 full adders. Or if you go to
+
+NOTE Confidence: 0.81189317
+
+53246509-c501-46f1-a811-1c87c8e1a925
+01:00:32.950 --> 01:00:37.990
+the market you have to buy 2
+four bit adder and then only use
+
+NOTE Confidence: 0.81189317
+
+8a09a705-0f0d-429d-a1a3-647491372bcf
+01:00:37.990 --> 01:00:42.670
+the 1st four bit adder and for the second
+four bit adder, you have to
+
+NOTE Confidence: 0.81189317
+
+10195e80-905b-4418-935b-7baeef00a1f8
+01:00:42.670 --> 01:00:46.990
+only use two inputs and fill out
+the other inputs with zero.
+
+NOTE Confidence: 0.9182338
+
+62aefc1e-59a0-4b4d-9a09-d4702d4b7f38
+01:00:49.480 --> 01:00:50.210
+So.
+
+NOTE Confidence: 0.7806181
+
+2d2475df-21a7-4e26-9519-c2e0fb016f02
+01:00:51.300 --> 01:00:57.390
+This is the four bit adder, so
+let's move on to the next topic,
+
+NOTE Confidence: 0.7806181
+
+5d24befc-efe0-4015-8764-87b08301bef2
+01:00:57.390 --> 01:00:59.130
+which is carry propagation.
+
+NOTE Confidence: 0.90950245
+
+5ded5339-97e9-4733-9fe3-722df39a448e
+01:01:01.050 --> 01:01:02.438
+Any questions so far?
+
+NOTE Confidence: 0.87744373
+
+929c72f1-9e50-4954-863b-e3ccae58c3f6
+01:01:04.080 --> 01:01:05.340
+Let me come back here.
+
+NOTE Confidence: 0.79237646
+
+3a4654b7-24d4-40c7-a946-7ab4a420e06b
+01:01:08.110 --> 01:01:13.128
+Yes padding, not equal. Yes,
+you have to pad in order to I
+
+NOTE Confidence: 0.79237646
+
+10725aec-2636-4b1e-96eb-5bbb78fd743b
+01:01:13.128 --> 01:01:17.374
+mean add two binary numbers
+that are not powers of four.
+
+NOTE Confidence: 0.79237646
+
+11023ce1-5b0e-4ddd-9d5a-b0214090f6ce
+01:01:17.374 --> 01:01:18.918
+For instance four, 8, 32.
+
+NOTE Confidence: 0.86858475
+
+4cd9912e-cac1-4412-91d0-1bf233fd6fdc
+01:01:20.220 --> 01:01:22.937
+The number of bits within
+this range you have to fill
+
+NOTE Confidence: 0.86858475
+
+2fe7f1ad-f807-4d07-a5eb-2b101038655e
+01:01:22.937 --> 01:01:23.678
+out with zero.
+
+NOTE Confidence: 0.8369919
+
+31021bab-f47a-4f1a-b7dd-4bb587824b85
+01:01:24.990 --> 01:01:28.782
+One thing I actually remember is in
+the lecture assignments, one of
+
+NOTE Confidence: 0.8369919
+
+6c7c1e2e-cbf5-42d9-a118-393ffc3d6ddf
+01:01:28.782 --> 01:01:32.258
+the lecture assignments, we said
+that padding is kind of tricky
+
+NOTE Confidence: 0.8369919
+
+83b5a3d9-6ad0-4fea-a60b-9e2a3a0e747f
+01:01:32.258 --> 01:01:35.734
+because if you are dealing with
+unsigned numbers, you have to
+
+NOTE Confidence: 0.8369919
+
+c76f1b2f-c9d0-4697-a240-8bdbc4561501
+01:01:35.734 --> 01:01:36.998
+pad it with zero.
+
+NOTE Confidence: 0.80860895
+
+416d9f4b-ca79-4584-95b6-5791d259e37c
+01:01:37.640 --> 01:01:42.150
+But if you are dealing with signed
+numbers in twos complements,
+
+NOTE Confidence: 0.8500501
+
+d6b38e68-6ea0-4b98-894d-6e293619c160
+01:01:43.600 --> 01:01:48.085
+you remember you have to. If it
+is negative number you have to
+
+NOTE Confidence: 0.8500501
+
+8b30db84-6bb9-427a-8f28-18a7f7bcea32
+01:01:48.085 --> 01:01:52.570
+pad it with one because you
+cannot change the sign of the
+
+NOTE Confidence: 0.8500501
+
+41b309f0-73f0-4ebd-8adf-f5f2f10143f1
+01:01:52.570 --> 01:01:56.710
+binary number, so padding is kind
+of tricky. You cannot always pad
+
+NOTE Confidence: 0.8500501
+
+1feef3fa-5954-453f-94a8-4474161ee620
+01:01:56.710 --> 01:02:00.505
+with zero. Sometimes if the
+number is negative and you are
+
+NOTE Confidence: 0.8500501
+
+67b89b51-e3e9-4177-b6c3-93c3702bcfe9
+01:02:00.505 --> 01:02:04.645
+in the signed two's complement
+system, you have to pad with
+
+NOTE Confidence: 0.8500501
+
+8d812b38-1425-486b-a8cb-29f16eb4072a
+01:02:04.645 --> 01:02:06.715
+one if the number is negative.
+
+NOTE Confidence: 0.9068798
+
+a96edd9d-e106-4ae1-aa4f-7ace6aba3654
+01:02:08.200 --> 01:02:09.820
+So any other questions?
+
+NOTE Confidence: 0.9024231
+
+0ffe4e34-5f09-4fd6-946e-61c01bbecbcd
+01:02:11.420 --> 01:02:15.158
+So the next topic is Harry
+propagation.
+
+NOTE Confidence: 0.7740875
+
+747b979a-5d29-4c84-a74f-0f370ceb141e
+01:02:17.110 --> 01:02:22.555
+Unfortunately, the full adder
+we designed has a problem.
+
+NOTE Confidence: 0.7599769
+
+78566bc6-ae1a-486c-b761-c8bb9c50ae6a
+01:02:23.400 --> 01:02:28.560
+So here I just, uh, instead of
+just showing the four
+
+NOTE Confidence: 0.7963376
+
+679f61ec-e563-4030-b9a5-141129165ec2
+01:02:29.280 --> 01:02:33.817
+Full adders, I just zoom inside
+each full adder to I mean again
+
+NOTE Confidence: 0.7963376
+
+8296d0cb-c01d-4a1a-a2f5-a27618457204
+01:02:33.817 --> 01:02:35.562
+see what is the inside.
+
+NOTE Confidence: 0.77495813
+
+9f0a6d81-ce32-45e9-9ecd-81f053e7c900
+01:02:36.250 --> 01:02:38.469
+So each full adder have
+two half adders.
+
+NOTE Confidence: 0.84375435
+
+70f223dc-73c5-4684-8ed3-c065b625b26e
+01:02:39.480 --> 01:02:43.068
+So the 1st full adder, the second
+one, the 3rd and the 4th. So
+
+NOTE Confidence: 0.84375435
+
+8f5e937b-77ee-492f-a8ba-54835cca03e3
+01:02:43.068 --> 01:02:45.828
+this is the four bit adder as
+we saw before.
+
+NOTE Confidence: 0.7078107
+
+10edcd5d-dfd2-45b0-8d26-ce116c89a526
+01:02:47.330 --> 01:02:51.680
+The question is, what if the
+delay is not zero?
+
+NOTE Confidence: 0.8107434
+
+a39efbc2-0d6e-4aaf-a41a-11280c661584
+01:02:52.890 --> 01:02:58.247
+In practice, there is always a
+delay for any gates. Assuming
+
+NOTE Confidence: 0.8107434
+
+25cf7018-13db-4c68-94b2-f4cebe373d19
+01:02:58.247 --> 01:03:01.656
+that the gate delay is Delta T.
+
+NOTE Confidence: 0.9226065
+
+b860cad4-5768-4b59-8e18-b3c60aa2b642
+01:03:02.540 --> 01:03:07.259
+The question is how long do we
+have to wait up until we can see if
+
+NOTE Confidence: 0.9226065
+
+26a521c6-4957-4d98-9215-3213d8798c15
+01:03:07.259 --> 01:03:10.889
+the result is stable and this
+is the final result?
+
+NOTE Confidence: 0.8918821
+
+3d61541f-1939-4938-b31d-36f7628c598a
+01:03:12.380 --> 01:03:18.061
+How long does it
+take for us to see that the
+
+NOTE Confidence: 0.8918821
+
+ef5e2e89-b1e8-4a03-ad76-5c5b29e3211d
+01:03:18.061 --> 01:03:22.868
+S1, S2 and S3 and S4 are
+available as the true sum
+
+NOTE Confidence: 0.8918821
+
+1849c937-03ce-4033-91c6-3a2bba2401d3
+01:03:22.868 --> 01:03:25.053
+of the four bit adding.
+
+NOTE Confidence: 0.89866084
+
+5ce6861b-5dc6-4ec4-a9ba-0d38d3533f46
+01:03:28.750 --> 01:03:33.913
+So. Let's look at the number
+of gates in between in order
+
+NOTE Confidence: 0.89866084
+
+698c18d8-0487-499e-bf85-400f3ef2db8e
+01:03:33.913 --> 01:03:38.715
+to see how much time or delta T
+we will have to wait to
+
+NOTE Confidence: 0.89866084
+
+47c9bdc8-a1eb-4727-a752-d37f24347a48
+01:03:38.715 --> 01:03:39.744
+see the result.
+
+NOTE Confidence: 0.85513824
+
+9dbe11dd-04df-4d7f-aef0-b11a5b3d5b03
+01:03:41.130 --> 01:03:43.018
+That's for the S1.
+
+NOTE Confidence: 0.8852324
+
+d07514f6-b479-45a0-b158-2814c4156ed8
+01:03:43.620 --> 01:03:45.636
+As you can see for the S1,
+
+NOTE Confidence: 0.81246144
+
+ba445f58-b727-4a5a-893f-0892322f8d1f
+01:03:46.610 --> 01:03:49.409
+S1 is X1
+
+NOTE Confidence: 0.842169
+
+ec987033-7506-4e73-a11e-18227b2b89ba
+01:03:50.220 --> 01:03:52.748
+Y1 exclusive OR.
+
+NOTE Confidence: 0.9037603
+
+fad64a90-3dcb-4b1c-bdda-c914042f7634
+01:03:53.980 --> 01:03:56.716
+And then goes to the
+second half adder.
+
+NOTE Confidence: 0.8545689
+
+22b61ca6-f4ac-457b-a5fc-6bacd80c74c8
+01:03:57.990 --> 01:04:03.358
+And then another exclusive OR
+with the previous carry C0.
+
+NOTE Confidence: 0.90824056
+
+6576f57d-f3a2-4d66-a293-2b989dec4c0f
+01:04:05.540 --> 01:04:08.410
+But we have to wait 2 delta T to
+
+NOTE Confidence: 0.8511684
+
+59dffd83-1182-4d2f-9d37-2236a22c6d10
+01:04:09.060 --> 01:04:10.188
+See the S1.
+
+NOTE Confidence: 0.86312133
+
+74f2fbd8-4da7-4c39-8713-4f923b8aae46
+01:04:12.130 --> 01:04:13.438
+How about S2?
+
+NOTE Confidence: 0.85395443
+
+479c6211-334e-4437-8e57-f3396e66b5cf
+01:04:14.370 --> 01:04:19.194
+S2 is only connected to this
+exclusive OR where one of the
+
+NOTE Confidence: 0.85395443
+
+90b7dec1-078e-4da2-8a1b-89dcc5460967
+01:04:19.194 --> 01:04:24.018
+inputs is connected to the
+previous half adder. So for the S2 it's the
+
+NOTE Confidence: 0.85395443
+
+fbca424f-5aec-403b-97db-8be43a55e126
+01:04:24.018 --> 01:04:29.244
+same, you have to apply the
+exclusive OR on the X2 and Y2.
+
+NOTE Confidence: 0.8738839
+
+6b7c4b8e-d93f-4f6d-a528-b446c2a1546e
+01:04:30.650 --> 01:04:35.798
+And then another exclusive OR
+with previous carry
+
+NOTE Confidence: 0.8407413
+
+ff0f1d08-6c62-4712-985a-c9771b53a18b
+01:04:37.590 --> 01:04:39.470
+goes to the C1.
+
+NOTE Confidence: 0.7203068
+
+4df9a48b-db7f-464d-a192-f8770f87790a
+01:04:40.330 --> 01:04:42.398
+Imagine, uh, we don't.
+
+NOTE Confidence: 0.8385246
+
+a4c19a1c-5c49-4b8e-9d6b-7de3fa090079
+01:04:43.200 --> 01:04:48.842
+For now, imagine we don't
+need the carry from the C1, so I
+
+NOTE Confidence: 0.8385246
+
+161b8bd8-1e79-4c6e-97c9-7583b33c97b1
+01:04:48.842 --> 01:04:51.260
+mean for the sake of simplicity.
+
+NOTE Confidence: 0.9286577
+
+52762c83-3f12-45a0-8496-852cafa1d409
+01:04:51.930 --> 01:04:52.970
+You could say that.
+
+NOTE Confidence: 0.85865104
+
+8c5d29b1-327b-4900-8597-ef53dda98a20
+01:04:53.540 --> 01:04:59.912
+S2, S3 and S4, all of
+them without considering the
+
+NOTE Confidence: 0.8672375
+
+e7e1a128-3543-4e97-90ad-e52aac1281bf
+01:04:59.912 --> 01:05:06.475
+carry can be applied and
+we see the result by just
+
+NOTE Confidence: 0.8672375
+
+e5d14057-03d2-43f3-b8f7-bdb8b28eb800
+01:05:06.475 --> 01:05:07.810
+passing 2 delta T.
+
+NOTE Confidence: 0.89079285
+
+710b7db5-1610-4ad4-ba89-38d873c2824f
+01:05:08.380 --> 01:05:12.410
+Because whenever we do this for
+the S1, we can do in parallel
+
+NOTE Confidence: 0.8139831
+
+f06c0c91-c200-4716-b464-d703a3b35847
+01:05:12.410 --> 01:05:17.682
+for S2. We can do in parallel for
+S3 and we can do in parallel for S4.
+
+NOTE Confidence: 0.8518585
+
+81c78c1e-9c6d-434c-a6e2-2e682f8458bd
+01:05:18.560 --> 01:05:22.971
+Although this calculation is not
+correct because S2 is waiting for
+
+NOTE Confidence: 0.8518585
+
+ad3eaf97-7094-46c2-93dc-d8abe955dc2c
+01:05:22.971 --> 01:05:24.976
+the carry from the previous full adder.
+
+NOTE Confidence: 0.7951999
+
+2929c620-4c66-48e8-9140-9f81eab533ab
+01:05:25.640 --> 01:05:30.450
+Also S3 is waiting
+for the carry from the previous
+
+NOTE Confidence: 0.7951999
+
+38f91d2e-6c69-49cb-9719-7bb41f3cdb27
+01:05:30.450 --> 01:05:35.260
+one. But if you do not assume
+the carry. If we assume that
+
+NOTE Confidence: 0.7951999
+
+9b7fab8c-5484-46ea-bd42-ee0cd923dc0e
+01:05:35.260 --> 01:05:37.110
+the carry is already available.
+
+NOTE Confidence: 0.87808377
+
+fa8948fd-df89-426f-bb66-7a7c7508dbea
+01:05:37.920 --> 01:05:43.870
+In parallel, we can see the final
+result just by waiting for 2 delta T.
+
+NOTE Confidence: 0.9283393
+
+069992cc-2755-4f9d-8158-b96e5be577dc
+01:05:45.350 --> 01:05:46.730
+And if we are given a
+
+NOTE Confidence: 0.8154704
+
+ff823010-f28b-4c59-984f-c6037b272b95
+01:05:47.360 --> 01:05:53.888
+N bit Adder, so we can do, we
+can wait for each of the SI, 2
+
+NOTE Confidence: 0.8154704
+
+01164b31-5f14-4649-999e-0dda7cb94e3c
+01:05:53.888 --> 01:05:55.928
+exclusive OR so 2 delta T.
+
+NOTE Confidence: 0.9176783
+
+07985dab-4fa0-4997-be5f-71c950f87f36
+01:05:56.970 --> 01:05:58.230
+But again, as I said,
+
+NOTE Confidence: 0.9046767
+
+aa39446f-4a38-43de-abc1-c3a96bc5f25c
+01:05:58.790 --> 01:06:01.610
+After the S1, for the S2,
+
+NOTE Confidence: 0.8647482
+
+5945ff39-ca4c-49de-9367-2e7d59a59b15
+01:06:02.540 --> 01:06:07.340
+Although we can have in parallel
+the exclusive order for the bits
+
+NOTE Confidence: 0.8647482
+
+8f368520-3441-4ea1-a878-0156dff9d2b0
+01:06:07.340 --> 01:06:08.540
+in the input,
+
+NOTE Confidence: 0.81915414
+
+a2e8cdff-9fb2-47cb-b343-de761bbb1501
+01:06:09.940 --> 01:06:14.196
+But for the second half adder, we
+have to wait for the carry from
+
+NOTE Confidence: 0.8840958
+
+370c2cab-1d17-44bf-a97f-e44fd62a96dd
+01:06:14.196 --> 01:06:18.840
+the previous full adder. So
+S2, S3 and S4. These are
+
+NOTE Confidence: 0.8840958
+
+fe41beac-c1c5-48e0-9fd4-94112433edb6
+01:06:18.840 --> 01:06:21.390
+not just simply 2 delta T.
+
+NOTE Confidence: 0.7331862
+
+cae92874-9383-45ea-953c-1246dfa584b3
+01:06:23.030 --> 01:06:28.196
+Also, for the Sn you have to
+wait for the charity for the S2, S3
+
+NOTE Confidence: 0.7331862
+
+8e743c7c-d441-44d0-a17a-981a6c1990aa
+01:06:28.196 --> 01:06:31.148
+S4 up until Sn-1.
+
+NOTE Confidence: 0.8680839
+
+06d15ba3-180a-4913-a1dd-2112a55fb089
+01:06:32.540 --> 01:06:40.393
+So. Here is the main question,
+how long does it take for us to
+
+NOTE Confidence: 0.8680839
+
+1921d5c0-2831-4664-abea-e1850e491e4b
+01:06:40.393 --> 01:06:45.794
+see the carries, specifically to
+see the carriers for the final
+
+NOTE Confidence: 0.87433815
+
+d9b8fa26-0c9b-465c-97ef-e1f989db3d5e
+01:06:45.794 --> 01:06:51.790
+carry C4? How long does it take
+for the C1, C2, C3 and C4?
+
+NOTE Confidence: 0.9221658
+
+e5c0d8cb-8320-41cf-a2ad-883a1a442f8c
+01:06:53.640 --> 01:06:56.780
+So let's see how long
+does it take for C4.
+
+NOTE Confidence: 0.86906403
+
+3d3f7949-8826-46cf-9f22-c64920f691f5
+01:06:58.990 --> 01:07:00.650
+So for the C4.
+
+NOTE Confidence: 0.9132198
+
+5cf15523-28f6-439e-adac-fba76c2ce232
+01:07:01.370 --> 01:07:04.194
+We have to see this is the C4.
+
+NOTE Confidence: 0.7651574
+
+496764fb-2d0e-4fbe-af1a-c4fab8d6e06d
+01:07:04.960 --> 01:07:07.309
+C4 depends on exclusive
+
+NOTE Confidence: 0.80112654
+
+207f6e7b-64db-42fe-bd99-99d9bed27e18
+01:07:09.100 --> 01:07:14.370
+OR and then AND on then we
+need the previous carry
+
+NOTE Confidence: 0.81488824
+
+66fdd0ad-c6ed-4438-b68d-ba17889bb1c0
+01:07:15.590 --> 01:07:18.290
+C3. C3 depends on
+
+NOTE Confidence: 0.7434944
+
+239e9046-b322-4fd4-8b44-02319a8894da
+01:07:19.890 --> 01:07:23.238
+C2. C2 depends on C1.
+
+NOTE Confidence: 0.8907328
+
+fc6774f7-8455-4a52-beae-ff01ecab5e84
+01:07:23.850 --> 01:07:28.974
+So let's see how long does it
+take for C1 to see the correct
+
+NOTE Confidence: 0.8907328
+
+02340c39-4cfc-4f62-82b8-08d9de7bc736
+01:07:28.974 --> 01:07:33.000
+answer for the C1. So if you see
+for the C1,
+
+NOTE Confidence: 0.83741224
+
+fc64aaf7-4c6c-4a99-9149-ef02ffec3220
+01:07:35.290 --> 01:07:40.960
+We do one exclusive OR
+on the X1 and Y1 here.
+
+NOTE Confidence: 0.66298205
+
+ae58f7c6-15d8-4434-aa72-6e4393ec6a69
+01:07:44.660 --> 01:07:46.230
+Because, uh.
+
+NOTE Confidence: 0.8585882
+
+e0586ee7-f078-4ba4-9513-9f4bc1690c7d
+01:07:48.080 --> 01:07:52.656
+Because it goes to S and S goes to
+the second half adder and then
+
+NOTE Confidence: 0.8585882
+
+531f6512-792c-4f9e-9c75-d9afb4c89129
+01:07:52.656 --> 01:07:56.528
+from the second half adder, we
+have to do the AND.
+
+NOTE Confidence: 0.9204951
+
+4e44a622-ede4-4834-9151-a68d3b5ba314
+01:07:57.610 --> 01:08:02.950
+So we need to do this in order
+to have the value of this input
+
+NOTE Confidence: 0.9204951
+
+36663070-44e6-46ba-b282-91e3aa3aade5
+01:08:02.950 --> 01:08:04.374
+of the AND available.
+
+NOTE Confidence: 0.87531894
+
+6f824bd6-58ff-4a2c-9ebf-5a294adc7c56
+01:08:06.990 --> 01:08:11.023
+This one. Also we have to
+do the AND on top of the
+
+NOTE Confidence: 0.87531894
+
+3d0caf04-d6bf-4285-9cd7-33a9bc297020
+01:08:11.023 --> 01:08:12.794
+X1 and Y1 here at the AND.
+
+NOTE Confidence: 0.8886128
+
+38dfd72b-bc39-4abc-9a43-e601adb471f7
+01:08:14.860 --> 01:08:18.844
+And then also after we have the
+exclusive OR result here, you
+
+NOTE Confidence: 0.8886128
+
+96fdafdb-a29a-487a-ac85-322164f10f0e
+01:08:18.844 --> 01:08:23.492
+have to do another AND and then
+this. The result of this AND and
+
+NOTE Confidence: 0.8886128
+
+ed7788fc-3d55-4296-ab3c-273112099b5b
+01:08:23.492 --> 01:08:25.816
+the result of this AND is going to
+
+NOTE Confidence: 0.7644906
+
+7fcdd93a-de44-4cc2-957a-79fb339fac44
+01:08:25.816 --> 01:08:31.834
+be OR. So, let's
+calculate that, so for the first one.
+
+NOTE Confidence: 0.8652038
+
+d757b12d-5769-4302-be2c-29eba5ccadc6
+01:08:32.690 --> 01:08:35.842
+For the AND of the X1 and Y1
+
+NOTE Confidence: 0.8722365
+
+2e33a279-7883-488f-af54-5f98e7d26429
+01:08:35.842 --> 01:08:40.430
+here and the exclusive OR
+between the X1 and Y1, we can do
+
+NOTE Confidence: 0.87209225
+
+abe91a85-3ea0-4a98-917a-43748095f770
+01:08:40.430 --> 01:08:45.374
+this in parallel. So whenever
+the exclusive OR is doing, it is
+
+NOTE Confidence: 0.87209225
+
+9b47f8b7-21b2-4145-9801-5b6fa72c737e
+01:08:45.374 --> 01:08:52.304
+applied. In the meantime, we can
+do the AND, so these two can be
+
+NOTE Confidence: 0.87209225
+
+dff7c3ae-6f7c-4a48-95f2-059f42181385
+01:08:52.304 --> 01:08:54.614
+done in parallel: 1 delta T.
+
+NOTE Confidence: 0.925255
+
+5c1de381-787a-47a1-b9b2-c6771523ea38
+01:08:55.690 --> 01:08:56.870
+After that,
+
+NOTE Confidence: 0.8402728
+
+d5f71707-ff96-46b1-bf6d-e3ae5d645326
+01:08:58.010 --> 01:09:03.666
+You have to do AND of this expression
+OR with the previous carry C0,
+
+NOTE Confidence: 0.8402728
+
+681966e0-f45a-494b-abd9-b6b651dfbf46
+01:09:03.666 --> 01:09:04.878
+so this AND.
+
+NOTE Confidence: 0.82863873
+
+fa23458b-d5fd-4781-aa78-398acb4a81ae
+01:09:05.910 --> 01:09:10.590
+Another Delta T. And then
+finally we have to do the OR, so
+
+NOTE Confidence: 0.82863873
+
+9eba4e05-ba03-4b5b-9b99-343ec8b993e3
+01:09:10.590 --> 01:09:11.760
+another Delta T.
+
+NOTE Confidence: 0.8723549
+
+3d96b666-b877-4c1a-b93e-eab9c4f0d2dd
+01:09:12.670 --> 01:09:16.486
+So in total for C1, we need 3 delta T.
+
+NOTE Confidence: 0.7870865
+
+8b705034-d4cc-4aa0-bc65-beb4397a33ae
+01:09:17.930 --> 01:09:19.310
+Oh sorry 3 delta T (4 is a MISTAKE!).
+
+NOTE Confidence: 0.8737011
+
+22028071-174d-4b89-9a96-5ab9c8bed5b3
+01:09:20.470 --> 01:09:25.762
+So these two are in parallel, delta one, and
+then these are delta two and then this
+
+NOTE Confidence: 0.8737011
+
+75a374f3-425b-48cf-8fa3-c86ac89695ba
+01:09:25.762 --> 01:09:27.274
+OR is delta three. 3 delta T.
+
+NOTE Confidence: 0.87286055
+
+e5e44bb6-7c1a-4861-8cd5-77c65af1deb2
+01:09:28.530 --> 01:09:29.880
+For the C2.
+
+NOTE Confidence: 0.90160954
+
+97635cbf-9a6b-4010-959f-e0b6a1c63f14
+01:09:30.530 --> 01:09:33.120
+We need to wait for the C1.
+
+NOTE Confidence: 0.8506797
+
+1a078e8d-5aad-449d-9f18-cf876bb7be37
+01:09:36.220 --> 01:09:40.308
+While we are creating the C1,
+we could do the exclusive OR on
+
+NOTE Confidence: 0.8506797
+
+85083b8e-d2f8-4d55-9263-5edfc1fb0bbd
+01:09:40.308 --> 01:09:42.936
+the X2 and Y2 and AND on the X2
+
+NOTE Confidence: 0.8683409
+
+f147cfd4-3a52-4484-8484-a6dea4c4104a
+01:09:42.936 --> 01:09:47.664
+and Y 2. So we can do
+these two gates while we
+
+NOTE Confidence: 0.8683409
+
+66c6f980-f7c0-4f39-ad8b-11fea6ac0171
+01:09:47.664 --> 01:09:49.088
+are creating this C1.
+
+NOTE Confidence: 0.7907846
+
+2f31c5fb-671f-409b-aa58-8a8ace1a9b99
+01:09:50.460 --> 01:09:57.532
+So we already wait 3 delta T for the
+C1, so we can do this for 1 delta T
+
+NOTE Confidence: 0.7907846
+
+4f01b116-d01d-4956-9278-de71a40679f4
+01:09:57.532 --> 01:10:00.028
+in parallel with the C1, and then
+
+NOTE Confidence: 0.85182375
+
+b026cf60-d6d0-42cd-85e3-14f351c7f5c3
+01:10:00.028 --> 01:10:06.704
+after 3 delta T, we have to do
+another AND and another OR so 5 delta
+
+NOTE Confidence: 0.85182375
+
+7a5a1193-3450-4bcf-bd3b-a412b42a0c7c
+01:10:06.704 --> 01:10:08.468
+T for the C2.
+
+NOTE Confidence: 0.84198785
+
+10e943c3-f616-4158-9b46-0f5ed39a81e0
+01:10:09.740 --> 01:10:11.708
+And therefore the C3.
+
+NOTE Confidence: 0.8080689
+
+a4e9f5e5-0e98-4ae6-94df-8d17a626f90d
+01:10:12.480 --> 01:10:18.772
+After we wait for the C2, 5 Delta
+T plus AND OR, 7 delta T and
+
+NOTE Confidence: 0.8080689
+
+e7e88683-1184-4880-bcda-9d866e9d19a5
+01:10:18.772 --> 01:10:24.580
+then for the C4, you have to
+wait for the three C3 and
+
+NOTE Confidence: 0.8080689
+
+d0b3d97f-1f33-4674-81fd-041a22880fb6
+01:10:24.580 --> 01:10:27.968
+then AND OR, so 9 Delta T.
+
+NOTE Confidence: 0.94249266
+
+917a8743-9005-42fe-99aa-a6196bf17210
+01:10:29.050 --> 01:10:30.410
+So you see that.
+
+NOTE Confidence: 0.6675314
+
+cbcae170-6fad-4587-bf24-25ececefae07
+01:10:31.710 --> 01:10:36.702
+The carry takes time to propagate
+from the first full adder to the
+
+NOTE Confidence: 0.6675314
+
+d34bdda1-c315-45fd-8f8e-c28527f5b0e6
+01:10:36.702 --> 01:10:37.950
+last full adder.
+
+NOTE Confidence: 0.8263669
+
+d502bf75-e6cf-48bd-afaa-f17d64363aa8
+01:10:38.900 --> 01:10:43.870
+And in the same time, but
+it is crucial for the carry, but
+
+NOTE Confidence: 0.8263669
+
+8fea5666-50f0-4b6f-89c0-9d95626844b4
+01:10:43.870 --> 01:10:48.840
+also it is crucial for the
+sum bit. So for the S2 we have to
+
+NOTE Confidence: 0.8263669
+
+750b9353-e4fc-4d5f-b852-a9c76d2c85d3
+01:10:48.840 --> 01:10:50.260
+wait for the C1.
+
+NOTE Confidence: 0.90285194
+
+6bc22450-87a9-4b7f-8729-8ea4b42b7ce0
+01:10:50.930 --> 01:10:53.810
+For the S3 we have to wait for
+
+NOTE Confidence: 0.79052067
+
+73da61be-d20e-47bf-a7c2-38b91d55f3ab
+01:10:54.780 --> 01:10:59.480
+C2 and etc because of
+this input in the exclusive
+
+NOTE Confidence: 0.79052067
+
+2a33641d-9f6e-48c1-a99e-7a693e57dcc1
+01:10:59.480 --> 01:11:01.360
+or. So in practice,
+
+NOTE Confidence: 0.87030625
+
+cfb66f44-a9c3-4b63-acdd-1ac1a27746cb
+01:11:03.100 --> 01:11:08.534
+you can determine, I mean,
+uh, what is the maximum Delta T
+
+NOTE Confidence: 0.87030625
+
+a483d235-8ed9-4024-8833-f2d60086bc04
+01:11:08.534 --> 01:11:14.386
+we have to wait? For the four bit
+full adder, we have to wait until
+
+NOTE Confidence: 0.87030625
+
+dd2df97d-5dc0-4d48-8a1e-f59cbd29f4f3
+01:11:14.386 --> 01:11:18.984
+the last carry actually becomes
+stable, which is 9 Delta T.
+
+NOTE Confidence: 0.8295685
+
+e3d95a51-7aa9-47b9-b07f-eee0ae728626
+01:11:19.640 --> 01:11:25.282
+After 9 Delta T we can make sure
+that the result for the carries
+
+NOTE Confidence: 0.8295685
+
+587a118f-eb29-40c9-81f7-1251134ba227
+01:11:25.282 --> 01:11:29.312
+and the result for the sum are
+stable and correct.
+
+NOTE Confidence: 0.9162696
+
+6b1e7286-3edd-4ae3-af1a-ff2cd3870976
+01:11:30.200 --> 01:11:32.088
+So it takes a lot of time. So.
+
+NOTE Confidence: 0.8265531
+
+2e3e678a-5c8c-4257-b90d-60376790e3d3
+01:11:33.000 --> 01:11:34.520
+How about the 8 bit adder?
+
+NOTE Confidence: 0.77013785
+
+2c7487b0-2c40-40e6-8961-6dcb2ee19acd
+01:11:35.130 --> 01:11:42.371
+You have to wait I mean double
+time as for the four bit
+
+NOTE Confidence: 0.77013785
+
+55c80737-8ed4-417a-b864-79e5e10beff4
+01:11:42.371 --> 01:11:47.384
+adder and etc. So the
+propagation problem of the
+
+NOTE Confidence: 0.77013785
+
+b1f565e3-4e78-42c3-8f9c-9ffb1aa6eb87
+01:11:47.384 --> 01:11:50.169
+carry actually is a problem.
+
+NOTE Confidence: 0.8759314
+
+fa65339e-f512-4c83-808a-7c69c112ad14
+01:11:52.030 --> 01:11:58.906
+In the book, in
+these pages 138 up until
+
+NOTE Confidence: 0.8759314
+
+e993e135-5161-45de-bed9-f599965f8483
+01:11:58.906 --> 01:11:59.479
+141.
+
+NOTE Confidence: 0.8132303
+
+15ae0cf8-04d3-424a-96a5-76133a5e3217
+01:12:00.760 --> 01:12:06.920
+There is a design, logic circuit
+design, that makes the
+
+NOTE Confidence: 0.8132303
+
+6fe9ef8e-4e61-4d19-a277-80dd0435bd51
+01:12:06.920 --> 01:12:12.464
+propagation of carry for all the
+full adders constant.
+
+NOTE Confidence: 0.8010883
+
+6dddf3db-4bd1-4f1e-b0e7-f8fb920c314d
+01:12:13.330 --> 01:12:19.420
+It doesn't make it 0, but
+there are still some gates in
+
+NOTE Confidence: 0.8010883
+
+4e9798f9-a534-434f-96d8-ba2a6a60a74e
+01:12:19.420 --> 01:12:23.886
+between, but it makes it
+constant for all the carries,
+
+NOTE Confidence: 0.8010883
+
+86c3a9c0-0a93-4ff4-a118-c256cf5e823b
+01:12:23.886 --> 01:12:28.352
+whether there are carry one,
+whether there are carry two, three
+
+NOTE Confidence: 0.8010883
+
+859baa58-aaa2-4812-90ab-a4a61a19b436
+01:12:28.352 --> 01:12:31.600
+up until carry N, only
+constant delay actually
+
+NOTE Confidence: 0.8277652
+
+ff54dc7b-7802-4d6e-8243-8a37c2c11076
+01:12:32.560 --> 01:12:37.695
+needs to to see the correct
+result in the output. The method is
+
+NOTE Confidence: 0.8277652
+
+fbd7ba9d-5170-488c-95c4-b4a94dd1afea
+01:12:37.695 --> 01:12:39.275
+called carry lookahead.
+
+NOTE Confidence: 0.865419
+
+8c7b8709-ad3a-4f3e-97b0-0e7bbdc9ea86
+01:12:40.290 --> 01:12:44.322
+Basically, this method actually
+tries to produce the carries
+
+NOTE Confidence: 0.865419
+
+78f22719-546b-4a90-b082-b0caebbced3e
+01:12:44.322 --> 01:12:46.114
+before doing the addition.
+
+NOTE Confidence: 0.8804627
+
+587a5ba5-64e2-4593-afe9-93acb50b5070
+01:12:46.680 --> 01:12:51.000
+So it makes, it tries to make
+the carry available first and
+
+NOTE Confidence: 0.8804627
+
+4794dbe3-9733-41cf-adf5-9794832465f7
+01:12:51.000 --> 01:12:52.440
+then do the addition.
+
+NOTE Confidence: 0.8701303
+
+8d084568-cd0c-4ded-81f1-1ea9c5f0b9c3
+01:12:53.600 --> 01:12:57.810
+So. In this, in the
+previous, I mean in the way
+
+NOTE Confidence: 0.8701303
+
+4e1b326d-87c3-449e-803e-2383bd15cf87
+01:12:57.810 --> 01:12:59.275
+we design the full adder,
+
+NOTE Confidence: 0.8593465
+
+931e18d9-9798-4c88-bf0d-22ab91c4cf8e
+01:13:00.510 --> 01:13:05.250
+the latency or
+the propagation delay increases
+
+NOTE Confidence: 0.8593465
+
+79bcf9fd-da3d-402a-929e-fc4cb03d4120
+01:13:05.250 --> 01:13:07.620
+as we add the full adders.
+
+NOTE Confidence: 0.8413688
+
+19f39e35-3202-46f2-889e-c5b1cc5602dd
+01:13:08.210 --> 01:13:10.130
+But in this design, in the
+
+NOTE Confidence: 0.7853843
+
+2fa6a833-7d4d-42ac-a15b-130455792a85
+01:13:10.130 --> 01:13:14.866
+carry lookahead. Whatever
+number of
+
+NOTE Confidence: 0.8329743
+
+863c070e-5ee2-4a92-9ec6-80e10c6c129e
+01:13:15.730 --> 01:13:20.122
+Full adders we add, the
+propagation delay remains
+
+NOTE Confidence: 0.8329743
+
+b811cde6-63f2-4b82-ad19-88fcc63ab9f8
+01:13:20.122 --> 01:13:25.002
+constant, so please cover
+this topic at home. This and
+
+NOTE Confidence: 0.8329743
+
+cf1b3a6b-137d-4e02-a19f-57f6f0023a45
+01:13:25.002 --> 01:13:29.882
+next lecture I'm ready for
+if you have any questions
+
+NOTE Confidence: 0.8329743
+
+58f127ca-a5a7-42ca-9ef6-972e3dbfdc27
+01:13:29.882 --> 01:13:33.786
+understanding the topics
+about the carry lookahead.
+
+NOTE Confidence: 0.9161589
+
+7f3c2c3d-a914-430d-b9db-74ebbe88a35a
+01:13:36.300 --> 01:13:38.890
+So the next question is.
+
+NOTE Confidence: 0.74067855
+
+dc646932-555e-4ba9-9cf7-b8131a5e2feb
+01:13:39.770 --> 01:13:45.490
+Ah. Building the binary
+adder, for instance 4 bit adder,
+
+NOTE Confidence: 0.74067855
+
+a291747d-7666-49e6-9f19-1386b189fcd3
+01:13:45.490 --> 01:13:48.034
+8 bit adder, so far.
+
+NOTE Confidence: 0.81410354
+
+053ee033-a3f0-4007-bcc1-67e4e84ac2e2
+01:13:49.330 --> 01:13:55.410
+Does it matter when adding signed
+integers or unsigned integers?
+
+NOTE Confidence: 0.8866235
+
+3f9e9c39-1f97-4391-bfcf-87237915cb80
+01:13:57.690 --> 01:13:59.320
+Anybody can answer this
+question.
+
+NOTE Confidence: 0.7793118
+
+200fb1a8-a752-45a0-8ff7-e85318f6f1c9
+01:14:00.950 --> 01:14:05.810
+So far we just add the bits,
+we didn't interpret the bits
+
+NOTE Confidence: 0.7793118
+
+095e97d5-535b-40bc-8370-54f285c4a8f8
+01:14:05.810 --> 01:14:09.050
+as a signed integers or
+unsigned integers.
+
+NOTE Confidence: 0.9443845
+
+676fd06c-4bb8-4fb4-839c-5a43bb3b23a6
+01:14:10.550 --> 01:14:11.360
+So.
+
+NOTE Confidence: 0.8096725
+
+418429ce-2575-4261-87ca-0c963dda1fc3
+01:14:14.210 --> 01:14:17.774
+I mean introducing the sign
+integers, does it need a little bit of
+
+NOTE Confidence: 0.8096725
+
+1b2f90aa-ae64-4131-82be-ddecf0db5df6
+01:14:17.774 --> 01:14:22.922
+change for our 4 bit adder or
+is there no change needed for that?
+
+NOTE Confidence: 0.79102015
+
+07d3cf2c-2561-428b-bf65-a4f3012c6a89
+01:14:24.810 --> 01:14:26.030
+Anybody can answer that.
+
+NOTE Confidence: 0.84392166
+
+0e776ed7-1161-4146-96d6-4bddde55ab49
+01:14:28.070 --> 01:14:34.608
+In another way, do I have
+to design in new Adder for
+
+NOTE Confidence: 0.84392166
+
+301919e4-5f2e-4ec1-88d7-bcb0934f23ce
+01:14:34.608 --> 01:14:36.476
+adding signed integer numbers?
+
+NOTE Confidence: 0.6888349
+
+873f1064-66f0-4bb3-b96d-50db353c72f3
+01:14:37.180 --> 01:14:39.987
+Or we can reuse this adder?
+
+NOTE Confidence: 0.7749507
+
+0b3f6c4e-a552-4e6f-8801-7c09d246300d
+01:14:53.660 --> 01:14:57.972
+Justin says yes and no. We
+can use but have to deal
+
+NOTE Confidence: 0.7749507
+
+f60747a1-ea7d-4d42-848c-120041c44342
+01:14:57.972 --> 01:14:59.540
+with carry for sign.
+
+NOTE Confidence: 0.79706645
+
+0be51c31-3074-4bf7-8926-9d6eaa5dd1bc
+01:15:00.910 --> 01:15:02.920
+Marco says it does matter.
+
+NOTE Confidence: 0.8240646
+
+9dcba9b2-0793-4293-8a53-1350543246b2
+01:15:04.350 --> 01:15:07.350
+Well, the thing is, imagine.
+
+NOTE Confidence: 0.79384476
+
+00e1a078-ad42-41c2-ad19-8bbd1e139724
+01:15:08.800 --> 01:15:13.920
+We have the signed
+integer adder. Imagine we
+
+NOTE Confidence: 0.79384476
+
+146599f0-a8ad-4de4-870d-c32029d50d91
+01:15:13.920 --> 01:15:19.040
+redesigned the logic circuit
+that does the adding for signed
+
+NOTE Confidence: 0.82633954
+
+c9a3f075-a59d-4994-a6ee-cb6ad72f5a88
+01:15:19.040 --> 01:15:24.730
+integers. I can use
+that design for unsigned
+
+NOTE Confidence: 0.82633954
+
+eda89cda-3936-4911-95f7-1454c3164f80
+01:15:24.730 --> 01:15:29.570
+integers because I can all this
+unsigned integer can be treated
+
+NOTE Confidence: 0.82633954
+
+119a6894-64a2-4063-81d8-88d49d2b44c5
+01:15:29.570 --> 01:15:30.890
+at signed integers.
+
+NOTE Confidence: 0.82681185
+
+bf4a31bb-83b0-4a5b-883d-cf52c1a1e31a
+01:15:31.540 --> 01:15:36.842
+For instance, we can assume
+the unsigned integers as the
+
+NOTE Confidence: 0.82681185
+
+8cbe2f7f-2f66-4c9a-b6a3-dc16a53980de
+01:15:36.842 --> 01:15:42.626
+positive integers in the sign
+integer system. So if I have the
+
+NOTE Confidence: 0.82681185
+
+90111839-8220-48d8-b26d-67e4060d0417
+01:15:42.626 --> 01:15:47.446
+signed integer system, I can use that
+system for unsigned integers.
+
+NOTE Confidence: 0.73426425
+
+75593b23-c053-4140-829c-b627811c921a
+01:15:48.490 --> 01:15:56.246
+Simply, I just have to apply. I
+mean keep the zero in the highest
+
+NOTE Confidence: 0.73426425
+
+355d0484-da87-4fcb-b331-51ecdc3b6cef
+01:15:56.246 --> 01:15:58.462
+significant position in the
+
+NOTE Confidence: 0.8046486
+
+7e75a5aa-3173-4d1e-9bc3-bdcfa7d51bcb
+01:15:58.462 --> 01:16:03.180
+bits. For instance, let's go
+back to here in this
+
+NOTE Confidence: 0.8046486
+
+ee52ce3b-882b-4586-9542-f40963c4366c
+01:16:03.180 --> 01:16:04.900
+four. Let's come back.
+
+NOTE Confidence: 0.82579136
+
+f1bd4f66-c107-4a8a-90f4-a3688cccd73d
+01:16:07.100 --> 01:16:12.274
+This 4 bit adder, if I assume
+that this 4 bit adder can do
+
+NOTE Confidence: 0.82579136
+
+d5c2d65f-de1c-465b-9747-5b30b5cc5cf2
+01:16:12.274 --> 01:16:16.254
+the addition for signed integers
+in the two's complement system,
+
+NOTE Confidence: 0.85736245
+
+2b087da8-a3be-4891-b854-d4c663706447
+01:16:16.830 --> 01:16:21.094
+If I want to reuse it for the
+unsigned integer, I could say
+
+NOTE Confidence: 0.85736245
+
+219e8985-b054-41bd-9c34-e090e94712d3
+01:16:21.094 --> 01:16:23.718
+that I always put the X4 and Y4
+
+NOTE Confidence: 0.82824147
+
+9577a73c-444e-4738-8132-440af3c5c36a
+01:16:23.718 --> 01:16:29.382
+as 0. So unsigned integer are
+positive integers in the sign
+
+NOTE Confidence: 0.82824147
+
+81c93ec0-4919-4958-bac4-971c03fa0508
+01:16:29.382 --> 01:16:34.860
+integer system, so it's that simple.
+How about the reverse? So is it
+
+NOTE Confidence: 0.82824147
+
+faf211fc-832f-4e26-8751-02ce8d9feab8
+01:16:34.860 --> 01:16:39.840
+possible to use this 4 bit adder
+for signed integer?
+
+NOTE Confidence: 0.88748795
+
+8b41b389-eb1a-4a32-b514-62b5b2c4483e
+01:16:41.060 --> 01:16:46.988
+The thing is, as we saw in the
+numbering system, if the system
+
+NOTE Confidence: 0.88748795
+
+a1a002ef-eff9-457e-99bf-6b795adc4a27
+01:16:46.988 --> 01:16:48.356
+is sign magnitude,
+
+NOTE Confidence: 0.8754917
+
+f2bf6167-7d93-4671-a56e-23597ea5bca0
+01:16:49.380 --> 01:16:54.288
+You cannot use this because in
+the sign magnitude, you have to
+
+NOTE Confidence: 0.8754917
+
+7b291bb3-a0c3-4406-bf0e-69d89d0c65eb
+01:16:54.288 --> 01:16:58.787
+allocate 1 bit for sign, and
+whenever you do the arithmetic,
+
+NOTE Confidence: 0.8754917
+
+220dfe58-5cb0-427e-b6af-2577f9c7eab6
+01:16:58.787 --> 01:17:03.695
+you have to not consider
+that sign position and then
+
+NOTE Confidence: 0.8754917
+
+dd858da3-2117-4249-9a23-68b4444d8818
+01:17:03.695 --> 01:17:08.603
+first you have to determine the
+sign and then do the normal
+
+NOTE Confidence: 0.8754917
+
+b4640779-b533-4fb1-a3b0-54c00f92ae7e
+01:17:08.603 --> 01:17:10.239
+addition or subtraction and etc.
+
+NOTE Confidence: 0.90292144
+
+54a04b00-5b63-4756-b6eb-fa059514a4f5
+01:17:11.100 --> 01:17:16.944
+However. If you are in a 2's
+complement system, in the two's
+
+NOTE Confidence: 0.90292144
+
+61530ea3-0d6b-490a-9599-f7a9ffddaa6c
+01:17:16.944 --> 01:17:21.552
+complement system, there is no
+such a story. We just simply add
+
+NOTE Confidence: 0.90292144
+
+98fcbc8e-19d4-4d38-ac44-d40cab65561f
+01:17:21.552 --> 01:17:25.776
+2 numbers. It is based on our
+interpretation that the number
+
+NOTE Confidence: 0.90292144
+
+5c55d364-7fbd-4f7a-950f-b5138bc7f4d9
+01:17:25.776 --> 01:17:27.312
+is positive or negative.
+
+NOTE Confidence: 0.877547
+
+80820a14-4e54-4b43-8a9b-ec381ceb5958
+01:17:28.120 --> 01:17:32.866
+You had to see that if the
+number is greater than the first
+
+NOTE Confidence: 0.877547
+
+49a20ad7-b9f3-4c4b-b62a-5ea8ce38f688
+01:17:32.866 --> 01:17:36.256
+half of the range of the
+numbers, it is negative.
+
+NOTE Confidence: 0.877547
+
+f5e29b40-ee8c-43ba-9d71-d45101e19941
+01:17:36.256 --> 01:17:39.985
+Otherwise it is positive. So in
+this two's complement system, it
+
+NOTE Confidence: 0.877547
+
+aa309b02-7c57-4864-bb46-cbc9fc793b4e
+01:17:39.985 --> 01:17:43.375
+is based on our interpretation
+of negative or positive numbers,
+
+NOTE Confidence: 0.877547
+
+10c22249-a060-4215-965c-72f1da7977da
+01:17:43.375 --> 01:17:47.782
+but in the hardware or in a
+physical sense or in a logic
+
+NOTE Confidence: 0.877547
+
+fd16abf4-0e6f-4cb2-91b9-04e8b959502e
+01:17:47.782 --> 01:17:51.172
+circuit sense, it doesn't
+matter. I mean these are just
+
+NOTE Confidence: 0.877547
+
+b21c993c-11ae-4e27-9323-d39fd4a05770
+01:17:51.172 --> 01:17:52.189
+zeroes and one.
+
+NOTE Confidence: 0.8898711
+
+a9454691-8211-42ab-b471-3d3011e109e2
+01:17:53.220 --> 01:17:54.868
+So the answer is.
+
+NOTE Confidence: 0.8396758
+
+bff373a0-4087-4935-9e85-c45b6518aaf7
+01:17:56.230 --> 01:18:01.456
+For the four bit, let's go back to
+the question. For the adding of two
+
+NOTE Confidence: 0.8396758
+
+e5384b09-1347-4609-9e0c-110cc143ff20
+01:18:01.456 --> 01:18:05.476
+binary numbers, if they are
+signed numbers, we assume that
+
+NOTE Confidence: 0.8396758
+
+cee61017-5419-4115-9136-39427facfe95
+01:18:05.476 --> 01:18:09.898
+the numbers are in the two's
+complement system and in the
+
+NOTE Confidence: 0.8396758
+
+73f8527b-8a33-41c0-9097-14d5b26b9732
+01:18:09.898 --> 01:18:14.320
+two's complement system, we just
+simply add the bits. We don't
+
+NOTE Confidence: 0.8396758
+
+942a6fae-5f4e-489c-8a8c-f9766b7eb01d
+01:18:14.320 --> 01:18:18.340
+care about whether they are
+positive or negative. After we
+
+NOTE Confidence: 0.8396758
+
+a5f3de66-b40b-4398-8f29-40324504855f
+01:18:18.340 --> 01:18:23.164
+see the result, we interpret the
+result as a signed negative or
+
+NOTE Confidence: 0.8396758
+
+0259dcfa-5f12-4770-9953-406c439b51e4
+01:18:23.164 --> 01:18:25.576
+positive. But whenever we do the
+
+NOTE Confidence: 0.862803
+
+cf4f0233-b126-44bc-ac4e-c182d5c15f86
+01:18:25.576 --> 01:18:29.750
+addition. It doesn't matter. I
+mean if they are positive or
+
+NOTE Confidence: 0.862803
+
+3f03b617-36e7-4487-b0f3-62f7d8240b40
+01:18:29.750 --> 01:18:33.650
+negative because they are in the
+two's complement sign system.
+
+NOTE Confidence: 0.9387387
+
+1d7426f7-6cfe-41fb-aee2-80c603a07792
+01:18:36.560 --> 01:18:37.310
+So.
+
+NOTE Confidence: 0.7655973
+
+e1bd8412-0f05-4e32-8b37-3dee1d652fb8
+01:18:38.830 --> 01:18:45.368
+Again, I mean, as long as we are
+in the two's
+
+NOTE Confidence: 0.7655973
+
+a32bd592-8648-4666-b86e-5548ebc9ed1f
+01:18:45.368 --> 01:18:50.038
+complement signed system, the
+normal N bit adder can be
+
+NOTE Confidence: 0.7655973
+
+8cb65334-8837-40b8-8f49-3ed5cf96f602
+01:18:50.038 --> 01:18:52.373
+applied for adding signed
+
+NOTE Confidence: 0.811836
+
+5ad8dc07-c59f-421c-bcf0-d324916ab338
+01:18:52.373 --> 01:18:58.440
+integers. Signed numbers.
+Let's move on to the next topic,
+
+NOTE Confidence: 0.811836
+
+95543153-7198-4510-8ec7-147912fb0fc2
+01:18:58.440 --> 01:19:03.478
+binary subtractor. So if you are
+in the Two's complement signed
+
+NOTE Confidence: 0.83277136
+
+8a5af174-1848-428b-b7df-915fdf177e1e
+01:19:03.478 --> 01:19:09.702
+system, you already knew that X
+- Y, if these are two binary
+
+NOTE Confidence: 0.83277136
+
+58969e9f-ddbf-47a0-83b9-5cc100fb59c5
+01:19:09.702 --> 01:19:14.443
+numbers, subtraction becomes.
+If the two numbers are, each of
+
+NOTE Confidence: 0.83277136
+
+54917c3b-f174-4757-89bb-d2d6de73296d
+01:19:14.443 --> 01:19:20.908
+which has N bits. For instance,
+X has X1, X2 up until Xn, and Y has
+
+NOTE Confidence: 0.83277136
+
+0e0c75d1-6fe9-44ca-9bc0-d6f0f4b4da60
+01:19:20.908 --> 01:19:23.925
+Y1, Y2, up until
+
+NOTE Confidence: 0.8358721
+
+b3eb70aa-7c95-457e-bd34-e3f24fbb59ff
+01:19:23.925 --> 01:19:30.500
+Yn. So the subtraction becomes
+addition with two's complements.
+
+NOTE Confidence: 0.8083675
+
+faa34265-1dea-4fe5-8c3f-0f24d769da20
+01:19:31.140 --> 01:19:34.028
+And addition with two's
+complement means addition
+
+NOTE Confidence: 0.8083675
+
+2579c803-ca12-4ab3-8bf5-687ccba9bba4
+01:19:34.028 --> 01:19:35.833
+with one's complement plus one.
+
+NOTE Confidence: 0.78232145
+
+635ac8e8-b72a-4310-846c-ff4e2ecc8e65
+01:19:36.850 --> 01:19:42.970
+And one's complements was just
+NOT each bit, so we have to
+
+NOTE Confidence: 0.78232145
+
+6d2f6829-e40a-47da-b0b0-880f14f32f4c
+01:19:42.970 --> 01:19:49.090
+apply the NOT operator bitwise
+on each of the Y. So it
+
+NOTE Confidence: 0.78232145
+
+8cd40ecb-1bb2-45ae-9388-61473520fdf2
+01:19:49.090 --> 01:19:55.210
+is kind of X plus NOT of
+each bit of Y plus
+
+NOTE Confidence: 0.81879824
+
+3847aa7f-bb33-4b39-85b5-f5b148e03f95
+01:19:56.110 --> 01:19:59.050
+an initial carry with one,
+instead of just 0.
+
+NOTE Confidence: 0.8628406
+
+efa308f9-a073-42d8-bc89-503c86aacf6a
+01:20:01.210 --> 01:20:06.124
+So we can simply use the four
+bit adder to do the subtraction.
+
+NOTE Confidence: 0.8628406
+
+55e94377-9735-4d6e-9984-0b1c514ace62
+01:20:06.124 --> 01:20:10.660
+Basically we put one in the
+initial
+
+NOTE Confidence: 0.84609485
+
+be3ee89e-652b-4f72-8dfe-4452d8a04de5
+01:20:10.660 --> 01:20:15.969
+carry, plus one, and for the
+Y, we just simply put the NOT of
+
+NOTE Confidence: 0.84609485
+
+1505f245-07fd-4e50-a84f-cc5c1aa7992c
+01:20:15.969 --> 01:20:18.473
+Y in each of the input of the
+
+NOTE Confidence: 0.8232525
+
+596edd22-c022-4cf7-b4d4-d6a4101f8552
+01:20:18.473 --> 01:20:23.141
+four bit adder. So this
+is reusing the four bit
+
+NOTE Confidence: 0.8232525
+
+f7c1c765-f65e-4789-ab66-bf2f8ca4241b
+01:20:23.141 --> 01:20:24.410
+adder for subtraction.
+
+NOTE Confidence: 0.74770784
+
+d35b6618-a6aa-48dd-af86-327dc3e6e6c7
+01:20:26.330 --> 01:20:30.455
+So four bit adder acts like a
+subtracter based on the carry.
+
+NOTE Confidence: 0.74770784
+
+b97a8e59-92f1-417a-9c6d-ad597e0ef0e3
+01:20:30.455 --> 01:20:34.955
+If they carry is zero and we
+put the bits of Y,
+
+NOTE Confidence: 0.8121607
+
+c5e64ea5-f3b5-4376-9936-83cb9ada422e
+01:20:35.790 --> 01:20:40.746
+It is an adder. If you put the
+carry one and then NOT each
+
+NOTE Confidence: 0.8121607
+
+ab501500-2f2e-4a07-b582-db905738e5af
+01:20:40.746 --> 01:20:44.640
+bit of the Y, it is act as a
+subtractor. So adder.
+
+NOTE Confidence: 0.8241926
+
+cec96a92-426a-470e-b47c-d46ee66ce276
+01:20:45.760 --> 01:20:52.092
+Subtractor. So, based
+on the value of carry. We can
+
+NOTE Confidence: 0.8241926
+
+0a6a2912-8cf0-4103-a35a-f5784f0394a5
+01:20:52.092 --> 01:20:54.605
+switch between the A and A-bar.
+
+NOTE Confidence: 0.90588516
+
+e5fcd501-84ce-4708-b98e-dab17714f7fd
+01:20:56.220 --> 01:20:58.722
+If we use the exclusive OR
+
+NOTE Confidence: 0.8495628
+
+37ec034f-3f22-4988-bf4a-4568b17f2e00
+01:20:58.722 --> 01:21:03.743
+gate, any variable exclusive OR
+with zero, it is the same, but
+
+NOTE Confidence: 0.8495628
+
+e42ca6a0-8e5d-48c3-999f-d4db8e6520e5
+01:21:03.743 --> 01:21:07.736
+exclusive OR with one, it is the
+NOT of the bit.
+
+NOTE Confidence: 0.93216217
+
+f316dfc5-5014-4d5c-aeb0-03ee039b8b47
+01:21:08.400 --> 01:21:09.100
+So.
+
+NOTE Confidence: 0.77742743
+
+eb04c8a1-d15c-41c1-a70e-f95e7ede1346
+01:21:10.170 --> 01:21:16.423
+Based on the carry, you can create
+an IC which acts like an adder whenever
+
+NOTE Confidence: 0.77742743
+
+cc2da698-29bf-47a8-a20d-5637abff9d19
+01:21:16.423 --> 01:21:18.347
+the carry is 0.
+
+NOTE Confidence: 0.77952933
+
+6e6960b0-7417-4533-a3e5-7775b48db801
+01:21:18.970 --> 01:21:20.790
+(1 is a MISTAKE!)
+
+NOTE Confidence: 0.82387805
+
+ec79b387-18e1-41d7-b2f3-88b552cc1526
+01:21:22.160 --> 01:21:26.528
+The carry zero goes here. Any
+number exclusive OR with zero is
+
+NOTE Confidence: 0.8813363
+
+d9cfd252-1db5-4dfc-993d-cd110723c366
+01:21:26.528 --> 01:21:29.820
+the same. If the carry is 1,
+
+NOTE Confidence: 0.7759147
+
+6e55fbdc-5faa-45f1-a7bd-ce0838539ffa
+01:21:30.410 --> 01:21:34.510
+carry becomes one and any
+binary bit with exclusive
+
+NOTE Confidence: 0.7759147
+
+49ffd6db-c6b7-4703-aaea-caccb546aaef
+01:21:34.510 --> 01:21:39.430
+OR with one makes it NOT.
+So here comes Y1-bar
+
+NOTE Confidence: 0.7759147
+
+05e2608f-bfe1-4e9d-a6d0-398e69c49886
+01:21:39.430 --> 01:21:43.530
+Y2-bar, etc. And it
+acts like its subtractor.
+
+NOTE Confidence: 0.6213863
+
+4519812e-a4e4-4d62-8ebf-80e828cbc058
+01:21:44.940 --> 01:21:46.530
+Doctor Fani. Yes. It's 9:53.
+
+NOTE Confidence: 0.8376338
+
+1839aee3-8dd4-4547-8f0f-a171c238cb6e
+01:21:49.230 --> 01:21:54.450
+Oh, thank you so we are done
+with today's topics, so think
+
+NOTE Confidence: 0.8376338
+
+882d3e2c-7f36-4184-9f09-7b52b15bfbfc
+01:21:54.450 --> 01:21:58.800
+about I mean binary subtractor
+with unsigned integers and see
+
+NOTE Confidence: 0.8376338
+
+5db0fd1d-110e-44cd-a438-6e08c344bb30
+01:21:58.800 --> 01:22:04.020
+whether it matters, or see if we can use
+the four bit adder/subtracter
+
+NOTE Confidence: 0.8376338
+
+411d3e84-75fd-4757-abbe-423c5345a696
+01:22:04.020 --> 01:22:06.195
+for unsigned integer or not.
+
+NOTE Confidence: 0.8406723
+
+0348f82d-9243-4b0d-8279-2c5f78ffc479
+01:22:07.170 --> 01:22:11.310
+And the next topic we're gonna
+cover next is gonna be overflow.
+
+NOTE Confidence: 0.80953443
+
+3c5b88cc-9515-4c99-b6c8-4569d5aa8530
+01:22:12.300 --> 01:22:15.576
+The only thing that matters in the
+arithmetic in the two's
+
+NOTE Confidence: 0.80953443
+
+4d2186fc-1f49-4cbd-9e2e-de719f49c1d7
+01:22:15.576 --> 01:22:18.488
+complement is the overflow.
+That's the main important
+
+NOTE Confidence: 0.80953443
+
+c5ed82af-a9ad-476c-b026-b7daecd139f0
+01:22:18.488 --> 01:22:21.400
+things. Otherwise for the
+addition or subtraction, it's
+
+NOTE Confidence: 0.80953443
+
+2c6e5e9a-3b00-4a2f-a747-e83083988b67
+01:22:21.400 --> 01:22:25.040
+very simple. Addition is just
+adding bits. Subtraction is just
+
+NOTE Confidence: 0.80953443
+
+c693ac7e-edb5-4fe5-8dd2-892a42165a05
+01:22:25.040 --> 01:22:28.680
+just adding with the NOT of the
+bits plus one.
+
+NOTE Confidence: 0.86838883
+
+45fb7550-203a-43ac-acaa-a294ff382de0
+01:22:30.520 --> 01:22:34.303
+But the only thing that matters is
+the overflow that we are
+
+NOTE Confidence: 0.86838883
+
+f16232d4-a55e-45e8-8492-80553c170234
+01:22:34.303 --> 01:22:35.467
+going to cover next lecture.
+
+NOTE Confidence: 0.8799769
+
+88915144-d82b-483b-bef1-e70622f42a50
+01:22:36.530 --> 01:22:40.982
+So thank you so much for your
+attention and sorry about I
+
+NOTE Confidence: 0.8799769
+
+34296569-c719-46ca-a8ed-d454155de480
+01:22:40.982 --> 01:22:45.063
+mean the 4 minutes
+after the 9:50. I'm waiting
+
+NOTE Confidence: 0.8799769
+
+2970bde2-325c-4382-9f17-be59641be228
+01:22:45.063 --> 01:22:49.144
+for your questions in the
+office hour if you have any
+
+NOTE Confidence: 0.8799769
+
+b068d3b9-c298-4b0c-a474-97cae6f7f4a4
+01:22:49.144 --> 01:22:53.596
+and also in here. I mean I'm
+done. Thank you so much for
+
+NOTE Confidence: 0.8799769
+
+860ca45a-0d5c-4226-967a-56865dca0f71
+01:22:53.596 --> 01:22:56.193
+your attention and have a
+great day!
+
+
