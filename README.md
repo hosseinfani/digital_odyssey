@@ -1,7 +1,7 @@
 # 2020: A Digital Odyssey 
 Materials for the Computer Science Course "Digital Design (Logic Circuits)"
 <p align="center">
-    <img src="./COMP2650_Computer_Architecture_I_Digital_Design_Course_Banner_Fall_2020.png", alt="Digital Design (Logic Circuits): Course Banner">
+    <img src="./Course_Banner_Fall_2020_COMP2650_Computer_Architecture_I_Digital_Design.png", alt="Digital Design (Logic Circuits): Course Banner">
     <br>
     Inspired by <a href="https://spinningnumbers.org/a/logic-gates.html#appendix---how-to-draw-the-or-symbol">Spinning Numbers (Willy McAllister)</a> and <a href="https://stitchinglogic.wordpress.com/"> Stitching Logic (Kendall Price)</a> 
 </p>
@@ -16,6 +16,15 @@ It is essential to understand how a modern computer works underneath, from the b
 -	How CPU oscillates the program statements and commands.
 
 And at the end of the day, everything runs on hardware<em>!</em>
+
+<p align="center">
+    <img src="./Instructor.PNG", alt="Digital Design (Logic Circuits): Instructor">
+    <br>     
+    <img src="./Book.PNG", alt="Digital Design (Logic Circuits): Book">
+    <br>     
+    <img src="./GA_TA.PNG", alt="Digital Design (Logic Circuits): Gratudate and Teaching Assistants">
+    <br>     
+</p>
 
 ## License
 ©2020. All materials available here are licensed under a [CC BY-NC-SA 4.0](LICENSE.txt) license. 
