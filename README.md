@@ -1,4 +1,4 @@
-# 2021: A Digital Odyssey 
+# 2020: A Digital Odyssey 
 Materials for the Computer Science Course "Computer Architecture I: Digital Design (Logic Circuits)"
 <p align="center">
     <img src="./Misc/Course_Banner_Fall_2020_COMP2650_Computer_Architecture_I_Digital_Design.png", alt="Digital Design (Logic Circuits): Course Banner">
