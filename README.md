@@ -18,11 +18,11 @@ It is essential to understand how a modern computer works underneath, from the b
 And at the end of the day, everything runs on hardware<em>!</em>
 
 <p align="center">
-    <img src="./Instructor.PNG", alt="Digital Design (Logic Circuits): Instructor">
+    <img src="./Misc/Instructor.PNG", alt="Digital Design (Logic Circuits): Instructor">
     <br>     
-    <img src="./Book.PNG", alt="Digital Design (Logic Circuits): Book">
+    <img src="./Misc/Book.PNG", alt="Digital Design (Logic Circuits): Book">
     <br>     
-    <img src="./GA_TA.PNG", alt="Digital Design (Logic Circuits): Gratudate and Teaching Assistants">
+    <img src="./Misc/GA_TA.PNG", alt="Digital Design (Logic Circuits): Gratudate and Teaching Assistants">
     <br>     
 </p>
 
