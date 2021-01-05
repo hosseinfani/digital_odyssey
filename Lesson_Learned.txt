@@ -4,18 +4,17 @@ To Studetns:
 - For opening another submissions
 - Pay attention to naming of files!!
 - Explain that some topics are not covered in the lecture, but either in labs or lecture assignments
+- Lab may have dependencies!
+- No key to the labs
+- Key to the assignments based on highest selected assignments
+- Keys to the exams (midterm and final)
 
 To TA/GAs
-- Do not mark late submissions. Do not even put zero. But put a comment "Late Submission"!
-- MANDATORY!! Put specific comment regarding each deduction for each question!
-- On time release of markings
-- Openning for another submission
-- Reason for late submissions, etc
-- Sign your name and email after all your comments
 
 To myself:
-- Reduce the number of labs so that in the last week, all are marked ==> one week prog. lab, one week math/design lab
+- Reduce the number of labs so that in the last week, all are marked
 - Reduce the number of questions in the lec. assignments
 - [Background Check] Make a survey/sample quiz to see the distribution of students over the level of expertise. Some students are from other majors that are not familiar with e.g., math, ...
 - Create a separate link for each lab section and introduce the lab instructor
 - Shorten the file names
+- Weeks start on Monday!

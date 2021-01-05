@@ -1,5 +1,7 @@
 __pycache__/
 *.py[cod]
+*.pdf
+*.mp4
 .idea/
 desktop.ini
 Icon\r
