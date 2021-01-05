@@ -27,4 +27,4 @@ And at the end of the day, everything runs on hardware<em>!</em>
 </p>
 
 ## License
-©2020. All materials available here are licensed under a [CC BY-NC-SA 4.0](LICENSE.txt) license. 
+©2021. All materials available here are licensed under a [CC BY-NC-SA 4.0](LICENSE.txt) license. 
