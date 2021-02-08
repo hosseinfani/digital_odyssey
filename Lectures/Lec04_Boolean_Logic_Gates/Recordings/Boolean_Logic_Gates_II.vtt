@@ -1,0 +1,7168 @@
+WEBVTT
+
+NOTE duration:"01:23:13.9650000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.7958513
+
+c2e3696d-4a14-4260-bf5a-f23822ae4722
+00:00:00.050 --> 00:00:05.765
+So as as long as you do that,
+that's OK. But then I mean the
+
+NOTE Confidence: 0.7958513
+
+8342a95d-bb4c-426c-b49e-2c2444391a14
+00:00:05.765 --> 00:00:10.337
+type of the argument, the name
+of the functions and, etc. These
+
+NOTE Confidence: 0.7958513
+
+5516c121-a8b8-45e4-aa7a-d128c7afbda9
+00:00:10.337 --> 00:00:14.909
+are all, I mean, uh, your
+choice. Yes, yeah you can do
+
+NOTE Confidence: 0.8572088
+
+6faf62e0-211f-4871-8a24-c473c413c3c6
+00:00:14.909 --> 00:00:21.260
+that. But please do not put
+all for instance, all the.
+
+NOTE Confidence: 0.87442815
+
+d7241868-5ce1-4db6-a6ea-ccc13bcde07e
+00:00:23.170 --> 00:00:27.658
+ Functionality is in just one single file for this week's lab. 
+
+NOTE Confidence: 0.87442815
+
+1f408678-0488-4b5b-ac99-c7af497a8a68
+00:00:27.658 --> 00:00:32.146
+Actually I ask you to create
+header files, source files and
+
+NOTE Confidence: 0.87442815
+
+562727dc-419b-47c2-9cac-2900c13a98ef
+00:00:32.146 --> 00:00:37.450
+then add them to your main file
+so you have to follow this
+
+NOTE Confidence: 0.87442815
+
+0593adbb-dad4-4f20-a9b9-d29e700c1df7
+00:00:37.450 --> 00:00:42.754
+pattern, but as long as you do
+this, the name of functions or
+
+NOTE Confidence: 0.87442815
+
+9633ee87-8d93-4488-a139-532d315655c2
+00:00:42.754 --> 00:00:45.610
+the name of even the name of
+
+NOTE Confidence: 0.88351995
+
+1c18a0ae-50d0-4dd6-853e-abd96f3baf0d
+00:00:45.610 --> 00:00:50.007
+ files. So if the name of files it's it's an option for 
+
+NOTE Confidence: 0.88351995
+
+19ee472d-198b-49a4-97c1-7ee8cf99f24b
+00:00:50.007 --> 00:00:52.770
+you, but again, you have to
+follow the pattern.
+
+NOTE Confidence: 0.48887128
+
+0d91a8c7-bc40-45cf-bf9a-500789259691
+00:00:55.770 --> 00:00:58.858
+ Hisham diamond hands. 
+
+NOTE Confidence: 0.763815
+
+3f7c51d3-8cbd-4284-92c8-de1fcc0a2816
+00:01:00.870 --> 00:01:05.938
+Thank you Hisham. So I'll wait for one or two minutes to for other
+
+NOTE Confidence: 0.763815
+
+99db8909-5427-45fd-8c02-b8a8b88926fc
+00:01:05.938 --> 00:01:09.558
+student to join the class and
+will start very soon.
+
+NOTE Confidence: 0.4504498
+
+1049c792-c074-47db-bb78-c3069bdaefe4
+00:01:17.700 --> 00:01:18.930
+OK.
+
+NOTE Confidence: 0.74721587
+
+eacd594f-a835-4c97-bc40-c7ce3b6b863c
+00:01:32.160 --> 00:01:38.640
+So basically the last lecture we
+end up with a NAND gate.
+
+NOTE Confidence: 0.70530456
+
+b353d153-de17-4458-8a89-1662c6a095d8
+00:01:39.480 --> 00:01:42.432
+Uh, we're gonna do a quick
+
+NOTE Confidence: 0.82131135
+
+3e7b3bd9-b145-421e-993c-b8fbc0239103
+00:01:42.432 --> 00:01:45.650
+recap. On the NAND gate and
+
+NOTE Confidence: 0.8663999
+
+6af5ecc4-d7a0-4072-b334-cbe9e90bbf11
+00:01:45.650 --> 00:01:50.460
+then. We continue with
+yeah from here.
+
+NOTE Confidence: 0.8958304
+
+b48185be-be9f-43fc-8e00-138ea135d85b
+00:02:36.790 --> 00:02:40.673
+So Meanwhile, if you have
+any question, I have to take
+
+NOTE Confidence: 0.8958304
+
+83ce6a9f-0e7b-40b9-a580-499ae8341c45
+00:02:40.673 --> 00:02:41.379
+your questions.
+
+NOTE Confidence: 0.5874264
+
+f732d0c5-6d06-45fb-ba19-8e2b128a629c
+00:02:43.150 --> 00:02:46.800
+ Uh, which is the name of the files don't matter 
+
+NOTE Confidence: 0.5874264
+
+45afefbf-c511-4147-a473-93d42f877438
+00:02:46.800 --> 00:02:48.625
+ then why are we graded on file names
+
+NOTE Confidence: 0.8899784
+
+a94ed149-6a1c-4d36-848f-fb2855e99f79
+00:02:51.720 --> 00:02:54.811
+Oh no, I mean the name
+of the file, I mean.
+
+NOTE Confidence: 0.78761005
+
+eac87ee8-1ad9-49c5-9ca7-bec51058cb30
+00:02:56.360 --> 00:02:58.620
+ The name of Header files
+
+NOTE Confidence: 0.77811354
+
+b229a4cd-a23f-49ca-ad45-c3734d406ce0
+00:02:59.570 --> 00:03:04.454
+ Uh, the header files and for instance your main file is still 
+
+NOTE Confidence: 0.77811354
+
+346cae9d-d12e-4530-82d3-a5d435a434b9
+00:03:04.454 --> 00:03:10.559
+in dot CPP or main dot C, But if
+you see the manual for this
+
+NOTE Confidence: 0.77811354
+
+41517056-2cc2-4439-8bc5-b519f4b50848
+00:03:10.559 --> 00:03:15.036
+week's lab, for instance, I ask
+you to put over the.
+
+NOTE Confidence: 0.8138714
+
+e1172870-f4d4-47f8-957e-390856e65a70
+00:03:17.250 --> 00:03:21.012
+Functions related to do
+complements in a file called
+
+NOTE Confidence: 0.8138714
+
+10b06c5c-794a-400c-9d0f-07d0cc791f4e
+00:03:21.012 --> 00:03:23.102
+complement dot C or complement
+
+NOTE Confidence: 0.8084201
+
+bac282e9-b6c2-4882-9207-761895c195ea
+00:03:23.102 --> 00:03:29.065
+dot H. Uh, you could say that I
+can put for instance, another
+
+NOTE Confidence: 0.8084201
+
+22ebe873-eb6c-4b98-9e4a-7b57714abe42
+00:03:29.065 --> 00:03:33.520
+ name, complement, underlying tools or comp dot C or as long 
+
+NOTE Confidence: 0.8084201
+
+a0988f39-92b0-46b2-a943-3b903305ec98
+00:03:33.520 --> 00:03:38.380
+as the name of the file is
+meaningful and tells us that
+
+NOTE Confidence: 0.8084201
+
+c881ccf7-c0a0-4a35-a9a9-e7a8dec7a694
+00:03:38.380 --> 00:03:43.240
+what are the functions in that
+file. That's OK, yeah, but the
+
+NOTE Confidence: 0.8084201
+
+789ddcab-381e-4997-ad62-4958153d14c4
+00:03:43.240 --> 00:03:49.315
+name of the zip file or the name
+of the report file or the name
+
+NOTE Confidence: 0.8084201
+
+90f6e14f-df32-4677-a78e-cc604f0dd83a
+00:03:49.315 --> 00:03:54.175
+of the snapshot file that you
+have to follow that pattern? I
+
+NOTE Confidence: 0.79431415
+
+77320949-fbfc-413c-aae7-d485708e28e3
+00:03:54.175 --> 00:03:59.758
+mean. Comp 2650 underline the
+lab number an underline your
+
+NOTE Confidence: 0.79431415
+
+131a47f8-ee5b-41ea-a70b-5dc7a7c3a89e
+00:03:59.758 --> 00:04:05.940
+user ID. That's the pattern, and
+you have to follow that.
+
+NOTE Confidence: 0.85885096
+
+4c6d448c-de1f-49d3-8099-419157a9ceed
+00:04:06.700 --> 00:04:10.696
+But the name of the header
+files or the source files, the
+
+NOTE Confidence: 0.85885096
+
+9f60fc2c-e59f-4025-a0d6-5e2b10c52a57
+00:04:10.696 --> 00:04:14.359
+name of the functions. These
+are just an option for you.
+
+NOTE Confidence: 0.89249957
+
+817f6d23-fd27-4d51-bd69-a0d323871708
+00:04:16.330 --> 00:04:17.419
+But I mean.
+
+NOTE Confidence: 0.85646904
+
+b5b81d83-a9df-4b91-b925-de6b02514f1a
+00:04:19.460 --> 00:04:23.541
+ If you follow the exact name then the marker can mark it
+
+NOTE Confidence: 0.85646904
+
+6d16bf1e-1b47-4bb7-853e-df87381f7486
+00:04:23.541 --> 00:04:25.396
+without any. I mean ambiguity.
+
+NOTE Confidence: 0.89320856
+
+6d755519-d744-4dc2-874c-0d5fd35b4fe0
+00:04:26.030 --> 00:04:29.810
+But yes, I mean, it doesn't mean
+that if you change the.
+
+NOTE Confidence: 0.89424723
+
+48af5d61-7805-4920-a338-b28754ac5615
+00:04:30.420 --> 00:04:32.340
+Name of the file.
+
+NOTE Confidence: 0.86577487
+
+549ffee7-17a2-4076-8e92-24c69a5d8ada
+00:04:33.770 --> 00:04:37.280
+Your program actually is
+not acceptable.
+
+NOTE Confidence: 0.80980635
+
+dd52705f-423b-475f-8871-e08df615672c
+00:04:39.430 --> 00:04:40.909
+But yes, yeah.
+
+NOTE Confidence: 0.87322176
+
+57ea20c3-4e76-4c83-9f17-8d846c9cb883
+00:04:41.600 --> 00:04:45.351
+The name of the submission
+and the name of the report.
+
+NOTE Confidence: 0.87322176
+
+c82af74c-8c4f-42d3-a80b-6ee9a70d2242
+00:04:45.351 --> 00:04:48.761
+There they should be the
+exact pattern, but the name
+
+NOTE Confidence: 0.87322176
+
+2b6762c5-db8b-404b-ab8a-2c208b29796f
+00:04:48.761 --> 00:04:52.512
+of header files or whatever
+you want to use in your
+
+NOTE Confidence: 0.87322176
+
+baa3a2c2-356d-4f7c-8287-ebddb9d4a9b0
+00:04:52.512 --> 00:04:54.217
+program. It's up to you.
+
+NOTE Confidence: 0.9138932
+
+8f2d4aa6-da09-438e-a045-b96fabab175e
+00:04:57.980 --> 00:04:58.350
+Yeah.
+
+NOTE Confidence: 0.7234796
+
+b64ee512-26d4-4e82-9e63-730249a3c6ed
+00:05:09.020 --> 00:05:14.586
+So let's start uh today
+gonna be an amazing day and
+
+NOTE Confidence: 0.7234796
+
+9418f75c-c478-4509-9788-82730004fd32
+00:05:14.586 --> 00:05:17.116
+the reason is that, uh.
+
+NOTE Confidence: 0.5335647
+
+337a546a-34d9-449f-8a22-8d89f98d29ef
+00:05:18.350 --> 00:05:20.358
+Uh, we said that.
+
+NOTE Confidence: 0.8874943
+
+eb3c9c29-af26-4694-9a69-77c4f2ad25b2
+00:05:21.780 --> 00:05:25.900
+When we know the fundamental
+gates such as and or.
+
+NOTE Confidence: 0.83766514
+
+5e1d5cb7-fdb1-49df-b36e-28048c841a9a
+00:05:26.550 --> 00:05:31.159
+And not gate. We can build a
+larger units by these
+
+NOTE Confidence: 0.83766514
+
+5f5def01-cdb4-40e8-b30f-8bbbda2bcf1e
+00:05:31.159 --> 00:05:34.511
+fundamental gates. But before
+building or designing the
+
+NOTE Confidence: 0.83766514
+
+e3d58052-fe70-465a-97b8-9605a7bc9f78
+00:05:34.511 --> 00:05:38.701
+larger gates at the easier
+task is that somebody design
+
+NOTE Confidence: 0.83766514
+
+7c3f510e-5b46-44de-9e85-20d9bac7d8ac
+00:05:38.701 --> 00:05:43.729
+is circuit for us or this
+design a digital unit for us
+
+NOTE Confidence: 0.83766514
+
+66c51b48-08a5-46ce-9361-82884cdd62fc
+00:05:43.729 --> 00:05:46.662
+and ask us to check the
+functionality.
+
+NOTE Confidence: 0.8665175
+
+23470289-92eb-4caa-846c-478a2fcd553e
+00:05:48.650 --> 00:05:53.462
+This is called analysis, so we
+start with the easier task which
+
+NOTE Confidence: 0.8665175
+
+0acaab19-f69f-42fd-a25f-599acc4223fb
+00:05:53.462 --> 00:05:58.274
+is analysis. In the analysis, we
+are given a digital unit, for
+
+NOTE Confidence: 0.8665175
+
+4b68a81f-f8c7-4c52-8a70-a3f133283524
+00:05:58.274 --> 00:06:00.279
+instance here. Somebody gave us
+
+NOTE Confidence: 0.6080137
+
+59a2bcc1-810e-44b4-8b80-3455b413cfe0
+00:06:00.279 --> 00:06:02.739
+this. Talk to us.
+
+NOTE Confidence: 0.90167266
+
+c35fc820-e9bc-439d-a22d-52aafd3cf2ee
+00:06:04.130 --> 00:06:07.250
+And we have to check what is the
+
+NOTE Confidence: 0.8661484
+
+d9d29592-4513-4bd1-aed8-e06ccdb6ac21
+00:06:07.250 --> 00:06:11.408
+functionality. Or sometimes they
+say that this is the
+
+NOTE Confidence: 0.8661484
+
+2cee2c14-826c-4038-894f-624a10afadef
+00:06:11.408 --> 00:06:14.837
+functionality and this is the
+design check. This functionality
+
+NOTE Confidence: 0.8452168
+
+abbc81ec-b58d-4996-a704-f12656333850
+00:06:14.837 --> 00:06:21.070
+is correct. So we said that I
+mean and and followed by the
+
+NOTE Confidence: 0.8452168
+
+c853d921-ce6d-4c17-b307-d11adb2ab008
+00:06:21.070 --> 00:06:25.270
+not. The behavior is exactly the
+not of the end.
+
+NOTE Confidence: 0.79081756
+
+891876cb-46b3-43be-9172-928640a6d582
+00:06:26.030 --> 00:06:31.682
+So basically, whatever at the
+end gate output one here at 0.
+
+NOTE Confidence: 0.61775327
+
+a79a598d-c885-4f40-b465-70d08bcdde63
+00:06:32.260 --> 00:06:33.650
+And, uh.
+
+NOTE Confidence: 0.84250647
+
+8cab817a-a873-42dc-8c45-b75ad630b72a
+00:06:34.820 --> 00:06:38.124
+For the end, whatever ends at 0.
+
+NOTE Confidence: 0.729828
+
+4c12ad65-79d6-44f0-a31c-db289a298ad1
+00:06:38.820 --> 00:06:43.070
+ A For this gate because it follows by did not. It 
+
+NOTE Confidence: 0.729828
+
+11247bfd-80cd-4c3b-bfa5-c1a9746929d8
+00:06:43.070 --> 00:06:47.745
+outputs one and whatever the
+end at one the this digit
+
+NOTE Confidence: 0.729828
+
+a1939038-08bb-41f7-8a99-0e217677b360
+00:06:47.745 --> 00:06:49.870
+units digital unit output 0.
+
+NOTE Confidence: 0.8360018
+
+5b899a4f-408b-4b40-9bbe-1ce6163cb6e3
+00:06:51.450 --> 00:06:58.058
+So we call this an not and or
+NAND and simply. We could reduce
+
+NOTE Confidence: 0.8360018
+
+21d6eefb-58fb-488b-9ce7-2c18da35b9dd
+00:06:58.058 --> 00:07:02.778
+this design by this design and
+now with two inputs.
+
+NOTE Confidence: 0.83741915
+
+0ff27780-23f4-4c3f-8316-e6b1aaca52c1
+00:07:04.540 --> 00:07:08.665
+He said that, uh, another
+shorter form to show the NAND
+
+NOTE Confidence: 0.83741915
+
+3a304b88-3a0b-41a5-b712-3bc777856747
+00:07:08.665 --> 00:07:13.915
+gate is this as an operator. If
+you want to write it down, you
+
+NOTE Confidence: 0.83741915
+
+2c9c8222-929b-4fbc-a028-5f32b038e602
+00:07:13.915 --> 00:07:16.540
+can say that XN&Y or X&Y not.
+
+NOTE Confidence: 0.62376404
+
+592b2d31-95f3-4246-84fb-8d9d3b86f394
+00:07:17.360 --> 00:07:22.040
+Uh, in the next few slides we
+see that we preferred this
+
+NOTE Confidence: 0.62376404
+
+bc3e1258-83cf-448b-96df-1ef863c85f3d
+00:07:22.040 --> 00:07:25.160
+notation than this notation, and
+you'll see now.
+
+NOTE Confidence: 0.8715631
+
+18da35b0-3484-47e7-b94d-02f70885c5b6
+00:07:27.160 --> 00:07:30.916
+So, but remember the behavior
+of this unit. If you have at
+
+NOTE Confidence: 0.8715631
+
+2c70ed7f-b2ad-496e-a578-e9b5eea2ac94
+00:07:30.916 --> 00:07:34.985
+least 1 zero in the input,
+the output going to be one if
+
+NOTE Confidence: 0.8715631
+
+3951665f-bbb8-4b13-8e83-46356c516563
+00:07:34.985 --> 00:07:38.115
+all the inputs are one, the
+output gonna be 0.
+
+NOTE Confidence: 0.8926088
+
+a76e534a-1e24-45f6-99d8-9335cec91503
+00:07:40.260 --> 00:07:44.592
+So again, I mean you can ask
+yourself that what happens if
+
+NOTE Confidence: 0.8926088
+
+c0374f17-a33f-4ed8-8271-bf8555bea4be
+00:07:44.592 --> 00:07:50.007
+one of the input is 0, so should
+I wait for other outputs? Or no?
+
+NOTE Confidence: 0.8926088
+
+fbd0cadd-e3c4-4721-978b-7c0bd9636850
+00:07:50.007 --> 00:07:52.534
+We can directly come up with the
+
+NOTE Confidence: 0.8425071
+
+13a11608-ebce-4c8d-9afe-4c2fc64aac3d
+00:07:52.534 --> 00:07:58.464
+result. So if one of the input
+is 0, because this is the end,
+
+NOTE Confidence: 0.8425071
+
+50900673-ffa4-4fc2-a5f0-2d9669a01745
+00:07:58.464 --> 00:08:02.512
+so you don't have to wait for
+other outputs for other
+
+NOTE Confidence: 0.8425071
+
+8af1ec05-75ed-4535-a505-8d2d41df048f
+00:08:02.512 --> 00:08:06.928
+inputs. So zero makes the end
+zero and then not becomes one.
+
+NOTE Confidence: 0.8425071
+
+36a69718-833e-4555-b3b6-5db97d0ccc2f
+00:08:06.928 --> 00:08:12.080
+So if you have at least 1
+zero, you can simply go to the
+
+NOTE Confidence: 0.8425071
+
+58de565f-5ecb-4952-a203-6ba81aeacc36
+00:08:12.080 --> 00:08:13.552
+output an output one.
+
+NOTE Confidence: 0.8659934
+
+96772fc1-47d0-42fc-97ac-a96839aa6103
+00:08:14.580 --> 00:08:19.368
+Uh, because we have an end here,
+followed by now. If one of the
+
+NOTE Confidence: 0.8659934
+
+f390d845-f6df-4ed5-92f4-21c2292290ac
+00:08:19.368 --> 00:08:23.814
+input is 1 and you don't know
+the other values, the values of
+
+NOTE Confidence: 0.8659934
+
+054dcc97-bc5e-4747-a0b7-d2b00adc81b3
+00:08:23.814 --> 00:08:27.918
+the other inputs you have to
+wait because one for the end
+
+NOTE Confidence: 0.8659934
+
+ad8b8aeb-9559-4f41-95c1-b3ddf39df569
+00:08:27.918 --> 00:08:32.364
+doesn't have an impact. So you
+have to see what are the values
+
+NOTE Confidence: 0.8659934
+
+df9208a7-3f0c-4f32-871a-537c6c1cc5a6
+00:08:32.364 --> 00:08:36.126
+for other inputs to see what's
+going to be the output.
+
+NOTE Confidence: 0.7719706
+
+dfa4f749-d744-4558-b7d0-54e2bd2eb408
+00:08:38.230 --> 00:08:42.542
+Uh, we said that the NAND is
+commutative and this is
+
+NOTE Confidence: 0.7719706
+
+69cf5d3d-61a2-49ec-bb94-5b7f6e02615f
+00:08:42.542 --> 00:08:48.030
+because we can say that X&Y or
+wine and X and this is because
+
+NOTE Confidence: 0.7719706
+
+1a3072ef-87dd-4a7c-b4a4-933455e739a4
+00:08:48.030 --> 00:08:52.734
+of the commutative property of
+the Ant. In the end, we can
+
+NOTE Confidence: 0.7719706
+
+02294577-06e3-497d-af8f-8363661aaa59
+00:08:52.734 --> 00:08:53.910
+switch the inputs.
+
+NOTE Confidence: 0.9296872
+
+96bbfc27-b65b-4604-bba2-510e17d61a56
+00:08:56.900 --> 00:08:59.000
+And another interesting.
+
+NOTE Confidence: 0.74997324
+
+cadf1bb9-527f-4c4a-9633-b78f7fb4f397
+00:09:00.660 --> 00:09:07.236
+Findings of NAND is this. If we
+input the NAND with single
+
+NOTE Confidence: 0.74997324
+
+b0735a53-17f5-4968-a5f0-cc14299df11a
+00:09:07.236 --> 00:09:09.976
+binary variable in both parts.
+
+NOTE Confidence: 0.8097406
+
+3e15654d-10bf-40d1-a32c-b29fb797e8c9
+00:09:11.090 --> 00:09:17.439
+X. Goes to the both input of
+the and followed by the nuts. So
+
+NOTE Confidence: 0.8097406
+
+508ed53e-c80d-427a-b610-57ff01fbe99b
+00:09:17.439 --> 00:09:22.418
+basically what it does is that
+X&X is X followed by did not
+
+NOTE Confidence: 0.78187037
+
+5d5da4ac-d6f2-4934-848f-4152a8faedd4
+00:09:22.418 --> 00:09:27.338
+become export. So X&X followed
+by the nut.
+
+NOTE Confidence: 0.8505114
+
+319c2b72-0e11-489d-bca9-774868027d5c
+00:09:28.320 --> 00:09:33.654
+It is exactly the same as not
+gate, so as I said before, if
+
+NOTE Confidence: 0.8505114
+
+b1710ff8-915f-4bb5-a414-7ade2dadaeb5
+00:09:33.654 --> 00:09:38.607
+you don't find not getting the
+market, you can buy a NAND gate
+
+NOTE Confidence: 0.8505114
+
+c727b13a-eec9-4e8a-a78c-e1a5700f3aea
+00:09:38.607 --> 00:09:42.798
+and then input both inputs with
+one binary variable to generate
+
+NOTE Confidence: 0.8505114
+
+1c22ca7e-3eb5-4e30-9b2e-7b6e1a3a1aea
+00:09:42.798 --> 00:09:43.941
+the not gate.
+
+NOTE Confidence: 0.81593215
+
+0404cf4b-08c1-4b39-b852-d969c1facade
+00:09:45.670 --> 00:09:51.370
+So XX not X and X is equal to X not or X'
+
+NOTE Confidence: 0.8056812
+
+95d2bb69-d946-40bc-a0ce-79bef104d848
+00:09:54.280 --> 00:09:59.680
+We end we ended here so now we
+want to see that. Is it possible
+
+NOTE Confidence: 0.8469317
+
+e6051904-08e0-499d-b082-90782642517d
+00:09:59.680 --> 00:10:03.252
+to. Extend this digital unit
+to have three inputs. We
+
+NOTE Confidence: 0.8469317
+
+8e3468ac-16ff-412b-94e2-91600e8fc0c2
+00:10:03.252 --> 00:10:07.080
+already did that for the And & or And We said
+
+NOTE Confidence: 0.8469317
+
+ba6d3f1e-fb4f-4340-b5da-00a7f627ab12
+00:10:07.080 --> 00:10:10.908
+that it is possible to do
+that and actually in the
+
+NOTE Confidence: 0.8469317
+
+f4eecbab-18be-4b09-9b14-90e2772d78b6
+00:10:10.908 --> 00:10:14.736
+market we have and with three
+input and with four inputs
+
+NOTE Confidence: 0.8469317
+
+d5ca244a-3e41-4973-b007-d30db44deed8
+00:10:14.736 --> 00:10:19.260
+and the nice property of the
+end and or is that they are
+
+NOTE Confidence: 0.8469317
+
+500a68e9-52cb-46de-9042-64a85b6efa76
+00:10:19.260 --> 00:10:22.392
+associated with, meaning that
+the order of the input
+
+NOTE Confidence: 0.8469317
+
+5ff88461-61bb-42ab-90e1-0d51bdfe6b2d
+00:10:22.392 --> 00:10:26.568
+doesn't matter. So that's why
+we can have and and all with
+
+NOTE Confidence: 0.8469317
+
+aa47473f-eef5-4e99-8d27-959e87d55bcf
+00:10:26.568 --> 00:10:27.960
+three or four inputs.
+
+NOTE Confidence: 0.85468256
+
+1c3c368e-36ed-4f04-8bdf-50a4036411cc
+00:10:29.530 --> 00:10:34.730
+But let's see whether we have
+the net with free input or not.
+
+NOTE Confidence: 0.80797184
+
+fe7cbb89-fbca-4928-87a8-e473424b7b8d
+00:10:35.450 --> 00:10:39.696
+So this is now with two
+input and now we're not
+
+NOTE Confidence: 0.80797184
+
+40ecc7c0-d813-4e47-b1b3-420e62b6358c
+00:10:39.696 --> 00:10:41.240
+built with three inputs.
+
+NOTE Confidence: 0.8347868
+
+da1b553f-0411-4441-aeb5-87c74d86e804
+00:10:42.400 --> 00:10:47.488
+So based on the truth table,
+what would be the behavior of
+
+NOTE Confidence: 0.8347868
+
+11153c66-791b-4e9a-9421-ed4199f18d33
+00:10:47.488 --> 00:10:52.152
+the NAND with three input? We
+expect that NAND with three
+
+NOTE Confidence: 0.8347868
+
+6d21cdbd-3d9b-4025-af8b-0b473089e3fd
+00:10:52.152 --> 00:10:57.240
+input is an ad with three input
+followed by the nuts. So
+
+NOTE Confidence: 0.8347868
+
+222eb2bd-62cb-4ed7-9784-cb5ea3fd9027
+00:10:57.240 --> 00:11:01.056
+basically and of 300 variables
+followed by do not.
+
+NOTE Confidence: 0.8689589
+
+f5ffb37b-69b0-4cc1-932f-ec48a67ff287
+00:11:02.310 --> 00:11:06.594
+XYZ and then we end them
+together and then not at the
+
+NOTE Confidence: 0.8689589
+
+bc33045d-5941-4751-9b49-b9dc85a63c32
+00:11:06.594 --> 00:11:11.592
+end. So as I said, if you have
+at least 1 zero input, the
+
+NOTE Confidence: 0.8689589
+
+13517f7e-99db-4807-8431-30b9e4743af6
+00:11:11.592 --> 00:11:16.233
+output going to be one if all
+the inputs are one, the output
+
+NOTE Confidence: 0.8689589
+
+cf325b2d-8dbc-4694-b3e2-8b48483003fe
+00:11:16.233 --> 00:11:17.661
+going to be 0.
+
+NOTE Confidence: 0.77082276
+
+b938a488-db60-4f78-9c6b-6e82c2519f49
+00:11:18.780 --> 00:11:22.696
+So you can follow the same
+behavior for NAND with four
+
+NOTE Confidence: 0.77082276
+
+fa05c3dd-cc27-4e7c-966f-3b3eb99e071d
+00:11:22.696 --> 00:11:24.476
+inputs, 5 inputs an attacher.
+
+NOTE Confidence: 0.9030657
+
+2f03901d-046b-4903-99b0-a093a238e693
+00:11:25.410 --> 00:11:30.437
+But this design this behavior.
+Let's see what's going on with
+
+NOTE Confidence: 0.9030657
+
+3576a7b4-2b06-4e82-9536-ab9bf3f0b3f3
+00:11:30.437 --> 00:11:33.179
+this behavior. If you wanna use.
+
+NOTE Confidence: 0.8033319
+
+8f4d37ea-d868-461d-90ab-f4d0fac7631b
+00:11:34.030 --> 00:11:36.466
+This one then, and with
+two input.
+
+NOTE Confidence: 0.8412842
+
+f3f00aac-8b55-469d-b95d-8630c80b587f
+00:11:37.520 --> 00:11:42.560
+So we already saw how we built
+the and with free food or how we
+
+NOTE Confidence: 0.8412842
+
+a428a962-594a-4593-b477-e166c88038cc
+00:11:42.560 --> 00:11:46.592
+build all with the input. Are
+you stacking the gates with two
+
+NOTE Confidence: 0.8412842
+
+b9cc63e0-a2c8-4f6d-93cc-cc99dd4928ad
+00:11:46.592 --> 00:11:48.608
+inputs? So let's do the same
+
+NOTE Confidence: 0.7594053
+
+b1594914-34b6-4e70-9805-4559a1a010d5
+00:11:48.608 --> 00:11:52.538
+thing and. So if you have X NAND
+
+NOTE Confidence: 0.8071085
+
+a87ba592-17c2-4e60-a87c-27304ea425a4
+00:11:52.538 --> 00:11:59.620
+with Y. And then finally NAND
+with Z&F. Let's see, this design
+
+NOTE Confidence: 0.8071085
+
+aeefb19f-f281-4bb4-b6b5-386fa8ed0e64
+00:11:59.620 --> 00:12:01.756
+is correct or not.
+
+NOTE Confidence: 0.8650946
+
+942c249f-2e9c-4f24-bfd7-4cee4745c4a3
+00:12:02.880 --> 00:12:07.740
+ So again, I mean somebody said that I designed the NAND with 
+
+NOTE Confidence: 0.8650946
+
+e8cd37ed-1a72-4c75-ad8f-53d7667b7dd0
+00:12:07.740 --> 00:12:12.195
+three inputs and let's analyze
+that and let's see this is.
+
+NOTE Confidence: 0.7868414
+
+ef6550cc-6210-4c5a-bd6c-d57e428c8f4d
+00:12:12.870 --> 00:12:15.494
+Uh, this design have
+the behavior of this
+
+NOTE Confidence: 0.7868414
+
+8c4b50ef-3c6f-4b7d-9002-2b7696da055f
+00:12:15.494 --> 00:12:16.806
+truth table or not?
+
+NOTE Confidence: 0.7429528
+
+e83cbadc-59e5-4415-8536-a734a6a00aff
+00:12:18.470 --> 00:12:24.203
+So if you follow the first
+output of the, the output of the
+
+NOTE Confidence: 0.81918573
+
+fddcc9ef-53b7-493c-b419-bceaf176fd28
+00:12:24.203 --> 00:12:29.530
+first man. The first man says
+that XY followed by did not.
+
+NOTE Confidence: 0.81786036
+
+64a72688-599e-457d-bb18-bf9a9dbf2da1
+00:12:30.080 --> 00:12:35.974
+So this is now between X&Y, so
+if we just consider X&Y. So for
+
+NOTE Confidence: 0.81786036
+
+ea9968e6-3349-4cf8-ae1c-d7d4f0120eb6
+00:12:35.974 --> 00:12:41.026
+ the first row it outputs one second row output 1 3 as well 
+
+NOTE Confidence: 0.81786036
+
+0ffebcb0-6e8a-4f5e-b2a9-5563c83f837b
+00:12:41.026 --> 00:12:45.657
+because we have at least 1 zero
+in X or Y.
+
+NOTE Confidence: 0.85448855
+
+b05cc4d7-714d-4da4-ae80-be8d72733de9
+00:12:46.610 --> 00:12:51.417
+But X&Y is both one, it
+becomes zero for the F1,
+
+NOTE Confidence: 0.85448855
+
+3b12ebb9-5d34-4873-8a73-ac3778b5fa3f
+00:12:51.417 --> 00:12:52.728
+the first output.
+
+NOTE Confidence: 0.8537249
+
+07cb008b-6915-4c6b-8f89-8eb77a61f924
+00:12:54.860 --> 00:13:00.978
+So if you follow for the other
+rows. So here again we have 00
+
+NOTE Confidence: 0.8537249
+
+203dfd9d-7b07-4415-bd5c-a4f8d6ae7e5c
+00:13:00.978 --> 00:13:06.659
+output, 101 at 1101110. This is
+the. These are the output of the
+
+NOTE Confidence: 0.71787494
+
+b0364dd7-a471-47b9-8ded-d46da70047fa
+00:13:06.659 --> 00:13:09.140
+1st. Now F1.
+
+NOTE Confidence: 0.8664611
+
+54be100e-c295-4582-b164-03ca79318173
+00:13:09.840 --> 00:13:13.080
+So this F1 gone and and with Z.
+
+NOTE Confidence: 0.80355525
+
+cb5aa882-accc-40e2-aad5-c72be40d0b0a
+00:13:13.820 --> 00:13:21.140
+To output the final F. So here
+is the I mean a written form of
+
+NOTE Confidence: 0.80355525
+
+2eb0b433-f789-46f2-9b6d-2bfa4332fdb9
+00:13:21.140 --> 00:13:28.460
+the OUTPUT, so F is F1 and with Z followed by the nots for X and
+
+NOTE Confidence: 0.80355525
+
+f1d50eb2-6052-40f9-91f9-bbfd782d9cd6
+00:13:28.460 --> 00:13:33.828
+with Y, not and then and with Z followed by the not
+
+NOTE Confidence: 0.8491417
+
+de3a39e4-8a31-4d8f-a0e7-4f18323afdd9
+00:13:34.820 --> 00:13:40.742
+So if you calculate the value of
+the last column, so this is F1
+
+NOTE Confidence: 0.8491417
+
+351a1fb1-439f-4e46-973c-c5da0f1007aa
+00:13:40.742 --> 00:13:46.664
+and this is Z, so zero and with
+one becomes zero followed by the
+
+NOTE Confidence: 0.8491417
+
+b474b37e-a631-4182-8947-ea1562ff78eb
+00:13:46.664 --> 00:13:47.933
+not becomes one.
+
+NOTE Confidence: 0.84568876
+
+177d981b-83f1-4bcc-b3d0-7898e643589d
+00:13:49.450 --> 00:13:57.238
+Also, here zero and one is
+1. So up until here everything
+
+NOTE Confidence: 0.8704541
+
+a65f78d3-4cee-4177-b0d7-1fcbb55eca79
+00:13:57.238 --> 00:14:03.320
+is OK. But here we'll
+see, uh, I mean, zero.
+
+NOTE Confidence: 0.85626477
+
+008357b7-2d3a-46b5-a902-837acb5594f9
+00:14:03.920 --> 00:14:08.400
+000 and becomes zero followed by
+did not become one.
+
+NOTE Confidence: 0.91316956
+
+2fc7fb47-d607-404b-91c9-8d091f4618a8
+00:14:09.100 --> 00:14:14.094
+However, when you see here, it
+becomes one and with one.
+
+NOTE Confidence: 0.8539274
+
+7e75e848-1d2c-4aef-b9aa-ca52cdd3ac9a
+00:14:14.650 --> 00:14:17.324
+Followed by the not,
+which becomes 0.
+
+NOTE Confidence: 0.8803469
+
+231629a5-aab6-4b7d-9635-146ca7f2890f
+00:14:19.150 --> 00:14:24.430
+However, if you compared this
+role with the behavior we asked.
+
+NOTE Confidence: 0.8211374
+
+8077903e-c1d4-4f78-b2ca-f93a16886052
+00:14:25.330 --> 00:14:31.023
+Here. You said that X up
+as if at least one of
+
+NOTE Confidence: 0.8211374
+
+d093ae54-dba0-4794-89d0-c082510cd118
+00:14:31.023 --> 00:14:34.290
+the inputs are zero. The
+output cannot be one.
+
+NOTE Confidence: 0.928663
+
+2db8e52a-0a1e-409e-9187-450ed79bd3d3
+00:14:35.310 --> 00:14:37.300
+But here we see that.
+
+NOTE Confidence: 0.91128606
+
+e5297cfa-4b1d-4816-905b-74a70b18a8d7
+00:14:37.920 --> 00:14:40.680
+We have at least
+we have two zeros.
+
+NOTE Confidence: 0.7751639
+
+db10d62b-fbc2-4a83-b8c8-bedc4f7ed616
+00:14:41.880 --> 00:14:43.050
+In the inputs.
+
+NOTE Confidence: 0.8866976
+
+26f0608c-9239-4321-b021-885bc46ecda3
+00:14:43.710 --> 00:14:46.414
+But finally we have
+zero in the output.
+
+NOTE Confidence: 0.9074511
+
+e4d92484-e3c3-4f83-a6bd-434188c015f6
+00:14:47.610 --> 00:14:51.944
+So what it basically says
+that it says that the way
+
+NOTE Confidence: 0.9074511
+
+72393535-534b-4775-b061-e73187769cef
+00:14:51.944 --> 00:14:56.672
+this is an works is not
+the way we want to work.
+
+NOTE Confidence: 0.8538139
+
+737228a6-6406-421f-9287-c937d0c6573e
+00:14:58.250 --> 00:15:02.534
+So these are the entries that we
+want to add to, but this design
+
+NOTE Confidence: 0.85809666
+
+ea93680d-e5bf-4c63-bc91-acdb8f2b0d8c
+00:15:02.534 --> 00:15:06.580
+app with zero. The last one
+we want to output 0, but
+
+NOTE Confidence: 0.85809666
+
+6f613c5d-5cdc-4b84-9bbc-071b4bf2c585
+00:15:06.580 --> 00:15:07.980
+this is an output one.
+
+NOTE Confidence: 0.85048145
+
+030976c0-89ba-4734-b660-d51d25436c35
+00:15:09.620 --> 00:15:15.976
+So we did the analysis. We check
+the behavior and we see that for
+
+NOTE Confidence: 0.85048145
+
+52a0123b-fbdf-4e8a-bd20-82dab78af898
+00:15:15.976 --> 00:15:20.970
+some rows we expect to output
+one, but design output 0.
+
+NOTE Confidence: 0.7783407
+
+aeb7ca2a-4146-4c00-b3d5-e641406c3166
+00:15:22.030 --> 00:15:24.190
+So when we are.
+
+NOTE Confidence: 0.91191447
+
+bfe99907-e094-4940-9dd0-15ff288ff91c
+00:15:25.380 --> 00:15:32.720
+Let me. So we we basically
+says that this design is not
+
+NOTE Confidence: 0.91191447
+
+47de91f8-5f2c-4f0f-b32f-cb0dd70c9b7f
+00:15:32.720 --> 00:15:35.535
+working properly or it's not
+
+NOTE Confidence: 0.90017533
+
+477c4d1f-8467-421d-afe6-124aa8da1f29
+00:15:35.535 --> 00:15:39.765
+effective. When we say that
+it's not effective means that
+
+NOTE Confidence: 0.90017533
+
+102bebad-7b14-48ff-a1f8-8fdf51817a28
+00:15:39.765 --> 00:15:42.525
+the design is not following
+our desired functionality.
+
+NOTE Confidence: 0.78190595
+
+aeb6c897-7753-41d0-82d8-96d6c6c3ae3c
+00:15:43.940 --> 00:15:49.101
+So if you want to fix this
+design, we said that based on
+
+NOTE Confidence: 0.78190595
+
+4fa48783-0f6c-4365-9836-253a72f4b40a
+00:15:49.101 --> 00:15:54.262
+the idea of NAND followed by the
+nut, you could say that NAND
+
+NOTE Confidence: 0.78190595
+
+27b1f1b3-c288-46f3-9746-b6aac5a6311e
+00:15:54.262 --> 00:15:59.423
+with three input would be in and
+with three input followed by the
+
+NOTE Confidence: 0.78190595
+
+a10dc1fa-4ec4-4e2e-a1b1-435597e6886b
+00:15:59.423 --> 00:16:04.981
+nuts. So we could say that NAND
+is with. The input is not of
+
+NOTE Confidence: 0.78190595
+
+d3cdc17e-4a16-4e32-8d7d-bc1fab1a3950
+00:16:04.981 --> 00:16:06.172
+free input and.
+
+NOTE Confidence: 0.8704729
+
+0256dd32-dedf-44ce-9433-20f66c4d1942
+00:16:07.600 --> 00:16:12.176
+So and we said, we could say
+that the correct design is this.
+
+NOTE Confidence: 0.8152888
+
+e08c9bfe-911b-4f7d-924e-08711d8643f3
+00:16:12.910 --> 00:16:15.934
+And with free input
+followed by do not.
+
+NOTE Confidence: 0.8310821
+
+ed6449dd-2b17-46ce-bffe-bd1d7fd1b70e
+00:16:17.330 --> 00:16:21.298
+So if you check the
+functionality or analysis
+
+NOTE Confidence: 0.8310821
+
+7535e8a2-f44d-42cf-a9ae-455c968d8bc6
+00:16:21.298 --> 00:16:25.762
+of this design, you see
+that this design outputs
+
+NOTE Confidence: 0.8310821
+
+89527df3-8dc5-4ab0-b8e5-20cae5651254
+00:16:25.762 --> 00:16:27.250
+the correct values.
+
+NOTE Confidence: 0.8309077
+
+8e130846-bc57-40fd-bde6-e17413e6ea18
+00:16:28.310 --> 00:16:32.522
+This is not the expected values
+and these are the output values,
+
+NOTE Confidence: 0.8309077
+
+96a4adcc-630f-4422-903c-9da15efdf164
+00:16:32.522 --> 00:16:36.734
+so you see that for the same
+input they output the same.
+
+NOTE Confidence: 0.8511817
+
+9aa88c98-0870-4229-adff-cd227f15cd0d
+00:16:38.600 --> 00:16:43.501
+So we say that this design now
+is correct. An following our own
+
+NOTE Confidence: 0.8511817
+
+866d1060-6012-4e53-a26d-3dc3ee1933f1
+00:16:43.501 --> 00:16:45.386
+arm. I mean this functionality.
+
+NOTE Confidence: 0.8078465
+
+4e747c04-cf3f-4b6b-aab5-4c926235bbdf
+00:16:47.740 --> 00:16:52.120
+And the nice property of this
+design is that because and has
+
+NOTE Confidence: 0.8078465
+
+637e3c40-3252-4f21-9f4d-331f2ba56ec8
+00:16:52.120 --> 00:16:55.405
+the associative property,
+meaning that the order of the
+
+NOTE Confidence: 0.8078465
+
+14ec8f52-42c8-4107-abda-b15f1d514f02
+00:16:55.405 --> 00:16:56.500
+input doesn't matter.
+
+NOTE Confidence: 0.73513156
+
+6839743e-0343-42ee-9e52-cc1a90ae2864
+00:16:57.070 --> 00:17:01.558
+We can use the same phone at
+this design of NAND, meaning
+
+NOTE Confidence: 0.73513156
+
+c434870c-505d-4c0e-b8d0-51eb1106c967
+00:17:01.558 --> 00:17:06.046
+that for the NAND the inputs
+doesn't matter. The order of the
+
+NOTE Confidence: 0.73513156
+
+c76a08e5-a44f-4b1c-b705-d72bea07e92f
+00:17:06.046 --> 00:17:07.168
+input doesn't matter.
+
+NOTE Confidence: 0.80526316
+
+1b95ece3-f0c0-4319-a5d8-afa33fa525f1
+00:17:08.900 --> 00:17:13.432
+So this viewpoint to dinner with
+three input is just another
+
+NOTE Confidence: 0.80526316
+
+e149f6d6-c61a-4d09-b1ea-f9df6b07e675
+00:17:13.432 --> 00:17:15.492
+three input, followed by the
+
+NOTE Confidence: 0.67814666
+
+9a8180dd-7a22-4e65-b8c9-34bee9907580
+00:17:15.492 --> 00:17:21.173
+not. Not with four inputs. The
+view this the correct is this.
+
+NOTE Confidence: 0.7254141
+
+59400179-a914-4f30-a9ca-892a65e613eb
+00:17:21.970 --> 00:17:27.664
+And and and and with four input
+followed by the nut instead of
+
+NOTE Confidence: 0.7254141
+
+17860946-357a-4ff0-9df9-82dd88064451
+00:17:27.664 --> 00:17:31.168
+just attaching or stacking NAND
+with two inputs.
+
+NOTE Confidence: 0.8264279
+
+17b6e9cc-af62-46d6-bf70-87b368ffeadc
+00:17:32.700 --> 00:17:36.500
+So in summary, so given
+
+NOTE Confidence: 0.8442787
+
+6b01a738-7b5e-4fa5-a0ff-6fd28fa0b689
+00:17:36.500 --> 00:17:42.596
+two designs. And we already
+we are given the desired
+
+NOTE Confidence: 0.8442787
+
+def21d8e-0f76-4157-abdb-5595270a8dcf
+00:17:42.596 --> 00:17:46.889
+functionality. After the
+analysis we said that F1 is
+
+NOTE Confidence: 0.8442787
+
+2d3b7b8b-c4c9-4693-b6d9-9f7fcfeb1475
+00:17:46.889 --> 00:17:52.613
+not the part that we expect.
+So we said that the first
+
+NOTE Confidence: 0.8442787
+
+88d45696-d717-4ace-8fb8-937933f5e134
+00:17:52.613 --> 00:17:54.521
+design is not effective.
+
+NOTE Confidence: 0.8298054
+
+2edefd17-f803-4931-bc23-04749c432e4b
+00:17:55.700 --> 00:18:00.512
+Because we want to output X&Y&Z
+followed by the nut, but F1
+
+NOTE Confidence: 0.8298054
+
+5e9556a3-95c1-4108-8bfd-b87d575e9436
+00:18:00.512 --> 00:18:04.121
+doesn't output that for
+different value of the inputs.
+
+NOTE Confidence: 0.84224695
+
+5a21884c-ef6b-42ad-bff7-ea126ed45857
+00:18:05.240 --> 00:18:09.416
+However, F2 follows exactly the
+same functionality that we
+
+NOTE Confidence: 0.84224695
+
+d21f4042-6aa2-4ea9-8a2d-435a7b6e277d
+00:18:09.416 --> 00:18:14.984
+wanted, so the first one is the
+F2. This design is effective.
+
+NOTE Confidence: 0.8816073
+
+dbbc8dba-b5d2-411f-b94a-07fe8f3f3bf6
+00:18:15.930 --> 00:18:20.264
+So when it design is not
+effective, meaning that if the
+
+NOTE Confidence: 0.8816073
+
+7469857d-523a-4f74-a38c-406a38af6209
+00:18:20.264 --> 00:18:24.992
+design is not correct, we don't
+check the other things so you
+
+NOTE Confidence: 0.8816073
+
+30557ac8-712a-4f3c-ad1c-d926a9cc5023
+00:18:24.992 --> 00:18:29.720
+remember when we design the end
+with three input or and with
+
+NOTE Confidence: 0.8816073
+
+f8b88486-b3a8-4fdb-9f16-e4d92777d1b6
+00:18:29.720 --> 00:18:32.084
+four input, we had two different
+
+NOTE Confidence: 0.8778879
+
+095ef9ef-acc4-4cf3-a64d-15f0bef9e7da
+00:18:32.084 --> 00:18:36.842
+designs. Both were effective
+in the both were correct. We
+
+NOTE Confidence: 0.8778879
+
+1709e42a-1bdf-4c1c-b382-72799ef3d7b3
+00:18:36.842 --> 00:18:41.000
+check if efficiency or cost
+of the designs, but when we
+
+NOTE Confidence: 0.8778879
+
+672089f1-02d9-433d-8ee9-ecd0e230f3fd
+00:18:41.000 --> 00:18:45.536
+see that the design is not
+correct at all, we don't go
+
+NOTE Confidence: 0.8778879
+
+9e1161cd-d1df-4379-9b26-5ed5e7c069c3
+00:18:45.536 --> 00:18:47.426
+to the other steps because.
+
+NOTE Confidence: 0.81356776
+
+80080258-7a05-453c-8e8b-1a900e3925e5
+00:18:49.020 --> 00:18:52.860
+Uh, the design is incorrect. I
+mean whether they design is cost
+
+NOTE Confidence: 0.81356776
+
+8630880a-dfb8-4a1f-b95f-7e69c866d135
+00:18:52.860 --> 00:18:56.380
+benefit effective or whether the
+design is fast. But because the
+
+NOTE Confidence: 0.81356776
+
+5ac7f7ec-dd45-454b-9162-9a44f5565f89
+00:18:56.380 --> 00:18:59.900
+apples are not correct, we say
+that this design is not.
+
+NOTE Confidence: 0.6423801
+
+5c55b50a-81b5-45ee-9b40-215493c753a1
+00:19:00.490 --> 00:19:01.150
+Valid.
+
+NOTE Confidence: 0.8751457
+
+30c5eaf3-a330-4eed-a3d7-91550eda0495
+00:19:02.420 --> 00:19:06.074
+So we go to the
+efficiency check and cost
+
+NOTE Confidence: 0.8751457
+
+e156ea16-ba66-4ffe-bae4-82e5dd81064b
+00:19:06.074 --> 00:19:08.916
+effective check after the
+we checking the
+
+NOTE Confidence: 0.8751457
+
+f0e334cf-2a40-47fe-bebe-9fd860c3273c
+00:19:08.916 --> 00:19:11.352
+effectiveness of the
+design. After checking
+
+NOTE Confidence: 0.8751457
+
+11a0ae90-38c9-403a-aa40-da974cf17ea4
+00:19:11.352 --> 00:19:12.976
+the design is correct.
+
+NOTE Confidence: 0.8903885
+
+3cdca367-91c5-4d05-a6d5-9132dac9afef
+00:19:15.680 --> 00:19:20.027
+So what if somebody says
+that OK?
+
+NOTE Confidence: 0.6657424
+
+6131d917-2ce8-44dc-8060-e2d8b019430a
+00:19:21.580 --> 00:19:27.028
+ I now know that, uh, the NAND with THREE  input not this. 
+
+NOTE Confidence: 0.87369645
+
+2b11f68f-d609-4aca-99b8-4500b21b9689
+00:19:27.880 --> 00:19:32.511
+So what is this? Sometimes I
+mean somebody asked that. So
+
+NOTE Confidence: 0.87369645
+
+3cf3c023-d77e-43b5-9ff4-54e71e04bc33
+00:19:32.511 --> 00:19:36.721
+what is this? You could say that
+this is X9Y.
+
+NOTE Confidence: 0.81384265
+
+fb7bb1ea-e7fe-4112-bca0-df7f83173e32
+00:19:37.370 --> 00:19:39.550
+And then and with Z.
+
+NOTE Confidence: 0.8549378
+
+c2641cd1-30db-4ff5-9f17-ed46b96f83f9
+00:19:41.250 --> 00:19:43.315
+So this is not not with three
+
+NOTE Confidence: 0.77110565
+
+f0199ad0-a3d0-4b17-a0cd-8c5477fbd71d
+00:19:43.315 --> 00:19:46.970
+ input, this is. Two nands following each other. 
+
+NOTE Confidence: 0.8544144
+
+49c86e36-f802-4036-a890-01a581330501
+00:19:48.030 --> 00:19:53.574
+And this design is not a good
+design. I mean not that I mean
+
+NOTE Confidence: 0.8544144
+
+e005d238-290a-421f-9f07-aaec1464b2a5
+00:19:53.574 --> 00:19:55.554
+famous or very common design.
+
+NOTE Confidence: 0.67855394
+
+d02cdd39-87a6-42e3-8523-cbfd5d928b3f
+00:19:56.240 --> 00:19:59.552
+Uh, because it doesn't have a
+
+NOTE Confidence: 0.84792876
+
+811a5fde-6033-49cc-b7fc-340b9d645542
+00:19:59.552 --> 00:20:01.900
+nice. Property of the
+associativity.
+
+NOTE Confidence: 0.7569179
+
+ac19e109-a0b6-4eac-994a-6a7ccba87bd4
+00:20:03.120 --> 00:20:05.340
+ Associativity said that. 
+
+NOTE Confidence: 0.8121511
+
+15b77061-a922-474f-9081-371ae03e1bf2
+00:20:06.150 --> 00:20:10.134
+ We can switch the inputs for instance in AND with three input 
+
+NOTE Confidence: 0.8121511
+
+017ec8c1-3204-431c-a9b1-85c956d3a776
+00:20:10.134 --> 00:20:12.458
+or or with three input we could
+
+NOTE Confidence: 0.90819216
+
+946d54e1-8042-4928-b9dd-85ab00697e6e
+00:20:12.458 --> 00:20:18.320
+switch the input. And but here
+you cannot switch the input.
+
+NOTE Confidence: 0.81860286
+
+42bbd187-1d70-47c8-929c-5007d168b6d3
+00:20:18.890 --> 00:20:23.726
+If you apply first, then add an
+excellent buy and then on the.
+
+NOTE Confidence: 0.83360183
+
+fca67fa9-061c-4a3e-a307-6af0bf3afc3b
+00:20:24.910 --> 00:20:31.616
+And check the output with when
+you do the NAND first on Y&Z and
+
+NOTE Confidence: 0.83360183
+
+3269fc46-89a4-4d60-bd4a-ea5b404ba98e
+00:20:31.616 --> 00:20:36.406
+then Onyx. Basically if you
+switch the X with Z.
+
+NOTE Confidence: 0.8227046
+
+26a66161-817c-49ab-b3a8-8ad4014299d1
+00:20:37.130 --> 00:20:39.596
+The output of earth gonna be
+
+NOTE Confidence: 0.8377806
+
+dbe47c4c-4b6e-42f4-9208-84d258c23cb5
+00:20:39.596 --> 00:20:45.670
+different. So this is left as
+an elector assignment for this
+
+NOTE Confidence: 0.8377806
+
+4a972626-82ff-41cf-9c8e-8618175b157d
+00:20:45.670 --> 00:20:51.574
+week. So basically you have to
+create the truth table one color
+
+NOTE Confidence: 0.8377806
+
+65d0eac1-bc04-4f6b-b737-40b580d99b4a
+00:20:51.574 --> 00:20:53.050
+or the is.
+
+NOTE Confidence: 0.83090055
+
+8e1fb047-fdbb-4f28-be59-b4d5bd8cc905
+00:20:53.920 --> 00:20:59.406
+Situation another column for. If
+you do the Nana first on Y&Z and
+
+NOTE Confidence: 0.83090055
+
+953a3e49-4db3-47d7-b076-c3d9134d0d5e
+00:20:59.406 --> 00:21:04.892
+then buy eggs and check whether
+for the same input they add to
+
+NOTE Confidence: 0.83090055
+
+4cffdcd5-c25f-44e3-84ad-b18c2cb49a38
+00:21:04.892 --> 00:21:07.002
+the same values or not.
+
+NOTE Confidence: 0.86955655
+
+2d6e3494-f961-4118-93e1-87ae42f6c5f7
+00:21:09.000 --> 00:21:13.452
+So if you check that you'll see
+that they are not equal.
+
+NOTE Confidence: 0.8969618
+
+7a77f270-9b7f-43d1-a342-e8639aa13809
+00:21:14.460 --> 00:21:17.584
+So as a result, we could say
+that they are associated.
+
+NOTE Confidence: 0.8710683
+
+fa174b78-d836-4670-b6f0-6c1e6048493d
+00:21:18.580 --> 00:21:23.104
+So basically this is just for
+the sake of analysis, so never
+
+NOTE Confidence: 0.8710683
+
+eb63eabc-6771-4a55-b10a-31f5ca2a3f04
+00:21:23.104 --> 00:21:27.251
+in the novel never. I mean
+very rarely in the digital
+
+NOTE Confidence: 0.8710683
+
+68db36e1-8eb2-441a-90e9-42d9d9a7cfc6
+00:21:27.251 --> 00:21:30.644
+design or in digital circuits
+you see this design.
+
+NOTE Confidence: 0.84339434
+
+4f48d491-3f3d-4b23-bc08-5ce301540d23
+00:21:31.700 --> 00:21:35.957
+Because we usually want the
+design it get to be associative.
+
+NOTE Confidence: 0.7735485
+
+a3a3bb99-465c-44a6-bd8d-de79e2de5e9d
+00:21:37.200 --> 00:21:43.020
+So as a result, whenever you see
+somebody says that NAND with
+
+NOTE Confidence: 0.7735485
+
+e5a8a615-8e7d-4528-b92b-ffbd6bc911e7
+00:21:43.020 --> 00:21:48.355
+three input, they mean this one
+and end with no, not.
+
+NOTE Confidence: 0.85934997
+
+591e7b8f-8b54-4e26-b61b-46e2dc71de8b
+00:21:50.020 --> 00:21:54.892
+So I can any questions so far,
+why are we getting different
+
+NOTE Confidence: 0.85934997
+
+de5acd43-e375-4641-9cc9-2dd47cc499a3
+00:21:54.892 --> 00:21:58.140
+results even though the design
+is very similar?
+
+NOTE Confidence: 0.84138185
+
+975c649d-cb1e-4919-9704-33dd11ca3c21
+00:22:02.370 --> 00:22:05.390
+In in this one, yes.
+
+NOTE Confidence: 0.7185111
+
+a88eebdb-fedc-4f6a-8b42-acbc0fe8dbb2
+00:22:06.790 --> 00:22:11.410
+Uh, although the design is
+very similar if you check as
+
+NOTE Confidence: 0.7185111
+
+f7894b45-64e6-44ed-9a03-0340c9e5c8e0
+00:22:11.410 --> 00:22:14.350
+a lecturer summer, you can
+check that.
+
+NOTE Confidence: 0.8611086
+
+d34083ab-74fb-46c7-8905-10fd5b3295cc
+00:22:16.420 --> 00:22:19.170
+Or let me go here.
+
+NOTE Confidence: 0.90943086
+
+7e4ad839-6566-494e-b47b-55a2da71f64f
+00:22:19.910 --> 00:22:20.450
+Yeah.
+
+NOTE Confidence: 0.83512044
+
+2b01db2e-a45b-4cac-8735-eaa7314ef42d
+00:22:23.010 --> 00:22:28.650
+This is because of this, because
+the first inputs for the second
+
+NOTE Confidence: 0.83512044
+
+f288847b-89c4-47dc-a2bb-aa4bc012e5ec
+00:22:28.650 --> 00:22:30.530
+level has it not.
+
+NOTE Confidence: 0.90672123
+
+fd6d5b06-834c-4d17-9b29-8e6e689f67aa
+00:22:31.250 --> 00:22:35.410
+So very simple. If you check the
+output of F1.
+
+NOTE Confidence: 0.56409544
+
+7d181dcd-6e59-484b-a3e2-9257a9b0973e
+00:22:36.170 --> 00:22:37.970
+None with Z.
+
+NOTE Confidence: 0.7874859
+
+252a81ed-fbbf-402e-ab57-0dc41fe202b0
+00:22:39.010 --> 00:22:42.860
+So this is F1 and with Z
+followed by the nuts.
+
+NOTE Confidence: 0.86385137
+
+886ec948-562f-43d9-ba1a-61cdabd476da
+00:22:43.790 --> 00:22:47.360
+So which is this one? So
+basically, if you check
+
+NOTE Confidence: 0.86385137
+
+94c935e9-84b9-4170-852a-dd1ffccf63e8
+00:22:47.360 --> 00:22:50.573
+the values for these rows
+or they are different.
+
+NOTE Confidence: 0.9144638
+
+2cc50a3f-ed06-4c49-8cb1-244b263b8fd8
+00:22:52.520 --> 00:22:53.648
+So because of this.
+
+NOTE Confidence: 0.8671206
+
+8dcb3879-276f-4e46-82ef-c95b8f337cd9
+00:22:54.400 --> 00:22:58.250
+Because of this, the
+result is different.
+
+NOTE Confidence: 0.8015821
+
+18104315-a1be-40dd-8733-9f25103d2282
+00:22:59.460 --> 00:23:03.541
+Although it's very similar to
+the angle three input, but you
+
+NOTE Confidence: 0.8015821
+
+553e1fbc-15e4-49f3-a2b2-8168537d7ec0
+00:23:03.541 --> 00:23:08.735
+cannot do the same with Dean and
+so that's why you always have to
+
+NOTE Confidence: 0.8015821
+
+712aee69-f1ba-46c2-982a-50ea36e5516a
+00:23:08.735 --> 00:23:10.219
+check the the design.
+
+NOTE Confidence: 0.90204954
+
+a61c03d3-0838-4a01-8732-9aa5ac8a9daf
+00:23:11.930 --> 00:23:14.107
+So we can see another one here.
+
+NOTE Confidence: 0.87167025
+
+1df2dc44-3bc8-4106-829f-2563a577ab86
+00:23:14.900 --> 00:23:17.728
+So then another practice.
+
+NOTE Confidence: 0.8976924
+
+041f5539-5a55-42fe-8f9f-917a9332f390
+00:23:18.480 --> 00:23:21.600
+Again, we are given a digital
+
+NOTE Confidence: 0.7765454
+
+4ff20c97-67b5-4133-a99c-cf8248a99d6f
+00:23:21.600 --> 00:23:27.068
+unit here. Or digital circuit
+or digital unit?
+
+NOTE Confidence: 0.8565391
+
+0b085415-e0f6-4e96-8636-b52ddc4691bd
+00:23:27.870 --> 00:23:31.550
+Now we have an order first,
+followed by the nuts.
+
+NOTE Confidence: 0.8713951
+
+c4e00958-9f69-451f-b2c4-6f26f309ad2a
+00:23:32.830 --> 00:23:34.600
+So we are asked to.
+
+NOTE Confidence: 0.83433676
+
+831f265d-e81d-4f0e-8325-a44e60f5de2e
+00:23:35.690 --> 00:23:42.489
+Check this behavior so the idea
+is that is it possible to have
+
+NOTE Confidence: 0.9147748
+
+03544990-2f24-40c2-9cb5-c1744b043427
+00:23:42.489 --> 00:23:46.496
+a. Let's let's check what
+the functionality.
+
+NOTE Confidence: 0.8652111
+
+0ff03edf-9a1c-45bb-a90d-39f295654e13
+00:23:47.790 --> 00:23:52.267
+So again, for checking for
+analysis, you have to see what
+
+NOTE Confidence: 0.8652111
+
+fc9d3ff3-50e5-41c9-b78e-0aa0d9293519
+00:23:52.267 --> 00:23:56.744
+are the inputs, what are the
+outputs and based on different
+
+NOTE Confidence: 0.8652111
+
+5d0efd11-aa8e-468a-8775-a0fc6ae83319
+00:23:56.744 --> 00:24:01.628
+values of put what are going to
+be the values of Apple.
+
+NOTE Confidence: 0.83092254
+
+21e8374d-cc81-4752-b160-0033b0fb20a8
+00:24:02.710 --> 00:24:07.891
+So basically you have to form
+the truth table. The left
+
+NOTE Confidence: 0.83092254
+
+66997463-584e-48e6-a0a2-921b041e3db7
+00:24:07.891 --> 00:24:12.601
+side of the truth table have
+the input variables, binary
+
+NOTE Confidence: 0.83092254
+
+d4c07ac6-d310-47e1-a1ee-81712ed257e2
+00:24:12.601 --> 00:24:16.840
+variables. The rights are
+going to have the output
+
+NOTE Confidence: 0.83092254
+
+14b10182-eea5-478e-bdb1-87fd881e172c
+00:24:16.840 --> 00:24:20.137
+variables or Boolean function
+or Boolean variables.
+
+NOTE Confidence: 0.87163657
+
+b2192fb3-e430-4735-ae1a-254b7b6e6cee
+00:24:21.400 --> 00:24:27.865
+So and then you have to check if
+the inputs are 00, what is going
+
+NOTE Confidence: 0.87163657
+
+1d6263df-6026-42e3-bf80-a2114c243b6e
+00:24:27.865 --> 00:24:30.882
+to be the airport 0110 and one?
+
+NOTE Confidence: 0.87947357
+
+9a0eea2d-521f-49c5-9d47-e639f848a1f5
+00:24:32.230 --> 00:24:35.965
+So you have to breakdown
+the design into different
+
+NOTE Confidence: 0.87947357
+
+cdda65e9-f3ac-4be7-b29a-1246a4f9c3b2
+00:24:35.965 --> 00:24:37.210
+levels of output.
+
+NOTE Confidence: 0.8250142
+
+c00cec13-a70d-40a9-8751-c718ccb33279
+00:24:38.410 --> 00:24:42.040
+The first gate, then the
+second gate. Here is the
+
+NOTE Confidence: 0.8250142
+
+7416fe94-6a9f-40f7-bc79-c0c4afd47d2d
+00:24:42.040 --> 00:24:43.855
+result of the first gate.
+
+NOTE Confidence: 0.6726876
+
+929cd01d-d3e5-4505-b4bc-eb7496cbb3b1
+00:24:45.230 --> 00:24:48.970
+Uh, so X or Y?
+
+NOTE Confidence: 0.85044587
+
+24ea84b3-200d-4b0a-b72c-ef7e822f5f55
+00:24:49.820 --> 00:24:54.552
+So we already know that for
+X or Y, if we have at least
+
+NOTE Confidence: 0.85044587
+
+167047a2-bfb2-4f9e-9a00-22952ad1c3e2
+00:24:54.552 --> 00:24:57.932
+one digital one in the
+input, the output gonna be
+
+NOTE Confidence: 0.85044587
+
+b6cd5eb1-c6ff-4687-a7b6-56cefddd1ca9
+00:24:57.932 --> 00:25:01.988
+one if all the inputs are
+zero, the output kind of 0.
+
+NOTE Confidence: 0.82521117
+
+3d909762-dd7b-4958-880c-4b527bec13a6
+00:25:03.220 --> 00:25:06.762
+This is the output of all
+here, but this output follows
+
+NOTE Confidence: 0.82521117
+
+7c99e229-6438-4616-9c51-d950524db713
+00:25:06.762 --> 00:25:11.270
+by the nuts. So it means that
+we have to do another not on
+
+NOTE Confidence: 0.82521117
+
+353c143d-9d59-42f9-9c26-dce3cbe49355
+00:25:11.270 --> 00:25:15.778
+top of these values. So not of
+0 comes one, not a one becomes
+
+NOTE Confidence: 0.82521117
+
+7da0b891-e78a-47ec-a2d4-5f3c7f76eea0
+00:25:15.778 --> 00:25:16.744
+zero and attach.
+
+NOTE Confidence: 0.88003117
+
+dda34ed9-e542-4aba-bca6-cdde194445c6
+00:25:19.090 --> 00:25:24.886
+So this is the result of an
+order followed by the nut.
+
+NOTE Confidence: 0.8979056
+
+29b45f72-5a39-4d3a-a662-1c83e477ac7a
+00:25:25.620 --> 00:25:28.370
+As you check the behavior.
+
+NOTE Confidence: 0.8162089
+
+8d909f81-586a-498f-a70b-f9205c366a79
+00:25:30.110 --> 00:25:35.318
+Indeed, in this design, if all
+the inputs are zero, the output
+
+NOTE Confidence: 0.8162089
+
+fd349d22-7386-4d8b-88df-7bbfa8fa6a8d
+00:25:35.318 --> 00:25:41.394
+gonna be one if we have at least
+one digital one in the input,
+
+NOTE Confidence: 0.8162089
+
+fa01929c-d286-4c76-b4af-e06755891813
+00:25:41.394 --> 00:25:42.696
+output cannot be.
+
+NOTE Confidence: 0.7438178
+
+b5253eaa-5064-4f10-94ab-3186457732c9
+00:25:43.600 --> 00:25:49.617
+ Zero, so this is exactly the not behavior of a or. 
+
+NOTE Confidence: 0.87218535
+
+a8b9f778-c44d-4d8b-8bb4-bf0781d7eb4b
+00:25:50.410 --> 00:25:54.908
+So basically an or followed by
+the not. That's why we call it
+
+NOTE Confidence: 0.87218535
+
+08812c0d-61ad-4e79-9de4-e4f45dfbe719
+00:25:54.908 --> 00:25:56.292
+not or or not.
+
+NOTE Confidence: 0.8284027
+
+7acc300b-7e80-40e8-9a66-35f93eaa8b62
+00:25:57.150 --> 00:26:02.318
+So this is the new gate. If you
+go to the market, you can buy an
+
+NOTE Confidence: 0.8284027
+
+c79f54e2-b603-4e43-9977-4d9aeb1bbafe
+00:26:02.318 --> 00:26:07.163
+OR gate inside an OR gate is an
+or followed by the nut or this
+
+NOTE Confidence: 0.8284027
+
+6bc2542f-3bf7-4df3-bbdc-fecdf39d32b5
+00:26:07.163 --> 00:26:08.455
+is the inversion bubble.
+
+NOTE Confidence: 0.7410319
+
+b4f5295e-5f40-4f82-87bc-a67e826a1dd3
+00:26:11.090 --> 00:26:17.044
+Also for the North, please show
+it as a downward arrow. So for
+
+NOTE Confidence: 0.7410319
+
+e343391a-e5eb-4049-a98e-046321dd1e97
+00:26:17.044 --> 00:26:20.708
+the NAND or not and we have up.
+
+NOTE Confidence: 0.57485044
+
+f9298175-5d84-4bb3-813d-0f6e27dc7dfc
+00:26:21.600 --> 00:26:25.770
+Uh, what are offered in or we
+have down water?
+
+NOTE Confidence: 0.81144315
+
+2249dd63-87a4-467a-aae2-8926a82b399e
+00:26:26.440 --> 00:26:30.256
+So basically an old
+followed by the nuts.
+
+NOTE Confidence: 0.87569124
+
+739af7d2-0922-4948-add5-4701ec12414c
+00:26:33.470 --> 00:26:38.078
+And because of the commutative
+property of or if you switch the
+
+NOTE Confidence: 0.87569124
+
+66a53022-4e49-4f0c-8e8a-b78d1e88896f
+00:26:38.078 --> 00:26:39.614
+input of the North.
+
+NOTE Confidence: 0.7814389
+
+bca229a3-3102-400d-8bce-af562a8972bb
+00:26:40.510 --> 00:26:46.534
+It doesn't matter because either
+you do X nor Y, or Y
+
+NOTE Confidence: 0.7814389
+
+63aacd9c-e03e-4565-ad09-bf6aa7c8cec5
+00:26:46.534 --> 00:26:53.562
+nor X, because it means that X
+or Y and we could switch the
+
+NOTE Confidence: 0.7814389
+
+dca61dcd-5028-46ac-b493-344af5521a09
+00:26:53.562 --> 00:27:00.088
+input of or gate, meaning that
+we can do XYXY or X followed
+
+NOTE Confidence: 0.7814389
+
+b76aa64d-abf8-45dd-b875-014c0c929b27
+00:27:00.088 --> 00:27:05.610
+by the not so as a result
+Norgate also is commutative.
+
+NOTE Confidence: 0.79179317
+
+fbb97c75-449e-4253-9579-a339bf89f16d
+00:27:07.220 --> 00:27:11.356
+It doesn't matter. I mean,
+in what input of the Norgate
+
+NOTE Confidence: 0.79179317
+
+d8d33f71-419e-4534-b250-861318fc2d51
+00:27:11.356 --> 00:27:14.364
+you input your binary value
+or binary input.
+
+NOTE Confidence: 0.79867303
+
+73dd058c-0df1-47aa-8420-0892cdec9706
+00:27:16.610 --> 00:27:21.342
+So my question for me is this.
+We already checked this for NAND
+
+NOTE Confidence: 0.79867303
+
+286212b3-036d-44bd-8478-e79cedd4bca0
+00:27:21.342 --> 00:27:25.710
+for the NAND gate. If we said, I
+mean if we input.
+
+NOTE Confidence: 0.7754047
+
+1c6ab00e-f8a0-4f3e-aa96-e29777faa490
+00:27:26.540 --> 00:27:31.870
+Only one binary variable to both
+input, often at it, it creates a
+
+NOTE Confidence: 0.8361321
+
+9c581cd6-78c1-4ba4-8793-562b8fd2d1ca
+00:27:31.870 --> 00:27:36.320
+not gate. So what would be
+the behavior if we do the
+
+NOTE Confidence: 0.8361321
+
+9501c11f-58f2-4a4a-9acc-74e83f86149a
+00:27:36.320 --> 00:27:37.552
+same with the Norgate?
+
+NOTE Confidence: 0.86557555
+
+ef8e0f6c-3145-44b3-8dbe-1e4bad25e2a8
+00:27:40.520 --> 00:27:46.510
+So anybody? Or if so, give
+us this design and ask that
+
+NOTE Confidence: 0.86557555
+
+aee00f55-7902-4351-b1bf-185b4e03570b
+00:27:46.510 --> 00:27:50.047
+what's the behavior? So it
+basically asks what's the
+
+NOTE Confidence: 0.86557555
+
+c1638ef1-4102-461f-a84d-db022829f0ef
+00:27:50.047 --> 00:27:56.335
+behavior of F or what is the app
+top F based on the input of X?
+
+NOTE Confidence: 0.8714415
+
+96806d3a-aba3-4cdb-ad0c-12567f49d992
+00:27:58.840 --> 00:27:59.820
+Anybody?
+
+NOTE Confidence: 0.838822
+
+2ce4437b-a904-4e10-8986-3021e79f2f6a
+00:28:19.870 --> 00:28:23.470
+Tiana yes, Correct Explorer
+Explorer, correct. Yes, your
+
+NOTE Confidence: 0.838822
+
+2c2ed4a7-c6ae-481e-8c87-22d060a197c7
+00:28:23.470 --> 00:28:29.320
+thing is you have to. This is
+the normal analysis so you have
+
+NOTE Confidence: 0.838822
+
+78088ffb-ba02-41bd-86d0-6bcdc0393dec
+00:28:29.320 --> 00:28:31.570
+to form the truth table.
+
+NOTE Confidence: 0.8331859
+
+57590ded-f6ef-4bb1-be49-f2886f72531b
+00:28:32.270 --> 00:28:36.935
+And then you have to in the left
+side of the truth table what is
+
+NOTE Confidence: 0.8331859
+
+ab824aeb-d976-4d26-be6a-d445b1049c8f
+00:28:36.935 --> 00:28:38.801
+going to be the input variables
+
+NOTE Confidence: 0.8710648
+
+ea2f3620-486b-4374-94cc-574706f08cc8
+00:28:38.801 --> 00:28:44.276
+X. The right side gonna be the
+output in the left side. You
+
+NOTE Confidence: 0.8710648
+
+95e5ea63-a188-4c5d-bd72-9e9699bd512e
+00:28:44.276 --> 00:28:48.434
+have to put all the combinations
+or possibilities for the input.
+
+NOTE Confidence: 0.8710648
+
+27960903-3a49-46f1-a28c-fd8fd6db9dfd
+00:28:48.434 --> 00:28:52.970
+We have just only one binary
+variable, zero or one. So based
+
+NOTE Confidence: 0.8710648
+
+c867916c-4653-4d92-a077-6e96db370df9
+00:28:52.970 --> 00:28:55.238
+on this, so the first input
+
+NOTE Confidence: 0.80021113
+
+f71ad288-6e4f-462f-b081-2eda3bedd44e
+00:28:55.238 --> 00:29:02.200
+cannot be. X or X so X or
+X is equal to X or zero or zero
+
+NOTE Confidence: 0.80021113
+
+c9aaf571-6e4e-4b4c-baeb-bc9e854ec5e2
+00:29:02.200 --> 00:29:06.050
+becomes zero followed by the not
+come zero bar or one.
+
+NOTE Confidence: 0.89435667
+
+8bc9c661-1de7-42c1-82de-15b622353f40
+00:29:07.280 --> 00:29:11.160
+So the first input is X or X.
+
+NOTE Confidence: 0.819268
+
+0ae1807f-8d45-4ce2-9d98-0e2cabe19555
+00:29:12.590 --> 00:29:17.448
+If X is zero, becomes zero. If X
+is 1, becomes one, and then
+
+NOTE Confidence: 0.819268
+
+7f8d1c52-020c-450d-bb6b-c56494905960
+00:29:17.448 --> 00:29:21.612
+final F becomes not of these
+values, not up zero becomes one
+
+NOTE Confidence: 0.819268
+
+600a8f99-f7d0-4d74-a2ca-b700674aca46
+00:29:21.612 --> 00:29:27.858
+not of 1 becomes 0. So if X is 0
+after this one, if X is one out
+
+NOTE Confidence: 0.819268
+
+3e2bb0d8-0c33-4027-9ce5-240393987288
+00:29:27.858 --> 00:29:32.716
+of the zero. So this is the
+exact behavior of the not so X
+
+NOTE Confidence: 0.819268
+
+63ad4da2-7a22-48dc-a489-0a8d2c22e616
+00:29:32.716 --> 00:29:36.880
+or X followed by dinner is equal
+to X4 or X not.
+
+NOTE Confidence: 0.8860724
+
+3c9e9692-45a0-4582-83f3-dedaa4b3e786
+00:29:39.720 --> 00:29:41.575
+So this is another way to build
+
+NOTE Confidence: 0.7351704
+
+64594f71-3f36-4555-9ba3-0d8f78b420e0
+00:29:41.575 --> 00:29:45.410
+the North gate. So
+whenever you need a nut,
+
+NOTE Confidence: 0.7351704
+
+fdea9a6a-3ead-4d76-8842-9b1553d19c73
+00:29:45.410 --> 00:29:48.875
+you can build it with
+Norgate very similar to
+
+NOTE Confidence: 0.7351704
+
+f79529f0-2f41-4bf1-9532-84d31c6c64c1
+00:29:48.875 --> 00:29:50.030
+the NAND gate.
+
+NOTE Confidence: 0.817086
+
+ac625d05-6421-41fc-b3a8-77816d9d0d3e
+00:29:52.330 --> 00:29:56.026
+Now we want to design with three
+inputs for the North.
+
+NOTE Confidence: 0.80207974
+
+d81f4e71-310c-4c9b-90da-1ce4c40db038
+00:29:56.870 --> 00:29:59.439
+So the three input for the NOR
+
+NOTE Confidence: 0.7823441
+
+85182ae3-c109-4e73-a080-369a33e8e8cc
+00:29:59.439 --> 00:30:05.165
+is base. Basically means that if
+we input three binary variables.
+
+NOTE Confidence: 0.8557102
+
+829bc3e6-19e2-452f-9edf-69df169d0e23
+00:30:05.850 --> 00:30:07.314
+And we want to order them
+
+NOTE Confidence: 0.8683744
+
+a7b962bb-41f0-4d0b-8de0-74d13df9e2c6
+00:30:07.314 --> 00:30:11.691
+followed by the nuts. So
+basically it says that if all
+
+NOTE Confidence: 0.8683744
+
+d76e0aa0-4832-41fe-820d-cdbd43d4f237
+00:30:11.691 --> 00:30:16.540
+the inputs are zero, the output
+gonna be one because all of the
+
+NOTE Confidence: 0.8683744
+
+0a6e6567-9d80-47b0-bcdf-46751bdcc7d4
+00:30:16.540 --> 00:30:19.897
+zeros become zero followed by
+the not becomes one.
+
+NOTE Confidence: 0.8486563
+
+7d5c184d-94f4-40c1-be51-b9b05c3f8b71
+00:30:20.690 --> 00:30:24.986
+But if you have at least one
+digital one in the input,
+
+NOTE Confidence: 0.8486563
+
+489b3f9f-9e27-49bf-b38b-ef8c17d81216
+00:30:24.986 --> 00:30:28.924
+because the OR becomes one and
+then followed by the number
+
+NOTE Confidence: 0.8486563
+
+38f47676-4f40-49dc-99c6-c706d4a32a5e
+00:30:28.924 --> 00:30:31.072
+becomes 0, so all are zero.
+
+NOTE Confidence: 0.8910706
+
+6e9277b4-3e02-4754-a15b-1e10543f3d28
+00:30:33.660 --> 00:30:35.900
+So we want to build such a
+
+NOTE Confidence: 0.6375191
+
+674f6863-6793-474d-af55-fd0e4c37dc18
+00:30:35.900 --> 00:30:41.230
+design. Uh, we want to build
+a big digit. The digital
+
+NOTE Confidence: 0.6375191
+
+ae730b32-14f8-4f0c-9f5b-43425104603b
+00:30:41.230 --> 00:30:44.638
+circuit that acts like this
+behaves like this.
+
+NOTE Confidence: 0.8188812
+
+b0fc8423-dbcb-44d6-9c61-88b542f3aed1
+00:30:45.980 --> 00:30:49.715
+But if you follow the
+same stacking of the
+
+NOTE Confidence: 0.8188812
+
+8b1eb01b-d92a-49a4-8ce3-855ce9131a15
+00:30:49.715 --> 00:30:51.375
+norm with two input.
+
+NOTE Confidence: 0.74075806
+
+767fd864-34e2-42b1-b989-b0fc6ab08237
+00:30:52.450 --> 00:30:59.650
+Like this and or with two inputs
+X&X nor Y followed by nor Z. So
+
+NOTE Confidence: 0.74075806
+
+6040b9a7-8c14-4ac2-b709-2385f4ecd7a7
+00:30:59.650 --> 00:31:03.490
+let's see. This design is
+correct or not.
+
+NOTE Confidence: 0.85565954
+
+b155b747-c07e-471f-8359-1f03e7a70266
+00:31:04.630 --> 00:31:08.018
+So again, for the task of
+analysis, we formed the truth
+
+NOTE Confidence: 0.85565954
+
+7e032d48-2783-4245-a808-c6b4f7dd049d
+00:31:08.018 --> 00:31:11.714
+table. Left side is the binary
+inputs, right side is the Apple.
+
+NOTE Confidence: 0.8492002
+
+97973664-a291-48f4-89d4-e78ea27250d1
+00:31:12.330 --> 00:31:18.450
+And then the
+immediate intermediate outputs.
+
+NOTE Confidence: 0.86036265
+
+b2629be3-daf9-4c2e-804a-dfd2830785c5
+00:31:19.300 --> 00:31:21.740
+So the first one is X nor Y.
+
+NOTE Confidence: 0.8254958
+
+5aa45c62-7052-4955-b481-84e58d9a3bd9
+00:31:22.820 --> 00:31:25.585
+X or Y followed by the not.
+
+NOTE Confidence: 0.851016
+
+64a3e5d1-9efd-4855-b73f-563a3a0b6e04
+00:31:26.180 --> 00:31:29.066
+So if we consider only X&Y.
+
+NOTE Confidence: 0.84644675
+
+fec8a5df-7835-4d9c-9940-ce87b1a8ffb6
+00:31:29.640 --> 00:31:36.036
+00100 because the order is 1
+followed by the not zero here or
+
+NOTE Confidence: 0.84644675
+
+856c8cdb-cf35-4d5b-83d3-11872732433c
+00:31:36.036 --> 00:31:39.480
+is 1 followed by not zero and
+
+NOTE Confidence: 0.8185127
+
+6c03f03a-e06b-48c8-ae06-3b806761161b
+00:31:39.480 --> 00:31:46.604
+etc. So these are the outputs
+of the first North based on the
+
+NOTE Confidence: 0.78060526
+
+4f93af05-1954-4f67-919d-ee9ea92fd91f
+00:31:46.604 --> 00:31:51.958
+X&Y. Now these values
+gonna be NZ.
+
+NOTE Confidence: 0.7602083
+
+f9d960db-53d8-4fdc-aff4-577704db4386
+00:31:52.700 --> 00:31:56.494
+So now you consider Z and F1.
+
+NOTE Confidence: 0.8305073
+
+fe6a267a-fd0b-4db2-a02c-cab2a81bcfa6
+00:31:57.690 --> 00:32:01.155
+So this is basically F1 or Z
+followed by the not.
+
+NOTE Confidence: 0.84293216
+
+3ebe36c2-db81-4d85-b267-d2ac40833d84
+00:32:02.340 --> 00:32:08.514
+So if you check this was F1 is
+one Z0 or becomes one followed
+
+NOTE Confidence: 0.84293216
+
+cab8ef55-57c8-4baf-9cd0-b380002e3329
+00:32:08.514 --> 00:32:10.719
+by did not become zero.
+
+NOTE Confidence: 0.8905075
+
+d968bcdf-8523-483d-8ed6-de66d3b489db
+00:32:12.130 --> 00:32:16.714
+So so far it's correct because
+all the inputs are zero. The
+
+NOTE Confidence: 0.8905075
+
+ce9525f0-37af-45dc-8d49-ff76b9db8e27
+00:32:16.714 --> 00:32:18.624
+output this year that's fine.
+
+NOTE Confidence: 0.76694435
+
+7c8ae517-d727-4d7d-a993-eda60678484b
+00:32:19.760 --> 00:32:22.748
+But let's see the next one.
+
+NOTE Confidence: 0.84828234
+
+b7535d43-8ff9-45ae-b527-2b5b6a28991c
+00:32:23.810 --> 00:32:28.620
+Is that fine or that's not fine
+because we said that based on
+
+NOTE Confidence: 0.84828234
+
+d0960632-9636-4192-ae42-cdeb94ef681c
+00:32:28.620 --> 00:32:33.430
+this behavior, he said that if
+all the inputs are zero, the OR
+
+NOTE Confidence: 0.84828234
+
+fcf0524a-db51-4ec4-9604-deb0a732232a
+00:32:33.430 --> 00:32:35.650
+becomes zero followed by the not
+
+NOTE Confidence: 0.8420656
+
+4352d17f-cd30-4eba-8369-356846c0885f
+00:32:35.650 --> 00:32:41.206
+becomes one. But here in the
+first row we see that all are
+
+NOTE Confidence: 0.8661468
+
+291257da-54a8-4649-9fbf-0d0a25fd7387
+00:32:41.206 --> 00:32:46.412
+zero. But the output is 0
+instead of being one, and this
+
+NOTE Confidence: 0.8661468
+
+e3991380-9275-4537-b94c-77cd84c72b3d
+00:32:46.412 --> 00:32:51.118
+is because F1 is 1, so one or
+with zero becomes one followed
+
+NOTE Confidence: 0.8661468
+
+19b04df3-d7fe-4454-b3ea-9bfa3a986efb
+00:32:51.118 --> 00:32:52.928
+by the nut becomes 0.
+
+NOTE Confidence: 0.81699014
+
+a5193f4c-e6b0-4cce-b163-391d23a057f8
+00:32:53.630 --> 00:32:59.552
+So as long as we see one row
+that are not according to our
+
+NOTE Confidence: 0.81699014
+
+61449f2d-6abf-454d-82ae-f1211b106c97
+00:32:59.552 --> 00:33:01.667
+behavior or out to stable.
+
+NOTE Confidence: 0.88289666
+
+f68ee737-9203-45a1-b18a-acbf2ca409d6
+00:33:02.350 --> 00:33:04.158
+We said that this design
+is not correct.
+
+NOTE Confidence: 0.88395536
+
+049edfb6-c458-4333-b683-8c5df4acb792
+00:33:05.330 --> 00:33:09.334
+You could check the other
+rows. You see that there are
+
+NOTE Confidence: 0.88395536
+
+7920d18d-e7b1-48f8-b857-1df1c2fda57b
+00:33:09.334 --> 00:33:13.338
+some differences also, so we
+said that this design is not
+
+NOTE Confidence: 0.88395536
+
+4e3a88ef-0c10-4b6b-8656-f70ce7526d3f
+00:33:13.338 --> 00:33:14.430
+what we wanted.
+
+NOTE Confidence: 0.82062745
+
+6edc157c-8188-49df-a20d-3e2b47111fbc
+00:33:18.100 --> 00:33:22.936
+Instead, we said that a normal 3
+input is basically an all with
+
+NOTE Confidence: 0.82062745
+
+efdd3dbc-38d1-4671-bbd2-95e70b887e2f
+00:33:22.936 --> 00:33:27.400
+three input, followed by do not.
+So this is the correct design.
+
+NOTE Confidence: 0.82552564
+
+49346911-f111-497b-b4a3-21b75d2cd7db
+00:33:29.230 --> 00:33:32.533
+And because over has the
+associative property, we can
+
+NOTE Confidence: 0.82552564
+
+15f31121-50b3-44f4-8b55-9b05710102aa
+00:33:32.533 --> 00:33:34.001
+switch all the inputs.
+
+NOTE Confidence: 0.8858338
+
+af1c8c0d-4cf5-48a7-b410-2d012e0fe2cb
+00:33:35.500 --> 00:33:38.174
+And if you check the truth table
+
+NOTE Confidence: 0.85515505
+
+4a9052ab-0c41-4dbd-a923-1a7b5a94572e
+00:33:38.174 --> 00:33:43.790
+for. They given through state of
+the given behavior and the
+
+NOTE Confidence: 0.85515505
+
+7897ec52-b55a-493b-9b2d-745d238cea92
+00:33:43.790 --> 00:33:48.575
+actual analysis of this unit.
+They are equal in each row.
+
+NOTE Confidence: 0.7868492
+
+f3165be5-9939-4fa4-b8e9-80df463ef182
+00:33:50.640 --> 00:33:55.073
+So whenever you are given a nor
+with frame, put there. It is
+
+NOTE Confidence: 0.7868492
+
+c5c5e5c5-e857-4707-91b2-8969b315d680
+00:33:55.073 --> 00:33:58.483
+actually in or with three inputs
+followed by did not.
+
+NOTE Confidence: 0.92267627
+
+1df29f7d-c54a-4cfa-be0e-479ba0adb4b8
+00:33:59.520 --> 00:34:01.200
+They are not like this.
+
+NOTE Confidence: 0.88631207
+
+176f9e60-57d6-4ca7-a96f-88117457d014
+00:34:04.850 --> 00:34:09.098
+So again, if you compare this
+design and this design and we
+
+NOTE Confidence: 0.88631207
+
+31ada72b-aa08-4eea-adfc-c7b9650f2960
+00:34:09.098 --> 00:34:12.992
+are asked to have this
+behavior, we could say that F1
+
+NOTE Confidence: 0.88631207
+
+097dcec0-0a0e-4c67-8d3f-3b27bcdfc298
+00:34:12.992 --> 00:34:16.178
+is not really correct or
+effective or two design.
+
+NOTE Confidence: 0.85328454
+
+90a588da-b837-457c-8a14-9464df8ad859
+00:34:17.410 --> 00:34:22.620
+But after is the design and
+we choose F2F2 between
+
+NOTE Confidence: 0.85328454
+
+6e1370e9-de98-4090-b0f8-10e0cd8b926c
+00:34:22.620 --> 00:34:24.183
+these two designs.
+
+NOTE Confidence: 0.8372611
+
+7a6c8ec3-6c67-4362-9328-2301638ebb5c
+00:34:27.160 --> 00:34:33.220
+OK, and again, as in this
+assignment for this week I asked
+
+NOTE Confidence: 0.8372611
+
+2bde73e7-43cf-404e-9fd8-bee8871a6c2d
+00:34:33.220 --> 00:34:37.765
+you to check the nor is
+associative or not.
+
+NOTE Confidence: 0.7947511
+
+c612ce36-dc38-4efa-b701-ac0cd727f94f
+00:34:38.390 --> 00:34:43.910
+Basically, if we change the
+difference why with Z or X with
+
+NOTE Confidence: 0.7947511
+
+7ded502c-993d-4fd6-be03-d4935c1e8d75
+00:34:43.910 --> 00:34:48.050
+Z, the result of this design
+changes or not.
+
+NOTE Confidence: 0.9051058
+
+21361fd6-e862-452e-aab2-ccc28aad5d2f
+00:34:49.090 --> 00:34:53.094
+And the answer is no, but you
+have to prove that by using the
+
+NOTE Confidence: 0.92590594
+
+0afe93f9-be9c-43bf-bcbc-f8927e9f3799
+00:34:53.094 --> 00:34:56.168
+truth table. And
+because of this.
+
+NOTE Confidence: 0.8572307
+
+a6076127-0d50-4c33-9da6-d1d2ec1e1eea
+00:34:57.670 --> 00:35:00.784
+This problem that this design
+doesn't have the associative
+
+NOTE Confidence: 0.8572307
+
+527b7536-2e3e-4527-aab3-5e86378b42a7
+00:35:00.784 --> 00:35:04.590
+property. That's why we don't
+like this design often or with
+
+NOTE Confidence: 0.8572307
+
+fe593b3e-869c-4d2b-9299-145afb20130f
+00:35:04.590 --> 00:35:07.704
+three inputs. Be like the
+previous one, this one.
+
+NOTE Confidence: 0.89521694
+
+e56ceb2b-7c51-498c-adc4-777864e3b66f
+00:35:11.740 --> 00:35:14.630
+OK. So let's do a recap.
+
+NOTE Confidence: 0.86224866
+
+9daa3c38-6aa8-4616-b5d5-6b889605e0e5
+00:35:16.330 --> 00:35:21.384
+So these are the gates and in
+the right side I my question is
+
+NOTE Confidence: 0.86224866
+
+fcb5e5fa-8306-48bc-88f9-1c8c834492e6
+00:35:21.384 --> 00:35:23.550
+this when the F becomes one.
+
+NOTE Confidence: 0.87717927
+
+bf9ec88c-35cd-4188-b3c4-371acbf45e3c
+00:35:24.940 --> 00:35:28.477
+Because it's very important,
+usually in in the positive
+
+NOTE Confidence: 0.87717927
+
+d0e1bb34-fe58-4245-b763-320525810859
+00:35:28.477 --> 00:35:33.193
+logic. By default the values are
+all ground or meaning that they
+
+NOTE Confidence: 0.87717927
+
+7b1fc2f2-beb6-4e53-a64e-b1edf967b4e6
+00:35:33.193 --> 00:35:34.372
+are all zero.
+
+NOTE Confidence: 0.8948813
+
+cd5b4040-11df-49b6-b0bb-832092281684
+00:35:34.930 --> 00:35:38.686
+However, at some point we want
+to increase the voltage to 1,
+
+NOTE Confidence: 0.8948813
+
+8338a781-f729-4167-a091-39a24fd64c37
+00:35:38.686 --> 00:35:42.129
+meaning that we want to make the
+output one. That's very
+
+NOTE Confidence: 0.8948813
+
+cb33ec19-2c41-4c5b-9271-a820141f200a
+00:35:42.129 --> 00:35:43.381
+important in positive logic
+
+NOTE Confidence: 0.85817647
+
+573eb345-26b6-4f72-880a-06ba37cf5e17
+00:35:43.381 --> 00:35:49.720
+design. So that's why we want to
+memorize or kind of practice or
+
+NOTE Confidence: 0.85817647
+
+f1c965eb-97ec-4a37-a9c5-773edd9552f8
+00:35:49.720 --> 00:35:54.880
+master the behavior of the gates
+based on the output of these
+
+NOTE Confidence: 0.85817647
+
+ae90d139-b368-4cbc-baba-4bc5eb748001
+00:35:54.880 --> 00:36:00.040
+gates becomes one, not whenever
+the input is zero. Output is one
+
+NOTE Confidence: 0.85817647
+
+887609c8-3719-433b-ad00-c0547b37296a
+00:36:00.040 --> 00:36:01.330
+that's trivial and.
+
+NOTE Confidence: 0.81342256
+
+abfd334c-9e4e-4eca-aea1-25818f883681
+00:36:02.050 --> 00:36:07.000
+Even if you are given 10 inputs,
+11 inputs, 20 inputs.
+
+NOTE Confidence: 0.84334064
+
+f9018ac3-f519-4347-a14c-367f89d75b83
+00:36:07.580 --> 00:36:10.720
+The behavior is this. If
+all the inputs are one,
+
+NOTE Confidence: 0.84334064
+
+3d990e4b-3600-4768-bcf1-fc991ccafced
+00:36:10.720 --> 00:36:12.290
+the output going to one.
+
+NOTE Confidence: 0.8934981
+
+abf9fbae-ff28-4404-931f-8eaf09fc3691
+00:36:13.590 --> 00:36:15.760
+At least 1 zero makes it 0.
+
+NOTE Confidence: 0.85263425
+
+66afd7d7-27af-4e03-af1d-9f454964ef1b
+00:36:17.150 --> 00:36:21.566
+Or if at least one digital one
+happens in the input output,
+
+NOTE Confidence: 0.85263425
+
+6baa6404-e705-4731-9d04-b4c9620b9882
+00:36:21.566 --> 00:36:22.670
+gonna be 1.
+
+NOTE Confidence: 0.8202373
+
+6d3a4eef-823f-458b-8d56-2be9a9cfdd95
+00:36:27.050 --> 00:36:31.754
+So if you're after when or
+becomes zero, it means that if
+
+NOTE Confidence: 0.8202373
+
+1e8d393d-77e6-43b9-917a-892f6fd8b6e4
+00:36:31.754 --> 00:36:35.282
+all the inputs are zero, the
+output kinda busy.
+
+NOTE Confidence: 0.7579062
+
+422ad49b-517f-4841-812c-319022e8fdc6
+00:36:36.370 --> 00:36:41.150
+Ferdinand its behavior is
+where did not of the Ant.
+
+NOTE Confidence: 0.7579062
+
+bb86e7db-56c6-4910-a1cb-17483199f382
+00:36:41.150 --> 00:36:43.540
+So when and become one.
+
+NOTE Confidence: 0.81861466
+
+875ecf50-f39f-426c-8450-4c9f155646b1
+00:36:46.350 --> 00:36:50.946
+When it becomes one, when the
+end output zero. When the end
+
+NOTE Confidence: 0.81861466
+
+59df1bc1-369f-4950-9177-6dad64ca6415
+00:36:50.946 --> 00:36:56.308
+outputs your win at least one
+digit of 0 is in the input, so
+
+NOTE Confidence: 0.81861466
+
+9e9d8092-4fe0-49b1-ae4a-dd10e7de7735
+00:36:56.308 --> 00:37:02.053
+now it becomes one when we have
+at least one digit of 0 in the
+
+NOTE Confidence: 0.73128796
+
+dfbd7eff-7e62-45fb-b617-dc26df7199cd
+00:37:02.053 --> 00:37:06.442
+inputs. Because it goes to the
+and gate and makes 0 effort by
+
+NOTE Confidence: 0.73128796
+
+ac707e8d-c2ee-4d3d-b810-7406da002220
+00:37:06.442 --> 00:37:08.158
+the not. It makes it one.
+
+NOTE Confidence: 0.7053733
+
+6a26f8e7-e12e-42d6-89d0-faaceca3543b
+00:37:09.620 --> 00:37:11.936
+For the North, the behavior is
+
+NOTE Confidence: 0.7593435
+
+97949b45-decd-4411-b4e5-1895c5bc908c
+00:37:11.936 --> 00:37:15.690
+not awful. So when nor
+output one.
+
+NOTE Confidence: 0.812242
+
+073d80ce-e0cc-4436-97b4-235f68a4ccbb
+00:37:17.150 --> 00:37:22.727
+Whenever the OR output 0. So
+when they or out with zero when
+
+NOTE Confidence: 0.812242
+
+4392592c-07ba-4ec1-8b93-ccd9ddc8a5cc
+00:37:22.727 --> 00:37:28.733
+all the inputs of all our zero.
+So here all the inputs are zero,
+
+NOTE Confidence: 0.812242
+
+08b581e0-4a74-4147-a7fd-8bffd6e02fd6
+00:37:28.733 --> 00:37:34.310
+they all become zero followed by
+the nuts becomes one. So for the
+
+NOTE Confidence: 0.812242
+
+7815084b-02b2-40c5-a9e6-c07d9d5dcc7f
+00:37:34.310 --> 00:37:36.884
+Norgate, if all the input R0
+
+NOTE Confidence: 0.8829764
+
+d94317d4-38ea-4fdc-93c8-61e8dd38b020
+00:37:36.884 --> 00:37:42.665
+becomes one. So if in
+programming or if at some point
+
+NOTE Confidence: 0.8829764
+
+ed2dc113-1508-4e53-aee6-679a0e21c845
+00:37:42.665 --> 00:37:48.245
+you want to check that your
+number your binary number is 0,
+
+NOTE Confidence: 0.8829764
+
+808f4f57-6a59-4a20-9475-e2464e224140
+00:37:48.245 --> 00:37:52.895
+it means that all the positions
+have the digit 0.
+
+NOTE Confidence: 0.90876627
+
+20751c34-5546-4841-b0a3-54534c0de630
+00:37:53.890 --> 00:37:56.750
+So you can use the.
+
+NOTE Confidence: 0.8852779
+
+93d793f3-08ea-4ce1-be64-7d53c1ad740b
+00:37:57.810 --> 00:38:02.150
+You can use what gate to check
+whether your input is 0 or not.
+
+NOTE Confidence: 0.8388099
+
+ce1413e2-b61a-4467-b4b6-9fb176e85460
+00:38:03.910 --> 00:38:09.240
+For instance, if you are given a
+a number X in programming and
+
+NOTE Confidence: 0.8388099
+
+22951b5b-82c6-432e-8423-3d3e11fe1df6
+00:38:09.240 --> 00:38:14.570
+you wanna check that X is 0 or
+not. Basically in program you
+
+NOTE Confidence: 0.8388099
+
+167a5b79-f509-448d-894b-3ec981561c49
+00:38:14.570 --> 00:38:21.130
+says X is equal to 0 or not. But
+if you use it gate, what would
+
+NOTE Confidence: 0.8388099
+
+e40042d6-bc70-4917-951e-ced298b7c769
+00:38:21.130 --> 00:38:26.460
+be the gate to check whether the
+input variable is 0, all zero?
+
+NOTE Confidence: 0.92401326
+
+ac00b8b7-a823-4bbc-af85-1e8f31f90988
+00:38:33.560 --> 00:38:34.750
+What would be your answer?
+
+NOTE Confidence: 0.90735286
+
+3a3e1084-e10a-4642-bade-b62eaa4465a7
+00:38:37.600 --> 00:38:38.530
+So let me.
+
+NOTE Confidence: 0.74990547
+
+7374ca49-2860-4272-b6bc-c7785d7234d0
+00:38:40.420 --> 00:38:41.900
+Share my.
+
+NOTE Confidence: 0.8557165
+
+bffcf6fc-e60e-4891-a318-330bf9f2bb46
+00:38:43.530 --> 00:38:47.661
+Correct, yes. Basically in
+programming you said that if
+
+NOTE Confidence: 0.8557165
+
+f4d3a44e-9b04-4d3f-a477-5a136bdae546
+00:38:47.661 --> 00:38:52.251
+sometimes you definitely you see
+this statement. For instance, X
+
+NOTE Confidence: 0.8557165
+
+61aaef60-4ee0-4865-86e4-10aa1a65f0f5
+00:38:52.251 --> 00:38:58.218
+is equal to 0. If something like
+this and then do something OK.
+
+NOTE Confidence: 0.8328818
+
+cf72c49a-230e-4246-8ed4-93201a5e5cd0
+00:38:59.230 --> 00:39:00.748
+So, but if?
+
+NOTE Confidence: 0.83021283
+
+b892e613-fd14-406c-8c02-ded624b520dc
+00:39:01.860 --> 00:39:03.855
+You want to use a gate here.
+
+NOTE Confidence: 0.6993756
+
+d731f80a-923d-47c7-bdc2-b2dc0539f350
+00:39:05.100 --> 00:39:08.472
+You could simply say that if
+
+NOTE Confidence: 0.54400474
+
+c5ac95e2-46f7-4391-94d1-b54c6a38b1cb
+00:39:08.472 --> 00:39:11.130
+nor. Of X.
+
+NOTE Confidence: 0.84504116
+
+0a43ca41-4b0e-4018-ac72-c7b7f54f5b06
+00:39:12.900 --> 00:39:17.544
+So this is your research that
+you go to the your language
+
+NOTE Confidence: 0.84504116
+
+95246357-cbc6-46ac-b232-d2d93d518d78
+00:39:17.544 --> 00:39:22.575
+programming language. Once in C
+or C++ and C, is there any gate
+
+NOTE Confidence: 0.84504116
+
+efdde47d-1236-4d74-bf27-5dc1966ab26b
+00:39:22.575 --> 00:39:27.219
+ or is there any operator for Nor? And can you use that 
+
+NOTE Confidence: 0.84504116
+
+97773189-1ebf-46ad-a5c0-fc551989f715
+00:39:27.219 --> 00:39:31.863
+operator to check whether the
+variable is zero or zero or not?
+
+NOTE Confidence: 0.869773
+
+6b7f357a-b329-49b3-983c-25d3a028f226
+00:39:33.480 --> 00:39:38.892
+And the reason is that using
+the gates is much more faster
+
+NOTE Confidence: 0.869773
+
+327a5155-c809-46fb-8c11-1cca817d23f0
+00:39:38.892 --> 00:39:43.402
+than using the. For instance
+equality operators and etc. So
+
+NOTE Confidence: 0.869773
+
+76b6f005-a9c7-4f45-972a-e108065aa2af
+00:39:43.402 --> 00:39:48.814
+I'll ask this type of thing
+one of the lab assignment in
+
+NOTE Confidence: 0.869773
+
+95e4b218-a2b0-4d98-ad2f-49150efcedac
+00:39:48.814 --> 00:39:50.167
+the next weeks.
+
+NOTE Confidence: 0.82086426
+
+3c46ffff-32bc-4364-92a9-af9960b3f38b
+00:39:51.230 --> 00:39:55.658
+I guess one of the weeks one of
+the assignment in lab
+
+NOTE Confidence: 0.82086426
+
+e993f793-079f-4ddf-9b8a-e33ecf14706a
+00:39:55.658 --> 00:39:58.979
+assignments has this that
+instead of just using the
+
+NOTE Confidence: 0.7928874
+
+8245faf8-f154-4ec4-9e20-9f8c5a8a4ae6
+00:39:58.979 --> 00:40:04.048
+normal. Checking with a
+condition in C language, use
+
+NOTE Confidence: 0.7928874
+
+8cb9ed82-2e5f-44bd-b05e-89558033602a
+00:40:04.048 --> 00:40:08.242
+the gates to check the value
+of the variables.
+
+NOTE Confidence: 0.88485515
+
+ef9ded72-7efb-4789-9500-9eebd86f4f07
+00:40:09.690 --> 00:40:14.734
+And the reason is that using the
+gates is much more faster than
+
+NOTE Confidence: 0.88485515
+
+ca7bfceb-e754-45f0-a44a-0b7a4a71dd9a
+00:40:14.734 --> 00:40:18.614
+using the other conditions for
+for instance equality or greater
+
+NOTE Confidence: 0.88485515
+
+1a7ae6e3-8135-426d-9675-3b40cd92743b
+00:40:18.614 --> 00:40:20.942
+or equal or something like that.
+
+NOTE Confidence: 0.8789389
+
+3b68a172-0a2b-4137-a241-bf4937af50d6
+00:40:23.450 --> 00:40:25.298
+OK, any other questions?
+
+NOTE Confidence: 0.9051153
+
+dcc443ef-8486-4173-a087-113461642182
+00:40:33.990 --> 00:40:34.970
+No questions.
+
+NOTE Confidence: 0.8254553
+
+2559444e-8176-48fb-b7e8-640fab4ffc43
+00:40:36.530 --> 00:40:38.738
+So I'm going to.
+
+NOTE Confidence: 0.61106896
+
+c045e7e3-8536-42a6-9c6d-0171bf197a3d
+00:40:44.080 --> 00:40:47.390
+Open the next slide here.
+
+NOTE Confidence: 0.80057234
+
+b746021e-7843-4f9a-8c2d-5eb7b04671d0
+00:40:52.880 --> 00:40:58.976
+So before I start again, I wanna
+check that everybody has focused
+
+NOTE Confidence: 0.80057234
+
+a5162828-1c19-4a62-9fa4-0f853acb2e8e
+00:40:58.976 --> 00:41:03.548
+the class because now I'm going
+to explain, uh?
+
+NOTE Confidence: 0.80591667
+
+03df837b-0760-42eb-a89d-7f5d2af713d6
+00:41:04.390 --> 00:41:08.998
+What a new topic which is
+designed so we know how to
+
+NOTE Confidence: 0.80591667
+
+28312ecb-b4fb-4e5d-a3f8-6a3f0dbf70f4
+00:41:08.998 --> 00:41:13.606
+analysis it at all. Sorry we
+know how to analyze a digital
+
+NOTE Confidence: 0.68411523
+
+8134875d-6bc6-413f-868a-7a7f437c6a00
+00:41:13.606 --> 00:41:19.690
+circuit. Uh, by creating the
+tools table in the outputs,
+
+NOTE Confidence: 0.68411523
+
+1431128a-7097-40ff-9313-225c4c6f7a74
+00:41:19.690 --> 00:41:22.390
+whether the after correct or
+
+NOTE Confidence: 0.8529204
+
+e976c9d4-043d-4e65-858f-695b0260f0a0
+00:41:22.390 --> 00:41:28.496
+not. But now we want to design.
+We are given a question and we
+
+NOTE Confidence: 0.8529204
+
+33fe9182-d142-4622-9524-f81b1039257e
+00:41:28.496 --> 00:41:32.720
+are asked to design A circuit.
+So that's why today is an
+
+NOTE Confidence: 0.8529204
+
+98ab6e40-f9f9-4509-b7d6-d6a24948e9e5
+00:41:32.720 --> 00:41:35.888
+amazing day. You're gonna design
+our first digital units.
+
+NOTE Confidence: 0.8505016
+
+dea2efbb-ceda-4742-9497-9a9ebc396bca
+00:41:37.250 --> 00:41:40.550
+So just three students. We have
+50 three student in the class.
+
+NOTE Confidence: 0.92642814
+
+5fca7be9-a61a-49f4-bee4-615f3a03dc08
+00:41:43.440 --> 00:41:44.580
+Thank you.
+
+NOTE Confidence: 0.6868235
+
+61dc1b6a-e915-487b-8ca2-c7470c99a178
+00:41:46.940 --> 00:41:48.920
+Thank you Ben awesome.
+
+NOTE Confidence: 0.9297033
+
+8068d2d3-4cb3-4982-94af-e2f1d0954909
+00:41:50.460 --> 00:41:51.849
+So thank you.
+
+NOTE Confidence: 0.91683865
+
+5551fbcd-24be-4fec-9cae-68d689a765e6
+00:41:54.360 --> 00:41:59.528
+Great, so let's continue with
+the next part.
+
+NOTE Confidence: 0.8168555
+
+2bc8a432-c399-4722-a21d-8418b7fd135f
+00:42:00.430 --> 00:42:03.290
+Which is design so.
+
+NOTE Confidence: 0.91130316
+
+b1246e6d-62bd-4781-aa31-f6d5e3704f22
+00:42:03.930 --> 00:42:05.229
+In the design.
+
+NOTE Confidence: 0.9090591
+
+f03ccd31-b45c-4a9f-a57d-b3dd7548b89c
+00:42:06.090 --> 00:42:12.960
+We are. Are given
+a question or the question says
+
+NOTE Confidence: 0.9090591
+
+8be33cc3-d774-4b4a-adb4-263d1ac8d66c
+00:42:12.960 --> 00:42:15.435
+that we want this functionality.
+
+NOTE Confidence: 0.802501
+
+00e7353d-f427-4a9b-8966-95d3e4286bc4
+00:42:16.210 --> 00:42:21.646
+And, uh, use some gates to give
+us this functionality. So so
+
+NOTE Confidence: 0.802501
+
+03de9d9f-1993-4565-9d38-6c88dee134a7
+00:42:21.646 --> 00:42:27.082
+far, for instance, we design the
+end with three inputs or not
+
+NOTE Confidence: 0.802501
+
+ada0d5dd-7094-4ea6-bcb4-92a3dd62c589
+00:42:27.082 --> 00:42:29.347
+with three inputs and etc.
+
+NOTE Confidence: 0.8355819
+
+5a9d518c-0a08-48dd-bffa-cde91be4c03e
+00:42:30.870 --> 00:42:35.756
+I just give you the pattern so
+you could ask me that from where
+
+NOTE Confidence: 0.8355819
+
+ee6f4475-76f6-414f-be98-91ea7e05f874
+00:42:35.756 --> 00:42:40.642
+you know that you have to create
+an ad like this or from where
+
+NOTE Confidence: 0.8355819
+
+86a1f869-8363-422a-8321-aab0fe91d871
+00:42:40.642 --> 00:42:45.179
+you know that you have to create
+or with three or with four
+
+NOTE Confidence: 0.8355819
+
+c6a0e8af-6a0f-4a99-9170-314ad7e8af75
+00:42:45.179 --> 00:42:49.716
+inputs like I mean stacking the
+OR with two inputs. I would say
+
+NOTE Confidence: 0.8355819
+
+c088d7ba-7224-4562-9688-36d3d45ec369
+00:42:49.716 --> 00:42:54.602
+that by just I mean chance or by
+just trial and error. I tried
+
+NOTE Confidence: 0.8355819
+
+160aeaa9-3e56-415e-9f07-0021584ebea0
+00:42:54.602 --> 00:42:58.790
+different designs and I checked
+the I analyze them and then I
+
+NOTE Confidence: 0.8355819
+
+c366712e-c864-4dab-acda-dd8867c58fff
+00:42:58.790 --> 00:43:00.884
+saw that this is the correct
+
+NOTE Confidence: 0.864282
+
+44a29cf5-e2db-4ca6-8eff-7e0ab2a1c035
+00:43:00.884 --> 00:43:05.014
+design. The way we didn't fit
+within an or with the North, we
+
+NOTE Confidence: 0.864282
+
+9b383d7b-2e44-48c1-bc56-65e7175b01d4
+00:43:05.014 --> 00:43:08.518
+simply try different design and
+we check them and then we see
+
+NOTE Confidence: 0.864282
+
+5e040952-649d-4507-bdff-ed4649bb73f6
+00:43:08.518 --> 00:43:10.270
+that one of them is correct.
+
+NOTE Confidence: 0.8730491
+
+27966a41-0db4-4827-a1a1-f3d9f08e25bf
+00:43:11.290 --> 00:43:15.160
+But The thing is, for
+designing a digital circuit,
+
+NOTE Confidence: 0.8730491
+
+47f77d34-a518-4e4b-9cd6-abe5f838a8a1
+00:43:15.160 --> 00:43:16.880
+there is an algorithm.
+
+NOTE Confidence: 0.9137997
+
+faec7461-a3cc-4b2b-82af-79bcd7a6d390
+00:43:18.430 --> 00:43:23.094
+Basically, there are some steps
+that if you follow those steps,
+
+NOTE Confidence: 0.9137997
+
+eae04d7b-3edc-4e90-a1d5-986ee8efc07f
+00:43:23.094 --> 00:43:27.334
+you can end with a design that
+is always correct.
+
+NOTE Confidence: 0.783396
+
+56bc55fd-14a5-4b20-9308-bda1bf77e411
+00:43:28.860 --> 00:43:33.330
+So you don't have to just by try
+and error at some gauge to each
+
+NOTE Confidence: 0.783396
+
+3da6f013-79ac-45a6-9950-b6e51f1b6a4f
+00:43:33.330 --> 00:43:36.906
+other and then check analyze
+them to whether I mean they are
+
+NOTE Confidence: 0.783396
+
+7d99f992-e81f-48ad-884d-fdf6d674fa07
+00:43:36.906 --> 00:43:38.694
+correct. I mean they are working
+
+NOTE Confidence: 0.86267346
+
+fa8891e4-e91d-4ff8-a30a-e8d352043687
+00:43:38.694 --> 00:43:45.098
+right or not. So today I'm going
+to introduce this algorithm and
+
+NOTE Confidence: 0.86267346
+
+fc712402-eac5-4995-a50c-fee142b8d9e5
+00:43:45.098 --> 00:43:51.242
+just give you some example, But
+this this algorithm if you know
+
+NOTE Confidence: 0.86267346
+
+a9e3c0bf-9142-4773-8977-ecc17974cd7d
+00:43:51.242 --> 00:43:57.386
+this algorithm, it makes sure
+that you know how to design any
+
+NOTE Confidence: 0.86267346
+
+c58c3e6f-c7b0-4557-afb3-fdd7bfa0ee81
+00:43:57.386 --> 00:44:01.482
+digital circuit to answer any
+type of questions.
+
+NOTE Confidence: 0.82820165
+
+c0962eaf-cf47-417e-86f8-959e9ca0a5cf
+00:44:04.330 --> 00:44:11.143
+So. Before that I have to
+introduce a thing or an entity
+
+NOTE Confidence: 0.82820165
+
+3ea44645-e602-45c7-9dcf-30a734a54214
+00:44:11.143 --> 00:44:15.007
+called Minterms. So I
+intentionally write the meetings
+
+NOTE Confidence: 0.82820165
+
+9c5d2aca-d875-4f4e-accd-6b6b08a76221
+00:44:15.007 --> 00:44:19.837
+by small letters because later
+will see something else that
+
+NOTE Confidence: 0.82820165
+
+45c57193-d9ed-45d9-b7f9-474095192871
+00:44:19.837 --> 00:44:22.252
+they are all capital letters.
+
+NOTE Confidence: 0.70086515
+
+575dd760-606f-42d2-a4d4-eda50b75195e
+00:44:22.850 --> 00:44:27.834
+But Minterms always actually
+showed by small letters.
+
+NOTE Confidence: 0.82450575
+
+b8cd6aa0-3944-4afa-93d6-f95001a32f55
+00:44:28.570 --> 00:44:31.674
+ Another name for minterms is standard product and 
+
+NOTE Confidence: 0.82450575
+
+abd6b769-d43a-479c-ab61-5323ae333327
+00:44:31.674 --> 00:44:32.838
+we'll see why.
+
+NOTE Confidence: 0.93388397
+
+7c018c26-aceb-4a76-a86d-5c5cdfdfd206
+00:44:34.170 --> 00:44:34.890
+So.
+
+NOTE Confidence: 0.88899034
+
+cd6ba06d-bbd2-4dcc-8422-97cf15e35522
+00:44:36.580 --> 00:44:40.157
+If you are given just a single
+
+NOTE Confidence: 0.8450264
+
+887fb233-eca7-4a05-a720-940b088792e7
+00:44:40.157 --> 00:44:45.522
+binary variable. This binary
+variable you can pick any name
+
+NOTE Confidence: 0.8450264
+
+360a1728-ee8a-4714-93ee-b162bd32be64
+00:44:45.522 --> 00:44:49.962
+for that, for instance, XAF
+whatever variable name you want
+
+NOTE Confidence: 0.8450264
+
+ba37b317-5000-4985-9d6e-6c6c8e75746e
+00:44:49.962 --> 00:44:56.178
+to pick. It's OK, but at the end
+of the day, that single binary
+
+NOTE Confidence: 0.8450264
+
+f1dca6ca-b150-4739-805d-f3d62f1bc7d8
+00:44:56.178 --> 00:45:00.618
+variable can have two forms,
+either in the normal form.
+
+NOTE Confidence: 0.81109715
+
+6adfdf9c-5d77-4d02-b629-0b06c3917eb6
+00:45:01.720 --> 00:45:03.250
+ Or in the complement for. 
+
+NOTE Confidence: 0.78784
+
+de0c3eb0-3122-47e1-8d77-5f4328e785fd
+00:45:03.950 --> 00:45:08.768
+Complement is another name for
+not so binary variable is all
+
+NOTE Confidence: 0.78784
+
+042b6ea5-d844-43b2-bf1f-1e47a03dde87
+00:45:08.768 --> 00:45:10.958
+either in the form of.
+
+NOTE Confidence: 0.7520263
+
+92ad79a9-420f-42c0-a630-9ae2316ae9d1
+00:45:11.550 --> 00:45:16.830
+X or normal or in the form of
+nuts or comparable.
+
+NOTE Confidence: 0.84151185
+
+a16a3d85-30e1-4d30-af3c-f6f905fb95b9
+00:45:18.810 --> 00:45:24.946
+So we give each of the forms for
+a binary variable and name.
+
+NOTE Confidence: 0.7837736
+
+9ef4a7bd-a35d-411c-955a-41aa0777fcc0
+00:45:25.670 --> 00:45:29.639
+And this name is called
+midterms, but midterms follows
+
+NOTE Confidence: 0.7837736
+
+6df375db-7066-46d9-9fc9-38ca3b290ec3
+00:45:29.639 --> 00:45:30.962
+within index number.
+
+NOTE Confidence: 0.883894
+
+f7ae533d-d706-41e4-8f4a-31653f43d2c3
+00:45:32.910 --> 00:45:40.302
+So this assignment is based on
+the fact that if I represent
+
+NOTE Confidence: 0.883894
+
+316dd139-ddff-4dda-abc0-426236ebebe7
+00:45:40.302 --> 00:45:42.150
+the binary variable.
+
+NOTE Confidence: 0.8780635
+
+112afafb-6f6e-4e64-9ed7-e7f3d384e4ff
+00:45:43.070 --> 00:45:48.290
+With the binary number of the
+index, it makes the whole term
+
+NOTE Confidence: 0.8780635
+
+d663c7b8-1043-4112-b8a3-e026daf24d28
+00:45:48.290 --> 00:45:50.900
+one. It's very clear I mean.
+
+NOTE Confidence: 0.9019225
+
+3eb9749a-f1aa-483c-b3c0-90dc1d279308
+00:45:52.750 --> 00:45:55.090
+So I give M 0.
+
+NOTE Confidence: 0.8402993
+
+11157e96-9f8b-4564-82f8-9ca5d1d056fc
+00:45:55.990 --> 00:45:59.805
+To the compliment
+form of X Explorer.
+
+NOTE Confidence: 0.85200894
+
+f73db146-d35d-4e39-8dcc-61a5c28554da
+00:46:01.040 --> 00:46:05.440
+Big cause if I represent this
+binary variable with the binary
+
+NOTE Confidence: 0.85200894
+
+561f5ea2-541b-4153-96cb-db12eaf44c2c
+00:46:05.440 --> 00:46:10.240
+number of the index binary
+number of the index, here is 0.
+
+NOTE Confidence: 0.85200894
+
+b41aa0fa-e515-49fa-869c-14f5aa5343ca
+00:46:10.240 --> 00:46:12.640
+So the binary number becomes 0.
+
+NOTE Confidence: 0.85108393
+
+780732d6-8db9-4af6-9d56-55ca2565f0f8
+00:46:13.840 --> 00:46:17.790
+Zero followed by the not makes
+the whole term 1.
+
+NOTE Confidence: 0.80752295
+
+57d17136-3057-4af3-a1ca-0a6198003d92
+00:46:19.940 --> 00:46:25.132
+I give EM12X becausw if I
+represent eggs with the binary
+
+NOTE Confidence: 0.80752295
+
+d4adafd1-5fe0-4287-86c9-a7a7e706c567
+00:46:25.132 --> 00:46:29.380
+number of one, it makes the
+whole term 1.
+
+NOTE Confidence: 0.87883157
+
+d259e495-4297-40c3-a64a-71da46ac9424
+00:46:30.640 --> 00:46:34.017
+Is that clear? So it's very.
+It's very simple but very
+
+NOTE Confidence: 0.7518328
+
+a726777d-f6c3-48ac-b73b-5e0c1fb675f8
+00:46:34.017 --> 00:46:39.647
+important. So basically I attach
+minterm indices too.
+
+NOTE Confidence: 0.8382764
+
+2051275b-268b-40ea-bb46-78437204c6d8
+00:46:40.630 --> 00:46:44.041
+A different form of binary
+variables, but this attachment
+
+NOTE Confidence: 0.8382764
+
+519c193a-b1f5-40d5-a9f0-51a9eed6fd00
+00:46:44.041 --> 00:46:46.694
+or this mapping is based on this
+
+NOTE Confidence: 0.84160596
+
+026ef19d-6527-45ba-8635-2b5232d30f91
+00:46:46.694 --> 00:46:52.691
+fact. The binary representation
+of binary number of the index
+
+NOTE Confidence: 0.84160596
+
+67c0b7e6-bd23-4e19-b20b-7774e399ef14
+00:46:52.691 --> 00:46:55.286
+makes the whole term 1.
+
+NOTE Confidence: 0.84854776
+
+af7c1769-9505-41d7-add7-463b14401644
+00:46:57.900 --> 00:47:01.310
+So for the single binary
+variable, it is very trivial. So
+
+NOTE Confidence: 0.84854776
+
+b7a1f7f1-33cc-4c02-a44b-2a5eb4113a0a
+00:47:01.310 --> 00:47:04.410
+basically whenever you see
+export, you could say that this
+
+NOTE Confidence: 0.84854776
+
+9bfa21f5-d489-4ac3-9e20-0a93fcea947e
+00:47:04.410 --> 00:47:08.750
+is M 0 or mid time zero.
+Whenever you see X, you can say
+
+NOTE Confidence: 0.84854776
+
+53a140e0-66ca-4caf-989b-bca70097bdd7
+00:47:08.750 --> 00:47:09.990
+that this is M1.
+
+NOTE Confidence: 0.8660444
+
+d641f22a-789e-47f7-9928-84683451350c
+00:47:10.670 --> 00:47:14.843
+You can replace X with a. For
+instance, you can see a. It
+
+NOTE Confidence: 0.8660444
+
+1c9c91b6-44e8-49be-845d-57a6f4742519
+00:47:14.843 --> 00:47:19.016
+is an one or a ball is M 0.
+This is very simple.
+
+NOTE Confidence: 0.88781774
+
+67b5b0a8-179c-4435-872d-0ea7b3544643
+00:47:20.630 --> 00:47:23.122
+How about when you are given two
+
+NOTE Confidence: 0.84588945
+
+80810ec3-887e-4611-90f0-676f2c85eca3
+00:47:23.122 --> 00:47:27.407
+binary variables? If you are
+given two binary variables,
+
+NOTE Confidence: 0.84588945
+
+cdc701f8-7d77-47be-8ade-37b21fb0751b
+00:47:27.407 --> 00:47:32.750
+an if you are going to make
+an end of these two binary
+
+NOTE Confidence: 0.84588945
+
+27195d72-9c59-4c78-9cbe-0d65c81ccaef
+00:47:32.750 --> 00:47:35.627
+variables, you're gonna have
+four different ends.
+
+NOTE Confidence: 0.67427087
+
+36a59378-457c-4a8c-80eb-dda520d3835b
+00:47:36.780 --> 00:47:41.290
+Either both the binary variables
+happens in the company form.
+
+NOTE Confidence: 0.8251341
+
+1aad8bc7-8837-48e1-b608-04d70ca88217
+00:47:42.280 --> 00:47:49.106
+Explore ybor. Or one of them
+is in the normal form, the other
+
+NOTE Confidence: 0.8251341
+
+fdc6273e-91d2-4f7e-9f61-cbbea166255c
+00:47:49.106 --> 00:47:55.346
+one is a compliment for XY bar
+or export Y or both of them are
+
+NOTE Confidence: 0.8251341
+
+3029773e-e701-43b5-b759-57cb533b712d
+00:47:55.346 --> 00:47:57.426
+in the normal 4X Y.
+
+NOTE Confidence: 0.8111844
+
+a4ef8f48-04cd-45d9-ab09-368b31c87bc2
+00:47:58.070 --> 00:48:03.413
+So in total, how many and you
+gonna have or how many term
+
+NOTE Confidence: 0.8111844
+
+33d6f9d0-7cfc-49ce-87c9-17742dde8024
+00:48:03.413 --> 00:48:08.345
+you're gonna have based on the
+two binary variable you make it
+
+NOTE Confidence: 0.8111844
+
+e5e1b404-22dc-4c43-b5d5-36b632115c5d
+00:48:08.345 --> 00:48:12.866
+end of them four or two to the
+power of 2.
+
+NOTE Confidence: 0.89067346
+
+92bd2478-bd7b-4775-a898-7477b380e1c5
+00:48:14.920 --> 00:48:20.485
+And now if you want to attach or
+if you want to give them labels
+
+NOTE Confidence: 0.89067346
+
+8c8413aa-30eb-44af-b39b-d735264a658f
+00:48:20.485 --> 00:48:22.711
+or give you give them some
+
+NOTE Confidence: 0.85740304
+
+3763e4f3-0033-4975-988c-720f50018f96
+00:48:22.711 --> 00:48:28.080
+names. You give them some mean
+terms, but this assignment is
+
+NOTE Confidence: 0.85740304
+
+b41dd711-72f6-41c8-b9c3-161979584aab
+00:48:28.080 --> 00:48:32.711
+based on whether the binary
+number of the indices makes the
+
+NOTE Confidence: 0.85740304
+
+d5508e66-e3a3-465d-b0aa-4355e0f1c55a
+00:48:32.711 --> 00:48:34.816
+whole add one or not.
+
+NOTE Confidence: 0.8185624
+
+04bb7ec7-6376-4cf3-9571-5560de3234f5
+00:48:35.990 --> 00:48:39.950
+So for instance, for the first
+One X bar Y bar.
+
+NOTE Confidence: 0.8730746
+
+1d7c5cf2-fd5e-4236-810a-3f3638468665
+00:48:40.790 --> 00:48:47.798
+I attach M 0 and the
+reason is that the binary number
+
+NOTE Confidence: 0.8730746
+
+41311d0a-103b-476e-a61d-530e4479112a
+00:48:47.798 --> 00:48:50.718
+of 042 position becomes 00.
+
+NOTE Confidence: 0.75301033
+
+30aad3bb-2c5b-47ad-bb0b-7b0bd04ef2b3
+00:48:51.370 --> 00:48:57.285
+And if I apply nutso 0 not
+becomes 10 N becomes one so
+
+NOTE Confidence: 0.75301033
+
+9d4197e6-762f-4e82-be69-72384500770e
+00:48:57.285 --> 00:49:02.290
+and 1 the whole term becomes
+one. That's why I attach
+
+NOTE Confidence: 0.75301033
+
+33e4a01a-9899-4410-bb4c-3bfe76feed0c
+00:49:02.290 --> 00:49:03.200
+M-02X4 wyble.
+
+NOTE Confidence: 0.82109046
+
+bcc09870-02ff-4ca6-be2b-7dbf74b77176
+00:49:04.710 --> 00:49:11.934
+I attach M3 to X&Y because
+if I represent fee with the
+
+NOTE Confidence: 0.82109046
+
+5c970817-3d50-4e8a-8255-b54e42d10f58
+00:49:11.934 --> 00:49:14.944
+binary number it becomes 11.
+
+NOTE Confidence: 0.85270786
+
+7a1cae09-dd62-49ba-a32b-77bd35d0c1f4
+00:49:15.590 --> 00:49:19.160
+So 1 one and end
+of them be exit 1.
+
+NOTE Confidence: 0.86643
+
+13ec37af-c0b1-4322-b554-9b93f13ad6ad
+00:49:20.850 --> 00:49:27.798
+The same is for M1 and
+M2. So M2 the binary number
+
+NOTE Confidence: 0.86643
+
+aeaa6f56-663e-4e0e-ba7f-3a3da272453a
+00:49:27.798 --> 00:49:30.114
+for M2 is 1010.
+
+NOTE Confidence: 0.8561313
+
+aa770fce-838b-4f1a-a258-67249c2b09b0
+00:49:31.090 --> 00:49:34.710
+Here, zero followed by the
+nuts becomes one and one
+
+NOTE Confidence: 0.8561313
+
+fe4a8fb9-cb41-46be-8020-dbd5fb98a563
+00:49:34.710 --> 00:49:38.692
+and by one becomes one. So
+the whole term becomes one.
+
+NOTE Confidence: 0.8433925
+
+07509b44-7196-4e43-b0d4-aed2ec954141
+00:49:40.230 --> 00:49:45.310
+So basically you would say that
+midterms always create one.
+
+NOTE Confidence: 0.83708733
+
+2a48475c-e947-416a-99d7-a8fb1928d0e3
+00:49:45.920 --> 00:49:52.196
+Out of and operator and the
+indices shows that what are the
+
+NOTE Confidence: 0.83708733
+
+0df2964b-96eb-4764-9b7b-a8b4fd5c582e
+00:49:52.196 --> 00:49:54.811
+values of the binary variables.
+
+NOTE Confidence: 0.7991858
+
+c6778318-dba0-457b-b1e7-fbf9373628ec
+00:49:57.420 --> 00:49:59.490
+If you are given three binary
+
+NOTE Confidence: 0.85534424
+
+eb912077-e309-484f-928a-fa15f796079c
+00:49:59.490 --> 00:50:04.960
+variables. So XY and Z or
+three positions, and you pick
+
+NOTE Confidence: 0.85534424
+
+c8a4bfd2-75ca-46c6-b72d-3515d30a49ee
+00:50:04.960 --> 00:50:09.073
+one alphabet for each
+position, so you have free
+
+NOTE Confidence: 0.85534424
+
+9e38e90b-f753-4ed8-a82d-e160bb0276dd
+00:50:09.073 --> 00:50:14.100
+position and you pick XYZ. You
+could pick ABC or whatever.
+
+NOTE Confidence: 0.8522098
+
+d8ecf3a9-5e84-4a74-a9b5-564626015df7
+00:50:15.140 --> 00:50:17.110
+How many different ends you
+
+NOTE Confidence: 0.87624556
+
+aaf1f7d8-f355-4873-9532-ee9adee488f2
+00:50:17.110 --> 00:50:24.150
+gonna have? So each variable
+gonna be a form of normal or
+
+NOTE Confidence: 0.8610052
+
+24d91e82-023f-4e3a-820b-7b286fa56863
+00:50:24.150 --> 00:50:28.843
+complement. Each one have two
+possibilities. You have three of
+
+NOTE Confidence: 0.8610052
+
+7d389f7f-3612-44fa-aab0-2cf231c3528a
+00:50:28.843 --> 00:50:31.165
+them. It becomes what would be
+
+NOTE Confidence: 0.92287135
+
+369c0606-2c30-4829-838d-af7450f05781
+00:50:31.165 --> 00:50:33.230
+the answer. How many?
+
+NOTE Confidence: 0.8443877
+
+7fa0cf2d-a6fd-4d22-b15d-27abe3a7ecc0
+00:50:34.500 --> 00:50:35.769
+Get back here.
+
+NOTE Confidence: 0.8167919
+
+e11ca850-cb03-4659-87b8-93b2ece08ec3
+00:50:37.570 --> 00:50:42.420
+Correct, Tatiana and Nick is
+correct, because we have three
+
+NOTE Confidence: 0.8167919
+
+2cc45dd2-4cd0-4c79-bf0c-bbd3fcb67b81
+00:50:42.420 --> 00:50:47.270
+binary variables, each one gonna
+have normal or complements. So
+
+NOTE Confidence: 0.8167919
+
+6fd94f8b-d33b-4baa-9933-b5886d4d8732
+00:50:47.270 --> 00:50:53.090
+in total 2 * 2 * 2 It
+becomes a different forms.
+
+NOTE Confidence: 0.6893217
+
+5e5d215d-8ea7-4d3e-bd7c-7de81cf10f81
+00:50:53.900 --> 00:50:57.516
+And these are the eight
+different forms. Explore
+
+NOTE Confidence: 0.76515186
+
+5aade06c-367c-4679-8b77-26b75b79a4bc
+00:50:57.516 --> 00:51:04.496
+X'Y'Z' Z'Y'X open till the last at all or in the
+
+NOTE Confidence: 0.76515186
+
+0b6b9854-bb19-460a-add7-8772fd63676a
+00:51:04.496 --> 00:51:05.870
+normal form XYZ.
+
+NOTE Confidence: 0.8728221
+
+e4a9dc17-2c60-4ead-93e0-1284495b4759
+00:51:07.310 --> 00:51:11.960
+And now let's see why we
+attached M4 to this.
+
+NOTE Confidence: 0.79771787
+
+f87bfcfe-87c0-4cf9-bda1-13005db1ca0f
+00:51:13.100 --> 00:51:16.350
+Turn or to this expression
+
+NOTE Confidence: 0.91374403
+
+6bd572d3-924f-4191-885e-798ce84f04e1
+00:51:16.350 --> 00:51:21.354
+Boolean expression. The reason
+is if you are given three
+
+NOTE Confidence: 0.89559346
+
+c70192e5-c4d9-4410-89f6-b667788d7134
+00:51:21.354 --> 00:51:28.030
+position. An I represent 4
+in binary number in free
+
+NOTE Confidence: 0.89559346
+
+8c2723e8-6962-4807-b7dc-b761f6fd6f99
+00:51:28.030 --> 00:51:30.510
+position it becomes 100.
+
+NOTE Confidence: 0.84421283
+
+c5948fd9-b44c-42a8-beae-9bdc1866d4ee
+00:51:32.170 --> 00:51:35.602
+Here, zero followed by the knot
+becomes one here zero followed
+
+NOTE Confidence: 0.84421283
+
+e582075e-3296-4824-bb33-c4a1936ca929
+00:51:35.602 --> 00:51:40.594
+by the knot becomes one and here
+is 1. So one and one and one the
+
+NOTE Confidence: 0.84421283
+
+0d17acc7-77e8-4816-a992-2440368f1a4b
+00:51:40.594 --> 00:51:41.842
+whole term becomes one.
+
+NOTE Confidence: 0.87966764
+
+69da7427-a50f-4050-9fce-41ab7a3ab4d8
+00:51:44.260 --> 00:51:48.966
+So this is the Golden rule. When
+you assign me terms to the
+
+NOTE Confidence: 0.5723043
+
+062fa32b-8df2-4b31-97c0-e2917fcd2ee5
+00:51:48.966 --> 00:51:51.230
+ Boolean expressions. With and
+
+NOTE Confidence: 0.8853287
+
+1f8583e6-0a4d-4a3e-b543-b15a2e9dff6a
+00:51:53.570 --> 00:51:55.018
+Any questions so far?
+
+NOTE Confidence: 0.80239886
+
+e9f5b5f1-3b22-4c25-8c95-771bbce7415c
+00:51:57.240 --> 00:52:00.504
+What if there are two
+cases which yield?
+
+NOTE Confidence: 0.8896228
+
+06992a56-be85-4252-8867-8b7b993107f1
+00:52:02.040 --> 00:52:03.030
+0.
+
+NOTE Confidence: 0.11004546
+
+cb2a37e4-f0e7-4d7f-957b-9648f38b3ada
+00:52:06.710 --> 00:52:07.640
+Uh.
+
+NOTE Confidence: 0.86498034
+
+d058daf9-c78e-4853-a8b3-7cb0c4b272dc
+00:52:11.920 --> 00:52:17.320
+In terms of end of the binary
+variables, you wouldn't see any.
+
+NOTE Confidence: 0.7648193
+
+875036d1-5f6f-456d-add5-83dec680ecfa
+00:52:18.760 --> 00:52:22.990
+Binary Boolean expression that
+makes two of them X0.
+
+NOTE Confidence: 0.8805537
+
+e543de20-eeb0-4baa-ab53-024a78a1fe2e
+00:52:25.420 --> 00:52:27.366
+So for instance,
+let me back here.
+
+NOTE Confidence: 0.8760663
+
+83a5f620-dfe1-4c46-b82b-187d41e0f19a
+00:52:28.690 --> 00:52:34.240
+Here, if you represent the
+binary number of the attached
+
+NOTE Confidence: 0.8760663
+
+a9a32c8b-5004-4db9-a383-a96e3688ff4d
+00:52:34.240 --> 00:52:38.680
+midterms, it always makes the
+Boolean expression one.
+
+NOTE Confidence: 0.8490549
+
+c5b446f6-7cac-4f73-9603-735050975fc3
+00:52:40.040 --> 00:52:45.580
+ So you you never see two minterms for one Boolean 
+
+NOTE Confidence: 0.8490549
+
+17b065a1-3062-436e-b4f3-c699b4547931
+00:52:45.580 --> 00:52:46.134
+expression?
+
+NOTE Confidence: 0.83501625
+
+02ffe61c-ccc9-4aa7-8af0-931c94f2a11e
+00:52:47.810 --> 00:52:51.528
+ And The thing is that always the minterms makes the Boolean 
+
+NOTE Confidence: 0.83501625
+
+09dde16d-ea46-43bc-88d7-001ec78b1b5b
+00:52:51.528 --> 00:52:54.232
+expression one, so there is
+no zero here.
+
+NOTE Confidence: 0.54127264
+
+0983deda-38bc-4e8e-bab5-b6f8c974d47b
+00:52:57.800 --> 00:53:01.058
+Makes sense, that's an I answer
+
+NOTE Confidence: 0.8845144
+
+fcd94734-a11b-466f-81e2-14ac73d34b52
+00:53:01.058 --> 00:53:03.190
+your question. OK.
+
+NOTE Confidence: 0.8723001
+
+dfb633ea-dd74-4c6b-80b5-fca08a41904f
+00:53:04.390 --> 00:53:10.292
+So let's move on to the general
+case. In general case you gonna
+
+NOTE Confidence: 0.8723001
+
+43066028-09b0-496d-923f-da5ea6f78714
+00:53:10.292 --> 00:53:11.654
+have any positions.
+
+NOTE Confidence: 0.8592411
+
+f548ff0e-f992-4896-8997-6ab438576610
+00:53:12.520 --> 00:53:17.580
+Each position gonna have one
+variable name. For instance ABCD
+
+NOTE Confidence: 0.8592411
+
+f5df3a6d-a102-4b70-b82c-adcefe67e585
+00:53:17.580 --> 00:53:24.664
+E up to 26 or in general
+you have an position A 03182 up
+
+NOTE Confidence: 0.8592411
+
+71d1f734-ee0d-41a7-b4ff-19e2b95f2392
+00:53:24.664 --> 00:53:27.194
+until a N -- 1.
+
+NOTE Confidence: 0.8628973
+
+4ae4646c-9396-4b0a-bbe5-7941cbe30ab2
+00:53:27.930 --> 00:53:31.930
+And each one gonna have two
+forms, normal and complement,
+
+NOTE Confidence: 0.8628973
+
+92b5ebbb-ac6f-4c3e-97d3-b397d4d38df4
+00:53:31.930 --> 00:53:37.530
+for so at the end of the day,
+you're going to have two to
+
+NOTE Confidence: 0.8628973
+
+09962ef5-db80-40cb-b459-74ab1e4fdf7b
+00:53:37.530 --> 00:53:40.330
+the power of N different
+between them.
+
+NOTE Confidence: 0.8616308
+
+f7cdd3e6-632b-418d-9ec9-e8e9c009f15b
+00:53:43.040 --> 00:53:47.408
+The first one is this. All of
+them are in the compliment form,
+
+NOTE Confidence: 0.8616308
+
+8001e465-8822-44c2-8184-1af1c1936f67
+00:53:47.408 --> 00:53:52.784
+so a 0 bar and with a one bar up
+until a an minus one bar.
+
+NOTE Confidence: 0.8412554
+
+adac6cd6-13cc-477f-a9d0-6065e04a28e8
+00:53:54.280 --> 00:54:00.846
+So N positions or are in the
+company before we attach M 0 to
+
+NOTE Confidence: 0.8412554
+
+d4c95d93-b131-4e56-a85b-246dd68b33ee
+00:54:00.846 --> 00:54:06.005
+this one because the binary
+number of zero when you are
+
+NOTE Confidence: 0.8412554
+
+f0435ce3-3056-4594-85a2-a3e5461a7804
+00:54:06.005 --> 00:54:10.695
+given N positions is basically
+putting 0 in all positions.
+
+NOTE Confidence: 0.81687236
+
+06a3602e-c4ea-40d8-9e0b-eea485f387cb
+00:54:11.640 --> 00:54:14.214
+Followed by nots becomes one and add them together
+
+NOTE Confidence: 0.81687236
+
+41adba7c-e584-4f57-856d-afbec44d475a
+00:54:14.214 --> 00:54:17.646
+So at the end of the day,
+you're going to have one.
+
+NOTE Confidence: 0.86873126
+
+5fdbeb73-8e4f-4ed7-8c01-ea7db219417d
+00:54:20.130 --> 00:54:26.595
+Here this one M the indices is
+true to the power of N -- 1.
+
+NOTE Confidence: 0.86873126
+
+01029321-7847-40cd-88a3-4a521d8469eb
+00:54:26.595 --> 00:54:28.319
+What is this number?
+
+NOTE Confidence: 0.9224525
+
+71e5c205-11ac-4d4e-bd42-d3cda91e4c4d
+00:54:29.170 --> 00:54:30.868
+If you are given an position.
+
+NOTE Confidence: 0.8860853
+
+4697b266-f3d1-4d75-b6fa-0c63239a4cc8
+00:54:33.960 --> 00:54:39.348
+Anybody you remember when we are
+given an position? What would be
+
+NOTE Confidence: 0.8860853
+
+5a9956bc-008c-48a4-ab22-9690a51c7475
+00:54:39.348 --> 00:54:41.593
+the largest number or maximum
+
+NOTE Confidence: 0.87706596
+
+043a9d5f-44f4-494c-8b73-73129500dfb4
+00:54:41.593 --> 00:54:46.340
+number? Basically, you put the
+largest digit in all positions.
+
+NOTE Confidence: 0.8804787
+
+6fc72af6-4cb0-46d1-a06d-796421fd7ddc
+00:54:47.170 --> 00:54:51.478
+So then it becomes 2 to the
+power of N -- 1.
+
+NOTE Confidence: 0.88511735
+
+a332c95b-4b8b-48c8-ac58-797e42330567
+00:54:52.080 --> 00:54:58.333
+So this number in decimal system
+is equal to putting on in all
+
+NOTE Confidence: 0.88511735
+
+ddfd75a2-28fa-41ae-bb08-8e7da8fcb02c
+00:54:58.333 --> 00:55:00.257
+positions in final system.
+
+NOTE Confidence: 0.8736316
+
+95a6ed48-c0ab-4f16-aebc-ee2837a2c746
+00:55:02.510 --> 00:55:06.302
+So basically it means that all
+the positions are one and then
+
+NOTE Confidence: 0.85350484
+
+3ce306c7-aea8-48b2-85a2-fbe36cfc3284
+00:55:06.302 --> 00:55:10.500
+add them together. It becomes
+one at the end of the day, so
+
+NOTE Confidence: 0.85350484
+
+043ced6b-5928-4cc0-984a-612663eae64d
+00:55:10.500 --> 00:55:14.220
+that's why we attack M2 to the
+power of N -- 1 two this time.
+
+NOTE Confidence: 0.79990697
+
+573aa7d0-16dc-47a7-8b59-5573bd491535
+00:55:16.730 --> 00:55:24.194
+So why this attachment? Or why
+this labeling the end of the
+
+NOTE Confidence: 0.79990697
+
+5a273270-3399-4588-9195-9d5d0e6c817c
+00:55:24.194 --> 00:55:26.682
+ binary variables to minterms? 
+
+NOTE Confidence: 0.88719165
+
+a1226f06-1c87-499c-9d86-5b1037fb202c
+00:55:29.020 --> 00:55:34.828
+You'll see the reason, but
+I can say that it gives a
+
+NOTE Confidence: 0.88719165
+
+698095e2-3662-43a6-9678-ea9881486ede
+00:55:34.828 --> 00:55:39.184
+very easy algorithm for us
+to design any circuits.
+
+NOTE Confidence: 0.9017927
+
+6ba0d2ab-fe23-48e5-ae25-5065522a081d
+00:55:40.330 --> 00:55:44.470
+So the next topic is truth
+table. So basically whenever
+
+NOTE Confidence: 0.9017927
+
+d2d8dcb7-b687-4fe5-b7e6-bac6831a8717
+00:55:44.470 --> 00:55:49.024
+we want to explain what's
+going to be the output based
+
+NOTE Confidence: 0.9017927
+
+6dcbb484-b474-4dbe-8b0c-43c64e0e2556
+00:55:49.024 --> 00:55:53.164
+on different value of the
+input, we created truth table.
+
+NOTE Confidence: 0.85801184
+
+79e61f9b-1bf2-47aa-a1fe-9d9513f658f7
+00:55:54.730 --> 00:56:00.866
+So for instance, here you have a
+truth table with only one input
+
+NOTE Confidence: 0.8885247
+
+fce6b570-18c2-40e6-9abf-1e98418a1897
+00:56:00.866 --> 00:56:05.720
+variables X. And you see that
+because you have a single binary
+
+NOTE Confidence: 0.8885247
+
+ef913d78-3abc-4a1f-b53e-01c0cee1cc00
+00:56:05.720 --> 00:56:07.295
+variable, either it happens in
+
+NOTE Confidence: 0.85044754
+
+8e53e4a9-7053-42fd-a862-eab14c4c8410
+00:56:07.295 --> 00:56:11.164
+the. Zero format, meaning that
+it is 0.
+
+NOTE Confidence: 0.90692264
+
+d5ee8ce3-c6ac-4c63-9fdf-a66dd9d52bf4
+00:56:12.160 --> 00:56:16.460
+ Or one? You could say that either it happens with the form
+
+NOTE Confidence: 0.89347553
+
+50259cd8-d0e8-40c5-94e4-2396c6f0d518
+00:56:16.460 --> 00:56:20.287
+of A compliment or it happens to be in the 
+
+NOTE Confidence: 0.89347553
+
+7962ac6b-9eb5-4179-b233-c1882bd1f8e4
+00:56:20.287 --> 00:56:21.579
+form of normal form?
+
+NOTE Confidence: 0.8814059
+
+9ce91d0e-52e4-44bf-b63c-effe818e9473
+00:56:22.790 --> 00:56:27.290
+So then you could describe or
+explain your behavior your
+
+NOTE Confidence: 0.8814059
+
+23d89d9a-117d-4bcc-9e7f-507866e98f5b
+00:56:27.290 --> 00:56:31.340
+desired behavior. Imagine you
+want to design this function,
+
+NOTE Confidence: 0.8814059
+
+2a2f1852-3d68-45b7-b56c-1cb53b833ba3
+00:56:31.340 --> 00:56:37.190
+meaning that whatever the X is,
+I just want to simply output 0.
+
+NOTE Confidence: 0.83107054
+
+7e882ee9-65ef-4118-b949-3c823963b6ab
+00:56:39.940 --> 00:56:44.340
+So you asked to design A circuit
+that whatever the binary
+
+NOTE Confidence: 0.83107054
+
+aa711ca9-c21a-4895-b444-5929efc8efe5
+00:56:44.340 --> 00:56:49.140
+ variable in the is, I just wanted to output the zero. I 
+
+NOTE Confidence: 0.83107054
+
+b8fb4079-42e6-4bee-9cc9-49890fc9cd71
+00:56:49.140 --> 00:56:53.540
+never increase the voltage in the output so this is tthe
+
+NOTE Confidence: 0.83107054
+
+d6d571a7-883e-44a0-90ac-5c8456e7b07a
+00:56:53.540 --> 00:56:57.140
+constant function for this
+function that always output zero
+
+NOTE Confidence: 0.83107054
+
+51d65cd0-1e91-4445-877f-ec93925ecdfe
+00:56:57.140 --> 00:57:00.740
+regardless of the value of
+input, we do nothing.
+
+NOTE Confidence: 0.8469741
+
+58a652d4-246f-471c-bf41-9931cc17d87c
+00:57:01.960 --> 00:57:05.886
+That's it. You do nothing, you
+just simply output 0.
+
+NOTE Confidence: 0.8791177
+
+795a86a2-fd32-44df-8396-58bfd691386f
+00:57:06.510 --> 00:57:10.160
+Basically, we attach the
+ground to the output and we
+
+NOTE Confidence: 0.8791177
+
+a20f77c9-8755-42d9-b06c-c3c7554d8257
+00:57:10.160 --> 00:57:13.810
+don't look at the input, we
+just ignore the input.
+
+NOTE Confidence: 0.86760175
+
+757fb930-b65c-4fdd-a9b1-2c7086fcb4c6
+00:57:15.660 --> 00:57:17.700
+Another constant
+function is this.
+
+NOTE Confidence: 0.8330818
+
+67935fd3-e149-425c-9a8a-8b4bbbadb3a5
+00:57:19.480 --> 00:57:22.495
+Regardless of the input, we just
+simply output one.
+
+NOTE Confidence: 0.8036335
+
+36bed091-420a-42a1-9e7c-febc05b86afe
+00:57:23.510 --> 00:57:27.638
+So somebody asked us to design A
+circuit that always output one.
+
+NOTE Confidence: 0.85214704
+
+6f16c9ea-f12c-441f-a511-f790f008dc88
+00:57:28.230 --> 00:57:32.400
+So again, we don't design
+anything, we just simply attach
+
+NOTE Confidence: 0.85214704
+
+607663ad-162f-4c4b-b864-fad040681adc
+00:57:32.400 --> 00:57:37.404
+the voltage plus five voltage to
+the output. There is no gate
+
+NOTE Confidence: 0.85214704
+
+6ac79fe8-7f02-4bf6-ac82-e1c701e00984
+00:57:37.404 --> 00:57:39.072
+involved in this design.
+
+NOTE Confidence: 0.89694506
+
+e1bb2373-7b05-43f8-9329-4186547683d5
+00:57:40.610 --> 00:57:42.680
+Because the input
+doesn't matter.
+
+NOTE Confidence: 0.8937007
+
+f327c577-601d-43bc-b2f9-8db9758015df
+00:57:44.700 --> 00:57:48.984
+How about this one? So this
+one was the one that we
+
+NOTE Confidence: 0.8937007
+
+72170682-0774-4e9f-8672-393ba4060bc1
+00:57:48.984 --> 00:57:52.911
+already saw. It's enough. So
+basically it says that if you
+
+NOTE Confidence: 0.8937007
+
+0a2a8647-6232-4efd-b759-d00a024858a8
+00:57:52.911 --> 00:57:56.838
+are receiving an input, make
+it and not in the output.
+
+NOTE Confidence: 0.82670856
+
+21f98a82-7955-48db-a042-0dac6f5e81c6
+00:57:58.030 --> 00:58:03.061
+So another way to show this to
+people is this in the output.
+
+NOTE Confidence: 0.82670856
+
+115ba4bb-f4f3-46ae-8ea0-2eeb5b94a3b8
+00:58:03.061 --> 00:58:07.705
+You could say that export what
+was the name of export. You
+
+NOTE Confidence: 0.82670856
+
+9901f79c-5e32-46fd-bc17-48538e9594e6
+00:58:07.705 --> 00:58:11.962
+said that explore when the
+export becomes one or when the
+
+NOTE Confidence: 0.82670856
+
+4aa99b90-a4fd-4f1e-8a17-5777fb3fb0d0
+00:58:11.962 --> 00:58:13.123
+F becomes one.
+
+NOTE Confidence: 0.8760159
+
+fd65a0f7-d7f1-4321-a6e9-7846726686ba
+00:58:14.320 --> 00:58:21.002
+When? What the input is 0 the
+output is 1, so zero followed by
+
+NOTE Confidence: 0.8760159
+
+75b9d26e-cbcb-4add-8984-397bbb3ca553
+00:58:21.002 --> 00:58:26.518
+dinner. This is exactly the same
+as we say that this is N 0.
+
+NOTE Confidence: 0.81912214
+
+25c36afb-7239-43b4-aa0b-454d1e3dd197
+00:58:28.360 --> 00:58:33.729
+So I could say that F for this
+design equal to N 0.
+
+NOTE Confidence: 0.8841123
+
+e57289d4-409c-4b81-9192-f4244d3a658c
+00:58:35.210 --> 00:58:39.602
+So the whole story of mid term
+is this basically whenever you
+
+NOTE Confidence: 0.8841123
+
+0b9771eb-4123-49cc-a9e8-48d4d9a58d26
+00:58:39.602 --> 00:58:43.262
+want to describe the behavior of
+the desired circuit, you
+
+NOTE Confidence: 0.8841123
+
+7924607a-07d5-4212-b63a-f28485608b8e
+00:58:43.262 --> 00:58:44.726
+describe it as meters.
+
+NOTE Confidence: 0.89645255
+
+a64caa0e-0913-4b39-8586-525ed76f14c0
+00:58:45.320 --> 00:58:47.798
+You say that I want the output
+
+NOTE Confidence: 0.8848367
+
+05e71250-8d55-4a18-9a3d-b7a9f02fcd93
+00:58:47.798 --> 00:58:49.960
+becomes one. If.
+
+NOTE Confidence: 0.7944558
+
+0f74f90e-02ca-440c-9d01-274de3995042
+00:58:50.570 --> 00:58:56.996
+I have M zero in the input. If I
+have M1 in the input. If I have
+
+NOTE Confidence: 0.7944558
+
+c6accd11-dfad-4d5e-b6c6-705de11af1e7
+00:58:56.996 --> 00:59:01.532
+an between the input and etc.
+You normally or by standard you
+
+NOTE Confidence: 0.7944558
+
+fa7c14b2-69b8-4049-85da-4c9a693c3a45
+00:59:01.532 --> 00:59:03.422
+express your output by meters.
+
+NOTE Confidence: 0.85967624
+
+69af17d5-33cc-4cd5-ab5f-8aba32985797
+00:59:04.490 --> 00:59:07.379
+I'm meaning that I want
+those meetings to make
+
+NOTE Confidence: 0.85967624
+
+e9703509-06f5-4d88-afe3-e0856e4b0514
+00:59:07.379 --> 00:59:08.984
+it make the output one.
+
+NOTE Confidence: 0.8834341
+
+0d88c5d1-0dc4-477b-bc8f-e22b63660a09
+00:59:10.480 --> 00:59:15.842
+So basically F is M 0 because if
+you represent zero in the input,
+
+NOTE Confidence: 0.8834341
+
+09093eed-7feb-44df-b3c3-a30f1d9112bc
+00:59:15.842 --> 00:59:17.757
+it makes the output one.
+
+NOTE Confidence: 0.8738088
+
+46acaab5-d61d-492a-9c5f-4e95ff14bf65
+00:59:20.020 --> 00:59:22.140
+Here is the last session.
+
+NOTE Confidence: 0.8658205
+
+bb1d9f27-7919-4494-9fbb-86cd4a7b9d11
+00:59:23.670 --> 00:59:28.752
+And this was the nut. So another
+way to represent that is M 0.
+
+NOTE Confidence: 0.84343326
+
+47d0754b-5bb2-4350-8b7a-2c784615cf6a
+00:59:30.100 --> 00:59:33.376
+When you are given only
+one paper.
+
+NOTE Confidence: 0.89046717
+
+a6598ea3-5967-4fd2-abbe-9dc0e73db637
+00:59:35.510 --> 00:59:37.860
+Another function would be this.
+
+NOTE Confidence: 0.8392905
+
+fa1cb402-cbd2-4ee7-9922-35c861193e42
+00:59:38.420 --> 00:59:42.620
+Whatever you receive, you just
+simply output whatever you see.
+
+NOTE Confidence: 0.8410525
+
+61ce86a7-93ac-4da3-a6f5-bf4c19ba6706
+00:59:43.420 --> 00:59:49.272
+So F or FX is at itself, so this
+is the identity function in
+
+NOTE Confidence: 0.83428323
+
+85ab23b2-e555-452a-b2fe-1c425b18fea6
+00:59:49.272 --> 00:59:54.706
+math. So you could show this
+as a midterms.
+
+NOTE Confidence: 0.6982847
+
+d3afb683-4a8e-4d4b-98c4-19a16354db2e
+00:59:55.490 --> 00:59:58.570
+Uh, the meter for X is an 1.
+
+NOTE Confidence: 0.854553
+
+f60cb39d-bd07-4205-9432-07ad103049cb
+00:59:59.680 --> 01:00:03.610
+It says that. If I represent
+input with the binary number
+
+NOTE Confidence: 0.854553
+
+47f47472-7045-4dd7-aca3-96ceba3c86aa
+01:00:03.610 --> 01:00:05.950
+one, it makes the output one.
+
+NOTE Confidence: 0.89170206
+
+8e827ec4-c8cc-41d8-b625-078590aefdd3
+01:00:07.500 --> 01:00:11.988
+So this is very trivial when we
+are given just one binary
+
+NOTE Confidence: 0.89170206
+
+26660615-c4e1-4d0a-81ae-847763db8cde
+01:00:11.988 --> 01:00:15.728
+variable, but look at the
+pattern. So we are going
+
+NOTE Confidence: 0.89170206
+
+3bc77dab-49e1-4049-8368-1e054825bb04
+01:00:15.728 --> 01:00:19.842
+through. I mean expand this
+pattern basically in this way of
+
+NOTE Confidence: 0.89170206
+
+5a53e69d-f25e-4380-b055-2fbf0a87b0af
+01:00:19.842 --> 01:00:23.582
+design we just look at where the
+output becomes one.
+
+NOTE Confidence: 0.7965453
+
+0219e253-07c6-4ce6-889a-e30a4e2e4931
+01:00:24.240 --> 01:00:27.614
+And we express those
+locations by meters.
+
+NOTE Confidence: 0.83280915
+
+8e5f81b8-4e3a-483c-abbd-14926887d762
+01:00:30.870 --> 01:00:34.680
+This is called digital box.
+Basically in the digital buffer,
+
+NOTE Confidence: 0.83280915
+
+d2b7f32a-c7d6-4ff2-b15e-a8e4f97f82e4
+01:00:34.680 --> 01:00:37.728
+whatever you receive, you just
+simply upload that.
+
+NOTE Confidence: 0.7985359
+
+e1e9a8e4-2d45-40f1-90f6-18cc849203c5
+01:00:38.340 --> 01:00:42.396
+Uh, this is equal to follow two
+nuts on top of each other.
+
+NOTE Confidence: 0.7985359
+
+1578c053-c7a5-4829-b157-b6de6a65edcb
+01:00:42.396 --> 01:00:43.956
+Export followed by board becomes
+
+NOTE Confidence: 0.8538923
+
+1a9bd436-d870-4377-82bd-89e9658b0826
+01:00:43.956 --> 01:00:49.588
+X. Another way to show this is F
+is equal to M1 whenever we are
+
+NOTE Confidence: 0.8538923
+
+83f32847-2475-4f8d-87b9-7036b11f2814
+01:00:49.588 --> 01:00:52.858
+given one binary variable, we
+would say that what's the
+
+NOTE Confidence: 0.8538923
+
+2d75aea8-2fbe-4546-aef1-c28d78bc1d4e
+01:00:52.858 --> 01:00:54.166
+benefit of this case?
+
+NOTE Confidence: 0.8384703
+
+eb534804-fc3e-424b-b7e8-37c8c1bea15f
+01:00:55.440 --> 01:00:59.895
+One immediate benefit is that
+sometimes you need to create a
+
+NOTE Confidence: 0.8384703
+
+68f96483-b9b0-4095-bdf0-d97a0d67eced
+01:00:59.895 --> 01:01:01.110
+gap in time.
+
+NOTE Confidence: 0.847487
+
+23df2c48-62a0-4589-a5dc-9b0abc7f476f
+01:01:02.000 --> 01:01:06.000
+But another useful benefit
+of the buffer. You'll see it
+
+NOTE Confidence: 0.847487
+
+e72f6d49-6600-40e2-be73-bc2862fb909a
+01:01:06.000 --> 01:01:07.600
+in one of the.
+
+NOTE Confidence: 0.8389329
+
+3b415313-ab63-4a40-9173-3226cca483a0
+01:01:09.240 --> 01:01:13.908
+Assignments, I mean in next two
+or three weeks you'll see the
+
+NOTE Confidence: 0.8389329
+
+a190e640-ce9d-401a-acc8-9b4380b86eb0
+01:01:13.908 --> 01:01:15.464
+benefit of digital buffers.
+
+NOTE Confidence: 0.81902146
+
+16fbec69-db18-45d5-ab5b-ad06fe71159e
+01:01:17.380 --> 01:01:21.664
+But yeah, just for your
+information, this is called
+
+NOTE Confidence: 0.81902146
+
+7fd03461-191c-4847-aaf7-3a4976839bc4
+01:01:21.664 --> 01:01:25.948
+buffer, but again, the
+pattern is this. I created
+
+NOTE Confidence: 0.81902146
+
+e8665a01-f7e4-46e7-a0d5-ce54004581e8
+01:01:25.948 --> 01:01:30.232
+truth table to explain the
+behavior of this circuit.
+
+NOTE Confidence: 0.8569809
+
+982ac48c-5474-4d00-9f22-575c6474f38e
+01:01:31.330 --> 01:01:34.940
+Then I represent midterms to
+explain the behaviors by the
+
+NOTE Confidence: 0.8569809
+
+e5c13c22-af83-4d0a-a994-29460c11b5b0
+01:01:34.940 --> 01:01:38.550
+midterms. I know the binary
+variable in the input should
+
+NOTE Confidence: 0.8569809
+
+7faea4af-4273-4d67-a9ee-c6ac7ddb4f8a
+01:01:38.550 --> 01:01:42.160
+be in the normal form or in
+the company for.
+
+NOTE Confidence: 0.7071617
+
+ecf0fed6-24eb-40e7-81af-a89549a1900b
+01:01:43.780 --> 01:01:47.659
+So next, let's go to the
+next, I mean.
+
+NOTE Confidence: 0.8145603
+
+f3504a3d-cdc0-49ef-b978-7f33e9ac16e2
+01:01:49.230 --> 01:01:51.438
+Type of design next.
+
+NOTE Confidence: 0.76913345
+
+d5d97180-c88d-4076-874a-1574e130bd07
+01:01:52.970 --> 01:01:56.096
+Units that have two
+binary inputs.
+
+NOTE Confidence: 0.8813232
+
+cf9432e5-659e-40e2-8d47-ddb969d22990
+01:01:57.840 --> 01:02:00.689
+So if you are given two binary
+
+NOTE Confidence: 0.7855779
+
+67269609-fc37-4922-bf4c-201cc1285b50
+01:02:00.689 --> 01:02:06.549
+inputs. They gonna be either
+001010 here anwanwan.
+
+NOTE Confidence: 0.9278388
+
+618f7270-7c31-42df-a45c-43986cf31fc5
+01:02:07.570 --> 01:02:08.210
+So.
+
+NOTE Confidence: 0.8998917
+
+46101f2e-33eb-483e-b4bc-885965872057
+01:02:09.280 --> 01:02:14.570
+My first question from is this
+how many different function?
+
+NOTE Confidence: 0.92087716
+
+37857be0-ef6e-4e4b-8661-a5d858bc59a6
+01:02:15.230 --> 01:02:18.038
+I can ask a designer to
+design for me.
+
+NOTE Confidence: 0.81673807
+
+2611d5cd-b55e-406d-889d-19470f688300
+01:02:22.590 --> 01:02:26.000
+For instance, one designer could
+ask is just simply output 0.
+
+NOTE Confidence: 0.656372
+
+245f8af5-1d0b-4bdb-a28f-84ce2ce4bfda
+01:02:26.750 --> 01:02:28.319
+Old positions also.
+
+NOTE Confidence: 0.84697974
+
+e9edcbc7-3926-4f39-a208-9d1eef0b7b81
+01:02:29.050 --> 01:02:32.383
+One could be output just one,
+whatever the value of the
+
+NOTE Confidence: 0.84697974
+
+dab82b2e-84b7-49a0-8d9b-e83cb5d76a61
+01:02:32.383 --> 01:02:35.716
+inputs is. I just wanted to
+output one. We already saw
+
+NOTE Confidence: 0.84697974
+
+c53813df-47e7-413f-bf28-eeedc00018bb
+01:02:35.716 --> 01:02:36.928
+these two special cases.
+
+NOTE Confidence: 0.8944467
+
+d260366d-7b74-4306-913a-bcab2085d7b2
+01:02:37.960 --> 01:02:41.938
+What else you could say that I
+want to design A circuit that
+
+NOTE Confidence: 0.22592624
+
+c4977df8-d260-43b5-b40a-b8bcf241dbf3
+01:02:41.938 --> 01:02:44.280
+have one here? Sydney.
+
+NOTE Confidence: 0.8944642
+
+7a36979f-2811-4265-9c60-1912e0e6e03d
+01:02:46.140 --> 01:02:51.222
+Put it here. You could say that
+I want to design A function one
+
+NOTE Confidence: 0.8944642
+
+66fb5287-12a6-4e85-8bb6-9fd8113ae335
+01:02:51.222 --> 01:02:53.763
+here 0 here, one here 0 here.
+
+NOTE Confidence: 0.8474834
+
+fd84cced-27bd-45a4-8545-4927a1946789
+01:02:54.650 --> 01:02:59.538
+Or you could ask, I want to
+design A circuit that outputs 0
+
+NOTE Confidence: 0.8474834
+
+5bdcc2fe-ce42-4d83-a172-9f95f71bd3cd
+01:02:59.538 --> 01:03:01.794
+here 00 here and one here.
+
+NOTE Confidence: 0.9112361
+
+274134e1-9d0e-4bcb-a822-e2cee2868f17
+01:03:02.840 --> 01:03:07.845
+How many different variations
+you would ask me to design based
+
+NOTE Confidence: 0.9112361
+
+902fbb27-a220-497e-9cbf-16cfe72380fd
+01:03:07.845 --> 01:03:09.665
+on two input variables?
+
+NOTE Confidence: 0.8775243
+
+bf3c5589-3e97-4a9e-91a9-f537c2032b58
+01:03:13.280 --> 01:03:15.947
+So let's back to the chat box.
+
+NOTE Confidence: 0.7866781
+
+3bd4bd0c-156e-4ede-b1de-fcdc3fbbdb96
+01:03:18.950 --> 01:03:26.328
+So Nick says that 4 Pence 16 two
+to the power of 4 S says that 9.
+
+NOTE Confidence: 0.8781864
+
+4a08a14e-b292-475a-9408-8f4f85e6015d
+01:03:27.280 --> 01:03:32.344
+So this is a lecture assignment
+for this week that in general,
+
+NOTE Confidence: 0.8781864
+
+554fa0ed-0519-46eb-9387-b472ac320885
+01:03:32.344 --> 01:03:36.564
+if you are given an input
+variables, how many output
+
+NOTE Confidence: 0.8781864
+
+4e89b4e6-73a1-4ca2-9cc1-f1161a8edbc2
+01:03:36.564 --> 01:03:41.628
+function you can generate and
+you can ask the design. So this
+
+NOTE Confidence: 0.8781864
+
+667ea316-cde4-4d49-a917-50acfeb1e485
+01:03:41.628 --> 01:03:43.316
+is an interesting question.
+
+NOTE Confidence: 0.92365575
+
+3b913f6a-d027-4794-99fb-a40a024ed40e
+01:03:44.340 --> 01:03:48.780
+But I can say that the correct
+answer is 2 to the power of 4.
+
+NOTE Confidence: 0.8578502
+
+311f0516-4379-4d87-bcdf-b5fb8a3de8cb
+01:03:49.550 --> 01:03:56.460
+Or equal to 16 to
+16 different function you can
+
+NOTE Confidence: 0.8578502
+
+1104e8dc-4b0c-4912-b8a6-e41914303d1f
+01:03:56.460 --> 01:04:03.370
+ask to design. So basically
+a function that at 0000.
+
+NOTE Confidence: 0.8720797
+
+9cf745be-5313-4911-95a8-51057eae9103
+01:04:04.230 --> 01:04:11.003
+And then 1000 and then 0100. You
+see that it's kind of counting
+
+NOTE Confidence: 0.8720797
+
+8e17f48a-7ccb-4ce6-8b78-c9d707dd6449
+01:04:11.003 --> 01:04:17.255
+the binary numbers, but in the
+vertical sense. So if you can,
+
+NOTE Confidence: 0.8720797
+
+d561eacc-22c5-4913-bbbe-8a0a8d25d1cc
+01:04:17.255 --> 01:04:23.507
+all the value variations, you
+gonna have two to the power of
+
+NOTE Confidence: 0.8720797
+
+3eac543e-b840-40e0-a062-a29915b4a9a7
+01:04:23.507 --> 01:04:25.591
+4 or 16 variation.
+
+NOTE Confidence: 0.92344403
+
+250424a0-40ef-4728-a3ce-e24ef2744018
+01:04:26.790 --> 01:04:27.260
+So.
+
+NOTE Confidence: 0.8397819
+
+c24c04e2-01aa-40f9-a1f4-6b5e637b915f
+01:04:29.230 --> 01:04:32.849
+As I said, the immediate or
+very simple function that you
+
+NOTE Confidence: 0.8397819
+
+d948a902-323a-42b5-bb84-9e53a6a4805c
+01:04:32.849 --> 01:04:36.797
+can ask a designer to design
+for you is this just output
+
+NOTE Confidence: 0.8397819
+
+ef2f7b5a-cb2e-4992-8f6e-0e863395828f
+01:04:36.797 --> 01:04:41.074
+zero. We just do not need any
+gate to design this. We just
+
+NOTE Confidence: 0.8397819
+
+67fe5caa-f22c-4a56-91ec-e3a35ce85bc8
+01:04:41.074 --> 01:04:43.048
+attach the output to the graph.
+
+NOTE Confidence: 0.9426773
+
+20a951a2-df02-450f-94d9-0e0733af0689
+01:04:44.220 --> 01:04:45.159
+But this one.
+
+NOTE Confidence: 0.85224944
+
+4f2e636c-0173-40c6-bd60-bd99161e8648
+01:04:46.420 --> 01:04:50.260
+This one basically says that I
+want to output zero when both
+
+NOTE Confidence: 0.85224944
+
+21a4be0d-aefb-4c09-a0f7-e216a8be4db2
+01:04:50.260 --> 01:04:55.060
+are zero. I want to output zero
+when X. The first one is 1 and
+
+NOTE Confidence: 0.85224944
+
+e0db9391-a8c1-4f8f-ba4c-97dd867babec
+01:04:55.060 --> 01:04:56.660
+the second one is 0.
+
+NOTE Confidence: 0.8500157
+
+c4fa10e9-0631-4fe3-8ea3-c76fb6f63e9e
+01:04:57.430 --> 01:05:00.850
+I want to output zero when
+the first one is zero and
+
+NOTE Confidence: 0.8500157
+
+99f46486-cec3-4e9b-9048-5742edfaf7fb
+01:05:00.850 --> 01:05:04.270
+the second one is 1. The
+only case I want to output
+
+NOTE Confidence: 0.8500157
+
+cea2fd5c-94e3-4199-adb0-aa3afc2d8075
+01:05:04.270 --> 01:05:05.980
+one is this both or one.
+
+NOTE Confidence: 0.8439646
+
+a21ce471-62b1-486d-a632-e2ab34fc8e03
+01:05:07.510 --> 01:05:11.758
+So we already saw this behavior.
+This behavior is for the gate
+
+NOTE Confidence: 0.8439646
+
+4399fd67-ebf8-497e-95ab-61875e593c13
+01:05:11.758 --> 01:05:16.006
+and so basically to design this
+circuit I just asked create A
+
+NOTE Confidence: 0.8439646
+
+b44dee28-6942-4d05-8c21-32b509c64713
+01:05:16.006 --> 01:05:18.838
+and gate. So I say that OK, I
+
+NOTE Confidence: 0.76387846
+
+4994d077-6681-4b2b-bf2a-9c50b9c0ee1a
+01:05:18.838 --> 01:05:22.110
+design it. This is the Ant gate.
+
+NOTE Confidence: 0.7761608
+
+33e6f20f-27a6-467c-9e80-fbed629737c4
+01:05:23.780 --> 01:05:28.460
+And I give this design to work.
+Whoever asked me to design this.
+
+NOTE Confidence: 0.884243
+
+a3c038d8-ad95-4663-98d9-2c97242b0e55
+01:05:29.040 --> 01:05:33.824
+So this is X&Y, but in
+another term.
+
+NOTE Confidence: 0.47010398
+
+9b3c3922-6e27-405a-a24a-5d12bbc199a8
+01:05:35.480 --> 01:05:37.788
+I could ask a.
+
+NOTE Confidence: 0.8207904
+
+7a886cac-985c-4238-a6f9-22fcbe595392
+01:05:39.800 --> 01:05:45.624
+Somebody may ask me to design F
+based on the midterms, so the
+
+NOTE Confidence: 0.8207904
+
+c6b768bd-62f4-420c-ba06-cc0e72c6d3e2
+01:05:45.624 --> 01:05:48.312
+midterms if I want to replace
+
+NOTE Confidence: 0.6478229
+
+14f7a0d9-d035-4b35-ae02-0ee74c87934d
+01:05:48.312 --> 01:05:50.900
+this. Within meters.
+
+NOTE Confidence: 0.7192869
+
+93395199-b69c-4d45-8245-274229d4a64f
+01:05:52.030 --> 01:05:54.806
+What would be the index of
+the admitters?
+
+NOTE Confidence: 0.8506987
+
+8bd0c571-0836-48bf-bab3-14cc0f5a808b
+01:05:57.340 --> 01:06:02.683
+The index of that matters is the
+one that makes the output one.
+
+NOTE Confidence: 0.8506987
+
+80435023-0da9-4a1b-ad16-af22ffce8e7a
+01:06:02.683 --> 01:06:08.437
+So here is the output one. So
+what is the meter? The meter is
+
+NOTE Confidence: 0.8506987
+
+a135a424-1b55-4d3d-a29c-303dfb3a7331
+01:06:08.437 --> 01:06:13.369
+the binary number here is 311,
+which is the decimal number of.
+
+NOTE Confidence: 0.88052785
+
+66840289-a868-4163-afea-2d5329ba5801
+01:06:15.270 --> 01:06:21.828
+Free. So instead of just saying
+F is X&Y, the guy could say that
+
+NOTE Confidence: 0.88052785
+
+87908661-d2f3-4c5e-8662-2260a7f65959
+01:06:21.828 --> 01:06:23.758
+F is equal to M3.
+
+NOTE Confidence: 0.8996898
+
+033eeaad-78be-4a77-b99d-17e3d052c8a5
+01:06:25.500 --> 01:06:29.636
+So this is another way to
+represent the output for this
+
+NOTE Confidence: 0.8996898
+
+e7aaa23f-be4e-4861-9b81-bfc50adbd66c
+01:06:29.636 --> 01:06:30.764
+function an free.
+
+NOTE Confidence: 0.87627596
+
+1f0ec8f2-249e-4a7b-b76e-d047c79f8f2a
+01:06:31.860 --> 01:06:34.597
+So again, F is equal to M3.
+
+NOTE Confidence: 0.875806
+
+adc2c4e8-444e-419a-8007-fb5c9943ad17
+01:06:35.340 --> 01:06:38.620
+And remember, because we have
+two input variables, so 3
+
+NOTE Confidence: 0.875806
+
+2756e535-559c-49af-adf6-5acf037ee5d9
+01:06:38.620 --> 01:06:41.900
+means that one here, one
+here. So the output is.
+
+NOTE Confidence: 0.8738526
+
+728a6291-e4ee-4930-b43e-d759e5c99d85
+01:06:44.330 --> 01:06:47.918
+And I don't care about other
+cases. I only care about the
+
+NOTE Confidence: 0.8738526
+
+107b851e-d134-4208-9867-1428a5aef05a
+01:06:47.918 --> 01:06:49.712
+cases that makes the output one.
+
+NOTE Confidence: 0.81908154
+
+ac4574f1-9e4d-4bbf-aed9-661219a47c2b
+01:06:53.130 --> 01:06:57.859
+So. X&Y. Is
+an free.
+
+NOTE Confidence: 0.9216006
+
+08d5015c-d21b-47ad-8595-015e162adce0
+01:07:02.060 --> 01:07:03.100
+So here.
+
+NOTE Confidence: 0.93217444
+
+4e64d51d-2af1-4561-94c1-fedde6344c73
+01:07:07.250 --> 01:07:08.638
+How about this function?
+
+NOTE Confidence: 0.87633777
+
+b21612f6-9e6d-4a22-8dc0-e2899fb8d602
+01:07:09.410 --> 01:07:13.106
+Somebody asked me to design this
+function, meaning that I just
+
+NOTE Confidence: 0.87633777
+
+1d245f83-3db8-4b22-997c-27460e86a126
+01:07:13.106 --> 01:07:17.474
+wanted to output one when the X
+is zero and Y is 1.
+
+NOTE Confidence: 0.8667756
+
+a8af8ed6-c977-4868-a2d0-84ec5aceaabe
+01:07:19.120 --> 01:07:23.514
+So I could simply say that, OK,
+I just wanted to represent this
+
+NOTE Confidence: 0.8667756
+
+29b1be2e-2971-4246-a340-215fa325a7ba
+01:07:23.514 --> 01:07:26.894
+function whenever it becomes
+one, when it becomes one, when
+
+NOTE Confidence: 0.8667756
+
+6bda14fa-7883-4ed6-9aba-576d21654098
+01:07:26.894 --> 01:07:31.964
+the first one is 0 or the second
+one is 1. So this is the.
+
+NOTE Confidence: 0.8213073
+
+8a3ca4ec-514a-4f58-bab2-442335ab43c7
+01:07:33.350 --> 01:07:38.720
+Mid term is the binary number,
+10 is 1 #2, so it is equal to
+
+NOTE Confidence: 0.8213073
+
+360b7dff-00ea-43e1-9362-6c7b78f82f3e
+01:07:38.720 --> 01:07:39.794
+mid term 2.
+
+NOTE Confidence: 0.83942336
+
+93c96a8a-e7f4-4049-81db-49b7d90f615b
+01:07:44.940 --> 01:07:49.532
+And here is the design. I simply
+say that OK, this design for you
+
+NOTE Confidence: 0.83942336
+
+05d10e49-3021-4620-9931-025a22dd9c32
+01:07:49.532 --> 01:07:53.468
+is this X followed by the nuts
+and then end with Y.
+
+NOTE Confidence: 0.8714411
+
+641c980e-7612-4e0b-a450-f2255d08a75d
+01:07:54.040 --> 01:07:58.296
+This is your design that you ask
+me. You ask me F is equal to M2
+
+NOTE Confidence: 0.8714411
+
+ba817078-ce8b-4950-b1ab-67d7fc45c3cb
+01:07:58.296 --> 01:07:59.892
+and I designed this for you.
+
+NOTE Confidence: 0.750874
+
+6f58e59b-1451-4466-9bb6-cca245373866
+01:08:01.940 --> 01:08:03.730
+Another fan would be this.
+
+NOTE Confidence: 0.80066586
+
+62e6364f-5743-4d76-bc19-532c85ac0c94
+01:08:04.850 --> 01:08:08.172
+When the Apple becomes one when
+the input is meeting one.
+
+NOTE Confidence: 0.89699316
+
+0db35b7b-83a2-41e3-8c55-f05ef6380d45
+01:08:11.860 --> 01:08:13.070
+And here is the design.
+
+NOTE Confidence: 0.87100965
+
+cd342c50-64e8-424a-9570-7036ccffd511
+01:08:15.440 --> 01:08:20.200
+Another one would be this, which
+is the F is equal to N 0,
+
+NOTE Confidence: 0.87100965
+
+0c3d57a7-fd27-4cd2-8ddf-daff002eb0e1
+01:08:20.200 --> 01:08:24.280
+meaning that whenever the input
+or the binary number for the 0
+
+NOTE Confidence: 0.87100965
+
+4eaffb2f-b1b5-4b98-85da-be4f9c87ac92
+01:08:24.280 --> 01:08:25.300
+Apple is 1.
+
+NOTE Confidence: 0.8302315
+
+fefcbbc0-527b-4722-bc58-19ef22a11822
+01:08:27.290 --> 01:08:29.240
+And I designed this for.
+
+NOTE Confidence: 0.8822598
+
+b46b3b2d-c42e-4a18-8daf-29993cccb0d0
+01:08:30.680 --> 01:08:33.299
+The person that asked me
+to design that function.
+
+NOTE Confidence: 0.87193555
+
+6d6d53f5-51fc-48d0-b8fc-100e45ff3ab4
+01:08:34.850 --> 01:08:38.919
+What happens if I have two ones
+in the output? So basically for
+
+NOTE Confidence: 0.87193555
+
+d4b4264e-588a-42b8-9ac9-94772deefe58
+01:08:38.919 --> 01:08:42.988
+the two ones. As I said, we
+don't care about the zeros, we
+
+NOTE Confidence: 0.87193555
+
+cde669cb-0992-4999-947e-82266558dd45
+01:08:42.988 --> 01:08:44.866
+don't, we only care about the
+
+NOTE Confidence: 0.9023627
+
+b2de193a-3dde-4129-808b-ae0c59390d3e
+01:08:44.866 --> 01:08:47.485
+ones. We could simply say that
+
+NOTE Confidence: 0.81293553
+
+14a7be5b-4b08-4779-a5c8-9c3ee27e2a2c
+01:08:47.485 --> 01:08:52.576
+the Earth is. Either this case
+or this case.
+
+NOTE Confidence: 0.8437409
+
+b70ee73d-fcef-4764-8461-af0b2de2f7bc
+01:08:56.010 --> 01:08:57.828
+This or this.
+
+NOTE Confidence: 0.86478907
+
+ec9cb429-2bf9-4e32-898e-80ae3c4d9ff8
+01:08:59.590 --> 01:09:04.840
+If both are one, the output is
+1. If one of them is 1, the
+
+NOTE Confidence: 0.86478907
+
+4dce5a76-8a57-4f7c-ab4c-a917339f7669
+01:09:04.840 --> 01:09:07.990
+other one is zero. Also the
+output is 1.
+
+NOTE Confidence: 0.8276993
+
+8f7779a9-7be3-42c9-9b06-a216731c6c24
+01:09:08.650 --> 01:09:11.350
+So. This case.
+
+NOTE Confidence: 0.8160661
+
+86fdebba-cd2e-40fa-a6c6-a8219ea06444
+01:09:11.930 --> 01:09:16.836
+Is midterm 0. This case
+is midterm 1, so I could
+
+NOTE Confidence: 0.8160661
+
+0cfead55-5278-4ed7-ad89-b70117fc4b27
+01:09:16.836 --> 01:09:20.850
+simply say that either
+this case or this case.
+
+NOTE Confidence: 0.6598015
+
+863cc427-387f-4d5e-97ee-1af937afbe70
+01:09:22.310 --> 01:09:25.190
+Is N0 or N1?
+
+NOTE Confidence: 0.7740597
+
+42987500-fd0d-4437-a263-87b03cca1357
+01:09:28.130 --> 01:09:33.876
+ Another way to show it is this Sigma minterm zero and one Sigma 
+
+NOTE Confidence: 0.7740597
+
+aef4ac0a-b5c5-4069-8af1-1b75af5c696d
+01:09:33.876 --> 01:09:38.296
+is just a abbreviation for
+adding multiple number. I mean
+
+NOTE Confidence: 0.7740597
+
+1dc2d7d0-884b-41ad-a483-7fcd8bc81106
+01:09:38.296 --> 01:09:43.158
+different numbers. So I could
+say that Sigma midterm 01. This
+
+NOTE Confidence: 0.7740597
+
+6daccdf4-202e-42a7-95f9-e80b9b9f4622
+01:09:43.158 --> 01:09:45.810
+is another way to show that.
+
+NOTE Confidence: 0.8224493
+
+a687766d-95ce-4e78-a651-29d03204ea0c
+01:09:47.840 --> 01:09:53.816
+And here is the design, so I
+could simply say that XY.
+
+NOTE Confidence: 0.7981356
+
+ab1f3eb1-e862-4f2c-af13-1d764cc963be
+01:09:55.110 --> 01:10:00.453
+Yeah becomes not X not why not
+and then? And here is X.
+
+NOTE Confidence: 0.8204832
+
+f1ce0616-4dfb-4243-bf6b-a99d84055334
+01:10:01.740 --> 01:10:04.416
+Why not and and then or?
+
+NOTE Confidence: 0.92134136
+
+0c7c0e93-184b-4427-9cfb-1cb734100c31
+01:10:05.220 --> 01:10:09.189
+So this is the design for
+the required function.
+
+NOTE Confidence: 0.69813824
+
+1ccc9542-0faa-48e7-b78c-8e1868e46da9
+01:10:11.110 --> 01:10:13.550
+ Minterm zero minterm 1. 
+
+NOTE Confidence: 0.7292953
+
+cbfd0319-9deb-4b49-b19e-629e1c1f5ce5
+01:10:14.100 --> 01:10:15.830
+ This is the Minterm 0. 
+
+NOTE Confidence: 0.79521525
+
+745b0a14-4f1b-4b4d-bc07-4ec5375e84fb
+01:10:17.370 --> 01:10:19.634
+The end and this
+is the midterm 1.
+
+NOTE Confidence: 0.8701126
+
+5a042693-da35-461b-966c-e3d6e3d8ec5a
+01:10:20.890 --> 01:10:22.157
+And this is the order of them.
+
+NOTE Confidence: 0.88397837
+
+ae4cc792-4760-4bd6-8b1f-6f2e1f6e24a5
+01:10:25.140 --> 01:10:30.301
+Another way to show this is that
+usually we bring these nuts to
+
+NOTE Confidence: 0.88397837
+
+291cf34b-6f57-4cdf-8265-6959914728ac
+01:10:30.301 --> 01:10:34.668
+this source point of the binary
+variable. These are the wires.
+
+NOTE Confidence: 0.8164703
+
+f1dbdaa4-add2-4a3c-ad34-a48e8d5bed6a
+01:10:35.330 --> 01:10:37.794
+So basically we say that OK X.
+
+NOTE Confidence: 0.7496972
+
+77bb55c5-5ea7-4690-89b6-47366dc6e9b9
+01:10:38.560 --> 01:10:42.960
+Explore why why board and
+now attach the gate input
+
+NOTE Confidence: 0.7496972
+
+7c4bed0a-adfd-4970-9c57-0a604d6d0952
+01:10:42.960 --> 01:10:44.720
+gates to these wires.
+
+NOTE Confidence: 0.9191701
+
+17ee1878-49ff-41a8-9712-f66b672c6718
+01:10:48.000 --> 01:10:50.220
+So this is another function.
+
+NOTE Confidence: 0.9128903
+
+737bf2d7-e349-4f83-8d07-8d76464540bc
+01:10:50.830 --> 01:10:54.636
+So now we want to design this
+functionality. Somebody asked us
+
+NOTE Confidence: 0.9128903
+
+173cb775-5084-4d9a-987a-b511fe98b5b0
+01:10:54.636 --> 01:10:55.674
+to design this.
+
+NOTE Confidence: 0.7666194
+
+2226fa72-1aa8-4a8c-9f8b-d4a4e5d00ab2
+01:10:56.490 --> 01:11:01.560
+So basically he or she wants to
+act one if.
+
+NOTE Confidence: 0.8114581
+
+86d7569c-e4f4-48af-8e1e-2a98ee303530
+01:11:02.980 --> 01:11:07.894
+The inputs are complements of
+each other you see here. If X is
+
+NOTE Confidence: 0.8114581
+
+73379c0a-b26c-4373-b921-488df5f17dbc
+01:11:07.894 --> 01:11:13.942
+1 Y 04, if X is 01 is 1. In
+these cases we want to output
+
+NOTE Confidence: 0.87069976
+
+46aed90f-c806-43c0-bea2-4688f34267f0
+01:11:13.942 --> 01:11:18.350
+one. However, if both are
+equal to each other, I want
+
+NOTE Confidence: 0.87069976
+
+e48d8520-2aa4-4ce3-952f-5c9ec7ee8859
+01:11:18.350 --> 01:11:19.259
+to output 0.
+
+NOTE Confidence: 0.8812478
+
+d6868653-b932-41cf-9e62-b04e0e23bd88
+01:11:20.840 --> 01:11:25.328
+So basically I just Simply put
+attention to those entries. That
+
+NOTE Confidence: 0.8812478
+
+06af431e-bc48-4dae-804e-54a8c24b736c
+01:11:25.328 --> 01:11:27.776
+makes it one in the output.
+
+NOTE Confidence: 0.8273811
+
+6347b776-6386-4ef5-8c0d-7490457de263
+01:11:28.340 --> 01:11:32.432
+And then either this case or
+this case, and this case is
+
+NOTE Confidence: 0.8273811
+
+570c454f-862e-4315-8024-a4b72a345fe4
+01:11:32.432 --> 01:11:34.478
+midterm one, and this is not
+
+NOTE Confidence: 0.9217725
+
+3564fef6-4299-4537-8a1f-5926e4535459
+01:11:34.478 --> 01:11:37.476
+empty. This is another way
+to show that.
+
+NOTE Confidence: 0.8093643
+
+5c20eda6-2dcf-4893-9fd0-a635358608e1
+01:11:38.990 --> 01:11:44.474
+And then I design the circuit.
+So this is the meter one.
+
+NOTE Confidence: 0.7663827
+
+990c8bba-c8c5-4677-a654-c3948aafedd9
+01:11:47.490 --> 01:11:48.900
+And this is the meter.
+
+NOTE Confidence: 0.78772354
+
+1e538bd2-f9d7-4a8f-beb6-9c207990d26b
+01:11:50.280 --> 01:11:54.827
+2. So meeting one meeting
+2 or together.
+
+NOTE Confidence: 0.8276994
+
+0f48b21b-eef8-4bca-b40e-994307607884
+01:11:57.670 --> 01:12:01.516
+This special circuit has a nice
+
+NOTE Confidence: 0.9000252
+
+85bf61f1-a208-4500-ab43-bb7d352b9819
+01:12:01.516 --> 01:12:06.330
+properties. A lot of nice
+properties that in the next week
+
+NOTE Confidence: 0.9000252
+
+d5abdb9b-c227-4602-88c3-83646315eb4e
+01:12:06.330 --> 01:12:10.566
+assignment you gonna see a lot
+of these properties and we call
+
+NOTE Confidence: 0.9000252
+
+17acf2e6-9c8c-4ea0-8b86-a3be58a0d3a2
+01:12:10.566 --> 01:12:11.625
+them exclusive or.
+
+NOTE Confidence: 0.7964199
+
+fd302035-aa2d-482c-979b-30908a2a652f
+01:12:12.210 --> 01:12:14.418
+Meaning that meaning that.
+
+NOTE Confidence: 0.78436947
+
+36045a07-db67-4689-862f-e31ee8b79633
+01:12:15.130 --> 01:12:18.874
+Uh, it's kind of or
+but exclusive or.
+
+NOTE Confidence: 0.8649765
+
+a51c6910-fd8b-4f25-95d7-2b9499669cf8
+01:12:20.460 --> 01:12:22.428
+Very similar to the OR gate.
+
+NOTE Confidence: 0.8943491
+
+29aaefaa-9802-44af-89a0-0cf96acf9e3e
+01:12:23.560 --> 01:12:27.784
+But when we say exclusive, it
+means that you don't want them
+
+NOTE Confidence: 0.88464195
+
+4f1ca2eb-f24d-40c4-b00f-3b0580153e97
+01:12:27.784 --> 01:12:32.410
+both one. So in this case we
+just output zero. That's the
+
+NOTE Confidence: 0.88464195
+
+76f02f0f-144d-4f5d-8df9-58f287fcd57c
+01:12:32.410 --> 01:12:33.032
+only difference.
+
+NOTE Confidence: 0.80531317
+
+97638960-efc8-4d42-9971-38981b3ae10a
+01:12:34.960 --> 01:12:38.440
+And we show it. But this
+assemble exclusive or so.
+
+NOTE Confidence: 0.80531317
+
+32dee73b-3e3c-40b4-b0a4-6dfabba311fa
+01:12:38.440 --> 01:12:40.180
+Basically the order followed by
+
+NOTE Confidence: 0.8655741
+
+3c3f82f6-b1d4-471d-bb95-40f923f4c8f2
+01:12:40.180 --> 01:12:47.771
+a circle. My question for me is
+this. If I ask you in English or
+
+NOTE Confidence: 0.8655741
+
+0d466b77-7423-48c0-b112-0e660fe19499
+01:12:47.771 --> 01:12:52.441
+in any languages in natural
+languages that try to choose
+
+NOTE Confidence: 0.8655741
+
+3d63c115-1732-4e94-8bf5-e76fbe40ad10
+01:12:52.441 --> 01:12:59.446
+between option A or B, what type
+of or I mean exclusive or or the
+
+NOTE Confidence: 0.9196999
+
+b11a67e2-1c3f-4d0a-a025-17ce0ebe1695
+01:12:59.446 --> 01:13:03.825
+OR gate? So in natural language
+such as English.
+
+NOTE Confidence: 0.6238937
+
+c34c6c83-2ffa-4046-afbb-b3fc3d32cb6a
+01:13:08.550 --> 01:13:12.309
+So if you ask, uh, option A.
+
+NOTE Confidence: 0.7768837
+
+4b1f5f16-402b-47e0-a5b7-3018e1d4bcb0
+01:13:14.360 --> 01:13:15.290
+Or be.
+
+NOTE Confidence: 0.7869353
+
+a6996568-4cb4-4d48-b7d5-e8d3e3898278
+01:13:16.700 --> 01:13:18.930
+So what type of war?
+
+NOTE Confidence: 0.75930923
+
+9110f53b-a680-48a4-949f-651e50fcf12a
+01:13:20.390 --> 01:13:21.230
+They make.
+
+NOTE Confidence: 0.8607831
+
+7bac5472-3521-4a35-91eb-5e8ae98f156c
+01:13:31.810 --> 01:13:36.430
+So that's the thing, that's the
+thing. Usually by default in
+
+NOTE Confidence: 0.8607831
+
+5e5776fc-46bf-44d8-b43c-b4aa778d9611
+01:13:36.430 --> 01:13:41.050
+natural languages when we say or
+that's exclusive or meaning that
+
+NOTE Confidence: 0.8607831
+
+7c25af99-ea93-4d96-9b65-192ee8efd987
+01:13:41.050 --> 01:13:46.510
+you don't have the option to
+choose both of them, you have to
+
+NOTE Confidence: 0.8607831
+
+45831acd-725d-49b4-8c8e-d2bdfe2c6bfa
+01:13:46.510 --> 01:13:50.710
+choose one of them. So by
+default in natural language,
+
+NOTE Confidence: 0.8607831
+
+3804391e-80c2-4407-a2e9-ae182e361d9f
+01:13:50.710 --> 01:13:54.910
+exclusive or actually we mean.
+But in the digital circuit.
+
+NOTE Confidence: 0.8986847
+
+6a7c1fb1-7ccf-46dd-ae74-6e0a88e3b1e3
+01:13:55.080 --> 01:13:58.860
+The order actually allows you to
+pick both options.
+
+NOTE Confidence: 0.8325818
+
+cc7c8e23-a427-45e6-9e6f-c876a6cb9b53
+01:13:59.650 --> 01:14:04.270
+So, but exclusive or has a
+nice property and that you
+
+NOTE Confidence: 0.8325818
+
+ac47af81-354f-4710-8f6d-b1ebe9dda9cb
+01:14:04.270 --> 01:14:08.050
+will see in the comments.
+I explained it there.
+
+NOTE Confidence: 0.78794754
+
+4311808c-3aa7-4ffd-817e-c8974e56c07e
+01:14:09.260 --> 01:14:11.956
+Anyways, for us this is
+the required functionality
+
+NOTE Confidence: 0.78794754
+
+f5a9259f-5cfb-4fc8-bd01-f9f0e553c023
+01:14:11.956 --> 01:14:16.000
+and we could rewrite it as
+a midterms and here is the
+
+NOTE Confidence: 0.78794754
+
+a718dc59-b957-440e-b03d-a0096b18c858
+01:14:16.000 --> 01:14:19.370
+new design. Just remember
+this gate is a new gate.
+
+NOTE Confidence: 0.8309284
+
+92ee844e-1ff2-40fb-9a18-5818c3abd4ce
+01:14:20.620 --> 01:14:24.351
+I'm saying you can go to the
+market and buy this gate. So
+
+NOTE Confidence: 0.8309284
+
+e06f77a0-926c-42ab-bb27-bd17532b3717
+01:14:24.351 --> 01:14:26.934
+which is basically this
+design inside that gate? This
+
+NOTE Confidence: 0.8309284
+
+f2d7d526-768c-447e-b312-4ca44eb6f940
+01:14:26.934 --> 01:14:27.795
+is the design.
+
+NOTE Confidence: 0.86607593
+
+ce6b2a03-c979-4115-81fd-a5bfc62bf52e
+01:14:30.640 --> 01:14:32.730
+Another function would be this.
+
+NOTE Confidence: 0.8338221
+
+b089148e-5a20-485e-a994-d34ef8b9535f
+01:14:33.880 --> 01:14:39.119
+So basically here I'm going to
+do as you can see the output.
+
+NOTE Confidence: 0.80522513
+
+0345354e-511e-4e71-bb53-d44512a0a233
+01:14:40.600 --> 01:14:45.000
+You could compare this outputs
+with the previous exclusive or
+
+NOTE Confidence: 0.8321099
+
+c08e4359-7200-4074-9792-07e2eaea775d
+01:14:45.000 --> 01:14:47.718
+gate. This is the nut of the
+
+NOTE Confidence: 0.8374527
+
+6449e1b0-90fe-4fe1-8592-a43b78718b87
+01:14:47.718 --> 01:14:51.216
+previous function. Whenever the
+inputs are equal, I wanna act
+
+NOTE Confidence: 0.8374527
+
+6d89e64b-6d50-4c6d-bafb-12c85a9b222e
+01:14:51.216 --> 01:14:54.780
+with one whenever they are not
+equal. I want to output 0.
+
+NOTE Confidence: 0.87389725
+
+4932889d-763d-418c-9d66-4d6e58f44ecc
+01:14:55.780 --> 01:15:00.873
+So basically the check between 2
+bits or between two binary
+
+NOTE Confidence: 0.89851236
+
+9f114232-7a80-4fc3-bdf7-a28d4564e154
+01:15:00.873 --> 01:15:04.611
+variables. If they are equal, 1
+if they are not equal 0.
+
+NOTE Confidence: 0.877441
+
+e1a0e2d2-d554-46c0-9bca-6b233f28ae69
+01:15:05.740 --> 01:15:10.804
+For us, we just pay attention to
+those entries. That makes the
+
+NOTE Confidence: 0.877441
+
+227e57d6-5144-4243-aa87-323f313fc4f6
+01:15:10.804 --> 01:15:16.290
+output one. So this is the one
+of them. Either this or this.
+
+NOTE Confidence: 0.868269
+
+526b5eb3-133c-42fc-92de-e1a6c8fbbd6e
+01:15:17.140 --> 01:15:21.316
+And the first one is here,
+which is mid term 0, the
+
+NOTE Confidence: 0.868269
+
+2febe9f1-7983-405d-b0a5-2c041b8f2c85
+01:15:21.316 --> 01:15:25.144
+first, the second one is
+here, which is mid term 3.
+
+NOTE Confidence: 0.8314167
+
+c721dd2a-a84c-4b15-bc06-83a24e39687d
+01:15:26.190 --> 01:15:29.795
+So meet in 3 zero or three.
+
+NOTE Confidence: 0.8214842
+
+1a752b06-0769-424e-9a4d-4be6842df643
+01:15:31.290 --> 01:15:37.140
+This is the Boolean function and
+if we want to design this, it
+
+NOTE Confidence: 0.8214842
+
+5b82d087-8c52-404d-93c6-4e2fdf85fd6b
+01:15:37.140 --> 01:15:38.490
+becomes midterm 0.
+
+NOTE Confidence: 0.79682016
+
+43da5465-f6eb-425a-9e00-f1f4186ebc57
+01:15:39.340 --> 01:15:42.840
+minterm 3 all of them together. 
+
+NOTE Confidence: 0.78222775
+
+12d83d14-d52a-4aad-82a2-3f45957df16c
+01:15:48.490 --> 01:15:55.210
+Exclusive nor as you see, it's a
+not of exclusive or so is we
+
+NOTE Confidence: 0.78222775
+
+3dc1ffe3-1aeb-4e71-981e-ffe302ea03e7
+01:15:55.210 --> 01:16:00.490
+could say that knocks versus NX
+or. But the pronunciation is
+
+NOTE Confidence: 0.78222775
+
+a873c7b2-bac8-42a6-839a-fb6b87b53fd6
+01:16:00.490 --> 01:16:06.250
+difficult. They put in here. So
+basically they had to put N.
+
+NOTE Confidence: 0.8593188
+
+a985061b-71de-4b63-b54c-dbbc95c2b890
+01:16:06.910 --> 01:16:08.060
+X or.
+
+NOTE Confidence: 0.8016248
+
+6317e148-288d-4e74-b7f7-d56531daf8d6
+01:16:10.000 --> 01:16:14.455
+But The thing is, because of
+the pronunciation is not very
+
+NOTE Confidence: 0.8016248
+
+6243f91d-bad1-46b7-9dc9-56c04833b20c
+01:16:14.455 --> 01:16:20.530
+good, so they put it here. So
+X nor is basically not of X or
+
+NOTE Confidence: 0.8016248
+
+9892907e-d459-4adf-9f99-8632c9cde999
+01:16:20.530 --> 01:16:25.390
+very similar to the end NAND
+or NOR. Here have exclusive or
+
+NOTE Confidence: 0.8016248
+
+5ecefd0a-445d-4fef-999c-65990c191cde
+01:16:25.390 --> 01:16:27.010
+and then exclusive nor.
+
+NOTE Confidence: 0.8738123
+
+d971ec25-6f61-44bb-aa12-8fb66cf41eec
+01:16:28.870 --> 01:16:32.416
+So basically this is
+the symbol for that, a
+
+NOTE Confidence: 0.8738123
+
+f0d9cca8-6a52-43af-8539-27b6724998dd
+01:16:32.416 --> 01:16:33.992
+dot followed by circle.
+
+NOTE Confidence: 0.89462775
+
+1eac2033-a0f8-4ddb-a7e1-c04d37ecac53
+01:16:37.220 --> 01:16:39.600
+As you can see here, this
+is the exclusive or.
+
+NOTE Confidence: 0.7387632
+
+81531ada-db67-422b-9d1d-a70a79851bcb
+01:16:40.790 --> 01:16:42.438
+Followed by and nuts.
+
+NOTE Confidence: 0.8482967
+
+347d145e-7038-4ce1-bcfb-8f15f9a53398
+01:16:44.380 --> 01:16:48.461
+So at home you can practice
+whether you can have exclusive
+
+NOTE Confidence: 0.8482967
+
+7ff5b03d-32fc-4944-9153-15f801b85e87
+01:16:48.461 --> 01:16:52.542
+or with three inputs, whether
+you have have. Whether you can
+
+NOTE Confidence: 0.8482967
+
+598f47c4-5152-44c9-b71d-255bc02ad2ef
+01:16:52.542 --> 01:16:56.623
+have exclusive nor with three
+input. So try to build a
+
+NOTE Confidence: 0.8482967
+
+9c2b5607-eaf4-437f-b716-b7facb0816dc
+01:16:56.623 --> 01:16:59.591
+exclusive or an exclusive nor
+with more inputs.
+
+NOTE Confidence: 0.819733
+
+a31155f7-8e43-4622-9a67-ae4d3cbdce42
+01:17:00.210 --> 01:17:03.290
+And see and check whether your
+design is correct or not.
+
+NOTE Confidence: 0.8364704
+
+b970a071-7517-44b9-9873-0795a8857e02
+01:17:05.290 --> 01:17:10.882
+And this is another function we
+could have, so just Simply put
+
+NOTE Confidence: 0.8364704
+
+2e310873-7e33-4d94-ad0d-b3bbf1d40f57
+01:17:10.882 --> 01:17:16.008
+attention to those entries with
+one, either this or this or
+
+NOTE Confidence: 0.8364704
+
+4cf49d22-300a-42da-9e41-4613c31034d4
+01:17:16.008 --> 01:17:20.668
+this. So basically now we
+replace them with the midterms.
+
+NOTE Confidence: 0.72527546
+
+e65d0169-70a8-4e83-8084-9146aef6fc81
+01:17:21.530 --> 01:17:26.759
+Mitten Zero 10110. Three or sick
+mommy. 10:01 three.
+
+NOTE Confidence: 0.86581135
+
+e78f3e9f-3a8d-4c3b-b184-42915ddc76b6
+01:17:27.510 --> 01:17:32.009
+So you see, now that what are
+the benefit of midterms?
+
+NOTE Confidence: 0.86581135
+
+0191ecc0-1ff6-4824-93f8-dd51940842b0
+01:17:32.009 --> 01:17:35.690
+Basically the midterms, the
+shorter form to represent the
+
+NOTE Confidence: 0.86581135
+
+bce349a0-0911-4aba-9b03-59e3042d93bc
+01:17:35.690 --> 01:17:40.189
+Boolean function and basically
+says that if you are, if you
+
+NOTE Confidence: 0.86581135
+
+fa1d3e92-58ce-4257-a180-e1f1fcb8048c
+01:17:40.189 --> 01:17:44.279
+have the binary number for
+these numbers in the input,
+
+NOTE Confidence: 0.86581135
+
+1bcf969d-3d9d-4b5c-9298-82e8535ba958
+01:17:44.279 --> 01:17:45.915
+the output becomes one.
+
+NOTE Confidence: 0.77508885
+
+ccf93666-e30f-4a0c-a377-d9bd7e677e4c
+01:17:47.090 --> 01:17:51.906
+If I have the binary very binary
+value for free in the input, F
+
+NOTE Confidence: 0.77508885
+
+649106b2-4da4-4ada-8520-691b8cfcfa97
+01:17:51.906 --> 01:17:56.034
+becomes one. If I have the
+binary value for one, it becomes
+
+NOTE Confidence: 0.8370536
+
+a823c808-3c0c-43ab-bf40-2a91f0c5853f
+01:17:56.034 --> 01:18:02.043
+one. So that's why we represent
+Boolean functions based on
+
+NOTE Confidence: 0.560435
+
+abd74aa5-8133-46bf-a601-14b1b71f182e
+01:18:02.043 --> 01:18:08.170
+what's this? Based on midterm
+indices or meters.
+
+NOTE Confidence: 0.82483286
+
+14859633-e489-4794-91e3-fd492735af9c
+01:18:09.500 --> 01:18:13.700
+And here is the design. So three
+midterms or together.
+
+NOTE Confidence: 0.86411303
+
+c8f73321-19b0-45c2-8306-91c575731596
+01:18:15.500 --> 01:18:19.910
+So this is this way of
+designing in function is
+
+NOTE Confidence: 0.86411303
+
+d657aa02-e4ef-4b02-b1cd-7558a2f03e16
+01:18:19.910 --> 01:18:24.761
+called sum of products. Why
+is that? The reason is that
+
+NOTE Confidence: 0.86411303
+
+cd9337f4-6aaa-441e-ab9d-f94b75c52b85
+01:18:24.761 --> 01:18:26.525
+at the first level.
+
+NOTE Confidence: 0.84665996
+
+009d4af9-9957-4a00-9548-36ce0f5224ae
+01:18:27.710 --> 01:18:32.354
+You do and another name for
+Ant is that basically is very
+
+NOTE Confidence: 0.84665996
+
+49af0019-c671-4e87-9d57-a1a3ee430f5f
+01:18:32.354 --> 01:18:36.998
+similar to the decimal system
+that you do dot. So at the
+
+NOTE Confidence: 0.84665996
+
+8f9b18aa-504f-4753-aa20-aadf5becf356
+01:18:36.998 --> 01:18:41.255
+first level used to and or
+product and the second level
+
+NOTE Confidence: 0.84665996
+
+1514b98f-b564-4bdd-b43a-8949c5031ea4
+01:18:41.255 --> 01:18:43.190
+you do or or some.
+
+NOTE Confidence: 0.8103856
+
+e4c526a2-33a4-46f0-bbf8-4d6fcc202360
+01:18:44.240 --> 01:18:47.635
+That's why they call it sum of
+
+NOTE Confidence: 0.8457146
+
+d3734984-7278-42aa-9554-3610db0a1cad
+01:18:47.635 --> 01:18:52.900
+products SOP. Remember, this
+name is Opi, so first you do
+
+NOTE Confidence: 0.8457146
+
+6cc2e4ca-ba80-47d2-a155-4fb52caa6f37
+01:18:52.900 --> 01:18:57.580
+some products and then you sum
+them by product we mean and.
+
+NOTE Confidence: 0.7416478
+
+6ec9494a-652c-4c0e-aae3-6d8d6176debe
+01:19:01.590 --> 01:19:03.820
+By son we mean or.
+
+NOTE Confidence: 0.92076975
+
+8968d13e-106e-4162-9a8d-4cad38551baf
+01:19:08.280 --> 01:19:09.399
+Sorry about my.
+
+NOTE Confidence: 0.84800047
+
+7ba29e96-c507-4744-8d2b-71bb85a26367
+01:19:11.350 --> 01:19:16.069
+And another interesting property
+of this design is this. This is
+
+NOTE Confidence: 0.84800047
+
+c66c77db-1bc1-45ce-80f7-3693b103c068
+01:19:16.069 --> 01:19:22.504
+a two level design. At first we
+have ants and 2nd we have or so
+
+NOTE Confidence: 0.88137317
+
+72d2a4d4-ba9c-4a4d-8f9a-7f4229414ed8
+01:19:22.504 --> 01:19:28.680
+and. 4. So if I want
+to wait for the final result
+
+NOTE Confidence: 0.88137317
+
+7c9bea50-d79f-48f3-9ac2-7110057efe8b
+01:19:28.680 --> 01:19:33.300
+here I have to simply wait one
+time here one time here.
+
+NOTE Confidence: 0.8651281
+
+4e5b9f05-4e0e-4001-b650-ea4f69381264
+01:19:34.240 --> 01:19:39.190
+So if I prepare the binary
+values here at time, for
+
+NOTE Confidence: 0.8592792
+
+f585aee2-41a6-4ed2-9977-2e14735f77bd
+01:19:39.190 --> 01:19:44.194
+instance one. And I assume
+that the delay it each level
+
+NOTE Confidence: 0.8592792
+
+56632f4f-913b-4a73-913d-1132e308a61b
+01:19:44.194 --> 01:19:48.586
+is 1, so after the second time
+I'm gonna have the first
+
+NOTE Confidence: 0.8592792
+
+09c1325d-bb00-4719-b669-14a818e84dfc
+01:19:48.586 --> 01:19:50.416
+output and then after doing.
+
+NOTE Confidence: 0.8654491
+
+c109e21a-de64-4a51-89d1-2aaed8db6e12
+01:19:51.560 --> 01:19:55.863
+Third step I got to see their
+results here. So after two step
+
+NOTE Confidence: 0.8654491
+
+95636645-663f-4c61-bfdf-7168e8ed723f
+01:19:55.863 --> 01:19:57.849
+I got to see the result.
+
+NOTE Confidence: 0.9076937
+
+b8b301a1-07b6-49f9-943e-d073fe18bc8b
+01:19:58.960 --> 01:20:00.528
+That's very efficient design.
+
+NOTE Confidence: 0.8495655
+
+a7f0ae6d-6dd5-468b-9061-6be74aa5c25e
+01:20:00.610 --> 01:20:03.557
+Time for any digital
+circuits or any
+
+NOTE Confidence: 0.8495655
+
+ad67adae-b57c-4cf6-a59d-2577dd90f87c
+01:20:03.557 --> 01:20:07.767
+functionality we usually do
+not consider the nut as a
+
+NOTE Confidence: 0.8495655
+
+12beb4de-1a68-4a8e-9fe8-1ecc3565d1ac
+01:20:07.767 --> 01:20:12.398
+step because it's very easy
+to generate the not of any
+
+NOTE Confidence: 0.8495655
+
+5a81dfa1-77c6-4165-a4eb-55bda7d1c534
+01:20:12.398 --> 01:20:16.608
+binary variable, so we don't
+consider the not usually an.
+
+NOTE Confidence: 0.8495655
+
+c291103e-d239-4fc7-9705-33bd5eac0966
+01:20:16.608 --> 01:20:20.397
+We just consider the product
+or ants and then.
+
+NOTE Confidence: 0.74619216
+
+8db8dade-df56-4e07-b0b6-a39de43b4ce2
+01:20:23.180 --> 01:20:25.805
+Uh, we ran out of time, so.
+
+NOTE Confidence: 0.75720495
+
+f43c420a-f7b9-4fbf-8155-a031d6dd2e69
+01:20:26.510 --> 01:20:29.569
+Next week we gonna
+practice on a.
+
+NOTE Confidence: 0.85834074
+
+4265e627-92b4-4971-83c0-b3a23d26855b
+01:20:30.670 --> 01:20:36.502
+Designing a circuit that the
+truth table is not given so so
+
+NOTE Confidence: 0.85834074
+
+2f858bdf-7780-4fbe-8936-5777dd9e5de0
+01:20:36.502 --> 01:20:41.848
+far the truth table is given.
+Basically given the truth table,
+
+NOTE Confidence: 0.85834074
+
+4c2214c2-e28b-4c79-8c29-c1a4075c8d26
+01:20:41.848 --> 01:20:43.306
+for instance here.
+
+NOTE Confidence: 0.8630325
+
+2a1e3a2c-1768-4b64-8e05-44ab1e068203
+01:20:44.640 --> 01:20:49.034
+We are given the truth table. We
+just rewrite it as the midterms
+
+NOTE Confidence: 0.8630325
+
+b1637e7c-8e8f-4b2f-bd6c-b9234c45f46e
+01:20:49.034 --> 01:20:51.062
+and then we design the circuit.
+
+NOTE Confidence: 0.681303
+
+656e4c4c-eff9-412e-8445-b9a673519362
+01:20:51.720 --> 01:20:53.128
+As the summer fathers.
+
+NOTE Confidence: 0.87459517
+
+2f755708-e136-44e7-8ae4-bb8ff008fd66
+01:20:53.890 --> 01:20:58.198
+But what happens if the first
+table is not given? Instead we
+
+NOTE Confidence: 0.87459517
+
+e1bb467f-be48-4792-bd12-e0e0072bb12f
+01:20:58.198 --> 01:20:59.634
+are given this sentences.
+
+NOTE Confidence: 0.71632403
+
+c1fc7ec9-9da0-42fa-af2e-8d5cba668021
+01:21:00.440 --> 01:21:03.797
+Basically, the question says
+that we have free imports.
+
+NOTE Confidence: 0.661642
+
+922233fb-a238-46ba-9212-371f50783cc6
+01:21:04.380 --> 01:21:06.460
+We want to output to.
+
+NOTE Confidence: 0.8624095
+
+8a275025-f3e1-438d-b78a-0e5b23126090
+01:21:07.420 --> 01:21:08.760
+Some value.
+
+NOTE Confidence: 0.8735101
+
+e51e27c7-76e1-4804-ba46-2be181d9f72b
+01:21:09.770 --> 01:21:15.490
+To show that then given input is
+even or odd. So basically the
+
+NOTE Confidence: 0.8735101
+
+643cf94a-eb9d-49b8-88a8-faf38aecaac5
+01:21:15.490 --> 01:21:20.330
+question is that says that I
+want to output one whenever
+
+NOTE Confidence: 0.8735101
+
+0f4a2877-b4d1-44dc-9de3-fd6f76313b54
+01:21:20.330 --> 01:21:22.090
+whenever we see a.
+
+NOTE Confidence: 0.9209042
+
+fd70f1e5-3262-4279-92e3-5af54d96636d
+01:21:22.720 --> 01:21:25.790
+Even number in the input.
+
+NOTE Confidence: 0.87025005
+
+e2d22f39-8298-440a-bbfc-8c011ed13b8b
+01:21:26.930 --> 01:21:30.458
+Even number is, for
+instance if I want.
+
+NOTE Confidence: 0.8611341
+
+9a211cde-0314-437c-a19d-5b8ff05949f9
+01:21:31.670 --> 01:21:37.854
+Once the number is 0123
+in the input.
+
+NOTE Confidence: 0.8114107
+
+60d975a5-d0ba-4b47-b264-7c354440d666
+01:21:40.070 --> 01:21:44.438
+But remember we are in a binary
+system, so you have to represent
+
+NOTE Confidence: 0.8114107
+
+b59322a3-1b91-4010-82af-483d07448002
+01:21:44.438 --> 01:21:49.478
+it as binary number. So for this
+zero I want to add put one if
+
+NOTE Confidence: 0.8114107
+
+5317d528-6a6b-47d6-bfb9-ddb2d8a3a350
+01:21:49.478 --> 01:21:54.182
+you consider zero as an even
+number for the one one is odd. I
+
+NOTE Confidence: 0.8114107
+
+456cf9b4-37c0-409f-bc61-cef1a3dc3381
+01:21:54.182 --> 01:21:59.222
+want to act with 02 is even. I
+want to output 1. Three is odd.
+
+NOTE Confidence: 0.8114107
+
+af77762e-d9a7-4f27-8ebf-9cb8cd7f92d5
+01:21:59.222 --> 01:22:00.902
+I want to output 0.
+
+NOTE Confidence: 0.90240383
+
+c66a240b-e901-4a8e-9c30-dd83b434acd5
+01:22:01.470 --> 01:22:05.435
+So this is the functionality and
+we want to design such a thing.
+
+NOTE Confidence: 0.9198633
+
+78551805-c588-4c62-a3b6-fc5ca28b3324
+01:22:07.390 --> 01:22:10.972
+So hopefully next week we're
+gonna continue on this.
+
+NOTE Confidence: 0.8987362
+
+0400980c-6056-4c3c-a6da-5595d8104c80
+01:22:14.860 --> 01:22:16.220
+Any questions so far?
+
+NOTE Confidence: 0.86545837
+
+2de61ff2-66f5-4009-8332-c7b9c1f913c3
+01:22:28.330 --> 01:22:32.110
+I'm going to be in the office
+hour, uh, if you have
+
+NOTE Confidence: 0.86545837
+
+30dc929f-3491-4276-82be-051b80e2387d
+01:22:32.110 --> 01:22:35.890
+question, I'm ready there, but
+I mean until then I'm here. If
+
+NOTE Confidence: 0.86545837
+
+9cd138b3-9201-407b-93d8-6bbed22dab8f
+01:22:35.890 --> 01:22:37.150
+you have any questions.
+
+NOTE Confidence: 0.8453731
+
+56bbfb35-e661-4c22-842e-faeae6f960d5
+01:22:38.530 --> 01:22:42.139
+So today's lecture is very
+important because of the
+
+NOTE Confidence: 0.8453731
+
+3023fbf9-1f3d-44ab-bc32-3cee1524b043
+01:22:42.139 --> 01:22:45.748
+ designing with minterms. But next week we're going to 
+
+NOTE Confidence: 0.45457762
+
+b0c84c40-4025-44c2-915a-dcb7db2f5402
+01:22:45.748 --> 01:22:48.550
+practice on. Some.
+
+NOTE Confidence: 0.85181653
+
+e1c0194d-3e00-4593-a126-bcc8897968d5
+01:22:49.740 --> 01:22:51.459
+More difficult designs.
+
+NOTE Confidence: 0.65910417
+
+5db32dbf-34cd-4ffe-b9a8-4d6edf22e8bf
+01:22:56.010 --> 01:22:59.439
+You're welcome ehsan Thank you afsao thank you. tetiana
+
+NOTE Confidence: 0.8915269
+
+7a3014c1-52b0-461e-aff5-a8098bae0cdd
+01:23:01.000 --> 01:23:08.230
+And have a great day. I hope you
+have a great rest of the day.
+
+NOTE Confidence: 0.8979979
+
+5e79aa17-c210-4c3d-a22e-eeb4333d9a80
+01:23:09.140 --> 01:23:13.316
+And I just wanted to
+stop the recording.
+

@@ -1,0 +1,306 @@
+WEBVTT
+
+00:01:08.000 --> 00:01:08.900
+<v Ahmad Nassar>
+Will midterm questions be similar to the lecture assignments?
+
+00:03:32.000 --> 00:03:32.900
+<v Ahmad Nassar>
+yes.
+
+00:03:33.000 --> 00:03:33.900
+<v Ahmad Nassar>
+thank you
+
+00:04:00.000 --> 00:04:00.900
+<v Ming Kit Tse>
+Will we get the answer for the lecture assignment
+
+00:04:29.000 --> 00:04:29.900
+<v Hisham Ellaw>
+yea
+
+00:04:30.000 --> 00:04:30.900
+<v Ehsan Salimi>
+yes\
+
+00:04:31.000 --> 00:04:31.900
+<v Jaxon Hornsey>
+👍 
+
+00:04:31.000 --> 00:04:31.900
+<v Mathew Pellarin>
+yes
+
+00:04:41.000 --> 00:04:41.900
+<v Andrew Simon>
+hi
+
+00:05:42.000 --> 00:05:42.900
+<v Ahmad Nassar>
+The keys would be helpful just incase we want to work on more than 2 questions
+
+00:11:07.000 --> 00:11:07.900
+<v Michael Powney>
+lol
+
+00:11:09.000 --> 00:11:09.900
+<v Ming Kit Tse>
+lol
+
+00:11:17.000 --> 00:11:17.900
+<v Ahmad Nassar>
+robot gonna destroy us soon
+
+00:18:36.000 --> 00:18:36.900
+<v Afsao Bin Masud>
+Kind of like logarithmic scale?
+
+00:20:28.000 --> 00:20:28.900
+<v Jaxon Hornsey>
+so Granularity is breaking down the system into discrete parts?
+
+00:24:47.000 --> 00:24:47.900
+<v Dr. Hossein Fani>
+fine-grain granularity vs. coarse grain granularity
+
+00:25:06.000 --> 00:25:06.900
+<v Phillip Bocse>
+so like salt?
+
+00:25:19.000 --> 00:25:19.900
+<v Jaxon Hornsey>
+👍 
+
+00:40:33.000 --> 00:40:33.900
+<v Kevin Liu>
+was all the stuff before just an introduction to the gates?
+
+00:40:34.000 --> 00:40:34.900
+<v Ehsan Salimi>
+sounds  very intersting 
+
+00:40:34.000 --> 00:40:34.900
+<v Ahmad Nassar>
+Good so far
+
+00:40:36.000 --> 00:40:36.900
+<v Jaxon Hornsey>
+😎 
+
+00:40:37.000 --> 00:40:37.900
+<v Nikola Baic>
+👍 
+
+00:40:37.000 --> 00:40:37.900
+<v Christopher Mason>
+💯 
+
+00:40:39.000 --> 00:40:39.900
+<v Zach Hutz>
+👍 
+
+00:40:39.000 --> 00:40:39.900
+<v Zolan Stephenson>
+👍 
+
+00:40:41.000 --> 00:40:41.900
+<v Nick Boisclair>
+👍 \
+
+00:40:41.000 --> 00:40:41.900
+<v Tetiana Savochkina>
+😊 
+
+00:40:42.000 --> 00:40:42.900
+<v Hisham Ellaw>
+👍 
+
+00:40:42.000 --> 00:40:42.900
+<v Zachary Ublansky>
+😀 
+
+00:40:43.000 --> 00:40:43.900
+<v Salman Chowdhury>
+😎 
+
+00:40:45.000 --> 00:40:45.900
+<v Amir Marie>
+😎 
+
+00:40:45.000 --> 00:40:45.900
+<v Matthew Connell>
+🤠 
+
+00:40:46.000 --> 00:40:46.900
+<v Ming Kit Tse>
+😁 
+
+00:40:46.000 --> 00:40:46.900
+<v Cameron Ingratta>
+😀 
+
+00:40:48.000 --> 00:40:48.900
+<v Igor Peric>
+.
+
+00:40:51.000 --> 00:40:51.900
+<v Yijiu Xu>
+👍 
+
+00:40:53.000 --> 00:40:53.900
+<v Ben Chittle>
+🙃 
+
+00:40:53.000 --> 00:40:53.900
+<v Abbie Dyck>
+👍 
+
+00:40:53.000 --> 00:40:53.900
+<v Gio Shamoon>
+😂
+
+00:40:53.000 --> 00:40:53.900
+<v Xiaoqing Lu>
+😀 
+
+00:40:54.000 --> 00:40:54.900
+<v Phillip Bocse>
+😹 
+
+00:40:54.000 --> 00:40:54.900
+<v Afsao Bin Masud>
+👍 
+
+00:40:56.000 --> 00:40:56.900
+<v Allyssa Poulin>
+😀 
+
+00:40:59.000 --> 00:40:59.900
+<v Connor Horman>
+👀 
+
+00:41:00.000 --> 00:41:00.900
+<v Ahmad Nassar>
+🤖 
+
+00:41:01.000 --> 00:41:01.900
+<v Nathan Galasso>
+👍 
+
+00:41:03.000 --> 00:41:03.900
+<v Igor Peric>
+🙂
+
+00:41:03.000 --> 00:41:03.900
+<v Nathan Jonah>
+🧐 
+
+00:41:04.000 --> 00:41:04.900
+<v Seth Kellman>
+☺☹ 
+
+00:41:05.000 --> 00:41:05.900
+<v Caden Quiring>
+🦍 
+
+00:49:04.000 --> 00:49:04.900
+<v Amir Marie>
+I remember this from Key Concepts
+
+00:54:46.000 --> 00:54:46.900
+<v Ahmad Nassar>
+so the inversion bubble is the circle and not the triangle?
+
+01:07:29.000 --> 01:07:29.900
+<v Tetiana Savochkina>
+z=w=1 always
+
+01:07:33.000 --> 01:07:33.900
+<v Ehsan Salimi>
+put z = x , w = y
+
+01:07:34.000 --> 01:07:34.900
+<v Hisham Ellaw>
+1 1 
+
+01:20:00.000 --> 01:20:00.900
+<v Nick Boisclair>
+1 0
+
+01:20:05.000 --> 01:20:05.900
+<v Amir Marie>
+opposite
+
+01:20:09.000 --> 01:20:09.900
+<v Phillip Bocse>
+X'
+
+01:21:58.000 --> 01:21:58.900
+<v Nick Boisclair>
+will these slides be posted?
+
+01:22:11.000 --> 01:22:11.900
+<v Ahmad Nassar>
+Have a good day.
+
+01:22:43.000 --> 01:22:43.900
+<v Ehsan Salimi>
+Wow!
+
+01:22:55.000 --> 01:22:55.900
+<v Gio Shamoon>
+Thank you!
+
+01:23:02.000 --> 01:23:02.900
+<v Amir Marie>
+Thank you
+
+01:23:04.000 --> 01:23:04.900
+<v Phillip Bocse>
+thank you bye bye
+
+01:23:06.000 --> 01:23:06.900
+<v Tetiana Savochkina>
+Thank you for the lecture!
+
+01:23:07.000 --> 01:23:07.900
+<v Jay Thennampattu Chandrasekaran>
+Thanks
+
+01:23:09.000 --> 01:23:09.900
+<v Abbie Dyck>
+Thank you sir
+
+01:23:09.000 --> 01:23:09.900
+<v Amir Marie>
+Have a good day
+
+01:23:11.000 --> 01:23:11.900
+<v Ming Kit Tse>
+Thank you!
+
+01:23:11.000 --> 01:23:11.900
+<v Zachary Ublansky>
+thanks professor have a good day too!
+
+01:23:12.000 --> 01:23:12.900
+<v Zach Hutz>
+thank you!
+
+01:23:12.000 --> 01:23:12.900
+<v Jaxon Hornsey>
+Thanks sir, Have a good day
+
+01:23:14.000 --> 01:23:14.900
+<v Afsao Bin Masud>
+Thank you 
+
+01:23:15.000 --> 01:23:15.900
+<v Ben Chittle>
+Have a good one!
+
+01:23:27.000 --> 01:23:27.900
+<v Sam Merza>
+thank you
+

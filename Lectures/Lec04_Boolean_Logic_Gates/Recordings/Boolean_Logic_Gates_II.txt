@@ -1,0 +1,283 @@
+WEBVTT
+
+00:00:13.000 --> 00:00:13.900
+<v Hisham Ellaw>
+Diamond hands🤲 
+
+00:02:40.000 --> 00:02:40.900
+<v Caden Quiring>
+Wait sir if the name of the files don't matter then why are we graded on "File Naming and Formats" and "Folder Structure"
+
+00:18:13.000 --> 00:18:13.900
+<v Ahmad Nassar>
+Why are we getting different results even though the design is very similar?
+
+00:22:08.000 --> 00:22:08.900
+<v Ahmad Nassar>
+yes
+
+00:23:31.000 --> 00:23:31.900
+<v Ahmad Nassar>
+oh yes. I understand that part but aren't those 2 designs suppose to be representing the same purpose?
+
+00:27:54.000 --> 00:27:54.900
+<v Caden Quiring>
+It would always be false
+
+00:28:14.000 --> 00:28:14.900
+<v Tetiana Savochkina>
+x'
+
+00:28:19.000 --> 00:28:19.900
+<v Nick Boisclair>
+it will be X'
+
+00:38:17.000 --> 00:38:17.900
+<v Ehsan Salimi>
+NOR ? 
+
+00:41:00.000 --> 00:41:00.900
+<v Dr. Hossein Fani>
+if (NOR(x)){
+}
+
+00:41:11.000 --> 00:41:11.900
+<v Connor Horman>
+👀
+
+00:41:20.000 --> 00:41:20.900
+<v Ahmad Nassar>
+🧠 
+
+00:41:20.000 --> 00:41:20.900
+<v Tetiana Savochkina>
+😊 
+
+00:41:38.000 --> 00:41:38.900
+<v Christopher Mason>
+💯 
+
+00:41:39.000 --> 00:41:39.900
+<v Zach Hutz>
+👍 
+
+00:41:40.000 --> 00:41:40.900
+<v Gio Shamoon>
+😎 
+
+00:41:41.000 --> 00:41:41.900
+<v Salman Chowdhury>
+🎃 
+
+00:41:42.000 --> 00:41:42.900
+<v Mathew Pellarin>
+🤪 
+
+00:41:42.000 --> 00:41:42.900
+<v Ben Chittle>
+🥥 
+
+00:41:44.000 --> 00:41:44.900
+<v Nick Boisclair>
+☺ 
+
+00:41:45.000 --> 00:41:45.900
+<v Nathan Galasso>
+👍 
+
+00:41:45.000 --> 00:41:45.900
+<v Zolan Stephenson>
+👍 
+
+00:41:47.000 --> 00:41:47.900
+<v Ming Kit Tse>
+🤯 
+
+00:41:48.000 --> 00:41:48.900
+<v Anmol Kaur Saini>
+😇 
+
+00:41:49.000 --> 00:41:49.900
+<v Phillip Bocse>
+🤑 
+
+00:41:50.000 --> 00:41:50.900
+<v Ryohei Takamori>
+🍑 
+
+00:41:50.000 --> 00:41:50.900
+<v Michael Powney>
+😁 
+
+00:41:51.000 --> 00:41:51.900
+<v Cameron Ingratta>
+😎 
+
+00:41:54.000 --> 00:41:54.900
+<v Nikola Baic>
+👍 
+
+00:42:00.000 --> 00:42:00.900
+<v Caden Quiring>
+🦍
+
+00:50:18.000 --> 00:50:18.900
+<v Tetiana Savochkina>
+2^3
+
+00:50:27.000 --> 00:50:27.900
+<v Nick Boisclair>
+8
+
+00:50:53.000 --> 00:50:53.900
+<v Ehsan Salimi>
+what of there are 2 cases which yield in zero ?! 
+
+00:51:00.000 --> 00:51:00.900
+<v Ehsan Salimi>
+if *
+
+00:52:59.000 --> 00:52:59.900
+<v Ehsan Salimi>
+thanks alot
+
+00:54:35.000 --> 00:54:35.900
+<v Ahmad Nassar>
+<b>largest number</b>
+
+00:54:48.000 --> 00:54:48.900
+<v Tetiana Savochkina>
+111..1 n-times
+
+01:02:22.000 --> 01:02:22.900
+<v Tetiana Savochkina>
+2^2
+
+01:02:26.000 --> 01:02:26.900
+<v Nick Boisclair>
+4
+
+01:03:03.000 --> 01:03:03.900
+<v Ben Chittle>
+16
+
+01:03:08.000 --> 01:03:08.900
+<v Nick Boisclair>
+^
+
+01:03:15.000 --> 01:03:15.900
+<v Ahmad Nassar>
+2^4
+
+01:03:19.000 --> 01:03:19.900
+<v Ehsan Salimi>
+9
+
+01:03:22.000 --> 01:03:22.900
+<v Ehsan Salimi>
+8*
+
+01:06:06.000 --> 01:06:06.900
+<v Tetiana Savochkina>
+m1
+
+01:06:14.000 --> 01:06:14.900
+<v Tetiana Savochkina>
+m3
+
+01:08:04.000 --> 01:08:04.900
+<v Phillip Bocse>
+what minterm does it equal to if you want two combinations to equal  one?
+
+01:11:42.000 --> 01:11:42.900
+<v Ahmad Nassar>
+that is like exclusive or 
+
+01:12:22.000 --> 01:12:22.900
+<v Andrew Simon>
+odd inputs 
+
+01:12:58.000 --> 01:12:58.900
+<v Tetiana Savochkina>
+xor
+
+01:13:01.000 --> 01:13:01.900
+<v Nick Boisclair>
+xor
+
+01:13:07.000 --> 01:13:07.900
+<v Connor Horman>
+Depends.
+
+01:13:19.000 --> 01:13:19.900
+<v Andrew Simon>
+what if i want both
+
+01:13:23.000 --> 01:13:23.900
+<v Connor Horman>
+Some cases are inclusive, some cases are exclusive.
+
+01:13:32.000 --> 01:13:32.900
+<v Phillip Bocse>
+depends on if its mutually exclusive
+
+01:15:08.000 --> 01:15:08.900
+<v Caden Quiring>
+NXOR
+
+01:15:27.000 --> 01:15:27.900
+<v Connor Horman>
+iff.
+
+01:16:17.000 --> 01:16:17.900
+<v Andrew Simon>
+nxor sounds cooler 
+
+01:19:48.000 --> 01:19:48.900
+<v Caden Quiring>
+Agreed
+
+01:20:13.000 --> 01:20:13.900
+<v Caden Quiring>
+Alright time to peace out have a good day sir
+
+01:20:29.000 --> 01:20:29.900
+<v Ahmad Nassar>
+Have a good day
+
+01:21:27.000 --> 01:21:27.900
+<v Andrew Simon>
+NOR
+
+01:21:30.000 --> 01:21:30.900
+<v Andrew Simon>
+NXOR
+
+01:22:12.000 --> 01:22:12.900
+<v Gio Shamoon>
+Thank you sir! Have a good weekend.
+
+01:22:24.000 --> 01:22:24.900
+<v Zach Hutz>
+thank you!
+
+01:22:27.000 --> 01:22:27.900
+<v Abbie Dyck>
+Thank you sir
+
+01:22:51.000 --> 01:22:51.900
+<v Ehsan Salimi>
+Appreciate it 
+
+01:22:51.000 --> 01:22:51.900
+<v Afsao Bin Masud>
+Thank you sir
+
+01:22:54.000 --> 01:22:54.900
+<v Tetiana Savochkina>
+Thank for the lecture
+
+01:22:58.000 --> 01:22:58.900
+<v Zachary Ublansky>
+thanks sir!
+
