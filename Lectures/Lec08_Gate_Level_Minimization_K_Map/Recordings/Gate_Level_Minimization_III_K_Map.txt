@@ -1,0 +1,266 @@
+WEBVTT
+
+00:01:26.000 --> 00:01:26.900
+<v Nick Boisclair>
+it was fair
+
+00:01:27.000 --> 00:01:27.900
+<v Phillip Bocse>
+alright difficulty but it was long
+
+00:01:35.000 --> 00:01:35.900
+<v Ryan Rostampour>
+It was okay, not good not bad
+
+00:01:38.000 --> 00:01:38.900
+<v Kevin Liu>
+last question took a bit of time
+
+00:04:50.000 --> 00:04:50.900
+<v Seham Thraya>
+does the modular program have to be the same as the one in the lab manual?
+
+00:04:51.000 --> 00:04:51.900
+<v Jay Thennampattu Chandrasekaran>
+some may be watching the recordings
+
+00:04:59.000 --> 00:04:59.900
+<v Michael Powney>
+🤷‍♂️ 
+
+00:32:39.000 --> 00:32:39.900
+<v Jaxon Hornsey>
+👍 
+
+00:32:59.000 --> 00:32:59.900
+<v Cameron Ingratta>
+all good
+
+00:33:12.000 --> 00:33:12.900
+<v Zachary Ublansky>
+😀 
+
+00:33:14.000 --> 00:33:14.900
+<v Kevin Liu>
+😍 
+
+00:33:14.000 --> 00:33:14.900
+<v Zach Hutz>
+👍 
+
+00:33:15.000 --> 00:33:15.900
+<v Michael Powney>
+☀ 
+
+00:33:16.000 --> 00:33:16.900
+<v Cole Fuerth>
+egg
+
+00:33:17.000 --> 00:33:17.900
+<v Jim Lin>
+😀 
+
+00:33:17.000 --> 00:33:17.900
+<v Nick Boisclair>
+😜 
+
+00:33:19.000 --> 00:33:19.900
+<v Matthew Connell>
+🤠 
+
+00:33:20.000 --> 00:33:20.900
+<v Ben Chittle>
+👀 
+
+00:33:23.000 --> 00:33:23.900
+<v Igor Peric>
+👍 
+
+00:33:24.000 --> 00:33:24.900
+<v Allyssa Poulin>
+😀 
+
+00:33:27.000 --> 00:33:27.900
+<v Phillip Bocse>
+🕺 
+
+00:33:30.000 --> 00:33:30.900
+<v Nathan Galasso>
+😀 
+
+00:33:31.000 --> 00:33:31.900
+<v Salman Chowdhury>
+🧠 
+
+00:33:31.000 --> 00:33:31.900
+<v Ehsan Salimi>
+👍 
+
+00:33:35.000 --> 00:33:35.900
+<v Zolan Stephenson>
+👍 
+
+00:33:37.000 --> 00:33:37.900
+<v Yijiu Xu>
+😃 
+
+00:33:37.000 --> 00:33:37.900
+<v Andrew Simon>
+:3
+
+00:33:38.000 --> 00:33:38.900
+<v Michael Powney>
+🧐 
+
+00:33:42.000 --> 00:33:42.900
+<v Jasnoor Mallhi>
+👍 
+
+00:33:46.000 --> 00:33:46.900
+<v Phillip Bocse>
+🚀 gme
+
+00:33:48.000 --> 00:33:48.900
+<v Mathew Pellarin>
+👍 
+
+00:35:17.000 --> 00:35:17.900
+<v Nick Boisclair>
+so you can only combine adjacent boxes?
+
+00:36:19.000 --> 00:36:19.900
+<v Ben Chittle>
+Exclusive or
+
+00:42:14.000 --> 00:42:14.900
+<v Nick Boisclair>
+could we have written our headers for YX as 00,01,10,11 then change the minterms as well?
+
+00:42:46.000 --> 00:42:46.900
+<v Nick Boisclair>
+nevermind
+
+00:43:31.000 --> 00:43:31.900
+<v Phillip Bocse>
+so you always write towards the middle? that is, when you hit the middle you start from the other side?
+
+00:43:53.000 --> 00:43:53.900
+<v Nick Boisclair>
+ok
+
+00:44:04.000 --> 00:44:04.900
+<v Michael Powney>
+that's a good way to remember the order
+
+00:49:11.000 --> 00:49:11.900
+<v Andrew Simon>
+just makes me want a burrito
+
+00:50:14.000 --> 00:50:14.900
+<v Andrew Simon>
+Y'XZ'
+
+00:57:58.000 --> 00:57:58.900
+<v Kevin Liu>
+Z'?
+
+01:01:12.000 --> 01:01:12.900
+<v Jaxon Hornsey>
+X'
+
+01:05:27.000 --> 01:05:27.900
+<v Seham Thraya>
+🤯 
+
+01:05:43.000 --> 01:05:43.900
+<v Michael Powney>
+😵 
+
+01:06:11.000 --> 01:06:11.900
+<v Andrew Simon>
+same method just done vertically
+
+01:11:54.000 --> 01:11:54.900
+<v Nick Boisclair>
+so you keep doing combos until u cant remove anymore variables?
+
+01:14:21.000 --> 01:14:21.900
+<v Jaxon Hornsey>
+donut
+
+01:14:41.000 --> 01:14:41.900
+<v Nathan Galasso>
+🍩 
+
+01:14:55.000 --> 01:14:55.900
+<v Ben Chittle>
+🍩 
+
+01:15:03.000 --> 01:15:03.900
+<v Michael Powney>
+😋 
+
+01:15:14.000 --> 01:15:14.900
+<v Jaxon Hornsey>
+not doughnut  Do🔩 
+
+01:15:15.000 --> 01:15:15.900
+<v Andrew Simon>
+im so hungry
+
+01:15:19.000 --> 01:15:19.900
+<v Phillip Bocse>
+go to tim hortons and ask them for a k-map
+
+01:22:13.000 --> 01:22:13.900
+<v Nick Boisclair>
+can u go back to the last questions maxterms for a second? just wanna see if I got the same answer
+
+01:22:22.000 --> 01:22:22.900
+<v Gio Shamoon>
+Thank you sir!
+
+01:22:31.000 --> 01:22:31.900
+<v Jaxon Hornsey>
+Have a good weekend sir!
+
+01:22:35.000 --> 01:22:35.900
+<v Zachary Ublansky>
+thansk sir cya!
+
+01:22:36.000 --> 01:22:36.900
+<v Phillip Bocse>
+thank you 👋 have a good day
+
+01:22:39.000 --> 01:22:39.900
+<v Michael Powney>
+have a good day
+
+01:22:51.000 --> 01:22:51.900
+<v Seham Thraya>
+in the midterm, were we supposed to draw the minimized version?
+
+01:23:25.000 --> 01:23:25.900
+<v Zach Hutz>
+thank you
+
+01:23:35.000 --> 01:23:35.900
+<v Faris Haggag>
+the last question i found difficult
+
+01:23:40.000 --> 01:23:40.900
+<v Nick Boisclair>
+thanks sir
+
+01:23:47.000 --> 01:23:47.900
+<v Faris Haggag>
+can we go over it in class next time
+
+01:24:59.000 --> 01:24:59.900
+<v Faris Haggag>
+sounds good
+
+01:25:10.000 --> 01:25:10.900
+<v Faris Haggag>
+thank you sir have a good day
+
